@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "name": "Hunter's Bow",
+        "rarity": 1,
+        "type": "Bow",
+        "stats": {
+            "baseATK": [23, 56, 68, 102, 113, 130, 141, 158, 169, 185],
+            "secondaryStat": "None",
+            "secondaryStatScaling": [],
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows."
+    }
+]
