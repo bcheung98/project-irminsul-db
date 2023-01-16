@@ -1998,5 +1998,105 @@
             "commonMat": "Slime"
         },
         "description": "A \"firewood staff\" that was once used in ancient and long-lost rituals."
-    }                
+    },
+    {
+        "id": 100,
+        "name": "Elegy for the End",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "The Parting Refrain",
+                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by <b>60/75/90/105/120</b>. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by <b>100/125/150/175/200</b> and increases ATK by <b>20%/25%/30%/35%/40%</b>. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Horn",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh."
+    },
+    {
+        "id": 101,
+        "name": "The Alley Flash",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-45",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Itinerant Hero",
+                "description": "Increases DMG dealt by the character equipping this weapon by <b>12%/15%/18%/21%/24%</b>. Taking DMG disables this effect for 5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Scroll"
+        },
+        "description": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets."
+    },
+    {
+        "id": 102,
+        "name": "Alley Hunter",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Oppidan Ambush",
+                "description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <b>2%/2.5%/3%/3.5%/4%</b> every second up to a max of <b>20%/25%/30%/35%/40%</b>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <b>4%/5%/6%/7%/8%</b> per second until it reaches 0%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Slime"
+        },
+        "description": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught."
+    },
+    {
+        "id": 103,
+        "name": "Wine and Song",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Ever-Changing",
+                "description": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <b>14%/16%/18%/20%/22%</b> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <b>20%/25%/30%/35%/40%</b> for 5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw."
+    },
+    {
+        "id": 104,
+        "name": "Windblume Ode",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Windblume Wish",
+                "description": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <b>16%/20%/24%/28%/32%</b> for 6s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Nectar"
+        },
+        "description": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person."
+    }
 ]
