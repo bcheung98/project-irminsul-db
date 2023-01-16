@@ -7,7 +7,10 @@
         "stats": {
             "atk": "t-23",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Boreal Wolf",
@@ -24,7 +27,10 @@
         "stats": {
             "atk": "t-23",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Decarabian",
@@ -41,7 +47,10 @@
         "stats": {
             "atk": "t-23",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Dandelion Gladiator",
@@ -58,7 +67,10 @@
         "stats": {
             "atk": "t-23",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Boreal Wolf",
@@ -75,7 +87,10 @@
         "stats": {
             "atk": "t-23",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Decarabian",
@@ -92,7 +107,10 @@
         "stats": {
             "atk": "t-33",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Boreal Wolf",
@@ -109,7 +127,10 @@
         "stats": {
             "atk": "t-33",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Decarabian",
@@ -126,7 +147,10 @@
         "stats": {
             "atk": "t-33",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Dandelion Gladiator",
@@ -143,7 +167,10 @@
         "stats": {
             "atk": "t-33",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Boreal Wolf",
@@ -160,7 +187,10 @@
         "stats": {
             "atk": "t-33",
             "subStat": "",
-            "passive": ""
+            "passive": {
+                "name": "",
+                "description": ""
+            }
         },
         "materials": {
             "ascensionMaterial": "Decarabian",
@@ -177,13 +207,1556 @@
         "stats": {
             "atk": "t-40",
             "subStat": "CRIT DMG",
-            "passive": ""
+            "passive": {
+                "name": "Archer's Message",
+                "description": "Charged Attack hits on weak points deal an additional <b>100%/125%/150%/175%/200%</b> ATK DMG as CRIT DMG. Can only occur once every 10s."
+            }
         },
         "materials": {
             "ascensionMaterial": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A carefully compiled notebook featuring the essentials needed to pass a magic exam."
+        "description": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication."
+    },
+    {
+        "id": 11,
+        "name": "Raven Bow",
+        "rarity": 3,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-40",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Bane of Flame and Water",
+                "description": "Increases DMG against opponents affected by Hydro or Pyro by <b>12%/15%/18%/21%/24%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target."
+    },
+    {
+        "id": 12,
+        "name": "Recurve Bow",
+        "rarity": 3,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-38",
+            "subStat": "HP%",
+            "passive": {
+                "name": "Cull the Weak",
+                "description": "Defeating an opponent restores <b>8%/10%/12%/14%/16%</b> HP."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer."
+    },
+    {
+        "id": 13,
+        "name": "Sharpshooter's Oath",
+        "rarity": 3,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Precise",
+                "description": "Increases DMG against weak spots by <b>24%/30%/36%/42%/48%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting."
+    },
+    {
+        "id": 14,
+        "name": "Slingshot",
+        "rarity": 3,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-38",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Slingshot",
+                "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by <b>36%/42%/48%/54%/60%</b>. Otherwise, decreases DMG by 10%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Mask"
+        },
+        "description": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow."
+    },
+    {
+        "id": 15,
+        "name": "Cool Steel",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Bane of Water and Ice",
+                "description": "Increases DMG against opponents affected by Hydro or Cryo by <b>12%/15%/18%/21%/24%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master."
+    },
+    {
+        "id": 16,
+        "name": "Dark Iron Sword",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Overloaded",
+                "description": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by <b>20%/25%/30%/35%/40%</b> for 12s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Mask"
+        },
+        "description": "A perfectly ordinary iron sword, just slightly darker than most."
+    },
+    {
+        "id": 17,
+        "name": "Fillet Blade",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Gash",
+                "description": "On hit, has a 50% chance to deal <b>240%/280%/320%/360%/400%</b> ATK DMG to a single opponent. Can only occur once every <b>15/14/13/12/11</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A sharp filleting knife. The blade is long, thin, and incredibly sharp."
+    },
+    {
+        "id": 18,
+        "name": "Harbinger of Dawn",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Vigorous",
+                "description": "When HP is above 90%, increases CRIT Rate by <b>14%/17.5%/21%/24.5%/28%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off."
+    },
+    {
+        "id": 19,
+        "name": "Skyrider Sword",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-38",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Determination",
+                "description": "Using an Elemental Burst grants a <b>12%/15%/18%/21%/24%</b> increase in ATK and Movement SPD for 15s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword..."
+    },
+    {
+        "id": 20,
+        "name": "Traveler's Handy Sword",
+        "rarity": 3,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-40",
+            "subStat": "DEF%",
+            "passive": {
+                "name": "Journey",
+                "description": "Each Elemental Orb or Particle collected restores <b>1%/1.25%/1.5%/1.75%/2%</b> HP."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath."
+    },
+    {
+        "id": 21,
+        "name": "Black Tassel",
+        "rarity": 3,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-38",
+            "subStat": "HP%",
+            "passive": {
+                "name": "Bane of the Soft",
+                "description": "Increases DMG against slimes by <b>40%/50%/60%/70%/80%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Arrow"
+        },
+        "description": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel."
+    },
+    {
+        "id": 22,
+        "name": "Halberd",
+        "rarity": 3,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-40",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Heavy",
+                "description": "Normal Attacks deal an additional <b>160%/200%/240%/280%/320%</b> ATK as DMG. Can only occur once every 10s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Nectar"
+        },
+        "description": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers."
+    },
+    {
+        "id": 23,
+        "name": "White Tassel",
+        "rarity": 3,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Sharp",
+                "description": "Increases Normal Attack DMG by <b>24%/30%/36%/42%/48%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon."
+    },
+    {
+        "id": 24,
+        "name": "Bloodtainted Greatsword",
+        "rarity": 3,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-38",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Bane of Fire and Thunder",
+                "description": "Increases DMG dealt against opponents affected by Pyro or Electro by <b>12%/15%/18%/21%/24%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Arrow"
+        },
+        "description": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however."
+    },
+    {
+        "id": 25,
+        "name": "Debate Club",
+        "rarity": 3,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Blunt Conclusion",
+                "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to <b>60%/75%/90%/105%/120%</b> of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Mask"
+        },
+        "description": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal."
+    },
+    {
+        "id": 26,
+        "name": "Ferrous Shadow",
+        "rarity": 3,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "HP%",
+            "passive": {
+                "name": "Unbending",
+                "description": "When HP falls below <b>70%/75%/80%/85%/90%</b>, increases Charged Attack DMG by <b>30%/35%/40%/45%/50%</b> and Charged Attacks become harder to interrupt."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Nectar"
+        },
+        "description": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat."
+    },
+    {
+        "id": 27,
+        "name": "Skyrider Greatsword",
+        "rarity": 3,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Courage",
+                "description": "On hit, Normal or Charged Attacks increase ATK by <b>6%/7%/8%/9%/10%</b> for 6s. Max 4 stacks. Can occur once every 0.5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time."
+    },
+    {
+        "id": 28,
+        "name": "White Iron Greatsword",
+        "rarity": 3,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "DEF%",
+            "passive": {
+                "name": "Cull the Weak",
+                "description": "Defeating an opponent restores <b>8%/10%/12%/14%/16%</b> HP."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Slime"
+        },
+        "description": "A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder."
+    },
+    {
+        "id": 29,
+        "name": "Emerald Orb",
+        "rarity": 3,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-40",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Rapids",
+                "description": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <b>20%/25%/30%/35%/40%</b> for 12s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\""
+    },
+    {
+        "id": 30,
+        "name": "Magic Guide",
+        "rarity": 3,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-38",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Bane of Storm and Tide",
+                "description": "Increases DMG against opponents affected by Hydro or Electro by <b>12%/15%/18%/21%/24%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Slime"
+        },
+        "description": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments."
+    },
+    {
+        "id": 31,
+        "name": "Otherworldly Story",
+        "rarity": 3,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Energy Shower",
+                "description": "Picking up an Elemental Energy Orb/Particle recovers <b>1%/1.25%/1.5%/1.75%/2%</b> HP."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Mask"
+        },
+        "description": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy."
+    },
+    {
+        "id": 32,
+        "name": "Thrilling Tales of Dragon Slayers",
+        "rarity": 3,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-39",
+            "subStat": "HP%",
+            "passive": {
+                "name": "Heritage",
+                "description": "When switching characters, the new character taking the field has their ATK increased by <b>24%/30%/36%/42%/48%</b> for 10s. This effect can only occur once every 20s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Scroll"
+        },
+        "description": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure."
+    },
+    {
+        "id": 33,
+        "name": "Twin Nephrite",
+        "rarity": 3,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-40",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Guerilla Tactics",
+                "description": "Defeating an opponent increases Movement SPD and ATK by <b>12%/14%/16%/18%/20%</b> for 15s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A jade pendant formed by piecing together two jade stones."
+    },
+    {
+        "id": 34,
+        "name": "Blackcliff Warbow",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Press the Advantage",
+                "description": "After defeating an opponent, ATK is increased by <b>12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Nectar"
+        },
+        "description": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use."
+    },
+    {
+        "id": 35,
+        "name": "Compound Bow",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Infusion Arrow",
+                "description": "Normal Attack and Charged Attack hits increase ATK by <b>4%/5%/6%/7%/8%</b> and Normal ATK SPD by <b>1.2%/1.5%/1.8%/2.1%/2.4%</b> for 6s. Max 4 stacks. Can only occur once every 0.3s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force."
+    },
+    {
+        "id": 36,
+        "name": "Favonius Warbow",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Windfall",
+                "description": "CRIT Hits have a <b>60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b>12/10.5/9/7.5/6</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Nectar"
+        },
+        "description": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential."
+    },
+    {
+        "id": 37,
+        "name": "Prototype Crescent",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Unreturning",
+                "description": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <b>36%/45%/54%/63%/72%</b> for 10s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight."
+    },
+    {
+        "id": 38,
+        "name": "Royal Bow",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Focus",
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Slime"
+        },
+        "description": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force."
+    },
+    {
+        "id": 39,
+        "name": "Rust",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Rapid Firing",
+                "description": "Increases Normal Attack DMG by <b>40%/50%/60%/70%/80%</b> but decreases Charged Attack DMG by 10%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Mask"
+        },
+        "description": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it."
+    },
+    {
+        "id": 40,
+        "name": "Sacrificial Bow",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Composed",
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b>40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b>30/26/22s/19/16</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time."
+    },
+    {
+        "id": 41,
+        "name": "The Stringless",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Arrowless Song",
+                "description": "Increases Elemental Skill and Elemental Burst DMG by <b>24%/30%/36%/42%/48%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing."
+    },
+    {
+        "id": 42,
+        "name": "The Viridescent Hunt",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Verdant Wind",
+                "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <b>40%/50%/60%/70%/80%</b> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <b>14/13/12/11/10</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest."
+    },
+    {
+        "id": 43,
+        "name": "Blackcliff Longsword",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Press the Advantage",
+                "description": "After defeating an opponent, ATK is increased by <b>12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Arrow"
+        },
+        "description": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade."
+    },
+    {
+        "id": 44,
+        "name": "Favonius Sword",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Windfall",
+                "description": "CRIT Hits have a <b>60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b>12/10.5/9/7.5/6</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!"
+    },
+    {
+        "id": 45,
+        "name": "Iron Sting",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Infusion Stinger",
+                "description": "Dealing Elemental DMG increases all DMG by <b>6%/7.5%/9%/10.5%/12%</b> for 6s. Max 2 stacks. Can occur once every 1s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Nectar"
+        },
+        "description": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp."
+    },
+    {
+        "id": 46,
+        "name": "Lion's Roar",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Bane of Fire and Thunder",
+                "description": "Increases DMG dealt against opponents affected by Pyro or Electro by <b>20%/24%/28%/32%/36%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air."
+    },
+    {
+        "id": 47,
+        "name": "Prototype Rancour",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Smashed Stone",
+                "description": "On hit, Normal or Charged Attacks increase ATK and DEF by <b>4%/5%/6%/7%/8%</b> for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter."
+    },
+    {
+        "id": 48,
+        "name": "Royal Longsword",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Focus",
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner."
+    },
+    {
+        "id": 49,
+        "name": "Sacrificial Sword",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Composed",
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b>40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b>30/26/22s/19/16</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time."
+    },
+    {
+        "id": 50,
+        "name": "Sword of Descension",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-39b",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Descension",
+                "description": "<b>Effective only on the following platform:<br />\"PlayStation Network\"</b><br />Hitting opponents with Normal and Charged Attacks grants a <b>50%</b> chance to deal <b>200%</b> ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by <b>66</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A sword of unique craftsmanship. It does not appear to belong to this world."
+    },
+    {
+        "id": 51,
+        "name": "The Black Sword",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Justice",
+                "description": "Increases DMG dealt by Normal and Charged Attacks by <b>20%/25%/30%/35%/40%</b>. Additionally, regenerates <b>60%/70%/80%/90%/100%</b> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter."
+    },
+    {
+        "id": 52,
+        "name": "The Flute",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Chord",
+                "description": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals <b>100%/125%/150%/175%/200%</b> ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind."
+    },
+    {
+        "id": 53,
+        "name": "Blackcliff Pole",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Press the Advantage",
+                "description": "After defeating an opponent, ATK is increased by <b>12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen."
+    },
+    {
+        "id": 54,
+        "name": "Crescent Pike",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Infusion Needle",
+                "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <b>20%/25%/30%/35%/40%</b> of ATK for 5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage."
+    },
+    {
+        "id": 55,
+        "name": "Deathmatch",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Gladiator",
+                "description": "If there are at least 2 opponents nearby, ATK is increased by <b>16%/20%/24%/28%/32%</b> and DEF is increased by <b>16%/20%/24%/28%/32%</b>. If there are fewer than 2 opponents nearby, ATK is increased by <b>24%/30%/36%/42%/48%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Nectar"
+        },
+        "description": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men."
+    },
+    {
+        "id": 56,
+        "name": "Dragon's Bane",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Bane of Flame and Water",
+                "description": "Increases DMG against opponents affected by Hydro or Pyro by <b>20%/24%/28%/32%/36%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Scroll"
+        },
+        "description": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease."
+    },
+    {
+        "id": 57,
+        "name": "Favonius Lance",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Windfall",
+                "description": "CRIT Hits have a <b>60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b>12/10.5/9/7.5/6</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Slime"
+        },
+        "description": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind."
+    },
+    {
+        "id": 58,
+        "name": "Prototype Starglitter",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Magic Affinity",
+                "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <b>8%/10%/12%/14%/16%</b> for 12s. Max 2 stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Mask"
+        },
+        "description": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night."
+    },
+    {
+        "id": 59,
+        "name": "Royal Spear",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Focus",
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp."
+    },
+    {
+        "id": 60,
+        "name": "Blackcliff Slasher",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Press the Advantage",
+                "description": "After defeating an opponent, ATK is increased by <b>12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel."
+    },
+    {
+        "id": 61,
+        "name": "Favonius Greatsword",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Windfall",
+                "description": "CRIT Hits have a <b>60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b>12/10.5/9/7.5/6</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive."
+    },
+    {
+        "id": 62,
+        "name": "Prototype Archaic",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Crush",
+                "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional <b>240%/300%/360%/420%/480%</b> ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Mask"
+        },
+        "description": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself."
+    },
+    {
+        "id": 63,
+        "name": "Rainslasher",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Bane of Storm and Tide",
+                "description": "Increases DMG against opponents affected by Hydro or Electro by <b>20%/24%/28%/32%/36%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Scroll"
+        },
+        "description": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power."
+    },
+    {
+        "id": 64,
+        "name": "Royal Greatsword",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Focus",
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Slime"
+        },
+        "description": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by the nobility only."
+    },
+    {
+        "id": 65,
+        "name": "Sacrificial Greatsword",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Composed",
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b>40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b>30/26/22s/19/16</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Arrow"
+        },
+        "description": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time."
+    },
+    {
+        "id": 66,
+        "name": "Serpent Spine",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Wavesplitter",
+                "description": "Every 4s a character is on the field, they will deal <b>6%/7%/8%/9%/10%</b> more DMG and take <b>3%/2.7%/2.4%/2.2%/2%</b> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Nectar"
+        },
+        "description": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it."
+    },
+    {
+        "id": 67,
+        "name": "The Bell",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "HP%",
+            "passive": {
+                "name": "Rebellious Guardian",
+                "description": "Taking DMG generates a shield which absorbs DMG up to <b>20%/23%/26%/29%/32%</b> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains <b>12%/15%/18%/21%/24%</b> increased DMG."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Nectar"
+        },
+        "description": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged."
+    },
+    {
+        "id": 68,
+        "name": "Whiteblind",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "DEF%",
+            "passive": {
+                "name": "Infusion Blade",
+                "description": "On hit, Normal or Charged Attacks increase ATK and DEF by <b>6%/7.5%/9%/10.5%/12%</b> for 6s. Max 4 stacks. Can occur once every 0.5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it."
+    },
+    {
+        "id": 69,
+        "name": "Blackcliff Agate",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Press the Advantage",
+                "description": "After defeating an opponent, ATK is increased by <b>12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Scroll"
+        },
+        "description": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth."
+    },
+    {
+        "id": 70,
+        "name": "Eye of Perception",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Echo",
+                "description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing <b>240%/270%/300%/330%/360%</b> ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every <b>12/11/10/9/8</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Mask"
+        },
+        "description": "A dim black glaze pearl that is said to have the power to read the purity of one's heart."
+    },
+    {
+        "id": 71,
+        "name": "Favonius Codex",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Windfall",
+                "description": "CRIT Hits have a <b>60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b>12/10.5/9/7.5/6</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Scroll"
+        },
+        "description": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter."
+    },
+    {
+        "id": 72,
+        "name": "Mappa Mare",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Infusion Scroll",
+                "description": "Triggering an Elemental reaction grants a <b>8%/10%/12%/14%/16%</b> Elemental DMG Bonus for 10s. Max 2 stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Slime"
+        },
+        "description": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders."
+    },
+    {
+        "id": 73,
+        "name": "Prototype Amber",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "HP%",
+            "passive": {
+                "name": "Gilding",
+                "description": "Using an Elemental Burst regenerates <b>4/4.5/5/5.5/6</b> Energy every 2s for 6s. All party members will regenerate <b>4%/4.5%/5%/5.5%/6%</b> HP every 2s for this duration."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Arrow"
+        },
+        "description": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky."
+    },
+    {
+        "id": 74,
+        "name": "Royal Grimoire",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Focus",
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells."
+    },
+    {
+        "id": 75,
+        "name": "Sacrificial Fragments",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Composed",
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b>40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b>30/26/22s/19/16</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time."
+    },
+    {
+        "id": 76,
+        "name": "Solar Pearl",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Solar Shine",
+                "description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <b>20%/25%/30%/35%/40%</b> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <b>20%/25%/30%/35%/40%</b> for 6s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Nectar"
+        },
+        "description": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength."
+    },
+    {
+        "id": 77,
+        "name": "The Widsith",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Debut",
+                "description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by <b>60%/75%/90%/105%/120%</b>. Aria: Increases all Elemental DMG by <b>48%/60%/72%/84%/96%</b>. Interlude: Elemental Mastery is increased by <b>240/300/360/420/480</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Mask"
+        },
+        "description": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within."
+    },
+    {
+        "id": 78,
+        "name": "Amos' Bow",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Strong-Willed",
+                "description": "Increases Normal and Charged Attack DMG by <b>12%/15%/18%/21%/24%</b>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <b>8%/10%/12%/14%/16%</b> every 0.1s the arrow is in the air for up to 5 times."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Slime"
+        },
+        "description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is."
+    },
+    {
+        "id": 79,
+        "name": "Skyward Harp",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Echoing Ballad",
+                "description": "Increases CRIT DMG by <b>20%/25%/30%/35%/40%</b>. Hits have a <b>60%/70%/80%/90%/100%</b> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <b>4/3.5/3/2.5/2</b>s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Arrow"
+        },
+        "description": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within."
+    },
+    {
+        "id": 80,
+        "name": "Aquila Favonia",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Falcon's Defiance",
+                "description": "ATK is increased by <b>20%/25%/30%/35%/40%</b>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <b>100%/115%/130%/145%/160%</b> of ATK and dealing <b>200%/230%/260%/290%/320%</b> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it."
+    },
+    {
+        "id": 81,
+        "name": "Skyward Blade",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Sky-Piercing Fang",
+                "description": "CRIT Rate increased by <b>4%/5%/6%/7%/8%</b>. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to <b>20%/25%/30%/35%/40%</b> of ATK. Skypiercing Might lasts for 12s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind."
+    },
+    {
+        "id": 82,
+        "name": "Primordial Jade Winged-Spear",
+        "rarity": 5,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Eagle Spear of Justice",
+                "description": "On hit, increases ATK by <b>3.2%/3.9%/4.6%/5.3%/6%</b> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <b>12%/15%/18%/21%/24%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A jade polearm made by the archons, capable of slaying ancient beasts."
+    },
+    {
+        "id": 83,
+        "name": "Skyward Spine",
+        "rarity": 5,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Black Wing",
+                "description": "Increases CRIT Rate by <b>8%/10%/12%/14%/16%</b> and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals <b>40%/55%/70%/85%/100%</b> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind."
+    },
+    {
+        "id": 84,
+        "name": "Skyward Spine",
+        "rarity": 5,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Sky-ripping Dragon Spine",
+                "description": "Increases all DMG by <b>8%/10%/12%/14%/16%</b>. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does <b>80%/100%/120%/140%/160%</b> of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed."
+    },
+    {
+        "id": 85,
+        "name": "Wolf's Gravestone",
+        "rarity": 5,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Wolfish Tracker",
+                "description": "Increases ATK by <b>20%/25%/30%/35%/40%</b>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <b>40%/50%/60%/70%/80%</b> for 12s. Can only occur once every 30s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves."
+    },
+    {
+        "id": 86,
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Boundless Blessing",
+                "description": "Increases Movement SPD by 10%. When in battle, gain an <b>8%/10%/12%/14%/16%</b> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Slime"
+        },
+        "description": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia."
+    },
+    {
+        "id": 87,
+        "name": "Skyward Atlas",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "ATK%",
+            "passive": {
+                "name": "Wandering Clouds",
+                "description": "Increases Elemental DMG Bonus by <b>12%/15%/18%/21%/24%</b>. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing <b>160%/200%/240%/280%/320%</b> ATK DMG. Can only occur once every 30s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Arrow"
+        },
+        "description": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind."
     }
 ]
