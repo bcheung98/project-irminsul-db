@@ -2938,5 +2938,65 @@
             "commonMat": "Slime"
         },
         "description": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing..."
+    },
+    {
+        "id": 147,
+        "name": "A Thousand Floating Dreams",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-44b",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "A Thousand Nights' Dawnsong",
+                "description": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <b>32/40/48/56/64</b>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <b>10%/14%/18%/22%/26%</b>. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <b>40/42/44/46/48</b>. Multiple such effects from multiple such weapons can stack."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oasis Garden",
+            "eliteMat": "Primal Construct Prism",
+            "commonMat": "Fungi"
+        },
+        "description": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days."
+    },
+    {
+        "id": 148,
+        "name": "Tulaytullah's Remembrance",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Bygone Azure Teardrop",
+                "description": "Normal Attack SPD is increased by <b>10%/12.5%/15%/17.5%/20%</b>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <b>4.8%/6%/7.2%/8.4%/9.6%</b> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <b>9.6%/12%/14.4%/16.8%/19.2%</b>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <b>48%/60%/72%/84%/96%</b>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oasis Garden",
+            "eliteMat": "Fungal Nucleus",
+            "commonMat": "Fungi"
+        },
+        "description": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant."
+    },
+    {
+        "id": 149,
+        "name": "Toukabou Shigure",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Kaidan: Rainfall Earthbinder",
+                "description": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is taken out during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <b>16%/20%/24%/28%/32%</b> more DMG to the opponent affected by Cursed Parasol."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Narukami",
+            "eliteMat": "Primal Construct Prism",
+            "commonMat": "Handguard"
+        },
+        "description": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol."
     }
 ]
