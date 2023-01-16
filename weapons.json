@@ -2178,5 +2178,145 @@
             "commonMat": "Mask"
         },
         "description": "A children's book filled with childish short stories at which one cannot help but laugh.<br />Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within."
-    }                
+    },
+    {
+        "id": 109,
+        "name": "Thundering Pulse",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Rule by Thunder",
+                "description": "Increases ATK by <b>20%/25%/30%/35%/40%</b> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <b>(12/24/40%)/(15/30/50%)/(18/36/60%)/(21/42/70%)/(24/48/80%)</b>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Narukami",
+            "eliteMat": "Prism",
+            "commonMat": "Arrow"
+        },
+        "description": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it."
+    },
+    {
+        "id": 110,
+        "name": "Mistsplitter Reforged",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Mistsplitter's Edge",
+                "description": "Gain a <b>12%/15%/18%/21%/24%</b> Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a <b>(8/16/28%)/(10/20/35%)/(12/24/42%)/(14/28/49%)/(16/32/56%)</b> Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Sea Branch",
+            "eliteMat": "Sentinel Chaos Parts",
+            "commonMat": "Handguard"
+        },
+        "description": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before."
+    },
+    {
+        "id": 111,
+        "name": "Hamayumi",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Full Draw",
+                "description": "Increases Normal Attack DMG by <b>16%/20%/24%/28%/32%</b> and Charged Attack DMG by <b>12%/15%/18%/21%/24%</b>. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Narukami",
+            "eliteMat": "Prism",
+            "commonMat": "Arrow"
+        },
+        "description": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy."
+    },
+    {
+        "id": 112,
+        "name": "Amenoma Kageuchi",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Iwakura Succession",
+                "description": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <b>6/7.5/9/10.5/12</b> Energy for each seed consumed."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Sea Branch",
+            "eliteMat": "Sentinel Chaos Parts",
+            "commonMat": "Handguard"
+        },
+        "description": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair."
+    },
+    {
+        "id": 113,
+        "name": "Kitain Cross Spear",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Samurai Conduct",
+                "description": "Increases Elemental Skill DMG by <b>6%/7.5%/9%/10.5%/12%</b>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <b>3/3.5/4/4.5/5</b> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oni Mask",
+            "eliteMat": "Sentinel Chaos Parts",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island."
+    },
+    {
+        "id": 114,
+        "name": "Katsuragikiri Nagamasa",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Samurai Conduct",
+                "description": "Increases Elemental Skill DMG by <b>6%/7.5%/9%/10.5%/12%</b>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <b>3/3.5/4/4.5/5</b> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Narukami",
+            "eliteMat": "Sentinel Chaos Parts",
+            "commonMat": "Handguard"
+        },
+        "description": "A blade that was once made in Tatarasuna. Heavy and tough."
+    },
+    {
+        "id": 115,
+        "name": "Hakushin Ring",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Sakura Saiguu",
+                "description": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <b>10%/12.5%/15%/17.5%/20%</b> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Sea Branch",
+            "eliteMat": "Prism",
+            "commonMat": "Scroll"
+        },
+        "description": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought."
+    }                                            
 ]
