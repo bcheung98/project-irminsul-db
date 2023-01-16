@@ -2678,5 +2678,145 @@
             "commonMat": "Specter"
         },
         "description": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey."
-    }                
+    },
+    {
+        "id": 134,
+        "name": "Hunter's Path",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44b",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "At the End of the Beast-Paths",
+                "description": "Gain <b>12%/15%/18%/21%/24%</b> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <b>160%/200%/240%/280%/320%</b> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Scorching Might",
+            "eliteMat": "Fungal Nucleus",
+            "commonMat": "Headband"
+        },
+        "description": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods."
+    },
+    {
+        "id": 135,
+        "name": "End of the Line",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Net Snapper",
+                "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing <b>80%/100%/120%/140%/160%</b> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Scorching Might",
+            "eliteMat": "Fungal Nucleus",
+            "commonMat": "Fungi"
+        },
+        "description": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow."
+    },
+    {
+        "id": 136,
+        "name": "King's Squire",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Labyrinth Lord's Instruction",
+                "description": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by <b>60/80/100/120/140</b> for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal <b>100%/120%/140%/160%/180%</b> of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Scorching Might",
+            "eliteMat": "Fungal Nucleus",
+            "commonMat": "Arrow"
+        },
+        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down."
+    },
+    {
+        "id": 137,
+        "name": "Sapwood Blade",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Forest Sanctuary",
+                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b>60/75/90/105/120</b> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Forest Dew",
+            "eliteMat": "Drake Chaos Part",
+            "commonMat": "Headband"
+        },
+        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest."
+    },
+    {
+        "id": 138,
+        "name": "Moonpiercer",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Stillwood Moonshadow",
+                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b>16%/20%/24%/28%/32%</b> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field"
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oasis Garden",
+            "eliteMat": "Drake Chaos Part",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear."
+    },
+    {
+        "id": 139,
+        "name": "Forest Regalia",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Forest Sanctuary",
+                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b>60/75/90/105/120</b> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Forest Dew",
+            "eliteMat": "Drake Chaos Part",
+            "commonMat": "Headband"
+        },
+        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest."
+    },
+    {
+        "id": 140,
+        "name": "Fruit of Fulfillment",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Full Circle",
+                "description": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining <b>24/27/30/33/36</b> Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oasis Garden",
+            "eliteMat": "Statuette",
+            "commonMat": "Fungi"
+        },
+        "description": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis."
+    }                                 
 ]
