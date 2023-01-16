@@ -6029,5 +6029,207 @@
             "date": "December 7, 2022",
             "version": "3.3" 
         }
+    },
+    {
+        "id": 60,
+        "name": "Alhaitham",
+        "fullname": "",
+        "title": "Admonishing Instruction",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Abductive Reasoning",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 rapid strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "49.53%", "53.56%", "57.59%", "63.35%", "67.38%", "71.99%", "78.32%", "84.65%", "90.99%", "97.9%", "104.81%", "111.72%", "118.63%", "125.54%", "132.45%"], ["2-Hit DMG", "50.75%", "54.88%", "59.01%", "64.91%", "69.04%", "73.76%", "80.26%", "86.75%", "93.24%", "100.32%", "107.4%", "114.48%", "121.56%", "128.64%", "135.73%"], ["3-Hit DMG", "34.18% + 34.18%", "36.96% + 36.96%", "39.74% + 39.74%", "43.72% + 43.72%", "46.5% + 46.5%", "49.68% + 49.68%", "54.05% + 54.05%", "58.42% + 58.42%", "62.79% + 62.79%", "67.56% + 67.56%", "72.33% + 72.33%", "77.1% + 77.1%", "81.87% + 81.87%", "86.64% + 86.64%", "91.41% + 91.41%"], ["4-Hit DMG", "66.77%", "72.2%", "77.64%", "85.4%", "90.84%", "97.05%", "105.59%", "114.13%", "122.67%", "131.98%", "141.3%", "150.62%", "159.93%", "169.25%", "178.57%"], ["5-Hit DMG", "83.85%", "90.68%", "97.5%", "107.25%", "114.08%", "121.88%", "132.6%", "143.33%", "154.05%", "165.75%", "177.45%", "189.15%", "200.85%", "212.55%", "224.25%"], ["Charged Attack DMG", "55.26% + 55.26%", "59.75% + 59.75%", "64.25% + 64.25%", "70.67% + 70.67%", "75.17% + 75.17%", "80.31% + 80.31%", "87.38% + 87.38%", "94.45% + 94.45%", "101.51% + 101.51%", "109.22% + 109.22%", "116.94% + 116.94%", "124.64% + 124.64%", "132.35% + 132.35%", "140.07% + 140.07%", "147.77% + 147.77%"], ["Charged Attack Stamina Cost", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Universality: An Elaboration on Form",
+                "description": "Rushes forward, dealing <b class=\"text-dendro\">Dendro DMG</b> to nearby opponents when the rush ends, causing a Chisel-Light Mirror to form.<br />Holding this skill will cause it to behave differently.<br /><br /><b class=\"text-highlight\">Hold</b><br />Enters Aiming Mode to adjust the direction of Alhaitham's rush attack.<br /><br /><b class=\"text-highlight\">Chisel-Light Mirror</b><br />When this skill is unleashed, Alhaitham will generate 1 Chisel-Light Mirror. If there are no Mirrors at this time, he will generate 1 additional Mirror. Chisel-Light Mirrors will have the following properties:<li>When he possesses Chisel-Light Mirrors, Alhaitham's Normal, Charged, and Plunging Attacks will be converted to <b class=\"text-dendro\">Dendro DMG</b>. This cannot be overridden.</li><li>When attacks of the aforementioned kind hit opponents, the Chisel-Light Mirrors will unleash a Projection Attack that deals <b class=\"text-dendro\">AoE Dendro DMG</b> based on the number of Mirrors on the field.</li><li>A total of 3 Chisel-Light Mirrors can exist at once</li><li>The Chisel-Light Mirrors will disappear one after the other over time, and will all disappear when Alhaitham leaves the field.</li>",
+                "scaling": [
+                    ["Rush Attack DMG", "193.6% ATK + 154.88% Elemental Mastery", "208.12% ATK + 166.5% Elemental Mastery", "222.64% ATK + 178.11% Elemental Mastery", "242% ATK + 193.6% Elemental Mastery", "256.52% ATK + 205.22% Elemental Mastery", "271.04% ATK + 216.83% Elemental Mastery", "290.4% ATK + 232.32% Elemental Mastery", "309.76% ATK + 247.81% Elemental Mastery", "329.12% ATK + 263.3% Elemental Mastery", "348.48% ATK + 278.78% Elemental Mastery", "367.84% ATK + 294.27% Elemental Mastery", "387.2% ATK + 309.76% Elemental Mastery", "411.4% ATK + 329.12% Elemental Mastery", "435.6% ATK + 348.48% Elemental Mastery", "459.8% ATK + 367.84% Elemental Mastery"], ["Projection Attack Interval", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s", "1.6s"], ["1-Mirror Projection Attack DMG", "67.2% ATK + 134.4% Elemental Mastery", "72.24% ATK + 144.48% Elemental Mastery", "77.28% ATK + 154.56% Elemental Mastery", "84% ATK + 168% Elemental Mastery", "89.04% ATK + 178.08% Elemental Mastery", "94.08% ATK + 188.16% Elemental Mastery", "100.8% ATK + 201.6% Elemental Mastery", "107.52% ATK + 215.04% Elemental Mastery", "114.24% ATK + 228.48% Elemental Mastery", "120.96% ATK + 241.92% Elemental Mastery", "127.68% ATK + 255.36% Elemental Mastery", "134.4% ATK + 268.8% Elemental Mastery", "142.8% ATK + 285.6% Elemental Mastery", "151.2% ATK + 302.4% Elemental Mastery", "159.6% ATK + 319.2% Elemental Mastery"], ["2-Mirror Projection Attack DMG", "(67.2% ATK + 134.4% Elemental Mastery)×2", "(72.24% ATK + 144.48% Elemental Mastery)×2", "(77.28% ATK + 154.56% Elemental Mastery)×2", "(84% ATK + 168% Elemental Mastery)×2", "(89.04% ATK + 178.08% Elemental Mastery)×2", "(94.08% ATK + 188.16% Elemental Mastery)×2", "(100.8% ATK + 201.6% Elemental Mastery)×2", "(107.52% ATK + 215.04% Elemental Mastery)×2", "(114.24% ATK + 228.48% Elemental Mastery)×2", "(120.96% ATK + 241.92% Elemental Mastery)×2", "(127.68% ATK + 255.36% Elemental Mastery)×2", "(134.4% ATK + 268.8% Elemental Mastery)×2", "(142.8% ATK + 285.6% Elemental Mastery)×2", "(151.2% ATK + 302.4% Elemental Mastery)×2", "(159.6% ATK + 319.2% Elemental Mastery)×2"], ["3-Mirror Projection Attack DMG", "(67.2% ATK + 134.4% Elemental Mastery)×3", "(72.24% ATK + 144.48% Elemental Mastery)×3", "(77.28% ATK + 154.56% Elemental Mastery)×3", "(84% ATK + 168% Elemental Mastery)×3", "(89.04% ATK + 178.08% Elemental Mastery)×3", "(94.08% ATK + 188.16% Elemental Mastery)×3", "(100.8% ATK + 201.6% Elemental Mastery)×3", "(107.52% ATK + 215.04% Elemental Mastery)×3", "(114.24% ATK + 228.48% Elemental Mastery)×3", "(120.96% ATK + 241.92% Elemental Mastery)×3", "(127.68% ATK + 255.36% Elemental Mastery)×3", "(134.4% ATK + 268.8% Elemental Mastery)×3", "(142.8% ATK + 285.6% Elemental Mastery)×3", "(151.2% ATK + 302.4% Elemental Mastery)×3", "(159.6% ATK + 319.2% Elemental Mastery)×3"], ["Chisel-Light Mirror Removal Interval", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"]
+                ],
+                "splash": "\"Truth inherently exists amidst uncertainty. Even the greatest of scholars are not immune to error.\""
+            },
+            "burst": {
+                "name": "Particular Field: Fetters of Phenomena",
+                "description": "Creates a Particular Binding Field and deals multiple instances of <b class=\"text-dendro\">AoE Dendro DMG</b>.<br />If Chisel-Light Mirrors exist when this ability is unleashed, all such Mirrors will be consumed and increase the number of DMG instances dealt.<br />2s after this ability is unleashed, if 0/1/2/3 Mirrors were consumed, Alhaitham will generate 3/2/1/0 new Mirrors in turn.",
+                "scaling": [
+                    ["Single-Instance DMG", "121.6% ATK + 97.28% Elemental Mastery", "130.72% ATK + 104.58% Elemental Mastery", "139.84% ATK + 111.87% Elemental Mastery", "152% ATK + 121.6% Elemental Mastery", "161.12% ATK + 128.9% Elemental Mastery", "170.24% ATK + 136.19% Elemental Mastery", "182.4% ATK + 145.92% Elemental Mastery", "194.56% ATK + 155.65% Elemental Mastery", "206.72% ATK + 165.38% Elemental Mastery", "218.88% ATK + 175.1% Elemental Mastery", "231.04% ATK + 184.83% Elemental Mastery", "243.2% ATK + 194.56% Elemental Mastery", "258.4% ATK + 206.72% Elemental Mastery", "273.6% ATK + 218.88% Elemental Mastery", "288.8% ATK + 231.04% Elemental Mastery"], ["Basic Attack Instances", "4", "4", "4", "4", "4", "4", "4", "4", "4", "4", "4", "4", "4", "4", "4"], ["1-Mirror Attack Instances", "6", "6", "6", "6", "6", "6", "6", "6", "6", "6", "6", "6", "6", "6", "6"], ["2-Mirror Attack Instances", "8", "8", "8", "8", "8", "8", "8", "8", "8", "8", "8", "8", "8", "8", "8"], ["3-Mirror Attack Instances", "10", "10", "10", "10", "10", "10", "10", "10", "10", "10", "10", "10", "10", "10", "10"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["Energy Cost", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70"]
+                ],
+                "splash": "\"If a researcher makes wisdom their goal, then they should be prepared to make an enemy of every word they read. Only then can they avoid bias.\""
+            },
+            "a1passive": {
+                "name": "Four-Causal Correction",
+                "description": "When Alhaitham's Charged or Plunging Attacks hit opponents, they will generate 1 Chisel-Light Mirror. This effect can be triggered once every 12s."
+            },
+            "a4passive": {
+                "name": "Mysteries Laid Bare",
+                "description": "Each point of Alhaitham's Elemental Mastery will increase the DMG dealt by Projection Attacks and <b class=\"text-highlight\">Particular Field: Fetters of Phenomena</b> by 0.1%.<br />The DMG of both aforementioned abilities can be increased by a maximum of 100% this way."
+            },
+            "utilpassive": {
+                "name": "Law of Reductive Overdetermination",
+                "description": "When Alhaitham crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
+            }
+        },
+        "constellation": {
+            "name": "Vultur Volans",
+            "c1": {
+                "name": "Intuition",
+                "description": "When a Projection Attack hits an opponent, <b class=\"text-highlight\">Universality: An Elaboration on Form</b>'s CD is decreased by 1.2s. This effect can be triggered once every 1s."
+            },
+            "c2": {
+                "name": "Debate",
+                "description": "When Alhaitham generates a Chisel-Light Mirror, his Elemental Mastery will be increased by 50 for 8 seconds, max 4 stacks. Each stack's duration is counted independently. This effect can be triggered even when the maximum number of Chisel-Light Mirrors has been reached."
+            },
+            "c3": {
+                "name": "Negation",
+                "description": "Increases the Level of <b class=\"text-highlight\">Universality: An Elaboration on Form</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Elucidation",
+                "description": "When <b class=\"text-highlight\">Particular Field: Fetters of Phenomena</b> is unleashed, the following effects will become active based on the number of Chisel-Light Mirrors consumed and created this time around:<li>Each Mirror consumed will increase the Elemental Mastery of all other nearby party members by 30 for 15s.</li><li>Each Mirror generated will grant Alhaitham a 10% <b class=\"text-dendro\">Dendro DMG Bonus</b> for 15s.</li><br />The pre-existing duration of the aforementioned effects will be cleared if you use Particular Field: Fetters of Phenomena again while they are in effect."
+            },
+            "c5": {
+                "name": "Sagacity",
+                "description": "Increases the Level of <b class=\"text-highlight\">Particular Field: Fetters of Phenomena</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Structuration",
+                "description": "Alhaitham gains the following effects:<br /><li>2 seconds after <b class=\"text-highlight\">Particular Field: Fetters of Phenomena</b> is unleashed, he will generate 3 Chisel-Light Mirrors regardless of the number of mirrors consumed.</li><li>If Alhaitham generates Chisel-Light Mirrors when their numbers have already maxed out, his CRIT Rate and CRIT DMG will increase by 10% and 70% respectively for 6s. If this effect is triggered again during its initial duration, the duration remaining will be increased by 6s.</li>"
+            }
+        },
+        "stats": {
+                "ascensionStat": "Dendro DMG Bonus",
+                "hp": [1039, 2695, 3586, 5366, 5999, 6902, 7747, 8659, 9292, 10213, 10846, 11777, 12410, 13348],
+                "atk": [24, 63, 84, 126, 141, 162, 182, 203, 218, 240, 255, 276, 291, 313],
+                "def": [61, 158, 210, 314, 351, 404, 454, 507, 544, 598, 635, 690, 727, 782],
+                "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+                "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+                "special": [0, 0, 0, 0, 7.2, 7.2, 14.4, 14.4, 14.4, 14.4, 21.6, 21.6, 28.8, 28.8]
+            },
+        "materials": {
+            "talentBook": "Ingenuity",
+            "bossMat": "Pseudo-Stamens",
+            "localMat": "Sand Grease Pupa",
+            "commonMat": "Headband",
+            "weeklyBossMat": "Mirror of Mushin"
+        },
+        "description": "The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.",
+        "birthday": "February 11",
+        "gender": "Male",
+        "nation": "Sumeru",
+        "voiceActors": {
+            "en": "Nazeeh Tarsha",
+            "jp": "Yūichirō Umehara (梅原 裕一郎)"
+        },
+        "release": {
+            "date": "January 18, 2021",
+            "version": "3.4" 
+        }
+    },
+    {
+        "id": 61,
+        "name": "Yaoyao",
+        "fullname": "",
+        "title": "Burgeoning Grace",
+        "rarity": 4,
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "talents": {
+            "attack": {
+                "name": "Toss 'N' Turn Spear",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive spear strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "47.44%", "51.3%", "55.17%", "60.68%", "64.54%", "68.96%", "75.03%", "81.09%", "87.16%", "93.78%", "100.4%", "107.02%", "113.64%", "120.26%", "126.88%"], ["2-Hit DMG", "47.44%", "51.3%", "55.17%", "60.68%", "64.54%", "68.96%", "75.03%", "81.09%", "87.16%", "93.78%", "100.4%", "107.02%", "113.64%", "120.26%", "126.88%"], ["3-Hit DMG", "31.38% + 32.95%", "33.93% + 35.63%", "36.49% + 38.31%", "40.13% + 42.14%", "42.69% + 44.82%", "45.61% + 47.89%", "49.62% + 52.1%", "53.63% + 56.31%", "57.65% + 60.53%", "62.02% + 65.13%", "66.4% + 69.72%", "70.78% + 74.32%", "75.16% + 78.92%", "79.54% + 83.51%", "83.92% + 88.11%"], ["4-Hit DMG", "77.93%", "84.27%", "90.62%", "99.68%", "106.02%", "113.27%", "123.24%", "133.21%", "143.18%", "154.05%", "164.92%", "175.8%", "186.67%", "197.55%", "208.42%"], ["Charged Attack DMG", "112.66%", "121.83%", "131%", "144.1%", "153.27%", "163.75%", "178.16%", "192.57%", "206.98%", "222.7%", "238.42%", "254.14%", "269.86%", "285.58%", "301.3%"], ["Charged Attack Stamina Cost", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25", "25"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Raphanus Sky Cluster",
+                "description": "Calls upon \"Yuegui: Throwing Mode,\" a special device created by a certain adeptus to help Yaoyao solve her problems.<br />This skill will be used differently in Holding Mode.<br /><br /><b class=\"text-highlight\">Hold</b><br />Enters Aiming Mode to adjust the throw direction.<br /><br /><b class=\"text-highlight\">Yuegui: Throwing Mode</b><br />Throws out White Jade Radishes that will explode upon hitting characters or opponents, dealing <b class=\"text-dendro\">Dendro DMG</b> to opponents within a certain AoE, and healing characters within that same AoE based on Yaoyao's Max HP. If a radish does not hit either an opponent or a character, the radish will remain where it is and explode on contact with a character or opponent, or will explode after its duration expires.<br />Yuegui: Throwing Mode will choose its radish-throw targets.<li>If all nearby characters have more than 70% HP remaining, then it will throw the radish at a nearby opponent.</li><li>If nearby characters have 70% or less HP remaining, it will throw a radish at the character with the lowest HP percentage remaining. If no opponents exist nearby, Yuegui will also throw White Jade Radishes at characters even if they all have more than 70% HP and less than 100% HP remaining. Otherwise, it will throw radishes into the area at random.</li><br />A maximum of 2 instances of Yuegui: Throwing Mode can exist at any one time.",
+                "scaling": [
+                    ["White Jade Radish DMG", "29.92%", "32.16%", "34.41%", "37.4%", "39.64%", "41.89%", "44.88%", "47.87%", "50.86%", "53.86%", "56.85%", "59.84%", "63.58%", "67.32%", "71.06%"], ["White Jade Radish Healing", "1.71% Max HP + 165.08", "1.84% Max HP + 181.59", "1.97% Max HP + 199.48", "2.14% Max HP + 218.74", "2.27% Max HP + 239.38", "2.4% Max HP + 261.39", "2.57% Max HP + 284.78", "2.74% Max HP + 309.54", "2.91% Max HP + 335.69", "3.09% Max HP + 363.2", "3.26% Max HP + 392.1", "3.43% Max HP + 422.37", "3.64% Max HP + 454.01", "3.86% Max HP + 487.03", "4.07% Max HP + 521.43"], ["Yuegui: Throwing Mode Duration", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["White Jade Radish Duration", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"]
+                ],
+                "splash": "\"A radish a day keeps trouble away! ... Oh, this isn't about a radish's medical properties, exactly, but it does have some health benefits, yeah!\""
+            },
+            "burst": {
+                "name": "Moonjade Descent",
+                "description": "At the enjoinment of a certain adeptus, Yuegui's full potential can be unleashed in an emergency, dealing <b class=\"text-dendro\">Dendro DMG</b> to nearby opponents and entering an (in some sense) unsurpassed Adeptal Legacy state.<br /><br /><b class=\"text-highlight\">Adeptal Legacy</b><li>White Jade Radishes generated will be changed to heal and deal DMG according to this skill. Explosions will heal all nearby party members, and the <b class=\"text-dendro\">Dendro DMG</b> that they deal will be viewed as Elemental Burst DMG instead.</li><li>Summons \"Yuegui: Jumping Mode\" at intervals until their limit has been reached. The behavior of this version of Yuegui is the same as that of \"Yuegui: Throwing Mode\" in the Elemental Skill, Raphanus Sky Cluster. A maximum of 3 Yuegui: Jumping Mode can exist at any one time.</li><li>Yaoyao's Movement SPD is increased by 15%.</li><li>Yaoyao's <b class=\"text-dendro\">Dendro RES</b> will be increased.</li>",
+                "scaling": [
+                    ["Skill DMG", "114.56%", "123.15%", "131.74%", "143.2%", "151.79%", "160.38%", "171.84%", "183.3%", "194.75%", "206.21%", "217.66%", "229.12%", "243.44%", "257.76%", "272.08%"], ["Adeptal Legacy White Jade Radish DMG", "72.16%", "77.57%", "82.98%", "90.2%", "95.61%", "101.02%", "108.24%", "115.46%", "122.67%", "129.89%", "137.1%", "144.32%", "153.34%", "162.36%", "171.38%"], ["Adeptal Legacy White Jade Radish Healing", "2.02% Max HP + 194.21", "2.17% Max HP + 213.64", "2.32% Max HP + 234.68", "2.52% Max HP + 257.34", "2.67% Max HP + 281.62", "2.82% Max HP + 307.52", "3.03% Max HP + 335.04", "3.23% Max HP + 364.17", "3.43% Max HP + 394.93", "3.63% Max HP + 427.3", "3.83% Max HP + 461.29", "4.03% Max HP + 496.9", "4.29% Max HP + 534.13", "4.54% Max HP + 572.98", "4.79% Max HP + 613.45"], ["Dendro RES Bonus", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%", "50%"], ["Adeptal Legacy Duration", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"], ["Energy Cost", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80"]
+                ],
+                "splash": "\"Eh? Which one of these is actually Yuegui, you ask? Aren't they all Yuegui?\""
+            },
+            "a1passive": {
+                "name": "Starscatter",
+                "description": "While affected by the Adeptal Legacy state caused by <b class=\"text-highlight\">Moonjade Descent</b>, Yaoyao will constantly throw White Jade Radishes at nearby opponents when she is sprinting, jumping, or running. She can throw 1 White Jade Radish this way once every 0.6s."
+            },
+            "a4passive": {
+                "name": "In Others' Shoes",
+                "description": "When <b class=\"text-highlight\">White Jade Radishes</b> explode, active characters within their AoE will regain HP every 1s based on 0.8% of Yaoyao's Max HP. This effect lasts 5s."
+            },
+            "utilpassive": {
+                "name": "Tailing on Tiptoes",
+                "description": "When Yaoyao is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.<br />Check the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on."
+            }
+        },
+        "constellation": {
+            "name": "Osmanthus",
+            "c1": {
+                "name": "Adeptus' Tutelage",
+                "description": "When <b class=\"text-highlight\">White Jade Radishes</b> explode, active characters within their AoE will gain 15% <b class=\"text-dendro\">Dendro DMG Bonus</b> for 8s and have 15 Stamina restored to them. This form of Stamina Restoration can only be triggered every 5s."
+            },
+            "c2": {
+                "name": "Innocent",
+                "description": "While affected by the Adeptal Legacy state caused by <b class=\"text-highlight\">Moonjade Descent</b>, if White Jade Radish explosions damage opponents, 3 Energy will be restored to Yaoyao. This form of Energy regeneration can occur once every 0.8s."
+            },
+            "c3": {
+                "name": "Loyal and Kind",
+                "description": "Increases the Level of <b class=\"text-highlight\">Raphanus Sky Cluster</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Winsome",
+                "description": "After using <b class=\"text-highlight\">Raphanus Sky Cluster</b> or <b class=\"text-highlight\">Moonjade Descent</b>, Yaoyao's Elemental Mastery will be increased based on 0.3% of her Max HP for 8s. The maximum Elemental Mastery she can gain this way is 120."
+            },
+            "c5": {
+                "name": "Compassionate",
+                "description": "Increases the Level of <b class=\"text-highlight\">Moonjade Descent</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Beneficent",
+                "description": "For every 2 White Jade Radishes <b class=\"text-highlight\">Yuegui: Throwing Mode</b> throws out, the next throw will also release a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:<li>Deals <b class=\"text-dendro\">AoE Dendro DMG</b> based on 75% of Yaoyao's ATK.</li><li>Restores HP for the active character based on 7.5% of Yaoyao's Max HP.</li><br />Every Yuegei: Throwing Mode can throw out a maximum of 2 Mega Radishes."
+            }
+        },
+        "stats": {
+                "ascensionStat": "HP%",
+                "hp": [1030, 2647, 3417, 5118, 5665, 6516, 7245, 8096, 8643, 9493, 10040, 10891, 11438, 12289],
+                "atk": [18, 46, 59, 88, 98, 113, 125, 140, 149, 164, 174, 188, 198, 212],
+                "def": [63, 162, 209, 313, 346, 398, 443, 495, 528, 580, 613, 665, 699, 751],
+                "critRate": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+                "critDMG": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+                "special": [0, 0, 0, 0, 6, 6, 12, 12, 12, 12, 18, 18, 24, 24]
+            },
+        "materials": {
+            "talentBook": "Diligence",
+            "bossMat": "Quelled Creeper",
+            "localMat": "Jueyun Chili",
+            "commonMat": "Slime",
+            "weeklyBossMat": "Daka's Bell"
+        },
+        "description": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
+        "birthday": "March 6",
+        "gender": "Female",
+        "nation": "Liyue",
+        "voiceActors": {
+            "en": "Kelsey Jaffer",
+            "jp": "Mai Kadowaki (門脇 舞以)"
+        },
+        "release": {
+            "date": "January 18, 2021",
+            "version": "3.4" 
+        }
     }
 ]
