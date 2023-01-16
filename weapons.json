@@ -2318,5 +2318,105 @@
             "commonMat": "Scroll"
         },
         "description": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought."
-    }                                            
+    },
+    {
+        "id": 116,
+        "name": "Engulfing Lightning",
+        "rarity": 5,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Timeless Dream: Eternal Stove",
+                "description": "ATK increased by <b>28%/35%/42%/49%/56%</b> of Energy Recharge over the base 100%. You can gain a maximum bonus of <b>80%/90%/100%/110%/120%</b> ATK. Gain <b>30%/35%/40%/45%/50%</b> Energy Recharge for 12s after using an Elemental Burst."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oni Mask",
+            "eliteMat": "Sentinel Chaos Parts",
+            "commonMat": "Handguard"
+        },
+        "description": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down..."
+    },
+    {
+        "id": 117,
+        "name": "Everlasting Moonglow",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "HP",
+            "passive": {
+                "name": "Byakuya Kougetsu",
+                "description": "Healing Bonus increased by <b>10%/12.5%/15%/17.5%/20%</b>, Normal Attack DMG is increased by <b>1%/1.5%/2%/2.5%/3%</b> of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Sea Branch",
+            "eliteMat": "Prism",
+            "commonMat": "Specter"
+        },
+        "description": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant."
+    },
+    {
+        "id": 118,
+        "name": "Luxurious Sea-Lord",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Oceanic Victory",
+                "description": "Increases Elemental Burst DMG by <b>12%/15%/18%/21%/24%</b>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <b>100%/125%/150%/175%/200%</b> ATK as AoE DMG. This effect can occur once every 15s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Slime"
+        },
+        "description": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance."
+    },
+    {
+        "id": 119,
+        "name": "The Catch",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Shanty",
+                "description": "Increases Elemental Burst DMG by <b>16%/20%/24%/28%/32%</b> and Elemental Burst CRIT Rate by <b>6%/7.5%/9%/10.5%/12%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oni Mask",
+            "eliteMat": "Sentinel Chaos Parts",
+            "commonMat": "Specter"
+        },
+        "description": "In the distant past, this was the beloved spear of a famed Inazuman bandit."
+    },
+    {
+        "id": 120,
+        "name": "Predator",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Strong Strike",
+                "description": "<b>Effective only on the following platform:<br />\"PlayStation Network\"</b><br />Dealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by <b>10%</b> for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by <b>66</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Narukami",
+            "eliteMat": "Prism",
+            "commonMat": "Arrow"
+        },
+        "description": "A uniquely-designed bow. This should not belong in this world."
+    }                    
 ]
