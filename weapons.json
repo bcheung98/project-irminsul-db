@@ -2098,5 +2098,85 @@
             "commonMat": "Nectar"
         },
         "description": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person."
-    }
+    },
+    {
+        "id": 105,
+        "name": "Song of Broken Pines",
+        "rarity": 5,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-49",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Rebel's Banner-Hymn",
+                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <b>16%/20%/24%/28%/32%</b>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <b>12%/15%/18%/21%/24%</b> and increases ATK by <b>20%/25%/30%/35%/40%</b>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Mask"
+        },
+        "description": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon."
+    },
+    {
+        "id": 106,
+        "name": "Freedom-Sworn",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Revolutionary Chorale",
+                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <b>10%/12.5%/15%/17.5%/20%</b>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <b>16%/20%/24%/28%/32%</b> and increases ATK by <b>20%/25%/30%/35%/40%</b>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind."
+    },
+    {
+        "id": 107,
+        "name": "Mitternachts Waltz",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Evernight Duet",
+                "description": "Normal Attack hits on opponents increase Elemental Skill DMG by <b>20%/25%/30%/35%/40%</b> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <b>20%/25%/30%/35%/40%</b> for 5s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A bow painted the color of transgression and nights of illusion."
+    },
+    {
+        "id": 108,
+        "name": "Dodoco Tales",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Dodoventure!",
+                "description": "Normal Attack hits on opponents increase Charged Attack DMG by <b>16%/20%/24%/28%/32%</b> for 6s. Charged Attack hits on opponents increase ATK by <b>8%/10%/12%/14%/16%</b> for 6s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Mask"
+        },
+        "description": "A children's book filled with childish short stories at which one cannot help but laugh.<br />Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within."
+    }                
 ]
