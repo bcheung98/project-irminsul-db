@@ -1918,5 +1918,85 @@
             "commonMat": "Nectar"
         },
         "description": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it."
-    }
+    },
+    {
+        "id": 96,
+        "name": "Lithic Spear",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Lithic Axiom: Unity",
+                "description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <b>7%/8%/9%/10%/11%</b> ATK increase and a <b>3%/4%/5%/6%/7%</b> CRIT Rate increase. This effect stacks up to 4 times."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Arrow"
+        },
+        "description": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal."
+    },
+    {
+        "id": 97,
+        "name": "Lithic Blade",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Lithic Axiom: Unity",
+                "description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <b>7%/8%/9%/10%/11%</b> ATK increase and a <b>3%/4%/5%/6%/7%</b> CRIT Rate increase. This effect stacks up to 4 times."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Arrow"
+        },
+        "description": "A greatsword carved and chiseled from the very bedrock of Liyue."
+    },
+    {
+        "id": 98,
+        "name": "Primordial Jade Cutter",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "44b",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Protector's Virtue",
+                "description": "HP increased by <b>20%/25%/30%/35%/40%</b>. Additionally, provides an ATK Bonus based on <b>1.2%/1.5%/1.8%/2.1%/2.4%</b> of the wielder's Max HP."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung."
+    },
+    {
+        "id": 99,
+        "name": "Staff of Homa",
+        "rarity": 5,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Reckless Cinnabar",
+                "description": "HP increased by <b>20%/25%/30%/35%/40%</b>. Additionally, provides an ATK Bonus based on <b>0.8%/1%/1.2%/1.4%/1.6%</b> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <b>1%/1.2%/1.4%/1.6%/1.8%</b> of Max HP."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "A \"firewood staff\" that was once used in ancient and long-lost rituals."
+    }                
 ]
