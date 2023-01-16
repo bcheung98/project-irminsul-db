@@ -1818,5 +1818,105 @@
             "commonMat": "Treasure Hoarder Insignia"
         },
         "description": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might."
+    },
+    {
+        "id": 91,
+        "name": "Summit Shaper",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Golden Majesty",
+                "description": "Increases Shield Strength by <b>20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b>4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Mask"
+        },
+        "description": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain."
+    },
+    {
+        "id": 92,
+        "name": "Festering Desire",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Undying Admiration",
+                "description": "Increases Elemental Skill DMG by <b>16%/20%/24%/28%/32%</b> and Elemental Skill CRIT Rate by <b>6%/7.5%/9%/10.5%/12%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Horn",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon."
+    },
+    {
+        "id": 93,
+        "name": "Snow-Tombed Starsilver",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Frost Burial",
+                "description": "Hitting an opponent with Normal and Charged Attacks has a <b>60%/70%/80%/90%/100%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b>80%/95%/110%/125%/140%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b>200%/240%/280%/320%/360%</b> of ATK. Can only occur once every 10s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Slime"
+        },
+        "description": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow."
+    },
+    {
+        "id": 94,
+        "name": "Dragonspine Spear",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "Physical DMG Bonus",
+            "passive": {
+                "name": "Frost Burial",
+                "description": "Hitting an opponent with Normal and Charged Attacks has a <b>60%/70%/80%/90%/100%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b>80%/95%/110%/125%/140%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b>200%/240%/280%/320%/360%</b> of ATK. Can only occur once every 10s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A spear created from the fang of a dragon. It is oddly warm to the touch."
+    },
+    {
+        "id": 95,
+        "name": "Frostbearer",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Frost Burial",
+                "description": "Hitting an opponent with Normal and Charged Attacks has a <b>60%/70%/80%/90%/100%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b>80%/95%/110%/125%/140%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b>200%/240%/280%/320%/360%</b> of ATK. Can only occur once every 10s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Nectar"
+        },
+        "description": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it."
     }
 ]
