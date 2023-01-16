@@ -5,9 +5,8 @@
         "rarity": 1,
         "type": "Bow",
         "stats": {
-            "baseATK": [23, 56, 68, 102, 113, 130, 141, 158, 169, 185],
-            "secondaryStat": "None",
-            "secondaryStatScaling": [],
+            "atk": "t-23",
+            "subStat": "",
             "passive": ""
         },
         "materials": {
@@ -16,5 +15,175 @@
             "commonMat": "Treasure Hoarder Insignia"
         },
         "description": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows."
+    },
+    {
+        "id": 1,
+        "name": "Dull Blade",
+        "rarity": 1,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-23",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance."
+    },
+    {
+        "id": 2,
+        "name": "Beginner's Protector",
+        "rarity": 1,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-23",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "A polearm as straight as a flag pole. Well suited to most combat situations, it has an imposing presence when swung."
+    },
+    {
+        "id": 3,
+        "name": "Waster Greatsword",
+        "rarity": 1,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-23",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "A sturdy sheet of iron that may be powerful enough to break apart mountains, if wielded with enough willpower."
+    },
+    {
+        "id": 4,
+        "name": "Apprentice's Notes",
+        "rarity": 1,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-23",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Mask"
+        },
+        "description": "Notes left behind by a top student. Many useful spells are listed, and the handwriting is beautiful."
+    },
+    {
+        "id": 5,
+        "name": "Seasoned Hunter's Bow",
+        "rarity": 2,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-33",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm."
+    },
+    {
+        "id": 6,
+        "name": "Silver Sword",
+        "rarity": 2,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-33",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Arrow"
+        },
+        "description": "A sword for chasing away demons. Everyone knows it's made of a silver alloy, not pure silver."
+    },
+    {
+        "id": 7,
+        "name": "Iron Point",
+        "rarity": 2,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-33",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Dandelion Gladiator",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Scroll"
+        },
+        "description": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers."
+    },
+    {
+        "id": 8,
+        "name": "Old Merc's Pal",
+        "rarity": 2,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-33",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Boreal Wolf",
+            "eliteMat": "Ley Line Branch",
+            "commonMat": "Slime"
+        },
+        "description": "A battle-tested greatsword that has seen better days and worse."
+    },
+    {
+        "id": 9,
+        "name": "Pocket Grimoire",
+        "rarity": 2,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-33",
+            "subStat": "",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Horn",
+            "commonMat": "Mask"
+        },
+        "description": "A carefully compiled notebook featuring the essentials needed to pass a magic exam."
+    },
+    {
+        "id": 10,
+        "name": "Messenger",
+        "rarity": 3,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-40",
+            "subStat": "CRIT DMG",
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "A carefully compiled notebook featuring the essentials needed to pass a magic exam."
     }
 ]
