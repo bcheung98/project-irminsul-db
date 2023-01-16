@@ -2214,7 +2214,7 @@
         },
         "materials": {
             "ascensionMaterial": "Sea Branch",
-            "eliteMat": "Sentinel Chaos Parts",
+            "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
         "description": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before."
@@ -2254,7 +2254,7 @@
         },
         "materials": {
             "ascensionMaterial": "Sea Branch",
-            "eliteMat": "Sentinel Chaos Parts",
+            "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
         "description": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair."
@@ -2274,7 +2274,7 @@
         },
         "materials": {
             "ascensionMaterial": "Oni Mask",
-            "eliteMat": "Sentinel Chaos Parts",
+            "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Treasure Hoarder Insignia"
         },
         "description": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island."
@@ -2294,7 +2294,7 @@
         },
         "materials": {
             "ascensionMaterial": "Narukami",
-            "eliteMat": "Sentinel Chaos Parts",
+            "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
         "description": "A blade that was once made in Tatarasuna. Heavy and tough."
@@ -2334,7 +2334,7 @@
         },
         "materials": {
             "ascensionMaterial": "Oni Mask",
-            "eliteMat": "Sentinel Chaos Parts",
+            "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
         "description": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down..."
@@ -2394,7 +2394,7 @@
         },
         "materials": {
             "ascensionMaterial": "Oni Mask",
-            "eliteMat": "Sentinel Chaos Parts",
+            "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Specter"
         },
         "description": "In the distant past, this was the beloved spear of a famed Inazuman bandit."
@@ -2498,5 +2498,185 @@
             "commonMat": "Specter"
         },
         "description": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms."
-    }
+    },
+    {
+        "id": 125,
+        "name": "Redhorn Stonethresher",
+        "rarity": 5,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44b",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Gokadaiou Otogibanashi",
+                "description": "DEF is increased by <b>28%/35%/42%/49%/56%</b>. Normal and Charged Attack DMG is increased by <b>40%/50%/60%/70%/80%</b> of DEF."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Narukami",
+            "eliteMat": "Claw",
+            "commonMat": "Handguard"
+        },
+        "description": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs."
+    },
+    {
+        "id": 126,
+        "name": "Cinnabar Spindle",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "DEF",
+            "passive": {
+                "name": "Spotless Heart",
+                "description": "Elemental Skill DMG is increased by <b>40%/50%/60%/70%/80%</b> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Decarabian",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Mask"
+        },
+        "description": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon."
+    },
+    {
+        "id": 127,
+        "name": "Calamity Queller",
+        "rarity": 5,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-49",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Extinguishing Precept",
+                "description": "Gain <b>12%/15%/18%/21%/24%</b> All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by <b>3.2%/4%/4.8%/5.6%/6.4%</b> per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Nectar"
+        },
+        "description": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past."
+    },
+    {
+        "id": 128,
+        "name": "Kagura's Verity",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Kagura Dance of the Sacred Sakura",
+                "description": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <b>12%/15%/18%/21%/24%</b> for 16s. Max 3 stacks. This character will gain <b>12%/15%/18%/21%/24%</b> All Elemental DMG Bonus when they possess 3 stacks."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oni Mask",
+            "eliteMat": "Claw",
+            "commonMat": "Specter"
+        },
+        "description": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it."
+    },
+    {
+        "id": 129,
+        "name": "Oathsworn Eye",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK",
+            "passive": {
+                "name": "People of the Faltering Light",
+                "description": "ncreases Energy Recharge by <b>24%/30%/36%/42%/48%</b> for 10s after using an Elemental Skill."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Sea Branch",
+            "eliteMat": "Claw",
+            "commonMat": "Specter"
+        },
+        "description": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes."
+    },
+    {
+        "id": 130,
+        "name": "Haran Geppaku Futsu",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Honed Flow",
+                "description": "Obtain <b>12%/15%/18%/21%/24%</b> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <b>20%/25%/30%/35%/40%</b> for 8s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Narukami",
+            "eliteMat": "Statuette",
+            "commonMat": "Handguard"
+        },
+        "description": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves."
+    },
+    {
+        "id": 131,
+        "name": "Aqua Simulacra",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44b",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "The Cleansing Form",
+                "description": "HP is increased by <b>16%/20%/24%/28%/32%</b>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <b>20%/25%/30%/35%/40%</b>. This will take effect whether the character is on-field or not."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Guyun",
+            "eliteMat": "Statuette",
+            "commonMat": "Specter"
+        },
+        "description": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue."
+    },
+    {
+        "id": 132,
+        "name": "Fading Twilight",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Radiance of the Deeps",
+                "description": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <b>(6%/10%/14%)/(7.5%/12.5%/17.5%)/(9%/15%/21%)/(10.5%/17.5%/24.5%)/(12%/20%/28%)</b> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Sacrificial Knife",
+            "commonMat": "Scroll"
+        },
+        "description": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide."
+    },
+    {
+        "id": 133,
+        "name": "Kagotsurube Isshin",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "atk",
+            "passive": {
+                "name": "Isshin Art Clarity",
+                "description": "When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Oni Mask",
+            "eliteMat": "Statuette",
+            "commonMat": "Specter"
+        },
+        "description": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey."
+    }                
 ]
