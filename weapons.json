@@ -1758,5 +1758,65 @@
             "commonMat": "Arrow"
         },
         "description": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind."
+    },
+    {
+        "id": 88,
+        "name": "Memory of Dust",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Golden Majesty",
+                "description": "Increases Shield Strength by <b>20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b>4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Mask"
+        },
+        "description": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within."
+    },
+    {
+        "id": 89,
+        "name": "Vortex Vanquisher",
+        "rarity": 5,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Golden Majesty",
+                "description": "Increases Shield Strength by <b>20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b>4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Aerosiderite",
+            "eliteMat": "Bone Shard",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air."
+    },
+    {
+        "id": 90,
+        "name": "The Unforged",
+        "rarity": 5,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Golden Majesty",
+                "description": "Increases Shield Strength by <b>20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b>4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+            }
+        },
+        "materials": {
+            "ascensionMaterial": "Mist Veiled Elixir",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Treasure Hoarder Insignia"
+        },
+        "description": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might."
     }
 ]
