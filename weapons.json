@@ -246,7 +246,7 @@
         "type": "Bow",
         "stats": {
             "atk": "t-38",
-            "subStat": "HP%",
+            "subStat": "HP",
             "passive": {
                 "name": "Cull the Weak",
                 "description": "Defeating an opponent restores <b>8%/10%/12%/14%/16%</b> HP."
@@ -306,7 +306,7 @@
         "type": "Sword",
         "stats": {
             "atk": "t-39",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Bane of Water and Ice",
                 "description": "Increases DMG against opponents affected by Hydro or Cryo by <b>12%/15%/18%/21%/24%</b>."
@@ -346,7 +346,7 @@
         "type": "Sword",
         "stats": {
             "atk": "t-39",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Gash",
                 "description": "On hit, has a 50% chance to deal <b>240%/280%/320%/360%/400%</b> ATK DMG to a single opponent. Can only occur once every <b>15/14/13/12/11</b>s."
@@ -406,7 +406,7 @@
         "type": "Sword",
         "stats": {
             "atk": "t-40",
-            "subStat": "DEF%",
+            "subStat": "DEF",
             "passive": {
                 "name": "Journey",
                 "description": "Each Elemental Orb or Particle collected restores <b>1%/1.25%/1.5%/1.75%/2%</b> HP."
@@ -426,7 +426,7 @@
         "type": "Polearm",
         "stats": {
             "atk": "t-38",
-            "subStat": "HP%",
+            "subStat": "HP",
             "passive": {
                 "name": "Bane of the Soft",
                 "description": "Increases DMG against slimes by <b>40%/50%/60%/70%/80%</b>."
@@ -446,7 +446,7 @@
         "type": "Polearm",
         "stats": {
             "atk": "t-40",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Heavy",
                 "description": "Normal Attacks deal an additional <b>160%/200%/240%/280%/320%</b> ATK as DMG. Can only occur once every 10s."
@@ -506,7 +506,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-39",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Blunt Conclusion",
                 "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to <b>60%/75%/90%/105%/120%</b> of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
@@ -526,7 +526,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-39",
-            "subStat": "HP%",
+            "subStat": "HP",
             "passive": {
                 "name": "Unbending",
                 "description": "When HP falls below <b>70%/75%/80%/85%/90%</b>, increases Charged Attack DMG by <b>30%/35%/40%/45%/50%</b> and Charged Attacks become harder to interrupt."
@@ -566,7 +566,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-39",
-            "subStat": "DEF%",
+            "subStat": "DEF",
             "passive": {
                 "name": "Cull the Weak",
                 "description": "Defeating an opponent restores <b>8%/10%/12%/14%/16%</b> HP."
@@ -646,7 +646,7 @@
         "type": "Catalyst",
         "stats": {
             "atk": "t-39",
-            "subStat": "HP%",
+            "subStat": "HP",
             "passive": {
                 "name": "Heritage",
                 "description": "When switching characters, the new character taking the field has their ATK increased by <b>24%/30%/36%/42%/48%</b> for 10s. This effect can only occur once every 20s."
@@ -746,7 +746,7 @@
         "type": "Bow",
         "stats": {
             "atk": "t-42",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Unreturning",
                 "description": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <b>36%/45%/54%/63%/72%</b> for 10s."
@@ -766,7 +766,7 @@
         "type": "Bow",
         "stats": {
             "atk": "t-42",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Focus",
                 "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
@@ -786,7 +786,7 @@
         "type": "Bow",
         "stats": {
             "atk": "t-42",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Rapid Firing",
                 "description": "Increases Normal Attack DMG by <b>40%/50%/60%/70%/80%</b> but decreases Charged Attack DMG by 10%."
@@ -926,7 +926,7 @@
         "type": "Sword",
         "stats": {
             "atk": "t-42",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Bane of Fire and Thunder",
                 "description": "Increases DMG dealt against opponents affected by Pyro or Electro by <b>20%/24%/28%/32%/36%</b>."
@@ -966,7 +966,7 @@
         "type": "Sword",
         "stats": {
             "atk": "t-42",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Focus",
                 "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
@@ -1006,7 +1006,7 @@
         "type": "Sword",
         "stats": {
             "atk": "t-39b",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Descension",
                 "description": "<b>Effective only on the following platform:<br />\"PlayStation Network\"</b><br />Hitting opponents with Normal and Charged Attacks grants a <b>50%</b> chance to deal <b>200%</b> ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by <b>66</b>."
@@ -1046,7 +1046,7 @@
         "type": "Sword",
         "stats": {
             "atk": "t-42",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Chord",
                 "description": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals <b>100%/125%/150%/175%/200%</b> ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
@@ -1186,7 +1186,7 @@
         "type": "Polearm",
         "stats": {
             "atk": "t-44",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Focus",
                 "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
@@ -1246,7 +1246,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-44",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Crush",
                 "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional <b>240%/300%/360%/420%/480%</b> ATK DMG to opponents within a small AoE. Can only occur once every 15s."
@@ -1286,7 +1286,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-44",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Focus",
                 "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
@@ -1346,7 +1346,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-42",
-            "subStat": "HP%",
+            "subStat": "HP",
             "passive": {
                 "name": "Rebellious Guardian",
                 "description": "Taking DMG generates a shield which absorbs DMG up to <b>20%/23%/26%/29%/32%</b> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains <b>12%/15%/18%/21%/24%</b> increased DMG."
@@ -1366,7 +1366,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-42",
-            "subStat": "DEF%",
+            "subStat": "DEF",
             "passive": {
                 "name": "Infusion Blade",
                 "description": "On hit, Normal or Charged Attacks increase ATK and DEF by <b>6%/7.5%/9%/10.5%/12%</b> for 6s. Max 4 stacks. Can occur once every 0.5s."
@@ -1406,7 +1406,7 @@
         "type": "Catalyst",
         "stats": {
             "atk": "t-41",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Echo",
                 "description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing <b>240%/270%/300%/330%/360%</b> ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every <b>12/11/10/9/8</b>s."
@@ -1466,7 +1466,7 @@
         "type": "Catalyst",
         "stats": {
             "atk": "t-42",
-            "subStat": "HP%",
+            "subStat": "HP",
             "passive": {
                 "name": "Gilding",
                 "description": "Using an Elemental Burst regenerates <b>4/4.5/5/5.5/6</b> Energy every 2s for 6s. All party members will regenerate <b>4%/4.5%/5%/5.5%/6%</b> HP every 2s for this duration."
@@ -1486,7 +1486,7 @@
         "type": "Catalyst",
         "stats": {
             "atk": "t-44",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Focus",
                 "description": "Upon damaging an opponent, increases CRIT Rate by <b>8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
@@ -1566,7 +1566,7 @@
         "type": "Bow",
         "stats": {
             "atk": "t-46",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Strong-Willed",
                 "description": "Increases Normal and Charged Attack DMG by <b>12%/15%/18%/21%/24%</b>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <b>8%/10%/12%/14%/16%</b> every 0.1s the arrow is in the air for up to 5 times."
@@ -1706,7 +1706,7 @@
         "type": "Claymore",
         "stats": {
             "atk": "t-46",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Wolfish Tracker",
                 "description": "Increases ATK by <b>20%/25%/30%/35%/40%</b>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <b>40%/50%/60%/70%/80%</b> for 12s. Can only occur once every 30s."
@@ -1746,7 +1746,7 @@
         "type": "Catalyst",
         "stats": {
             "atk": "t-48",
-            "subStat": "ATK%",
+            "subStat": "ATK",
             "passive": {
                 "name": "Wandering Clouds",
                 "description": "Increases Elemental DMG Bonus by <b>12%/15%/18%/21%/24%</b>. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing <b>160%/200%/240%/280%/320%</b> ATK DMG. Can only occur once every 30s."
