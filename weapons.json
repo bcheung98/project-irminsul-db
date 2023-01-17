@@ -2998,5 +2998,25 @@
             "commonMat": "Handguard"
         },
         "description": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol."
+    },
+    {
+        "id": 150,
+        "name": "Light of Foliar Incision",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-44b",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Whitemoon Bristle",
+                "description": "CRIT Rate is increased by <b>4%/5%/6%/7%/8%</b>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <b>120%/150%/180%/210%/240%</b> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s."
+            }
+        },
+        "materials": {
+            "ascensionMat": "Forest Dew",
+            "eliteMat": "Shell",
+            "commonMat": "Headband"
+        },
+        "description": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest."
     }
 ]
