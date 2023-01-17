@@ -13,7 +13,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -33,7 +33,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -53,7 +53,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -73,7 +73,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -93,7 +93,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Mask"
         },
@@ -113,7 +113,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -133,7 +133,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -153,7 +153,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -173,7 +173,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -193,7 +193,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Mask"
         },
@@ -213,7 +213,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -233,7 +233,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -253,7 +253,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -273,7 +273,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -293,7 +293,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
@@ -313,7 +313,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -333,7 +333,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
@@ -353,7 +353,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -373,7 +373,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -393,7 +393,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Fatui Insignia"
         },
@@ -413,7 +413,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -433,7 +433,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Arrow"
         },
@@ -453,7 +453,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Nectar"
         },
@@ -473,7 +473,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Fatui Insignia"
         },
@@ -493,7 +493,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
@@ -513,7 +513,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Mask"
         },
@@ -533,7 +533,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Nectar"
         },
@@ -553,7 +553,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -573,7 +573,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
@@ -593,7 +593,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -613,7 +613,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Slime"
         },
@@ -633,7 +633,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Mask"
         },
@@ -653,7 +653,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Scroll"
         },
@@ -673,7 +673,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
@@ -693,7 +693,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Nectar"
         },
@@ -713,7 +713,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Fatui Insignia"
         },
@@ -733,7 +733,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Nectar"
         },
@@ -753,7 +753,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -773,7 +773,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
@@ -793,7 +793,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
@@ -813,7 +813,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -833,7 +833,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -853,7 +853,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -873,7 +873,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Arrow"
         },
@@ -893,7 +893,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -913,7 +913,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Nectar"
         },
@@ -933,7 +933,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -953,7 +953,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
@@ -973,7 +973,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -993,7 +993,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -1013,7 +1013,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -1033,7 +1033,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -1053,7 +1053,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -1073,7 +1073,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
@@ -1093,7 +1093,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -1113,7 +1113,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Nectar"
         },
@@ -1133,7 +1133,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Scroll"
         },
@@ -1153,7 +1153,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
@@ -1173,7 +1173,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Mask"
         },
@@ -1193,7 +1193,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
@@ -1213,7 +1213,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
@@ -1233,7 +1233,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Fatui Insignia"
         },
@@ -1253,7 +1253,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Mask"
         },
@@ -1273,7 +1273,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Scroll"
         },
@@ -1293,7 +1293,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
@@ -1313,7 +1313,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
@@ -1333,7 +1333,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Nectar"
         },
@@ -1353,7 +1353,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Nectar"
         },
@@ -1373,7 +1373,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -1393,7 +1393,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Scroll"
         },
@@ -1413,7 +1413,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Mask"
         },
@@ -1433,7 +1433,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Scroll"
         },
@@ -1453,7 +1453,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Slime"
         },
@@ -1473,7 +1473,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Arrow"
         },
@@ -1493,7 +1493,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Fatui Insignia"
         },
@@ -1513,7 +1513,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -1533,7 +1533,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Nectar"
         },
@@ -1553,7 +1553,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Mask"
         },
@@ -1573,7 +1573,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
@@ -1593,7 +1593,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
@@ -1613,7 +1613,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
@@ -1633,7 +1633,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -1653,7 +1653,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Fatui Insignia"
         },
@@ -1673,7 +1673,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -1693,7 +1693,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -1713,7 +1713,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -1733,7 +1733,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
@@ -1753,7 +1753,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
@@ -1773,7 +1773,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Mask"
         },
@@ -1793,7 +1793,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -1813,7 +1813,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -1833,7 +1833,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
@@ -1853,7 +1853,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Horn",
             "commonMat": "Fatui Insignia"
         },
@@ -1873,7 +1873,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Slime"
         },
@@ -1893,7 +1893,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
@@ -1913,7 +1913,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Nectar"
         },
@@ -1933,7 +1933,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Arrow"
         },
@@ -1953,7 +1953,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Arrow"
         },
@@ -1973,7 +1973,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -1993,7 +1993,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
@@ -2013,7 +2013,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Horn",
             "commonMat": "Fatui Insignia"
         },
@@ -2033,7 +2033,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Scroll"
         },
@@ -2053,7 +2053,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
@@ -2073,7 +2073,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -2093,7 +2093,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Nectar"
         },
@@ -2113,7 +2113,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Mask"
         },
@@ -2133,7 +2133,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Dandelion Gladiator",
+            "ascensionMat": "Dandelion Gladiator",
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
@@ -2153,7 +2153,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Horn",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -2173,7 +2173,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Ley Line Branch",
             "commonMat": "Mask"
         },
@@ -2193,7 +2193,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Arrow"
         },
@@ -2213,7 +2213,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Sea Branch",
+            "ascensionMat": "Sea Branch",
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
@@ -2233,7 +2233,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Arrow"
         },
@@ -2253,7 +2253,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Sea Branch",
+            "ascensionMat": "Sea Branch",
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
@@ -2273,7 +2273,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oni Mask",
+            "ascensionMat": "Oni Mask",
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -2293,7 +2293,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
@@ -2313,7 +2313,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Sea Branch",
+            "ascensionMat": "Sea Branch",
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Scroll"
         },
@@ -2333,7 +2333,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oni Mask",
+            "ascensionMat": "Oni Mask",
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
@@ -2353,7 +2353,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Sea Branch",
+            "ascensionMat": "Sea Branch",
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Specter"
         },
@@ -2373,7 +2373,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Bone Shard",
             "commonMat": "Slime"
         },
@@ -2393,7 +2393,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oni Mask",
+            "ascensionMat": "Oni Mask",
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Specter"
         },
@@ -2413,7 +2413,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Arrow"
         },
@@ -2433,7 +2433,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oni Mask",
+            "ascensionMat": "Oni Mask",
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Specter"
         },
@@ -2453,7 +2453,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oni Mask",
+            "ascensionMat": "Oni Mask",
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Handguard"
         },
@@ -2473,7 +2473,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Sea Branch",
+            "ascensionMat": "Sea Branch",
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Handguard"
         },
@@ -2493,7 +2493,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Specter"
         },
@@ -2513,7 +2513,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Handguard"
         },
@@ -2533,7 +2533,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Decarabian",
+            "ascensionMat": "Decarabian",
             "eliteMat": "Chaos Part",
             "commonMat": "Mask"
         },
@@ -2553,7 +2553,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Mist Veiled Elixir",
+            "ascensionMat": "Mist Veiled Elixir",
             "eliteMat": "Mist Grass",
             "commonMat": "Nectar"
         },
@@ -2573,7 +2573,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oni Mask",
+            "ascensionMat": "Oni Mask",
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Specter"
         },
@@ -2593,7 +2593,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Sea Branch",
+            "ascensionMat": "Sea Branch",
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Specter"
         },
@@ -2613,7 +2613,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Statuette",
             "commonMat": "Handguard"
         },
@@ -2633,7 +2633,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Guyun",
+            "ascensionMat": "Guyun",
             "eliteMat": "Statuette",
             "commonMat": "Specter"
         },
@@ -2653,7 +2653,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Aerosiderite",
+            "ascensionMat": "Aerosiderite",
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Scroll"
         },
@@ -2673,7 +2673,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oni Mask",
+            "ascensionMat": "Oni Mask",
             "eliteMat": "Statuette",
             "commonMat": "Specter"
         },
@@ -2693,7 +2693,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Scorching Might",
+            "ascensionMat": "Scorching Might",
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Headband"
         },
@@ -2713,7 +2713,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Scorching Might",
+            "ascensionMat": "Scorching Might",
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Fungi"
         },
@@ -2733,7 +2733,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Scorching Might",
+            "ascensionMat": "Scorching Might",
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Arrow"
         },
@@ -2753,7 +2753,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Forest Dew",
+            "ascensionMat": "Forest Dew",
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Headband"
         },
@@ -2773,7 +2773,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oasis Garden",
+            "ascensionMat": "Oasis Garden",
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Fatui Insignia"
         },
@@ -2793,7 +2793,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Forest Dew",
+            "ascensionMat": "Forest Dew",
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Headband"
         },
@@ -2813,7 +2813,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oasis Garden",
+            "ascensionMat": "Oasis Garden",
             "eliteMat": "Statuette",
             "commonMat": "Fungi"
         },
@@ -2833,7 +2833,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Forest Dew",
+            "ascensionMat": "Forest Dew",
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Headband"
         },
@@ -2853,7 +2853,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oasis Garden",
+            "ascensionMat": "Oasis Garden",
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Fungi"
         },
@@ -2873,7 +2873,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Forest Dew",
+            "ascensionMat": "Forest Dew",
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Headband"
         },
@@ -2893,7 +2893,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Scorching Might",
+            "ascensionMat": "Scorching Might",
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Treasure Hoarder Insignia"
         },
@@ -2913,7 +2913,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oasis Garden",
+            "ascensionMat": "Oasis Garden",
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Fungi"
         },
@@ -2933,7 +2933,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Boreal Wolf",
+            "ascensionMat": "Boreal Wolf",
             "eliteMat": "Statuette",
             "commonMat": "Slime"
         },
@@ -2953,7 +2953,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oasis Garden",
+            "ascensionMat": "Oasis Garden",
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Fungi"
         },
@@ -2973,7 +2973,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Oasis Garden",
+            "ascensionMat": "Oasis Garden",
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Fungi"
         },
@@ -2993,7 +2993,7 @@
             }
         },
         "materials": {
-            "ascensionMaterial": "Narukami",
+            "ascensionMat": "Narukami",
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Handguard"
         },
