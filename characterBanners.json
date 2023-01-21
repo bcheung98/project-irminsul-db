@@ -1,65 +1,59 @@
 [
     {
         "version": "1.0",
-        "phase": 1,
-        "startDate": "September 28, 2020",
-        "endDate": "October 18, 2020",
-        "banner": ["Venti", "Barbara", "Fischl", "Xiangling"]
-    },
-    {
-        "version": "1.0",
-        "phase": 2,
-        "startDate": "October 20, 2020",
-        "endDate": "November 10, 2020",
-        "banner": ["Klee", "Noelle", "Sucrose", "Xingqiu"]
-    },
-    {
-        "version": "1.1",
-        "phase": 1,
-        "startDate": "November 11, 2020",
-        "endDate": "December 1, 2020",
-        "banner": ["Tartaglia", "Beidou", "Diona", "Ningguang"]
+        "phase1": {
+            "startDate": "September 28, 2020",
+            "endDate": "October 18, 2020",
+            "banner": ["Venti", "Barbara", "Fischl", "Xiangling"]
+        },
+        "phase2": {
+            "startDate": "October 20, 2020",
+            "endDate": "November 10, 2020",
+            "banner": ["Klee", "Noelle", "Sucrose", "Xingqiu"]
+        }
     },
     {
         "version": "1.1",
-        "phase": 2,
-        "startDate": "December 1, 2020",
-        "endDate": "December 22, 2020",
-        "banner": ["Zhongli", "Chongyun", "Razor", "Xinyan"]
+        "phase1": {
+            "startDate": "November 11, 2020",
+            "endDate": "December 1, 2020",
+            "banner": ["Tartaglia", "Beidou", "Diona", "Ningguang"]
+        },
+        "phase2": {
+            "startDate": "December 1, 2020",
+            "endDate": "December 22, 2020",
+            "banner": ["Zhongli", "Chongyun", "Razor", "Xinyan"]
+        }
     },
     {
         "version": "1.2",
-        "phase": 1,
-        "startDate": "December 23, 2020",
-        "endDate": "January 12, 2021",
-        "banner": ["Albedo", "Bennett", "Fischl", "Sucrose"]
-    },
-    {
-        "version": "1.2",
-        "phase": 1,
-        "startDate": "January 12, 2021",
-        "endDate": "February 2, 2021",
-        "banner": ["Ganyu", "Noelle", "Xiangling", "Xingqiu"]
-    },
-    {
-        "version": "1.3",
-        "phase": 1,
-        "startDate": "February 3, 2021",
-        "endDate": "February 17, 2021",
-        "banner": ["Xiao", "Beidou", "Diona", "Xinyan"]
+        "phase1": {
+            "startDate": "December 23, 2020",
+            "endDate": "January 12, 2021",
+            "banner": ["Albedo", "Bennett", "Fischl", "Sucrose"]
+        },
+        "phase2": {
+            "startDate": "January 12, 2021",
+            "endDate": "February 2, 2021",
+            "banner": ["Ganyu", "Noelle", "Xiangling", "Xingqiu"]
+        }
     },
     {
         "version": "1.3",
-        "phase": 2,
-        "startDate": "February 17, 2021",
-        "endDate": "March 2, 2021",
-        "banner": ["Keqing", "Barbara", "Bennett", "Ningguang"]
-    },
-    {
-        "version": "1.3",
-        "phase": 3,
-        "startDate": "March 2, 2021",
-        "endDate": "March 16, 2021",
-        "banner": ["Hu Tao", "Chongyun", "Xiangling", "Xingqiu"]
+        "phase1": {
+            "startDate": "February 3, 2021",
+            "endDate": "February 17, 2021",
+            "banner": ["Xiao", "Beidou", "Diona", "Xinyan"]
+        },
+        "phase2": {
+            "startDate": "February 17, 2021",
+            "endDate": "March 2, 2021",
+            "banner": ["Keqing", "Barbara", "Bennett", "Ningguang"]
+        },
+        "phase3": {
+            "startDate": "March 2, 2021",
+            "endDate": "March 16, 2021",
+            "banner": ["Hu Tao", "Chongyun", "Xiangling", "Xingqiu"]
+        }
     }
 ]
