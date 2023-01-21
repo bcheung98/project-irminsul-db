@@ -50,5 +50,44 @@
             "endDate": "March 16, 2021",
             "banner": ["Wolf's Gravestone", "Staff of Homa", "Sacrificial Bow", "Lion's Roar", "Lithic Spear", "The Widsith", "Lithic Blade"]
         }
+    },
+    {
+        "version": "1.4",
+        "phase1": {
+            "startDate": "March 17, 2021",
+            "endDate": "April 6, 2021",
+            "banner": ["Elegy for the End", "Skyward Blade", "Favonius Warbow", "The Alley Flash", "Dragon's Bane", "Wine and Song", "Favonius Greatsword"]
+        },
+        "phase2": {
+            "startDate": "April 6, 2021",
+            "endDate": "April 27, 2021",
+            "banner": ["Skyward Harp", "Lost Prayer to the Sacred Winds", "Alley Hunter", "Favonius Sword", "Favonius Lance", "Favonius Codex", "Sacrificial Greatsword"]
+        }
+    },
+    {
+        "version": "1.5",
+        "phase1": {
+            "startDate": "April 28, 2021",
+            "endDate": "May 18, 2021",
+            "banner": ["Summit Shaper", "Memory of Dust", "Sacrificial Bow", "The Flute", "Lithic Spear", "Eye of Perception", "Lithic Blade"]
+        },
+        "phase2": {
+            "startDate": "May 18, 2021",
+            "endDate": "June 8, 2021",
+            "banner": ["Song of Broken Pines", "Aquila Favonia", "Rust", "Sacrificial Sword", "Dragon's Bane", "Sacrificial Fragments", "Rainslasher"]
+        }
+    },
+    {
+        "version": "1.6",
+        "phase1": {
+            "startDate": "June 9, 2021",
+            "endDate": "June 29, 2021",
+            "banner": ["Lost Prayer to the Sacred Winds", "Skyward Pride", "Mitternachts Waltz", "Lion's Roar", "Favonius Lance", "The Widsith", "The Bell"]
+        },
+        "phase2": {
+            "startDate": "June 29, 2021",
+            "endDate": "July 20, 2021",
+            "banner": ["Freedom-Sworn", "Skyward Atlas", "Alley Hunter", "The Alley Flash", "Dragon's Bane", "Wine and Song", "Favonius Greatsword"]
+        }
     }
 ]
