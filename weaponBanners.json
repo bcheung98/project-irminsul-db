@@ -22,7 +22,7 @@
         "phase2": {
             "startDate": "December 1, 2020",
             "endDate": "December 22, 2020",
-            "banner": ["Vortex Vanquisher", "The Unforged", "Favonius Bow", "Lion's Roar", "Dragon's Bane", "Favonius Codex", "The Bell"]
+            "banner": ["Vortex Vanquisher", "The Unforged", "Favonius Warbow", "Lion's Roar", "Dragon's Bane", "Favonius Codex", "The Bell"]
         }
     },
     {
@@ -35,7 +35,7 @@
         "phase2": {
             "startDate": "January 12, 2021",
             "endDate": "February 2, 2021",
-            "banner": ["Amos' Bow", "Skyward Pride", "Favonius Bow", "Sacrificial Sword", "Dragon's Bane", "Eye of Perception", "The Bell"]
+            "banner": ["Amos' Bow", "Skyward Pride", "Favonius Warbow", "Sacrificial Sword", "Dragon's Bane", "Eye of Perception", "The Bell"]
         }
     },
     {
@@ -43,7 +43,7 @@
         "phase1": {
             "startDate": "February 3, 2021",
             "endDate": "February 23, 2021",
-            "banner": ["Primordial Jade Winged-Spear", "Primordial Jade Cutter", "Rust", "Flute", "Favonius Lance", "Eye of Perception", "Sacrificial Greatsword"]
+            "banner": ["Primordial Jade Winged-Spear", "Primordial Jade Cutter", "Rust", "The Flute", "Favonius Lance", "Eye of Perception", "Sacrificial Greatsword"]
         },
         "phase2": {
             "startDate": "February 23, 2021",
