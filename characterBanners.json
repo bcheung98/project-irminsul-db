@@ -1,0 +1,16 @@
+[
+    {
+        "version": "1.0",
+        "phase": 1,
+        "startDate": "September 28, 2020",
+        "endDate": "October 18, 2020",
+        "banner": ["Venti", "Barbara", "Fischl", "Xiangling"]
+    },
+    {
+        "version": "1.0",
+        "phase": 2,
+        "startDate": "October 20, 2020",
+        "endDate": "November 10, 2020",
+        "banner": ["Klee", "Noelle", "Sucrose", "Xingqiu"]
+    }
+]

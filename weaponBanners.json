@@ -1,0 +1,16 @@
+[
+    {
+        "version": "1.0",
+        "phase": 1,
+        "startDate": "September 28, 2020",
+        "endDate": "October 18, 2020",
+        "banner": ["Aquila Favonia", "Amos' Bow", "The Flute", "The Bell", "Favonius Lance", "The Stringless", "The Widsith"]
+    },
+    {
+        "version": "1.0",
+        "phase": 2,
+        "startDate": "October 20, 2020",
+        "endDate": "November 10, 2020",
+        "banner": ["Lost Prayer to the Sacred Winds", "Wolf's Gravestone", "Sacrificial Sword", "Sacrificial Greatsword", "Dragon's Bane", "Sacrificial Bow", "Sacrificial Fragments"]
+    }
+]
