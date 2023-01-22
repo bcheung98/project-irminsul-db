@@ -89,5 +89,182 @@
             "endDate": "July 20, 2021",
             "banner": ["Freedom-Sworn", "Skyward Atlas", "Alley Hunter", "The Alley Flash", "Dragon's Bane", "Wine and Song", "Favonius Greatsword"]
         }
+    },
+    {
+        "version": "2.0",
+        "phase1": {
+            "startDate": "July 21, 2021",
+            "endDate": "August 10, 2021",
+            "banner": ["Mistsplitter Reforged", "Skyward Spine", "The Stringless", "Favonius Sword", "Favonius Lance", "Favonius Codex", "Sacrificial Greatsword"]
+        },
+        "phase2": {
+            "startDate": "August 10, 2021",
+            "endDate": "August 31, 2021",
+            "banner": ["Thundering Pulse", "Skyward Blade", "Favonius Warbow", "Sacrificial Sword", "Dragon's Bane", "Sacrificial Fragments", "Rainslasher"]
+        }
+    },
+    {
+        "version": "2.1",
+        "phase1": {
+            "startDate": "September 1, 2021",
+            "endDate": "September 21, 2021",
+            "banner": ["Engulfing Lightning", "The Unforged", "Sacrificial Bow", "Lion's Roar", "Favonius Lance", "The Widsith", "The Bell"]
+        },
+        "phase2": {
+            "startDate": "September 21, 2021",
+            "endDate": "October 12, 2021",
+            "banner": ["Everlasting Moonglow", "Primordial Jade Cutter", "The Stringless", "The Flute", "Dragon's Bane", "Favonius Codex", "Favonius Greatsword"]
+        }
+    },
+    {
+        "version": "2.2",
+        "phase1": {
+            "startDate": "October 13, 2021",
+            "endDate": "November 2, 2021",
+            "banner": ["Polar Star", "Memory of Dust", "Rust", "Favonius Sword", "Favonius Lance", "Eye of Perception", "Akuoumaru"]
+        },
+        "phase2": {
+            "startDate": "November 2, 2021",
+            "endDate": "November 23, 2021",
+            "banner": ["Elegy for the End", "Staff of Homa", "Mouun's Moon", "Sacrificial Sword", "Wavebreaker's Fin", "The Widsith", "Rainslasher"]
+        }
+    },
+    {
+        "version": "2.3",
+        "phase1": {
+            "startDate": "November 24, 2021",
+            "endDate": "December 14, 2021",
+            "banner": ["Freedom-Sworn", "Song of Broken Pines", "Alley Hunter", "Lion's Roar", "Dragon's Bane", "Wine and Song", "Sacrificial Greatsword"]
+        },
+        "phase2": {
+            "startDate": "December 14, 2021",
+            "endDate": "January 4, 2022",
+            "banner": ["Redhorn Stonethresher", "Skyward Harp", "Mitternachts Waltz", "The Alley Flash", "Favonius Lance", "Sacrificial Fragments", "The Bell"]
+        }
+    },
+    {
+        "version": "2.4",
+        "phase1": {
+            "startDate": "January 5, 2022",
+            "endDate": "January 25, 2022",
+            "banner": ["Calamity Queller", "Primordial Jade Winged-Spear", "Favonius Warbow", "The Flute", "Lithic Spear", "The Widsith", "Favonius Greatsword"]
+        },
+        "phase2": {
+            "startDate": "January 25, 2022",
+            "endDate": "February 15, 2022",
+            "banner": ["Vortex Vanquisher", "Amos' Bow", "Sacrificial Bow", "Favonius Sword", "Dragon's Bane", "Favonius Codex", "Lithic Blade"]
+        }
+    },
+    {
+        "version": "2.5",
+        "phase1": {
+            "startDate": "February 16, 2022",
+            "endDate": "March 8, 2022",
+            "banner": ["Kagura's Verity", "Primordial Jade Cutter", "The Stringless", "Sacrificial Sword", "Wavebreaker's Fin", "Eye of Perception", "Rainslasher"]
+        },
+        "phase2": {
+            "startDate": "March 8, 2022",
+            "endDate": "March 29, 2022",
+            "banner": ["Engulfing Lightning", "Everlasting Moonglow", "Mouun's Moon", "Lion's Roar", "Favonius Lance", "Sacrificial Fragments", "Akuoumaru"]
+        }
+    },
+    {
+        "version": "2.6",
+        "phase1": {
+            "startDate": "March 30, 2022",
+            "endDate": "April 19, 2022",
+            "banner": ["Haran Geppaku Futsu", "Elegy for the End", "Rust", "The Flute", "Dragon's Bane", "The Widsith", "Sacrificial Greatsword"]
+        },
+        "phase2": {
+            "startDate": "April 19, 2022",
+            "endDate": "May 31, 2022",
+            "banner": ["Mistsplitter Reforged", "The Unforged", "Favonius Warbow", "Favonius Sword", "Favonius Lance", "Favonius Codex", "The Bell"]
+        }
+    },
+    {
+        "version": "2.7",
+        "phase1": {
+            "startDate": "May 31, 2022",
+            "endDate": "June 21, 2022",
+            "banner": ["Aqua Simulacra", "Primordial Jade Winged-Spear", "Sacrificial Bow", "Sacrificial Sword", "Lithic Spear", "Eye of Perception", "Favonius Greatsword"]
+        },
+        "phase2": {
+            "startDate": "June 21, 2022",
+            "endDate": "July 12, 2022",
+            "banner": ["Redhorn Stonethresher", "Memory of Dust", "The Stringless", "Lion's Roar", "Dragon's Bane", "Sacrificial Fragments", "Lithic Blade"]
+        }
+    },
+    {
+        "version": "2.8",
+        "phase1": {
+            "startDate": "July 13, 2022",
+            "endDate": "August 2, 2022",
+            "banner": ["Freedom-Sworn", "Lost Prayer to the Sacred Winds", "Mitternachts Waltz", "The Alley Flash", "Favonius Lance", "The Widsith", "Rainslasher"]
+        },
+        "phase2": {
+            "startDate": "August 2, 2022",
+            "endDate": "August 23, 2022",
+            "banner": ["Thundering Pulse", "The Unforged", "Alley Hunter", "The Flute", "Dragon's Bane", "Wine and Song", "Sacrificial Greatsword"]
+        }
+    },
+    {
+        "version": "3.0",
+        "phase1": {
+            "startDate": "August 24, 2022",
+            "endDate": "September 9, 2022",
+            "banner": ["Hunter's Path", "Vortex Vanquisher", "The Stringless", "Favonius Sword", "Favonius Lance", "Favonius Codex", "The Bell"]
+        },
+        "phase2": {
+            "startDate": "September 9, 2022",
+            "endDate": "September 27, 2022",
+            "banner": ["Amos' Bow", "Everlasting Moonglow", "Rust", "Sacrificial Bow", "Dragon's Bane", "Eye of Perception", "Favonius Greatsword"]
+        }
+    },
+    {
+        "version": "3.1",
+        "phase1": {
+            "startDate": "September 28, 2022",
+            "endDate": "October 14, 2022",
+            "banner": ["Staff of the Scarlet Sands", "Elegy for the End", "Favonius Warbow", "Lion's Roar", "Favonius Lance", "Sacrificial Fragments", "Makhaira Aquamarine"]
+        },
+        "phase2": {
+            "startDate": "October 14, 2022",
+            "endDate": "November 1, 2022",
+            "banner": ["Key of Khaj-Nisut", "Primordial Jade Cutter", "Sacrificial Bow", "Xiphos' Moonlight", "Dragon's Bane", "Wandering Evenstar", "Rainslasher"]
+        }
+    },
+    {
+        "version": "3.2",
+        "phase1": {
+            "startDate": "November 2, 2022",
+            "endDate": "November 18, 2022",
+            "banner": ["A Thousand Floating Dreams", "Thundering Pulse", "Rust", "The Flute", "Favonius Lance", "The Widsith", "Sacrificial Greatsword"]
+        },
+        "phase2": {
+            "startDate": "November 18, 2022",
+            "endDate": "December 6, 2022",
+            "banner": ["Kagura's Verity", "Polar Star", "The Stringless", "Favonius Sword", "Dragon's Bane", "Favonius Codex", "The Bell"]
+        }
+    },
+    {
+        "version": "3.3",
+        "phase1": {
+            "startDate": "December 7, 2022",
+            "endDate": "December 27, 2022",
+            "banner": ["Tulaytullah's Remembrance", "Redhorn Stonethresher", "Favonius Warbow", "Sacrificial Sword", "Wavebreaker's Fin", "Eye of Perception", "Favonius Greatsword"]
+        },
+        "phase2": {
+            "startDate": "December 27, 2022",
+            "endDate": "January 17, 2023",
+            "banner": ["Engulfing Lightning", "Haran Geppaku Futsu", "Mouun's Moon", "Lion's Roar", "Favonius Lance", "Sacrificial Fragments", "Akuoumaru"]
+        }
+    },
+    {
+        "version": "3.4",
+        "phase1": {
+            "startDate": "January 18, 2023",
+            "endDate": "February 7, 2023",
+            "banner": ["Light of Foliar Incision", "Primordial Jade Winged-Spear", "Sacrificial Bow", "The Flute", "Lithic Spear", "The Widsith", "Rainslasher"]
+        }
     }
 ]

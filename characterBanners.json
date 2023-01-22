@@ -94,5 +94,182 @@
             "endDate": "July 20, 2021",
             "banner": ["Kazuha", "Bennett", "Razor", "Rosaria"]
         }
+    },
+    {
+        "version": "2.0",
+        "phase1": {
+            "startDate": "July 21, 2021",
+            "endDate": "August 10, 2021",
+            "banner": ["Ayaka", "Chongyun", "Ningguang", "Yanfei"]
+        },
+        "phase2": {
+            "startDate": "August 10, 2021",
+            "endDate": "August 31, 2021",
+            "banner": ["Yoimiya", "Diona", "Sayu", "Xinyan"]
+        }
+    },
+    {
+        "version": "2.1",
+        "phase1": {
+            "startDate": "September 1, 2021",
+            "endDate": "September 21, 2021",
+            "banner": ["Raiden Shogun", "Sara", "Sucrose", "Xiangling"]
+        },
+        "phase2": {
+            "startDate": "September 21, 2021",
+            "endDate": "October 12, 2021",
+            "banner": ["Kokomi", "Beidou", "Rosaria", "Xingqiu"]
+        }
+    },
+    {
+        "version": "2.2",
+        "phase1": {
+            "startDate": "October 13, 2021",
+            "endDate": "November 2, 2021",
+            "banner": ["Tartaglia", "Chongyun", "Ningguang", "Yanfei"]
+        },
+        "phase2": {
+            "startDate": "November 2, 2021",
+            "endDate": "November 23, 2021",
+            "banner": ["Hu Tao", "Diona", "Sayu", "Thoma"]
+        }
+    },
+    {
+        "version": "2.3",
+        "phase1": {
+            "startDate": "November 24, 2021",
+            "endDate": "December 14, 2021",
+            "banner": ["Albedo", "Eula", "Bennett", "Noelle", "Rosaria"]
+        },
+        "phase2": {
+            "startDate": "December 14, 2021",
+            "endDate": "January 4, 2022",
+            "banner": ["Itto", "Barbara", "Gorou", "Xiangling"]
+        }
+    },
+    {
+        "version": "2.4",
+        "phase1": {
+            "startDate": "January 5, 2022",
+            "endDate": "January 25, 2022",
+            "banner": ["Shenhe", "Xiao", "Chongyun", "Ningguang", "Yun Jin"]
+        },
+        "phase2": {
+            "startDate": "January 25, 2022",
+            "endDate": "February 15, 2022",
+            "banner": ["Zhongli", "Ganyu", "Beidou", "Xingqiu", "Yanfei"]
+        }
+    },
+    {
+        "version": "2.5",
+        "phase1": {
+            "startDate": "February 16, 2022",
+            "endDate": "March 8, 2022",
+            "banner": ["Miko", "Diona", "Fischl", "Thoma"]
+        },
+        "phase2": {
+            "startDate": "March 8, 2022",
+            "endDate": "March 29, 2022",
+            "banner": ["Raiden Shogun", "Kokomi", "Bennett", "Sara", "Xinyan"]
+        }
+    },
+    {
+        "version": "2.6",
+        "phase1": {
+            "startDate": "March 30, 2022",
+            "endDate": "April 19, 2022",
+            "banner": ["Ayato", "Venti", "Sucrose", "Xiangling", "Yun Jin"]
+        },
+        "phase2": {
+            "startDate": "April 19, 2022",
+            "endDate": "May 31, 2022",
+            "banner": ["Ayaka", "Razor", "Rosaria", "Sayu"]
+        }
+    },
+    {
+        "version": "2.7",
+        "phase1": {
+            "startDate": "May 31, 2022",
+            "endDate": "June 21, 2022",
+            "banner": ["Yelan", "Xiao", "Barbara", "Noelle", "Yanfei"]
+        },
+        "phase2": {
+            "startDate": "June 21, 2022",
+            "endDate": "July 12, 2022",
+            "banner": ["Itto", "Chongyun", "Gorou", "Shinobu"]
+        }
+    },
+    {
+        "version": "2.8",
+        "phase1": {
+            "startDate": "July 13, 2022",
+            "endDate": "August 2, 2022",
+            "banner": ["Kazuha", "Klee", "Heizou", "Ningguang", "Thoma"]
+        },
+        "phase2": {
+            "startDate": "August 2, 2022",
+            "endDate": "August 23, 2022",
+            "banner": ["Yoimiya", "Bennett", "Xinyan", "Yun Jin"]
+        }
+    },
+    {
+        "version": "3.0",
+        "phase1": {
+            "startDate": "August 24, 2022",
+            "endDate": "September 9, 2022",
+            "banner": ["Tighnari", "Zhongli", "Collei", "Diona", "Fischl"]
+        },
+        "phase2": {
+            "startDate": "September 9, 2022",
+            "endDate": "September 27, 2022",
+            "banner": ["Ganyu", "Kokomi", "Dori", "Sucrose", "Xingqiu"]
+        }
+    },
+    {
+        "version": "3.1",
+        "phase1": {
+            "startDate": "September 28, 2022",
+            "endDate": "October 14, 2022",
+            "banner": ["Cyno", "Venti", "Candace", "Sayu", "Shinobu"]
+        },
+        "phase2": {
+            "startDate": "October 14, 2022",
+            "endDate": "November 1, 2022",
+            "banner": ["Nilou", "Albedo", "Barbara", "Beidou", "Xiangling"]
+        }
+    },
+    {
+        "version": "3.2",
+        "phase1": {
+            "startDate": "November 2, 2022",
+            "endDate": "November 18, 2022",
+            "banner": ["Nahida", "Yoimiya", "Bennett", "Noelle", "Razor"]
+        },
+        "phase2": {
+            "startDate": "November 18, 2022",
+            "endDate": "December 6, 2022",
+            "banner": ["Miko", "Tartaglia", "Heizou", "Layla", "Thoma"]
+        }
+    },
+    {
+        "version": "3.3",
+        "phase1": {
+            "startDate": "December 7, 2022",
+            "endDate": "December 27, 2022",
+            "banner": ["Wanderer", "Itto", "Faruzan", "Gorou", "Yanfei"]
+        },
+        "phase2": {
+            "startDate": "December 27, 2022",
+            "endDate": "January 17, 2023",
+            "banner": ["Raiden Shogun", "Ayato", "Rosaria", "Sara", "Sayu"]
+        }
+    },
+    {
+        "version": "3.4",
+        "phase1": {
+            "startDate": "January 18, 2023",
+            "endDate": "February 7, 2023",
+            "banner": ["Alhaitham", "Xiao", "Xinyan", "Yaoyao", "Yun Jin"]
+        }
     }
 ]
