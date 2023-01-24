@@ -1,0 +1,784 @@
+[
+    {
+        "cardType": "character",
+        "cards": [
+            {
+                "name": "Ayaka",
+                "fullname": "Kamisato Ayaka",
+                "element": "Cryo",
+                "weapon": "Sword",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Kamisato Art: Kabuki",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Kamisato Art: Hyouka",
+                        "cost": "3C",
+                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>."
+                    },
+                    "burst": {
+                        "name": "Kamisato Art: Soumetsu",
+                        "cost": "3C",
+                        "energy": 3,
+                        "description": "Deals 4 <b class=\"text-cryo\">Cryo DMG</b>, summons 1 Frostflake Seki no To.<br /><br /><b>Frostflake Seki no To</b><br />End Phase: Deal 2 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "passive": {
+                        "name": "Kamisato Art: Senho",
+                        "description": "(Passive) When switched to be the active character, this character gains Cryo Elemental Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <u>Physical DMG</u> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br />(Lasts until the Round ends)"
+                    }
+                }
+            },
+            {
+                "name": "Barbara",
+                "fullname": "",
+                "element": "Hydro",
+                "weapon": "Catalyst",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Whisper of Water",
+                        "cost": "1H 2U",
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Let the Show Begin♪",
+                        "cost": "3H",
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, summons 1 Melody Loop.<br /><br /><b>Melody Loop</b><br />End Phase: Heal all your characters for 1 HP and your active character gains <b class=\"text-hydro\">Hydro Application</b>.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "burst": {
+                        "name": "Shining Miracle♪",
+                        "cost": "3U",
+                        "energy": 3,
+                        "description": "Heals all of your characters for 4 HP."
+                    }
+                }
+            },
+            {
+                "name": "Beidou",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Claymore",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Oceanborne",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Tidecaller",
+                        "cost": "3E",
+                        "description": "This character gains a Tidecaller: Surf Embrace. <u>Prepare Skill</u>: Wavestrider.<br /><br /><b>TIdecaller: Surf Embrace<br />The next time this character acts, they will immediately use the Skill Tidecaller.<br />While preparing this Skill: Grant 2 <u>Shield</u> points to the character to which this is attached."
+                    },
+                    "burst": {
+                        "name": "Stormbreaker",
+                        "cost": "4E",
+                        "energy": 3,
+                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b>, creates 1 Thunderbeast's Targe.<br /><br /><b>Thunderbeast's Targe</b><br />After you character uses a Normal Attack: Deal 1 <b class=\"text-electro\">Electro DMG</b>.<br />When your character receives at least 3 DMG: Decrease DMG taken by 1.<br /><u>Duration (Rounds)</u>: 2"
+                    },
+                    "skill2": {
+                        "name": "Wavestrider",
+                        "description": "(Prepare for 1 turn)<br />Deals 2 <b class=\"text-electro\">Electro DMG</b>."
+                    }
+                }
+            },
+            {
+                "name": "Bennett",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Sword",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Strike of Fortune",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Passion Overload",
+                        "cost": "3P",
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>."
+                    },
+                    "burst": {
+                        "name": "Fantastic Voyage",
+                        "cost": "4P",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Inspiration Field.<br /><br /><b>Inspiration Field</b><br />When your character uses a Skill: If this character has at least 7 HP, deal +2 additional DMG for this instance. After the Skill DMG is finalized, if this character's HP is not greater than 6, heal this character for 2 HP.<br /><u>Duration (Rounds)</u>: 2"
+                    }
+                }
+            },
+            {
+                "name": "Chongyun",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Claymore",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Demonbane",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Chonghua's Layered Frost",
+                        "cost": "3C",
+                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Chonghua Frost Field.<br /><br /><b>Chonghua Frost Field</b><br />Your Sword, Claymore, and Polearm-wielding characters' <u>Physical DMG</u> is converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
+                    },
+                    "burst": {
+                        "name": "Cloud-Parting Star",
+                        "cost": "3",
+                        "energy": 3,
+                        "description": "Deals 7 <b class=\"text-cryo\">Cryo DMG</b>."
+                    }
+                }
+            },
+            {
+                "name": "Collei",
+                "fullname": "",
+                "element": "Dendro",
+                "weapon": "Bow",
+                "nation": "",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Supplicant's Bowmanship",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Floral Brush",
+                        "cost": "3D",
+                        "description": "Deals 3 <b class=\"text-dendro\">Dendro DMG</b>."
+                    },
+                    "burst": {
+                        "name": "Trump-Card Kitty",
+                        "cost": "3",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-dendro\">Dendro DMG</b>, summons 1 Cuilein-Anbar.<br /><br /><b>Cuilein-Anbar</b><br />End Phase: Deals 2 <b class=\"text-dendro\">Dendro DMG</b>.<br /><u>Usage(s)</u>: 2"
+                    }
+                }
+            },
+            {
+                "name": "Cyno",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Polearm",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Invoker's Spear",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Secret Rite: Chasmic Soulfarer",
+                        "cost": "3E",
+                        "description": "Deals <b class=\"text-electro\">Electro DMG</b>."
+                    },
+                    "burst": {
+                        "name": "Sacred Rite: Wolf's Swiftness",
+                        "cost": "4",
+                        "energy": 2,
+                        "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>.<br />Pactsworn Pathclearer's Indwelling Level +2."
+                    },
+                    "passive": {
+                        "name": "Lawful Enforcer",
+                        "description": "(Passive) When the battle begins, this character gains Pactsworn Pathclearer.<br /><br /><b>Pactsworn Pathclearer</b><br />End Phase: Gain 1 level of Indwelling.<br />Create the following effects based on the Indwelling Level:<br />If equal to or greater than 2: Physical DMG dealt is converted to <b class=\"text-electro\">Electro DMG</b>;<br />If equal to or greater than 4: DMG dealt +2;<br />If equal to or greater than 6: Indwelling Level -4."
+                    }
+                }
+            },
+            {
+                "name": "Diluc",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Claymore",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Tempered Sword",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Searing Onslaught",
+                        "cost": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>. For the third use of this Skill each Round, deals +2 DMG.",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "Dawn",
+                        "cost": "4",
+                        "energy": 3,
+                        "description": "Deals 8 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Pyro Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <u>Physical DMG</u> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
+                    }
+                }
+            },
+            {
+                "name": "Diona",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Bow",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Kätzlein Style",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 Physical DMG"
+                    },
+                    "skill": {
+                        "name": "Icy Paws",
+                        "cost": "3C",
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Cat-Claw Shield.<br /><br /><b>Cat-Claw Shield</b><br />Grants 1 <u>Shield</u> point for your active character."
+                    },
+                    "burst": {
+                        "name": "Signature Mix",
+                        "cost": "3C",
+                        "energy": 3,
+                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, heals this character for 2 HP, summons 1 Drunken Mist.<br /><br /><b>Drunken Mist</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>, heal your active character for 2 HP.<br /><u>Usage(s)</u>: 2"
+                    }
+                }
+            },
+            {
+                "name": "Fatui Pyro Agent",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Other",
+                "nation": "",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Fischl",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Bow",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Ganyu",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Bow",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Jadeplume Terrorshroom",
+                "fullname": "",
+                "element": "Dendro",
+                "weapon": "Other",
+                "nation": "Monster",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Jean",
+                "fullname": "",
+                "element": "Anemo",
+                "weapon": "Sword",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Kaeya",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Sword",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Keqing",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Sword",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Klee",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Catalyst",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Maguu Kenki",
+                "fullname": "",
+                "element": "Anemo",
+                "weapon": "Other",
+                "nation": "Monster",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Mirror Maiden",
+                "fullname": "",
+                "element": "Hydro",
+                "weapon": "Other",
+                "nation": "Fatui",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Mona",
+                "fullname": "",
+                "element": "Hydro",
+                "weapon": "Catalyst",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Ningguang",
+                "fullname": "",
+                "element": "Geo",
+                "weapon": "Catalyst",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Noelle",
+                "fullname": "",
+                "element": "Geo",
+                "weapon": "Claymore",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Razor",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Claymore",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Rhodeia of Loach",
+                "fullname": "",
+                "element": "Hydro",
+                "weapon": "Other",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Stonehide Lawachurl",
+                "fullname": "",
+                "element": "Geo",
+                "weapon": "Other",
+                "nation": "Monster",
+                "hp": 8,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Sucrose",
+                "fullname": "",
+                "element": "Anemo",
+                "weapon": "Catalyst",
+                "nation": "",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Xiangling",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Polearm",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Xingqiu",
+                "fullname": "",
+                "element": "Hydro",
+                "weapon": "Sword",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 2,
+                        "description": ""
+                    }
+                }
+            },
+            {
+                "name": "Yoimiya",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Bow",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "skill": {
+                        "name": "",
+                        "cost": "",
+                        "description": ""
+                    },
+                    "burst": {
+                        "name": "",
+                        "cost": "",
+                        "energy": 3,
+                        "description": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "cardType": "action",
+        "cards": [
+            {
+                "name": "Chang the Ninth",
+                "subType": "Companion",
+                "cost": "0U",
+                "description": "After either side uses a Skill: If <b>Physical DMG</b> or <b>Piercing DMG</b> was dealt, or an Elemental Reaction was triggered, this card gains 1 Inspiration.<br />When this card gains 3 Inspiration, discard this card, then draw 2 cards."
+            }
+        ]
+    }
+]
