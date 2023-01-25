@@ -13,7 +13,7 @@
                     "attack": {
                         "name": "Kamisato Art: Kabuki",
                         "cost": "1C 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Kamisato Art: Hyouka",
@@ -28,7 +28,7 @@
                     },
                     "passive": {
                         "name": "Kamisato Art: Senho",
-                        "description": "(Passive) When switched to be the active character, this character gains Cryo Elemental Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <u>Physical DMG</u> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br />(Lasts until the Round ends)"
+                        "description": "(Passive) When switched to be the active character, this character gains Cryo Elemental Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <b>Physical DMG</b> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br />(Lasts until the Round ends)"
                     }
                 }
             },
@@ -69,7 +69,7 @@
                     "attack": {
                         "name": "Oceanborne",
                         "cost": "1E 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Tidecaller",
@@ -99,7 +99,7 @@
                     "attack": {
                         "name": "Strike of Fortune",
                         "cost": "1P 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Passion Overload",
@@ -125,12 +125,12 @@
                     "attack": {
                         "name": "Demonbane",
                         "cost": "1C 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Chonghua's Layered Frost",
                         "cost": "3C",
-                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Chonghua Frost Field.<br /><br /><b>Chonghua Frost Field</b><br />Your Sword, Claymore, and Polearm-wielding characters' <u>Physical DMG</u> is converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
+                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Chonghua Frost Field.<br /><br /><b>Chonghua Frost Field</b><br />Your Sword, Claymore, and Polearm-wielding characters' <b>Physical DMG</b> is converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     },
                     "burst": {
                         "name": "Cloud-Parting Star",
@@ -151,7 +151,7 @@
                     "attack": {
                         "name": "Supplicant's Bowmanship",
                         "cost": "1D 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Floral Brush",
@@ -177,7 +177,7 @@
                     "attack": {
                         "name": "Invoker's Spear",
                         "cost": "1E 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Secret Rite: Chasmic Soulfarer",
@@ -192,7 +192,7 @@
                     },
                     "passive": {
                         "name": "Lawful Enforcer",
-                        "description": "(Passive) When the battle begins, this character gains Pactsworn Pathclearer.<br /><br /><b>Pactsworn Pathclearer</b><br />End Phase: Gain 1 level of Indwelling.<br />Create the following effects based on the Indwelling Level:<br />If equal to or greater than 2: Physical DMG dealt is converted to <b class=\"text-electro\">Electro DMG</b>;<br />If equal to or greater than 4: DMG dealt +2;<br />If equal to or greater than 6: Indwelling Level -4."
+                        "description": "(Passive) When the battle begins, this character gains Pactsworn Pathclearer.<br /><br /><b>Pactsworn Pathclearer</b><br />End Phase: Gain 1 level of Indwelling.<br />Create the following effects based on the Indwelling Level:<br />If equal to or greater than 2: <b>Physical DMG</b> dealt is converted to <b class=\"text-electro\">Electro DMG</b>;<br />If equal to or greater than 4: DMG dealt +2;<br />If equal to or greater than 6: Indwelling Level -4."
                     }
                 }
             },
@@ -207,18 +207,18 @@
                     "attack": {
                         "name": "Tempered Sword",
                         "cost": "1P 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Searing Onslaught",
-                        "cost": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>. For the third use of this Skill each Round, deals +2 DMG.",
-                        "description": ""
+                        "cost": "3P",
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>. For the third use of this Skill each Round, deals +2 DMG."
                     },
                     "burst": {
                         "name": "Dawn",
                         "cost": "4",
                         "energy": 3,
-                        "description": "Deals 8 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Pyro Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <u>Physical DMG</u> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
+                        "description": "Deals 8 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Pyro Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <b>Physical DMG</b> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
             },
@@ -233,7 +233,7 @@
                     "attack": {
                         "name": "Kätzlein Style",
                         "cost": "1C 2U",
-                        "description": "Deals 2 Physical DMG"
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
                         "name": "Icy Paws",
@@ -253,24 +253,28 @@
                 "fullname": "",
                 "element": "Pyro",
                 "weapon": "Other",
-                "nation": "",
+                "nation": "Fatui",
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Thrust",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Prowl",
+                        "cost": "3P",
+                        "description": "Deals 1 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Stealth."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Blade Ablaze",
+                        "cost": "3P",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 5 <b class=\"text-pyro\">Pyro DMG</b>."
+                    },
+                    "passive": {
+                        "name": "Stealth Master",
+                        "description": "(Passive) When the battle begins, this character gains Stealth.<br /><br /><b>Stealth</b><br />The character to which this is attached takes -1 DMG and deals +1 DMG.<br /><u>Usage(s)</u>: 2"
                     }
                 }
             },
@@ -283,20 +287,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Bolts of Downfall",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Nightrider",
+                        "cost": "3E",
+                        "description": "Deals 1 <b class=\"text-electro\">Electro DMG</b>, summons 1 Oz.<br /><br /><b>Oz</b><br />End Phase: Deal 1 <b class=\"text-electro\">Electro DMG</b>.<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Midnight Phantasmagoria",
+                        "cost": "3E",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>, deals 2 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
                 }
             },
@@ -309,20 +313,25 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Liutian Archery",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Trail of the Qilin",
+                        "cost": "3C",
+                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Ice Lotus.<br /><br /><b>Ice Lotus</b><br />When your active character receives DMG: Decreases DMG taken by 1.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "attack2": {
+                        "name": "Frostflake Arrow",
+                        "cost": "5C",
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, deals 2 <b>Piercing DMG</b> to all opposing characters on standby."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Celestial Shower",
+                        "cost": "3C",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, deals 1 <b>Piercing DMG</b> to all opposing characters on standby, summons 1 Sacred Cryo Pearl.<br /><br /><b>Sacred Cryo Pearl</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>, deal 1 Piercing DMG to all opposing characters on standby.<br /><u>Usage(s)</u>: 2"
                     }
                 }
             },
@@ -335,20 +344,24 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Majestic Dance",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Volatile Spore Cloud",
+                        "cost": "3D",
+                        "description": "Deals 3 <b class=\"text-dendro\">Dendro DMG</b>."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Feather Spreading",
+                        "cost": "3D",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 4 <b class=\"text-dendro\">Dendro DMG</b>, then consumes all Radical Vitality stacks. For each stack consumed, this instance deals +1 DMG."
+                    },
+                    "passive": {
+                        "name": "Radical Vitality",
+                        "description": "(Passive) When the battle begins, this character gains Radical Vitality.<br /><br /><b>Radical Vitality</b><br />When this character deals or takes Elemental DMG: Gain 1 stack of Radical Vitality. (Max 3 stacks)<br />End Phase: If Radical Vitality stacks reach maximum, they will be cleared and the character will lose all Energy."
                     }
                 }
             },
@@ -361,20 +374,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Favonius Bladework",
+                        "cost": "1A 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Gale Blade",
+                        "cost": "3A",
+                        "description": "Deals 3 <b class=\"text-anemo\">Anemo DMG</b>, the target is forcibly switched to the next character."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Dandelion Breeze",
+                        "cost": "4A",
                         "energy": 3,
-                        "description": ""
+                        "description": "Heals all your characters for 2 HP, summons 1 Dandelion Field.<br /><br /><b>Dandelion Field</b><br />End Phase: Deal 2 <b class=\"text-anemo\">Anemo DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
                     }
                 }
             },
@@ -387,20 +400,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Ceremonial Bladework",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Frostgnaw",
+                        "cost": "3C",
+                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Glacial Waltz",
+                        "cost": "4",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Icicle.<br /><br /><b>Icicle</b><br />After you switch characters:<br />Deal 2 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
                 }
             },
@@ -413,20 +426,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Yunlai Swordsmanship",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Stellar Restoration",
+                        "cost": "3E",
+                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b>, creates 1 Lightning Stiletto.<br /><br /><b>Lightning Stiletto</b><br />Combat Action: Switch your Keqing in to be the active character and immediately use Stellar Restoration once. This instance of Stellar Restoration will grant Keqing Electro Infusion without creating another Lightning Stiletto.<br />(When Keqing uses Stellar Restoration with this card in Hand: Instead of creating another Lightning Stiletto, discard this card and Keqing gains Electro Infusion)<br /><br /><b>Electro Infusion</b><br />When the character to which it is attached to deals <b>Physical DMG</b>, it will be converted into <b class=\"text-electro\">Electro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Starword Sword",
+                        "cost": "4",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>, deals 3 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
                 }
             },
@@ -439,20 +452,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Kaboom!",
+                        "cost": "1P 2U",
+                        "description": "Deals 1 <b class=\"text-pyro\">Pyro DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Jumpy Dumpty",
+                        "cost": "3P",
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Explosive Spark.<br /><br /><b>Explosive Spark</b>When the character to which this is attched to uses a Charged Attack: Spend 1 less <b class=\"text-pyro\">Pyro Die</b> and deal +1 DMG.<br /><u>Usage(s)</u>: 1<br /><br /><b>Charged Attack</b><br />When the total number of Elemental Dice is even, the Normal Attack to use will be considered a Charged Attack."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Sparks 'n' Splash",
+                        "cost": "3",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, creats 1 Sparks 'n' Splash at the opponent's play area.<br /><br /><b>Sparks 'n' Splash</b><br />After your character uses a Skill: Sparks 'n' Splash deals 2 <b class=\"text-pyro\">Pyro DMG</b> to your active character.<br /><u>Usage(s)</u>: 2"
                     }
                 }
             },
@@ -465,20 +478,25 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Ichimonji",
+                        "cost": "1A 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Blustering Blade",
+                        "cost": "3A",
+                        "description": "Summons 1 Shadowsword: Lone Gale.<br /><br /><b>Shadowsword: Lone Gale</b><br />End Phase: Deal 1 <b class=\"text-anemo\">Anemo DMG</b>.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "skill2": {
+                        "name": "Frosty Assault",
+                        "cost": "3C",
+                        "description": "Summons 1 Shadowsword: Galloping Frost.<br /><br /><b>Shadowsword: Galloping Frost</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Pseudo Tengu Sweeper",
+                        "cost": "3",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 4 <b class=\"text-anemo\">Anemo DMG</b>, triggers the effect(s) of all your <b>Shadowsword</b> Summon(s). (Does not consume their Usages)"
                     }
                 }
             },
@@ -491,20 +509,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Water Ball",
+                        "cost": "1H 2U",
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Influx Blast",
+                        "cost": "3H",
+                        "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>. The target character receives Refraction.<br /><br /><b>Refraction</b><br />The character to which this is attched takes +1 Hydro DMG.<br /><u>Duration (Rounds)</u>: 2"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Rippled Reflection",
+                        "cost": "3",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 5 <b class=\"text-hydro\">Hydro DMG</b>."
                     }
                 }
             },
@@ -517,20 +535,24 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Ripple of Fate",
+                        "cost": "1H 2U",
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Mirror Reflection of Doom",
+                        "cost": "3H",
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, summons 1 Reflection.<br /><br /><b>Reflection</b><br />When your active character receives DMG: Decrease DMG taken by 1<br /><u>Usage(s)</u>: 1. When the Usage is depleted, this card will not be discarded.<br />End Phase: Discard this card, deal 1 <b class=\"text-hydro\">Hydro DMG</b>."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Stellaris Phantasm",
+                        "cost": "3",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 4 <b class=\"text-hydro\">Hydro DMG</b>, creates 1 Illusory Bubble.<br /><br /><b>Illusory Bubble</b><br />When dealing Skill DMG: Remove this status and double the DMG dealt for this instance."
+                    },
+                    "passive": {
+                        "name": "Illusory Torrent",
+                        "description": "(Passive) When you perform \"Switch Character\" while Mona is your active character: This switch is considered a Fast Action instead of a Combat Action. (Once per Round)"
                     }
                 }
             },
@@ -543,20 +565,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Sparkling Scatter",
+                        "cost": "1G 2U",
+                        "description": "Deals 1 <b class=\"text-geo\">Geo DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Jade Screen",
+                        "cost": "3G",
+                        "description": "Deals 2 <b class=\"text-geo\">Geo DMG</b>, creates 1 Jade Screen.<br /><br /><b>Jade Screen</b><br />When your active character receives at least 2 DMG: Decrease DMG taken by 1.<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Starshatter",
+                        "cost": "3G",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 6 <b class=\"text-geo\">Geo DMG</b>. If <b>Jade Screen</b> is on the field, deals +2 DMG."
                     }
                 }
             },
@@ -569,20 +591,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Favonius Bladework - Maid",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Breastplate",
+                        "cost": "3G",
+                        "description": "Deals 1 <b class=\"text-geo\">Geo DMG</b>, creates 1 Full Plate.<br /><br /><b>Full Plate</b>Grants 2 Shield points to your active character. Before this Shield is fully consumed, the <b>Physical DMG</b> you take is halved. (The figure will be rounded up)"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Sweeping Time",
+                        "cost": "4G",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 4 <b class=\"text-geo\">Geo DMG</b>. This character gains Sweeping Time.<br /><br /><b>Sweeping Time</b><br />When your character uses a Normal Attack: Consume 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br />Character's Normal Attacks deal +2 DMG, and their <b>Physical DMG</b> is converted to <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
             },
@@ -595,20 +617,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Steel Fang",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Claw and Thunder",
+                        "cost": "3E",
+                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b>"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Lightning Fang",
+                        "cost": "3E",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 5 <b class=\"text-electro\">Electro DMG</b>. This character gains The Wolf Within.<br /><br /><b>The Wolf Within</b><br />After the character to which this is attached uses a Normal Attack or an Elemental Skill: Deal 2 <b class=\"text-electro\">Electro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
             },
@@ -621,20 +643,25 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Surge",
+                        "cost": "1H 2U",
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Oceanid Mimic Summoning",
+                        "cost": "3H",
+                        "description": "Randomly summons 1 Oceanid Mimic (Prioritizes summoning a different type from preexisting ones).<br /><br /><b>Oceanic Mimic</b><br />There are 3 kinds of Oceanid Mimic in total:<br /><b>Ferret</b>: Deal 2 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 2 Uses.<br /><b>Raptor</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 3 Uses.<br /><b>Frog</b>: Can block 2 DMG. Once this effect is depleted, deal 2 <b class=\"text-hydro\">Hydro DMG</b>."
+                    },
+                    "skill2": {
+                        "name": "The Myriad Wilds",
+                        "cost": "5H",
+                        "description": "Randomly summons 2 Oceanid Mimics (Prioritizes summoning different types).<br /><br /><b>Oceanic Mimic</b><br />There are 3 kinds of Oceanid Mimic in total:<br /><b>Ferret</b>: Deal 2 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 2 Uses.<br /><b>Raptor</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 3 Uses.<br /><b>Frog</b>: Can block 2 DMG. Once this effect is depleted, deal 2 <b class=\"text-hydro\">Hydro DMG</b>."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Tide and Torrent",
+                        "cost": "3H",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. For each friendly Summon on the field, deals +2 additional DMG."
                     }
                 }
             },
@@ -647,20 +674,24 @@
                 "hp": 8,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Plama Lawa",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Movo Lawa",
+                        "cost": "3G",
+                        "description": "Deals 3 <b>Physical DMG</b>."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Upa Shato",
+                        "cost": "3G",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 5 <b>Physical DMG</b>."
+                    },
+                    "passive": {
+                        "name": "Infused Stonehide",
+                        "description": "(Passive) When the battle begins, this character gains Stonehide and Stoneforce.<br /><br /><b>Stonehide</b><br />When the character to which this is attached receives DMG: Decrease DMG taken by 1. When Geo DMG is decreased, consume 1 additional <u>Usage(s)</u>.<br /><u>Usage(s)</u>: 3<br /><br /><b>Stone Force</b><br />The character to which this is attached has their <b>Physical DMG</b> converted to <b class=\"text-geo\">Geo DMG</b>.<br />Once per Round: The character deals +1 DMG. Once the Stonehide attached to the character is removed, this status will be removed alongside it."
                     }
                 }
             },
@@ -673,20 +704,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Wind Spirit Creation",
+                        "cost": "1A 2U",
+                        "description": "Deals 1 <b class=\"text-anemo\">Anemo DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Astable Anemohypostasis Creation - 6308",
+                        "cost": "3A",
+                        "description": "Deals 3 <b class=\"text-anemo\">Anemo DMG</b>, the target is forcibly switched to the previous character."
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Forbidden Creation - Isomer 75 / Type II",
+                        "cost": "3A",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 1 <b class=\"text-anemo\">Anemo DMG</b>, summons 1 Large Wind Spirit.<br /><br /><b>Large Wind Spirit</b><br />End Phase: Deal 2 <b class=\"text-anemo\">Anemo DMG</b>.<br /><u>Usage(s)</u>: 3<br /><br />After your character or Summon triggers a Swirl reaction: Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)"
                     }
                 }
             },
@@ -699,20 +730,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Dough-Fu",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Guoba Attack",
+                        "cost": "3P",
+                        "description": "Summons 1 Guoba.<br /><br /><b>Guoba</b><br />End Phase: Deal 2 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Pyronado",
+                        "cost": "4P",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Pyronado.<br /><br /><b>Pyronado</b><br />After your character uses a Skill: Deal 2 <b class=\"text-pyro\">Pyro DMG</b>."
                     }
                 }
             },
@@ -725,20 +756,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Guhua Style",
+                        "cost": "1H 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Fatal Rainscreen",
+                        "cost": "3H",
+                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rain Sword.<br /><br /><b>Rain Sword</b><br />When your active character receives at least 3 DMG: Decrease DMG taken by 1.<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Raincutter",
+                        "cost": "3H",
                         "energy": 2,
-                        "description": ""
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rainbow Bladework.<br /><br /><b>Rain Sword</b><br />After your character uses a Normal Attack: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
                 }
             },
@@ -751,20 +782,20 @@
                 "hp": 10,
                 "talents": {
                     "attack": {
-                        "name": "",
-                        "cost": "",
-                        "description": ""
+                        "name": "Firework Flare-Up",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
                     },
                     "skill": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Niwabi Fire-Dance",
+                        "cost": "This character gains Niwabi Enshou. (This skill does not grant Energy)<br /><br /><b>Niwabi Enshou</b><br />The character to which this attached has their Normal Attacks deal +1 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Usage(s)</u>: 2",
                         "description": ""
                     },
                     "burst": {
-                        "name": "",
-                        "cost": "",
+                        "name": "Ryuukin Saxifrage",
+                        "cost": "4P",
                         "energy": 3,
-                        "description": ""
+                        "description": "Deals 4 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Aurous Blaze.<br /><br /><b>Aurous Blaze</b>After your character other than Yoimiya uses a Skill: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
             }
@@ -777,7 +808,7 @@
                 "name": "Chang the Ninth",
                 "subType": "Companion",
                 "cost": "0U",
-                "description": "After either side uses a Skill: If <b>Physical DMG</b> or <b>Piercing DMG</b> was dealt, or an Elemental Reaction was triggered, this card gains 1 Inspiration.<br />When this card gains 3 Inspiration, discard this card, then draw 2 cards."
+                "description": "After either side uses a Skill: If <b><b>Physical DMG</b></b> or <b><b>Piercing DMG</b></b> was dealt, or an Elemental Reaction was triggered, this card gains 1 Inspiration.<br />When this card gains 3 Inspiration, discard this card, then draw 2 cards."
             }
         ]
     }
