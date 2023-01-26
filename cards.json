@@ -218,7 +218,7 @@
                         "name": "Dawn",
                         "cost": "4P 3N",
                         "energy": 3,
-                        "description": "Deals 8 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Pyro Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <b>Physical DMG</b> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
+                        "description": "Deals 8 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Pyro Infusion.<br /><br /><b>Pyro Elemental Infusion</b><br />The character to which this is attached has their <b>Physical DMG</b> dealt converted to <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
             },
