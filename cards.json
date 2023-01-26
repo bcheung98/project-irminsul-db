@@ -252,7 +252,7 @@
                 "name": "Fatui Pyro Agent",
                 "fullname": "",
                 "element": "Pyro",
-                "weapon": "Other",
+                "weapon": "Other Weapons",
                 "nation": "Fatui",
                 "hp": 10,
                 "talents": {
@@ -339,7 +339,7 @@
                 "name": "Jadeplume Terrorshroom",
                 "fullname": "",
                 "element": "Dendro",
-                "weapon": "Other",
+                "weapon": "Other Weapons",
                 "nation": "Monster",
                 "hp": 10,
                 "talents": {
@@ -473,7 +473,7 @@
                 "name": "Maguu Kenki",
                 "fullname": "",
                 "element": "Anemo",
-                "weapon": "Other",
+                "weapon": "Other Weapons",
                 "nation": "Monster",
                 "hp": 10,
                 "talents": {
@@ -504,7 +504,7 @@
                 "name": "Mirror Maiden",
                 "fullname": "",
                 "element": "Hydro",
-                "weapon": "Other",
+                "weapon": "Other Weapons",
                 "nation": "Fatui",
                 "hp": 10,
                 "talents": {
@@ -638,7 +638,7 @@
                 "name": "Rhodeia of Loch",
                 "fullname": "",
                 "element": "Hydro",
-                "weapon": "Other",
+                "weapon": "Other Weapons",
                 "nation": "Mondstadt",
                 "hp": 10,
                 "talents": {
@@ -669,7 +669,7 @@
                 "name": "Stonehide Lawachurl",
                 "fullname": "",
                 "element": "Geo",
-                "weapon": "Other",
+                "weapon": "Other Weapons",
                 "nation": "Monster",
                 "hp": 8,
                 "talents": {
@@ -700,7 +700,7 @@
                 "fullname": "",
                 "element": "Anemo",
                 "weapon": "Catalyst",
-                "nation": "",
+                "nation": "Mondstadt",
                 "hp": 10,
                 "talents": {
                     "attack": {
