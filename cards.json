@@ -22,7 +22,7 @@
                     },
                     "burst": {
                         "name": "Kamisato Art: Soumetsu",
-                        "cost": "3C",
+                        "cost": "3C 3N",
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-cryo\">Cryo DMG</b>, summons 1 Frostflake Seki no To.<br /><br /><b>Frostflake Seki no To</b><br />End Phase: Deal 2 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 2"
                     },
@@ -52,7 +52,7 @@
                     },
                     "burst": {
                         "name": "Shining Miracle♪",
-                        "cost": "3U",
+                        "cost": "3H 3N",
                         "energy": 3,
                         "description": "Heals all of your characters for 4 HP."
                     }
@@ -78,7 +78,7 @@
                     },
                     "burst": {
                         "name": "Stormbreaker",
-                        "cost": "4E",
+                        "cost": "4E 3N",
                         "energy": 3,
                         "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b>, creates 1 Thunderbeast's Targe.<br /><br /><b>Thunderbeast's Targe</b><br />After you character uses a Normal Attack: Deal 1 <b class=\"text-electro\">Electro DMG</b>.<br />When your character receives at least 3 DMG: Decrease DMG taken by 1.<br /><u>Duration (Rounds)</u>: 2"
                     },
@@ -108,7 +108,7 @@
                     },
                     "burst": {
                         "name": "Fantastic Voyage",
-                        "cost": "4P",
+                        "cost": "4P 2N",
                         "energy": 2,
                         "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Inspiration Field.<br /><br /><b>Inspiration Field</b><br />When your character uses a Skill: If this character has at least 7 HP, deal +2 additional DMG for this instance. After the Skill DMG is finalized, if this character's HP is not greater than 6, heal this character for 2 HP.<br /><u>Duration (Rounds)</u>: 2"
                     }
@@ -134,7 +134,7 @@
                     },
                     "burst": {
                         "name": "Cloud-Parting Star",
-                        "cost": "3",
+                        "cost": "3C 3N",
                         "energy": 3,
                         "description": "Deals 7 <b class=\"text-cryo\">Cryo DMG</b>."
                     }
@@ -160,7 +160,7 @@
                     },
                     "burst": {
                         "name": "Trump-Card Kitty",
-                        "cost": "3",
+                        "cost": "3D 2N",
                         "energy": 2,
                         "description": "Deals 2 <b class=\"text-dendro\">Dendro DMG</b>, summons 1 Cuilein-Anbar.<br /><br /><b>Cuilein-Anbar</b><br />End Phase: Deals 2 <b class=\"text-dendro\">Dendro DMG</b>.<br /><u>Usage(s)</u>: 2"
                     }
@@ -186,7 +186,7 @@
                     },
                     "burst": {
                         "name": "Sacred Rite: Wolf's Swiftness",
-                        "cost": "4",
+                        "cost": "4E 2N",
                         "energy": 2,
                         "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>.<br />Pactsworn Pathclearer's Indwelling Level +2."
                     },
@@ -216,7 +216,7 @@
                     },
                     "burst": {
                         "name": "Dawn",
-                        "cost": "4",
+                        "cost": "4P 3N",
                         "energy": 3,
                         "description": "Deals 8 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Pyro Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <b>Physical DMG</b> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
@@ -242,7 +242,7 @@
                     },
                     "burst": {
                         "name": "Signature Mix",
-                        "cost": "3C",
+                        "cost": "3C 3N",
                         "energy": 3,
                         "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, heals this character for 2 HP, summons 1 Drunken Mist.<br /><br /><b>Drunken Mist</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>, heal your active character for 2 HP.<br /><u>Usage(s)</u>: 2"
                     }
@@ -268,7 +268,7 @@
                     },
                     "burst": {
                         "name": "Blade Ablaze",
-                        "cost": "3P",
+                        "cost": "3P 2N",
                         "energy": 2,
                         "description": "Deals 5 <b class=\"text-pyro\">Pyro DMG</b>."
                     },
@@ -298,7 +298,7 @@
                     },
                     "burst": {
                         "name": "Midnight Phantasmagoria",
-                        "cost": "3E",
+                        "cost": "3E 3N",
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>, deals 2 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
@@ -329,7 +329,7 @@
                     },
                     "burst": {
                         "name": "Celestial Shower",
-                        "cost": "3C",
+                        "cost": "3C 2N",
                         "energy": 2,
                         "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, deals 1 <b>Piercing DMG</b> to all opposing characters on standby, summons 1 Sacred Cryo Pearl.<br /><br /><b>Sacred Cryo Pearl</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>, deal 1 Piercing DMG to all opposing characters on standby.<br /><u>Usage(s)</u>: 2"
                     }
@@ -355,7 +355,7 @@
                     },
                     "burst": {
                         "name": "Feather Spreading",
-                        "cost": "3D",
+                        "cost": "3D 2N",
                         "energy": 2,
                         "description": "Deals 4 <b class=\"text-dendro\">Dendro DMG</b>, then consumes all Radical Vitality stacks. For each stack consumed, this instance deals +1 DMG."
                     },
@@ -385,7 +385,7 @@
                     },
                     "burst": {
                         "name": "Dandelion Breeze",
-                        "cost": "4A",
+                        "cost": "4A 3N",
                         "energy": 3,
                         "description": "Heals all your characters for 2 HP, summons 1 Dandelion Field.<br /><br /><b>Dandelion Field</b><br />End Phase: Deal 2 <b class=\"text-anemo\">Anemo DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
                     }
@@ -411,7 +411,7 @@
                     },
                     "burst": {
                         "name": "Glacial Waltz",
-                        "cost": "4",
+                        "cost": "4C 2N",
                         "energy": 2,
                         "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Icicle.<br /><br /><b>Icicle</b><br />After you switch characters:<br />Deal 2 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
@@ -437,7 +437,7 @@
                     },
                     "burst": {
                         "name": "Starword Sword",
-                        "cost": "4",
+                        "cost": "4E 3N",
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>, deals 3 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
@@ -463,7 +463,7 @@
                     },
                     "burst": {
                         "name": "Sparks 'n' Splash",
-                        "cost": "3",
+                        "cost": "3P 3N",
                         "energy": 3,
                         "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, creats 1 Sparks 'n' Splash at the opponent's play area.<br /><br /><b>Sparks 'n' Splash</b><br />After your character uses a Skill: Sparks 'n' Splash deals 2 <b class=\"text-pyro\">Pyro DMG</b> to your active character.<br /><u>Usage(s)</u>: 2"
                     }
@@ -494,7 +494,7 @@
                     },
                     "burst": {
                         "name": "Pseudo Tengu Sweeper",
-                        "cost": "3",
+                        "cost": "3A 3N",
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-anemo\">Anemo DMG</b>, triggers the effect(s) of all your <b>Shadowsword</b> Summon(s). (Does not consume their Usages)"
                     }
@@ -520,7 +520,7 @@
                     },
                     "burst": {
                         "name": "Rippled Reflection",
-                        "cost": "3",
+                        "cost": "3H 3N",
                         "energy": 2,
                         "description": "Deals 5 <b class=\"text-hydro\">Hydro DMG</b>."
                     }
@@ -546,7 +546,7 @@
                     },
                     "burst": {
                         "name": "Stellaris Phantasm",
-                        "cost": "3",
+                        "cost": "3H 3N",
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-hydro\">Hydro DMG</b>, creates 1 Illusory Bubble.<br /><br /><b>Illusory Bubble</b><br />When dealing Skill DMG: Remove this status and double the DMG dealt for this instance."
                     },
@@ -576,7 +576,7 @@
                     },
                     "burst": {
                         "name": "Starshatter",
-                        "cost": "3G",
+                        "cost": "3G 3N",
                         "energy": 3,
                         "description": "Deals 6 <b class=\"text-geo\">Geo DMG</b>. If <b>Jade Screen</b> is on the field, deals +2 DMG."
                     }
@@ -602,7 +602,7 @@
                     },
                     "burst": {
                         "name": "Sweeping Time",
-                        "cost": "4G",
+                        "cost": "4G 2N",
                         "energy": 2,
                         "description": "Deals 4 <b class=\"text-geo\">Geo DMG</b>. This character gains Sweeping Time.<br /><br /><b>Sweeping Time</b><br />When your character uses a Normal Attack: Consume 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br />Character's Normal Attacks deal +2 DMG, and their <b>Physical DMG</b> is converted to <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
@@ -628,7 +628,7 @@
                     },
                     "burst": {
                         "name": "Lightning Fang",
-                        "cost": "3E",
+                        "cost": "3E 3N",
                         "energy": 3,
                         "description": "Deals 5 <b class=\"text-electro\">Electro DMG</b>. This character gains The Wolf Within.<br /><br /><b>The Wolf Within</b><br />After the character to which this is attached uses a Normal Attack or an Elemental Skill: Deal 2 <b class=\"text-electro\">Electro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
@@ -659,7 +659,7 @@
                     },
                     "burst": {
                         "name": "Tide and Torrent",
-                        "cost": "3H",
+                        "cost": "3H 3N",
                         "energy": 3,
                         "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. For each friendly Summon on the field, deals +2 additional DMG."
                     }
@@ -685,7 +685,7 @@
                     },
                     "burst": {
                         "name": "Upa Shato",
-                        "cost": "3G",
+                        "cost": "3G 2N",
                         "energy": 2,
                         "description": "Deals 5 <b>Physical DMG</b>."
                     },
@@ -715,7 +715,7 @@
                     },
                     "burst": {
                         "name": "Forbidden Creation - Isomer 75 / Type II",
-                        "cost": "3A",
+                        "cost": "3A 2N",
                         "energy": 2,
                         "description": "Deals 1 <b class=\"text-anemo\">Anemo DMG</b>, summons 1 Large Wind Spirit.<br /><br /><b>Large Wind Spirit</b><br />End Phase: Deal 2 <b class=\"text-anemo\">Anemo DMG</b>.<br /><u>Usage(s)</u>: 3<br /><br />After your character or Summon triggers a Swirl reaction: Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)"
                     }
@@ -741,7 +741,7 @@
                     },
                     "burst": {
                         "name": "Pyronado",
-                        "cost": "4P",
+                        "cost": "4P 2N",
                         "energy": 2,
                         "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Pyronado.<br /><br /><b>Pyronado</b><br />After your character uses a Skill: Deal 2 <b class=\"text-pyro\">Pyro DMG</b>."
                     }
@@ -767,7 +767,7 @@
                     },
                     "burst": {
                         "name": "Raincutter",
-                        "cost": "3H",
+                        "cost": "3H 2N",
                         "energy": 2,
                         "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rainbow Bladework.<br /><br /><b>Rain Sword</b><br />After your character uses a Normal Attack: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
@@ -793,7 +793,7 @@
                     },
                     "burst": {
                         "name": "Ryuukin Saxifrage",
-                        "cost": "4P",
+                        "cost": "4P 3N",
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Aurous Blaze.<br /><br /><b>Aurous Blaze</b>After your character other than Yoimiya uses a Skill: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
