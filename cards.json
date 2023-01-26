@@ -74,7 +74,7 @@
                     "skill": {
                         "name": "Tidecaller",
                         "cost": "3E",
-                        "description": "This character gains a Tidecaller: Surf Embrace. <u>Prepare Skill</u>: Wavestrider.<br /><br /><b>TIdecaller: Surf Embrace<br />The next time this character acts, they will immediately use the Skill Tidecaller.<br />While preparing this Skill: Grant 2 <u>Shield</u> points to the character to which this is attached."
+                        "description": "This character gains a Tidecaller: Surf Embrace. <u>Prepare Skill</u>: Wavestrider.<br /><br /><b>Tidecaller: Surf Embrace</b><br />The next time this character acts, they will immediately use the Skill Tidecaller.<br />While preparing this Skill: Grant 2 <u>Shield</u> points to the character to which this is attached."
                     },
                     "burst": {
                         "name": "Stormbreaker",
@@ -182,7 +182,7 @@
                     "skill": {
                         "name": "Secret Rite: Chasmic Soulfarer",
                         "cost": "3E",
-                        "description": "Deals <b class=\"text-electro\">Electro DMG</b>."
+                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b>."
                     },
                     "burst": {
                         "name": "Sacred Rite: Wolf's Swiftness",
@@ -459,7 +459,7 @@
                     "skill": {
                         "name": "Jumpy Dumpty",
                         "cost": "3P",
-                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Explosive Spark.<br /><br /><b>Explosive Spark</b>When the character to which this is attched to uses a Charged Attack: Spend 1 less <b class=\"text-pyro\">Pyro Die</b> and deal +1 DMG.<br /><u>Usage(s)</u>: 1<br /><br /><b>Charged Attack</b><br />When the total number of Elemental Dice is even, the Normal Attack to use will be considered a Charged Attack."
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Explosive Spark.<br /><br /><b>Explosive Spark</b><br />When the character to which this is attched to uses a Charged Attack: Spend 1 less <b class=\"text-pyro\">Pyro Die</b> and deal +1 DMG.<br /><u>Usage(s)</u>: 1<br /><br /><b>Charged Attack</b><br />When the total number of Elemental Dice is even, the Normal Attack to use will be considered a Charged Attack."
                     },
                     "burst": {
                         "name": "Sparks 'n' Splash",
@@ -598,7 +598,7 @@
                     "skill": {
                         "name": "Breastplate",
                         "cost": "3G",
-                        "description": "Deals 1 <b class=\"text-geo\">Geo DMG</b>, creates 1 Full Plate.<br /><br /><b>Full Plate</b>Grants 2 Shield points to your active character. Before this Shield is fully consumed, the <b>Physical DMG</b> you take is halved. (The figure will be rounded up)"
+                        "description": "Deals 1 <b class=\"text-geo\">Geo DMG</b>, creates 1 Full Plate.<br /><br /><b>Full Plate</b><br />Grants 2 Shield points to your active character. Before this Shield is fully consumed, the <b>Physical DMG</b> you take is halved. (The figure will be rounded up)"
                     },
                     "burst": {
                         "name": "Sweeping Time",
@@ -795,7 +795,7 @@
                         "name": "Ryuukin Saxifrage",
                         "cost": "4P 3N",
                         "energy": 3,
-                        "description": "Deals 4 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Aurous Blaze.<br /><br /><b>Aurous Blaze</b>After your character other than Yoimiya uses a Skill: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
+                        "description": "Deals 4 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Aurous Blaze.<br /><br /><b>Aurous Blaze</b><br />After your character other than Yoimiya uses a Skill: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
             }
