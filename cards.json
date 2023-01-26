@@ -520,7 +520,7 @@
                     },
                     "burst": {
                         "name": "Rippled Reflection",
-                        "cost": "3H 3N",
+                        "cost": "3H 2N",
                         "energy": 2,
                         "description": "Deals 5 <b class=\"text-hydro\">Hydro DMG</b>."
                     }
@@ -788,8 +788,8 @@
                     },
                     "skill": {
                         "name": "Niwabi Fire-Dance",
-                        "cost": "This character gains Niwabi Enshou. (This skill does not grant Energy)<br /><br /><b>Niwabi Enshou</b><br />The character to which this attached has their Normal Attacks deal +1 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Usage(s)</u>: 2",
-                        "description": ""
+                        "cost": "1P",
+                        "description": "This character gains Niwabi Enshou. (This skill does not grant Energy)<br /><br /><b>Niwabi Enshou</b><br />The character to which this attached has their Normal Attacks deal +1 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
                         "name": "Ryuukin Saxifrage",
