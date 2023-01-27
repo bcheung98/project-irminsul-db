@@ -1280,6 +1280,146 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br />Deal +2 additional DMG if the target's remaining HP is equal or less than 6.<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Chang the Ninth",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "0M",
+                "description": "<b>When either side uses a Skill</b>: If <b>Physical DMG</b> or <b>Piercing DMG</b> was dealt, or an <b>Elemental Reaction</b> was triggered, this card gains <b>1 Inspiration</b>.<br />When this card gains <b>3 Inspiration</b>, discard this card, then draw 2 cards."
+            },
+            {
+                "name": "Chef Mao",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "1M",
+                "description": "<b>After playing a Food Event Card</b>: Create 1 random Elemental Die. (Once per Round)"
+            },
+            {
+                "name": "Dawn Winery",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "2M",
+                "description": "<b>When you perform \"Switch Character\"</b>: Spend 1 less Elemental Die. (Once per Round)"
+            },
+            {
+                "name": "Ellin",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2M",
+                "description": "<b>When you use a Skill that has already been used in this Round</b>: Spend 1 less Elemental Die. (Once per Round)"
+            },
+            {
+                "name": "Favonius Cathedral",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "2M",
+                "description": "<b>End Phase</b>: Heal your active character for 2 HP.<br /><u>Usage(s)</u>: 2"
+            },
+            {
+                "name": "Iron Tongue Tian",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2U",
+                "description": "<b>End Phase</b>: One of your characters without maximum Energy gains 1 <b>Energy</b>. (Active Character prioritized)<br /><u>Usage(s)</u>: 2"
+            },
+            {
+                "name": "Jade Chamber",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character."
+            },
+            {
+                "name": "Katheryne",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2U",
+                "description": "<b>When you perform \"Switch Character\"</b>: The switch is considered a <b>Fast Action</b> instead of a <b>Combat Action</b>. (Once per Round)"
+            },
+            {
+                "name": "Knights of Favonius Library",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b>When played</b>: Select any Elemental Dice to reroll.<br /><b>Roll Phase</b>: Gain another chance to reroll."
+            },
+            {
+                "name": "Liben",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "0M",
+                "description": "<b>End Phase</b>: Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br /><b>When Action Phase begins</b>: If this card has collected 3 Elemental Dice, draw 2 cards and create <b>Omni Element</b> ×2, then discard this card."
+            },
+            {
+                "name": "Liu Su",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "1M",
+                "description": "<b>After you switch characters</b>: If the character you switched to does not have <b>Energy</b>, they will gain 1 <b>Energy</b>. (Once per Round)<br /><u>Usage(s)</u>: 2"
+            },
+            {
+                "name": "Liyue Harbor Wharf",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "2M",
+                "description": "<b>End Phase</b>: Draw 2 Cards.<br /><u>Usage(s)</u>: 2"
+            },
+            {
+                "name": "NRE",
+                "type": "Support",
+                "subType": "Item",
+                "cost": "2U",
+                "description": "<b>When played</b>: Draw 1 Food Event Card from your deck.<br /><b>When you play a Food Event Card</b>: Draw 1 Food Event Card from your deck. (Once per Round)"
+            },
+            {
+                "name": "Paimon",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "3M",
+                "description": "<b>When Action Phase begins</b>: Create <b>Omni Element</b> ×2.<br /><u>Usage(s)</u>: 2"
+            },
+            {
+                "name": "Parametric Transformer",
+                "type": "Support",
+                "subType": "Item",
+                "cost": "2U",
+                "description": "<b>When either side uses a Skill</b>: If Elemental DMG was dealt this card gains <b>1 Qualitative Progress</b>.<br />When this card gains <b>3 Qualitative Progress</b>, discard this card, then create 3 different Basic Elemental Dice."
+            },
+            {
+                "name": "Timaeus",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2M",
+                "description": "Comes with 2 Transmutation Materials when played.<br /><b>End Phase</b>: Gain 1 Transmutation Material.<br /><b>When playing an Artifact Card</b>: If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)"
+            },
+            {
+                "name": "Timmie",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "0M",
+                "description": "<b>Triggers automatically once per Round</b>: This card gains <b>1 Pigeon</b>.<br />When this card <b>3 Pigeons</b>, discard this card, then draw 1 card and create <b>Omni Element</b> ×1."
+            },
+            {
+                "name": "Tubby",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2M",
+                "description": "<b>When playing a Location Support Card</b>: Spend 2 Less Elemental Dice. (Once per Round)"
+            },
+            {
+                "name": "Wagner",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2M",
+                "description": "Comes with 2 Forging Billets when played.<br /><b>End Phase</b>: Gain 1 Forging Billet.<br /><b>When playing a Weapon Card</b>: If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)"
+            },
+            {
+                "name": "Wangshu Inn",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "2M",
+                "description": "<b>End Phase</b>: Heal the most injured character on standby for 2 HP.<br /><u>Usage(s)</u>: 2"
             }
         ]
     }
