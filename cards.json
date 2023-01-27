@@ -1509,49 +1509,49 @@
                 "name": "Elemental Resonance - Woven Flames",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "1P",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-pyro\">Pyro Die</b>.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)"
             },
             {
                 "name": "Elemental Resonance - Woven Ice",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "1C",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-Cryo\">Cryo Die</b>.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)"
             },
             {
                 "name": "Elemental Resonance - Woven Stone",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "1G",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-geo\">Geo Die</b>.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)"
             },
             {
                 "name": "Elemental Resonance - Woven Thunder",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "1E",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-electro\">Electro Die</b>.<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)"
             },
             {
                 "name": "Elemental Resonance - Woven Waters",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "1H",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-hydro\">Hydro Die</b>.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)"
             },
             {
                 "name": "Elemental Resonance - Woven Weeds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "1D",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-dendro\">Dendro Die</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)"
             },
             {
                 "name": "Elemental Resonance - Woven Winds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "1A",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-anemo\">Anemo Die</b>.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)"
             },
             {
