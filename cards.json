@@ -1420,6 +1420,265 @@
                 "subType": "Location",
                 "cost": "2M",
                 "description": "<b>End Phase</b>: Heal the most injured character on standby for 2 HP.<br /><u>Usage(s)</u>: 2"
+            },
+            {
+                "name": "Abyssal Summons",
+                "type": "Event",
+                "subType": "",
+                "cost": "2M",
+                "description": "Summon 1 <b>Random Hilichurl Summon</b>!<br />(You must have at least 2 Monster characters in your deck to add this card to your deck.)<br /><br /><b>Cryo Hilichurl Shooter</b><br />Deal 1 <b class=\"text-cryo\">Cryo DMG</b> at the End Phase. Usage(s): 2.<br /><b>Electro Hilichurl Shooter</b><br />Deal 1 <b class=\"text-electro\">Electro DMG</b> at the End Phase. Usage(s): 2.<br /><b>Hilichurl Berserker</b><br />Deal 1 <b class=\"text-pyro\">Pyro DMG</b> at the End Phase. Usage(s): 2.<br /><b>Hydro Samachurl</b><br />Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. Usage(s): 2."
+            },
+            {
+                "name": "Adeptus' Temptation",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "2U",
+                "description": "During this Round, the target character's next <b>Elemental Burst</b> deals +3 DMG.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "Blessing of the Divine Relic's Installation",
+                "type": "Event",
+                "subType": "",
+                "cost": "0M",
+                "description": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters."
+            },
+            {
+                "name": "Calx's Arts",
+                "type": "Event",
+                "subType": "",
+                "cost": "1M",
+                "description": "Shift 1 <b>Energy</b> from at most 2 of your characters on standby to your active character."
+            },
+            {
+                "name": "Changing Shifts",
+                "type": "Event",
+                "subType": "",
+                "cost": "0M",
+                "description": "<b>The next time you perform \"Switch Character\"</b>: Spend 1 less Elemental Die."
+            },
+            {
+                "name": "Elemental Resonance: Enduring Rock",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1G",
+                "description": "During this round, after your character deals <b class=\"text-geo\">Geo DMG</b> next time: Should there be any Combat Status on your side that provides <b>Shield</b>, grant one such Status with 3 <b>Shield</b> points.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Fervent Flames",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1P",
+                "description": "During this round, the next instance of <b class=\"text-pyro\">Pyro-Related Reactions</b> your current active character triggers deals +3 DMG.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: High Voltage",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1E",
+                "description": "One of your characters without maximum Energy gains 1 <b>Energy</b>. (Active Character prioritized)<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Impetuous Winds",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1A",
+                "description": "Switch to the target character and create <b>Omni Element</b> ×1.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Shattering Ice",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1C",
+                "description": "During this Round, your current active character will deal +2 DMG for the next instance.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Soothing Water",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1H",
+                "description": "Heal your active character for 2 HP and all your characters on standby for 1 HP.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Sprawling Greenery",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1D",
+                "description": "During this round, the next Elemental Reaction your active character triggers deals +2 DMG.<br />Your <b>Burning Flame, Dendro Core, and Catalyzing Field</b> gain +1 <b>Usage(s)</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Woven Flames",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1P",
+                "description": "Create 1 <b class=\"text-pyro\">Pyro Die</b>.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Woven Ice",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1C",
+                "description": "Create 1 <b class=\"text-Cryo\">Cryo Die</b>.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Woven Stone",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1G",
+                "description": "Create 1 <b class=\"text-geo\">Geo Die</b>.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Woven Thunder",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1E",
+                "description": "Create 1 <b class=\"text-electro\">Electro Die</b>.<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Woven Waters",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1H",
+                "description": "Create 1 <b class=\"text-hydro\">Hydro Die</b>.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Woven Weeds",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1D",
+                "description": "Create 1 <b class=\"text-dendro\">Dendro Die</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Elemental Resonance: Woven Winds",
+                "type": "Event",
+                "subType": "Elemental Resonance",
+                "cost": "1A",
+                "description": "Create 1 <b class=\"text-anemo\">Anemo Die</b>.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Guardian's Oath",
+                "type": "Event",
+                "subType": "",
+                "cost": "4M",
+                "description": "Destroy all Summons. (Affects both you and your opponent.)"
+            },
+            {
+                "name": "I Haven't Lost Yet!",
+                "type": "Event",
+                "subType": "",
+                "cost": "0M",
+                "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>"
+            },
+            {
+                "name": "Jueyun Guoba",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "0M",
+                "description": "During this Round, the target character's next <b>Normal Attack</b> deals +1 DMG.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "Leave It to Me!",
+                "type": "Event",
+                "subType": "",
+                "cost": "0M",
+                "description": "<b>The next time you perform \"Switch Character\"</b>: The switch will be considered a <b>Fast Action</b> instead of a <b>Combat Action</b>."
+            },
+            {
+                "name": "Lotus Flower Crisp",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "1M",
+                "description": "During this Round, the target character takes -3 DMG the next time.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "Master of Weaponry",
+                "type": "Event",
+                "subType": "",
+                "cost": "0M",
+                "description": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type."
+            },
+            {
+                "name": "Minty Meat Rolls",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "1M",
+                "description": "Before this Round ends, the target character's <b>Normal Attacks</b> cost 1 less <b>Unaligned Element</b>.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "Mondstadt Hash Brown",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "1M",
+                "description": "Heal target character for 2 HP.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "Mushroom Pizza",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "1M",
+                "description": "Heal target character for 1 HP. For the next two Rounds, heal this character for 1 HP again at the End Phase.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "Northern Smoked Chicken",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "0M",
+                "description": "During this Round, the target character's <b>Normal Attacks</b> cost 1 less <b>Unaligned Element</b>.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "Quick Knit",
+                "type": "Event",
+                "subType": "",
+                "cost": "1M",
+                "description": "Choose one Summon on your side and grant it +1 <b>Usage(s)</b>."
+            },
+            {
+                "name": "Send Off",
+                "type": "Event",
+                "subType": "",
+                "cost": "2U",
+                "description": "Choose one Summon on the opposing side and destroy it."
+            },
+            {
+                "name": "Starsigns",
+                "type": "Event",
+                "subType": "",
+                "cost": "2U",
+                "description": "Your current Active Character gains <b>1 Energy</b>."
+            },
+            {
+                "name": "Strategize",
+                "type": "Event",
+                "subType": "",
+                "cost": "1M",
+                "description": "Draw 2 cards."
+            },
+            {
+                "name": "Sweet Madame",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "0M",
+                "description": "Heal target character for 1 HP.<br />(A character can consume at most 1 Food per Round.)"
+            },
+            {
+                "name": "The Bestest Travel Companion!",
+                "type": "Event",
+                "subType": "",
+                "cost": "2U",
+                "description": "Convert the Elemental Dice spent to <b>Omni Element</b> ×2."
+            },
+            {
+                "name": "Toss-Up",
+                "type": "Event",
+                "subType": "",
+                "cost": "0M",
+                "description": "Select any Elemental Dice to <b>reroll</b>. Can reroll 2 times."
+            },
+            {
+                "name": "When the Crane Returned",
+                "type": "Event",
+                "subType": "",
+                "cost": "1M",
+                "description": "<b>The next time you use a Skill</b>: Switch your next character in to be the active character."
             }
         ]
     }
