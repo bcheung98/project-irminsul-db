@@ -893,7 +893,7 @@
                 "description": "<b>After a character uses an Elemental Burst</b>: All your characters on standby gain 1 <b>Energy</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
-                "name": "Featherfall Judgement",
+                "name": "Featherfall Judgment",
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Cyno",
