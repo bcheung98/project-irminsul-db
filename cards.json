@@ -816,7 +816,7 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the opposing character uses a Skill</b>:If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the opposing character uses a Skill</b>: If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Archaic Petra",
@@ -1080,28 +1080,28 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Sacrificial Fragments",
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Sacrificial Greatsword",
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Sacrificial Sword",
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Shaken, Not Purred",
@@ -1116,21 +1116,21 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Skyward Harp",
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Skyward Spine",
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             },
             {
                 "name": "Steady Breathing",
@@ -1279,7 +1279,7 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b>The character deals +1 DMG</b>.<br />Deal +2 additional DMG if the target's remaining HP is equal or less than 6.(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+                "description": "<b>The character deals +1 DMG</b>.<br />Deal +2 additional DMG if the target's remaining HP is equal or less than 6.<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             }
         ]
     }
