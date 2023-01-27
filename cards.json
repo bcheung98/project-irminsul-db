@@ -805,10 +805,481 @@
         "cardType": "action",
         "cards": [
             {
-                "name": "Chang the Ninth",
-                "subType": "Companion",
-                "cost": "0U",
-                "description": "After either side uses a Skill: If <b><b>Physical DMG</b></b> or <b><b>Piercing DMG</b></b> was dealt, or an Elemental Reaction was triggered, this card gains 1 Inspiration.<br />When this card gains 3 Inspiration, discard this card, then draw 2 cards."
+                "name": "Adventurer's Bandana",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "1M",
+                "description": "<b>After a character uses a Normal Attack</b>: Heal self for 1 HP. (Max 3 times per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Aquila Favonia",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the opposing character uses a Skill</b>:If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Archaic Petra",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-geo\">Geo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Awakening",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Razor",
+                "cost": "4E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Razor</b>, equip this card.<br />After Razor equips this card, immediately use <b class=\"text-highlight\">Claw and Thunder</b> once.<br />After your Razor, who has this card equipped, uses <b>Claw and Thunder</b>: 1 of your Electro characters gains 1 Energy. (Active Character prioritized)<br />(You must have Razor in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Blizzard Strayer",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-cryo\">Cryo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Broken Rime's Echo",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Chaotic Entropy",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Sucrose",
+                "cost": "3A 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Sucrose</b>, equip this card.<br />After Sucrose equips this card, immediately use <b class=\"text-highlight\">Forbidden Creation - Isomer 75 / Type II</b> once.<br />After the <b>Large Wind Spirit</b> created by your Sucrose, who has this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.<br />(You must have Sucrose in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Cold-Blooded Strike",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Kaeya",
+                "cost": "4C",
+                "description": "<b>Combat Action</b>: When your active character is <b>Kaeya</b>, equip this card.<br />After Kaeya equips this card, immediately use <b class=\"text-highlight\">Frostgnaw</b> once.<br />After your Kaeya, who has this card equipped, uses <b>Frostgnaw</b>, he heals himself for 2 HP. (Once per Round)<br />(You must have Kaeya in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Crimson Witch of Flames",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-pyro\">Pyro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Crossfire",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Xiangling",
+                "cost": "4P",
+                "description": "<b>Combat Action</b>: When your active character is <b>Xiangling</b>, equip this card.<br />After Xiangling equips this card, immediately use <b class=\"text-highlight\">Guoba Attack</b> once.<br />When your Xiangling, who has this card equipped, uses <b>Guoba Attack</b>, she will also deal 1 <b class=\"text-pyro\">Pyro DMG</b>. (Once per Round)<br />(You must have Xiangling in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Deepwood Memories",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-dendro\">Dendro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Exile's Circlet",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2U",
+                "description": "<b>After a character uses an Elemental Burst</b>: All your characters on standby gain 1 <b>Energy</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Featherfall Judgement",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Cyno",
+                "cost": "3E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Cyno</b>, equip this card.<br />After Cyno equips this card, immediately use <b class=\"text-highlight\">Secret Rite: Chasmic Soulfarer</b> once.<br />When your Cyno, who has this card equipped, uses <b>Secret Rite: Chasmic Soulfarer</b> with 3 or 5 levels of <b>Pactsworn Pathclearer</b>'s Indwelling effect, deal +1 additional DMG. (Once per Round)<br />(You must have Cyno in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Floral Sidewinder",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Collei",
+                "cost": "4D",
+                "description": "<b>Combat Action</b>: When your active character is <b>Collei</b>, equip this card.<br />After Collei equips this card, immediately use <b class=\"text-highlight\">Floral Brush</b> once.<br />When your Collei, who has this card equipped, uses <b>Floral Brush</b> during this Round, when your characters' Skills trigger <b class=\"text-dendro\">Dendro-Related Reactions</b>: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>. (Once per Round)<br />(You must have Collei in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Flowing Flame",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Diluc",
+                "cost": "3P",
+                "description": "<b>Combat Action</b>: When your active character is <b>Diluc</b>, equip this card.<br />After Diluc equips this card, immediately use <b class=\"text-highlight\">Searing Onslaught</b> once.<br />When your Diluc, who has this card equipped, uses <b>Searing Onslaught</b> for the second time in one Round, spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br />(You must have Diluc in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Gambler's Earrings",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "1M",
+                "description": "<b>After an opposing character is defeated</b>: If the character this card is attached to is the active character, create <b>Omni Element</b> ×2.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Glorious Season",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Barbara",
+                "cost": "4H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Barbara</b>, equip this card.<br />After Barbara equips this card, immediately use <b class=\"text-highlight\">Let the Show Begin♪</b> once.<br />When your Barbara, who has this card equipped, is on the field, <b>Melody Loop</b> will allow you to spend 1 less Elemental Die the next time you use \"Switch Character\". (Once per Round)<br />(You must have Barbara in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Grand Expectation",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Bennett",
+                "cost": "4P 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Bennett</b>, equip this card.<br />After Bennett equips this card, immediately use <b class=\"text-highlight\">Fantastic Voyage</b> once.<br />When your Bennett, who has this card equipped, creates an <b>Inspiration Field</b>, its DMG Bonus is now always active and will no longer have an HP restriction.<br />(You must have Bennett in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Heart of Depth",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-hydro\">Hydro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "I Got Your Back",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Noelle",
+                "cost": "3G",
+                "description": "<b>Combat Action</b>: When your active character is <b>Noelle</b>, equip this card.<br />After Noelle equips this card, immediately use <b class=\"text-highlight\">Breastplate</b> once.<br />When your Noelle, who has this card equipped, creates a <b>Full Plate</b>, it will heal all your characters for 1 HP after Noelle uses a <b>Normal Attack</b>. (Once per Round)<br />(You must have Noelle in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Instructor's Cap",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2U",
+                "description": "<b>After a character triggers an Elemental Reaction</b>: Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Kanten Senmyou Blessing",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Ayaka",
+                "cost": "2C",
+                "description": "The <b>Cryo Elemental Infusion</b> created by your <b>Ayaka</b>, who has this card equipped, allows the character to which it is attached to deal +1 <b class=\"text-cryo\">Cryo DMG</b>.<br />When you switch to Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)<br />(You must have Ayaka in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Lands of Dandelion",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Jean",
+                "cost": "4A 3N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Jean</b>, equip this card.<br />After Jean equips this card, immediately use <b class=\"text-highlight\">Dandelion Breeze</b> once.<br />When your Jean, who has this card equipped, is on the field, <b>Dandelion Field</b> will cause you to deal +1 <b class=\"text-anemo\">Anemo DMG</b>.<br />(You must have Jean in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Laurel Coronet",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Lightning Storm",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Beidou",
+                "cost": "3E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Beidou</b>, equip this card.<br />After Beidou equips this card, immediately use <b class=\"text-highlight\">Tidecaller</b> once.<br />When your Beidou, who has this card equipped, uses <b>Wavestrider</b>: If DMG is taken while Prepare Skill is active, Beidou's Normal Attacks this Round will cost 1 less Unaligned Element. (Can be triggered 2 times)<br />(You must have Beidou in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Lithic Spear",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br />When played: For each party member from Liyue, grant <b>1 Shield point</b> to the character to which this is attached. (Max 3 points)<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Lucky Dog's Silver Circlet",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2U",
+                "description": "<b>After a character uses an Elemental Skill</b>: Heal self for 2 HP. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Magic Guide",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Mask of Solitude Basalt",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Mirror Cage",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Mirror Maiden",
+                "cost": "4H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Mirror Maiden</b>, equip this card.<br />After Mirror Maiden equips this card, immediately use <b class=\"text-highlight\">Influx Blast</b> once.<br />When your Mirror Maiden, who has this card equipped, creates a <b>Refraction</b>, it will have the following effects: Starting <b>Duration (Rounds)</b> +1, will increase the Elemental Dice Cost of switching from a character to which this is attched to another character by 1.<br />(You must have Mirror Maiden in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Naganohara Meteor Swarm",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Yoimiya",
+                "cost": "2P",
+                "description": "<b>Combat Action</b>: When your active character is <b>Yoimiya</b>, equip this card.<br />After Yoimiya equips this card, immediately use <b class=\"text-highlight\">Niwabi Fire-Dance</b> once.<br />After your Yoimiya, who has this card equipped, triggers <b>Niwabi Enshou</b>: Deal 1 additional <b class=\"text-pyro\">Pyro DMG</b>.<br />(You must have Yoimiya in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Paid in Full",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Fatui Pyro Agent",
+                "cost": "3P",
+                "description": "<b>Combat Action</b>: When your active character is <b>Fatui Pyro Agent</b>, equip this card.<br />After Fatui Pyro Agent equips this card, immediately use <b class=\"text-highlight\">Prowl</b> once.<br />When your Fatui Pyro Agent, who has this card equipped, creates a <b>Stealth</b>, it will have the following effect: Starting <b>Usage(s)</b> +1, the <b>Physical DMG</b> the character deals will be converted to <b class=\"text-pyro\">Pyro DMG</b>.<br />(You must have Fatui Pyro Agent in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Pounding Surprise",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Klee",
+                "cost": "3P",
+                "description": "<b>Combat Action</b>: When your active character is <b>Klee</b>, equip this card.<br />After Klee equips this card, immediately use <b class=\"text-highlight\">Jumpy Dumpty</b> once.<br />When your Klee, who has this card equipped, creates an <b>Explosive Spark</b>, its <b>Usage(s)</b> +1.<br />(You must have Klee in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Proliferating Spores",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Jadeplume Terrorshroom",
+                "cost": "3D",
+                "description": "<b>Combat Action</b>: When your active character is <b>Jadeplume Terrorshroom</b>, equip this card.<br />After Jadeplume Terrorshroom equips this card, immediately use <b class=\"text-highlight\">Volatile Spore Cloud</b> once.<br />Your Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.<br />(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Prophecy of Submersion",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Mona",
+                "cost": "3H 3N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Mona</b>, equip this card.<br />After Mona equips this card, immediately use <b class=\"text-highlight\">Stellaris Phantasm</b> once.<br />When your Mona, who has this card equipped, is the active character, the <b class=\"text-hydro\">Hydro-Related Reactions</b> you trigger deal +2 additional DMG.<br />(You must have Mona in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Raven Bow",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Sacrificial Bow",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Sacrificial Fragments",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Sacrificial Greatsword",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Sacrificial Sword",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Shaken, Not Purred",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Diona",
+                "cost": "4C",
+                "description": "<b>Combat Action</b>: When your active character is <b>Diona</b>, equip this card.<br />After Diona equips this card, immediately use <b class=\"text-highlight\">Icy Paws</b> once.<br />When your Diona, who has this card equipped, creates a <b>Cat-Claw Shield</b>, its <b>Shield</b> points +1.<br />(You must have Diona in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Skyward Atlas",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Skyward Harp",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Skyward Spine",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Steady Breathing",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Chongyun",
+                "cost": "4C",
+                "description": "<b>Combat Action</b>: When your active character is <b>Chongyun</b>, equip this card.<br />After Chongyun equips this card, immediately use <b class=\"text-highlight\">Chonghua's Layered Frost</b> once.<br />When your Chongyun, who has this card equipped, creates a <b>Chonghua Frost Field</b>, it will have the following effects: Starting <b>Duration (Rounds)</b> +1, will cause your Sword, Claymore, and Polearm-wielding charactes' <b>Normal Attacks</b> to deal +1 DMG.<br />(You must have Chongyun in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Stellar Predator",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Fischl",
+                "cost": "3E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Fischl</b>, equip this card.<br />After Fischl equips this card, immediately use <b class=\"text-highlight\">Nightrider</b> once.<br />When your Fischl, who has this card equipped, creates an <b>Oz</b>, and after Fischl uses a <b>Normal Attack</b>: Deal 2 <b class=\"text-electro\">Electro DMG</b>. (Consumes Usage(s))<br />(You must have Fischl in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Stonehide Reforged",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Stonehide Lawachurl",
+                "cost": "4G 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Stonehide Lawachurl</b>, equip this card.<br />After Stonehide Lawachurl equips this card, immediately use <b class=\"text-highlight\">Upa Shato</b> once.<br />When your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach <b>Stonehide</b> and <b>Stone Force</b>.<br />(You must have Stonehide Lawachurl in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Strategic Reserve",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Ningguang",
+                "cost": "4G",
+                "description": "<b>Combat Action</b>: When your active character is <b>Ningguang</b>, equip this card.<br />After Ningguang equips this card, immediately use <b class=\"text-highlight\">Jade Screen</b> once.<br />When your Ningguang, who has this card equipped, is on the field, <b>Jade Screen</b> will cause you to deal +1 <b class=\"text-geo\">Geo DMG</b>.<br />(You must have Ningguang in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Streaming Surge",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Rhodeia of Loch",
+                "cost": "4H 3N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Rhodeia of Loch</b>, equip this card.<br />After Rhodeia of Loch equips this card, immediately use <b class=\"text-highlight\">Tide and Torrent</b> once.<br />When your Rhodeia of Loch, who has this card equipped, uses <b>Tide and Torrent</b>, all of your Summon(s) gain +1 <b>Usage(s)</b>.<br />(You must have Rhodeia of Loch in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "The Scent Remained",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Xingqiu",
+                "cost": "4H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Xingqiu</b>, equip this card.<br />After Xingqiu equips this card, immediately use <b class=\"text-highlight\">Fatal Rainscreen</b> once.<br />When your Xingqiu, who has this card equipped, creates a <b>Rain Sword</b>, its starting <b>Usage(s)</b> +1.<br />(You must have Xingqiu in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Thunder Summoner's Crown",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Thundering Fury",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-electro\">Electro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Thundering Penance",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Keqing",
+                "cost": "3E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Keqing</b>, equip this card.<br />After Keqing equips this card, immediately use <b class=\"text-highlight\">Stellar Restoration</b> once.<br />When your Keqing, who has this card equipped, creates an <b>Electro Elemental Infusion</b>, it will have the following effects: Staring <b>Duration (Rounds)</b> +1, <b class=\"text-electro\">Electro DMG</b> dealt by the attached character +1.<br />(You must have Keqing in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Transcendent Automaton",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Maguu Kenki",
+                "cost": "3A",
+                "description": "<b>Combat Action</b>: When your active character is <b>Maguu Kenki</b>, equip this card.<br />After Maguu Kenki equips this card, immediately use <b class=\"text-highlight\">Blustering Blade</b> once.<br />When your Maguu Kenki, who has this card equipped, uses <b>Blustering Blade</b>, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses <b>Frosty Assault</b>.<br />(You must have Maguu Kenki in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Traveler's Handy Sword",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Traveling Doctor's Handkerchief",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "1M",
+                "description": "<b>After a character uses an Elemental Burst</b>: Heal all your characters for 1 HP. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Undivided Heart",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Ganyu",
+                "cost": "5C",
+                "description": "<b>Combat Action</b>: When your active character is <b>Ganyu</b>, equip this card.<br />After Ganyu equips this card, immediately use <b class=\"text-highlight\">Frostflake Arrow</b> once.<br />When your Ganyu, who has this card equipped, uses <b>Frostflake Arrow</b>: <b class=\"text-cryo\">Cryo DMG</b> dealt by this Skill +1 if this Skill has been used before during this match, and it now deals 3 <b>Piercing DMG</b> to all opposing characters on standby instead.<br />(You must have Ganyu in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Viridescent Venerer",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-anemo\">Anemo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Viridescent Venerer's Diadem",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "White Iron Greatsword",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "White Tassel",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Wine-Stained Tricorne",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Witch's Scorching Hat",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Wolf's Gravestone",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br />Deal +2 additional DMG if the target's remaining HP is equal or less than 6.(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
             }
         ]
     }
