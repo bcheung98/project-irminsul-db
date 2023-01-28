@@ -1566,7 +1566,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "0M",
-                "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>"
+                "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>."
             },
             {
                 "name": "Jueyun Guoba",
