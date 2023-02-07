@@ -270,6 +270,11 @@
             "startDate": "January 18, 2023",
             "endDate": "February 7, 2023",
             "banner": ["Alhaitham", "Xiao", "Xinyan", "Yaoyao", "Yun Jin"]
+        },
+        "phase2": {
+            "startDate": "February 7, 2023",
+            "endDate": "February 28, 2023",
+            "banner": ["Hu Tao", "Yelan", "Beidou", "Ningguang", "Xingqiu"]
         }
     }
 ]

@@ -265,6 +265,11 @@
             "startDate": "January 18, 2023",
             "endDate": "February 7, 2023",
             "banner": ["Light of Foliar Incision", "Primordial Jade Winged-Spear", "Sacrificial Bow", "The Flute", "Lithic Spear", "The Widsith", "Rainslasher"]
+        },
+        "phase2": {
+            "startDate": "February 7, 2023",
+            "endDate": "February 28, 2023",
+            "banner": ["Staff of Homa", "Aqua Simulacra", "Rust", "Favonius Sword", "Dragon's Bane", "Favonius Codex", "Lithic Blade"]
         }
     }
 ]
