@@ -90,6 +90,18 @@
         "birthday": "August 10",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "5-Star Outrider",
+                "rarity": 4,
+                "description": "Amber's outfit. An Outrider's uniform made for maximum mobility."
+            },
+            {
+                "name": "100% Outrider",
+                "rarity": 4,
+                "description": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!"
+            }
+        ],
         "voiceActors": {
             "en": "Kelly Baskin",
             "jp": "Manaka Iwami (石見舞菜香)"
@@ -190,6 +202,18 @@
         "birthday": "July 5",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Innocent Longing",
+                "rarity": 4,
+                "description": "Barbara's outfit. A Deaconess's uniform from the Church of Favonius with a unique Barbara streak running through it."
+            },
+            {
+                "name": "Summertime Sparkle",
+                "rarity": 4,
+                "description": "Barbara's beach attire. This pretty skirt brims with summer vitality and carries with it a cool ocean breeze."
+            }
+        ],
         "voiceActors": {
             "en": "Laura Stahl",
             "jp": "Akari Kitō (鬼頭明里)"
@@ -290,6 +314,13 @@
         "birthday": "February 14",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Rolling Waves",
+                "rarity": 4,
+                "description": "Beidou's outfit. LIghtweight clothing saturated with a brave seafarer's spirit."
+            }
+        ],
         "voiceActors": {
             "en": "Allegra Clark",
             "jp": "Ami Koshimizu (小清水亜美)"
@@ -390,6 +421,13 @@
         "birthday": "February 29",
         "gender": "Male",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Fortune's Favor",
+                "rarity": 4,
+                "description": "Bennett's outfit. An old adventurer's uniform that has been patched and sewn up in various places."
+            }
+        ],
         "voiceActors": {
             "en": "Cristina Vee Valenzuela",
             "jp": "Ryōta Ōsaka (逢坂良太)"
@@ -490,6 +528,13 @@
         "birthday": "September 7",
         "gender": "Male",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Pure Spirit",
+                "rarity": 4,
+                "description": "Chongyun's outfit. A traditional thaumaturge's trappings."
+            }
+        ],
         "voiceActors": {
             "en": "Beau Bridgland",
             "jp": "Soma Saito (斉藤壮馬)"
@@ -589,6 +634,18 @@
         "birthday": "April 30",
         "gender": "Male",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Darknight Blaze",
+                "rarity": 4,
+                "description": "Diluc's outfit. A smart and tasteful suit fit for a nobleman."
+            },
+            {
+                "name": "Red Dead of Night",
+                "rarity": 5,
+                "description": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows.<br />The crimson red traces it leave behind at the edges of the enemy's vision will scar their nightmares forever."
+            }
+        ],
         "voiceActors": {
             "en": "Sean Chiplock",
             "jp": "Kensho Ono (小野賢章)"
@@ -689,6 +746,18 @@
         "birthday": "May 27",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Dunkelnacht Sakrament",
+                "rarity": 4,
+                "description": "Fischl's outfit. The Prinzessin der Verurteilung's customary vestments during her sojourn upon this realm."
+            },
+            {
+                "name": "Ein Immernachtstraum",
+                "rarity": 4,
+                "description": "A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her."
+            }
+        ],
         "voiceActors": {
             "en": "Brittany Cox & Ben Pronsky",
             "jp": "Maaya Uchida (内田真礼) & Yasunori Masutani (増谷康紀)"
@@ -789,6 +858,23 @@
         "birthday": "March 14",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Favonian Devotion",
+                "rarity": 4,
+                "description": "Jean's outfit. Neat and smart clothing that emphasizes her chivalry."
+            },
+            {
+                "name": "Sea Breeze Dandelion",
+                "rarity": 4,
+                "description": "Jean's summer wear. Light and cool, but no less elegant for it. The perfect choice for a trip to the seaside."
+            },
+            {
+                "name": "Gunnhildr's Legacy",
+                "rarity": 4,
+                "description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions."
+            }
+        ],
         "voiceActors": {
             "en": "Stephanie Southerland",
             "jp": "Chiwa Saitō (斎藤千和)"
@@ -889,6 +975,13 @@
         "birthday": "November 30",
         "gender": "Male",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Icy Featherflight",
+                "rarity": 4,
+                "description": "Kaeya's outfit. Fashionable clothes festooned with a fur collar."
+            }
+        ],
         "voiceActors": {
             "en": "Josey Montana McCoy",
             "jp": "Kohsuke Toriumi (鳥海浩輔)"
@@ -988,6 +1081,18 @@
         "birthday": "November 20",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Piercing Thunderbolt",
+                "rarity": 4,
+                "description": "Keqing's outfit. A formidable-looking dress made using luxurious materials."
+            },
+            {
+                "name": "Opulent Splendor",
+                "rarity": 4,
+                "description": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance."
+            }
+        ],
         "voiceActors": {
             "en": "Kayli Mills",
             "jp": "Eri Kitamura (喜多村英梨)"
@@ -1088,6 +1193,18 @@
         "birthday": "June 9",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Purple Rose",
+                "rarity": 4,
+                "description": "Lisa's outfit. A slim-fit dress adorned with roses that displays a young lady's elegance."
+            },
+            {
+                "name": "A Sobriquet Under Shade",
+                "rarity": 4,
+                "description": "An outfit Lisa had someone commission for her when she revisited Sumeru. A perfect balance between practicality and elegance, the dress bears a resemblance to Lisa's old uniform from the Akademiya days."
+            }
+        ],
         "voiceActors": {
             "en": "Mara Junot",
             "jp": "Rie Tanaka (田中理恵)"
@@ -1196,6 +1313,18 @@
         "birthday": "August 31",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Flowing Fate",
+                "rarity": 4,
+                "description": "Mona's outfit. A light astrologist's outfit that does away with superfluous fabric to provide top quality at an affordable price."
+            },
+            {
+                "name": "Pact of Stars and Moon",
+                "rarity": 4,
+                "description": "Mona's outfit. A costume made specifically to encompass the astrological concept of \"the destined moment,\" thanks to the 30% discount ticket she got from the planetarium refund."
+            }
+        ],
         "voiceActors": {
             "en": "Felecia Angelle",
             "jp": "Konomi Kohara (小原好美)"
@@ -1296,6 +1425,18 @@
         "birthday": "August 26",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Gold Leaf and Pearly Jade",
+                "rarity": 4,
+                "description": "Ningguang's outfit. Intricate embroidery is the hallmark of this graceful dress."
+            },
+            {
+                "name": "Orchid's Evening Gown",
+                "rarity": 4,
+                "description": "Ningguang's formal wear. The long cyan skirt traces her elegant curves, and the butterfly wings at her ankles lend the outfit a touch of light grace."
+            }
+        ],
         "voiceActors": {
             "en": "Erin Ebers",
             "jp": "Sayaka Ohara (大原さやか)"
@@ -1396,6 +1537,13 @@
         "birthday": "March 21",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Armored Rose",
+                "rarity": 4,
+                "description": "Noelle's outfit. Heavy clothing made of durable velvet and metal plates."
+            }
+        ],
         "voiceActors": {
             "en": "Laura Faye Smith",
             "jp": "Kanon Takao (高尾奏音)"
@@ -1496,6 +1644,13 @@
         "birthday": "March 3",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Summerchill Dreams",
+                "rarity": 4,
+                "description": "Qiqi's outfit. A herb gatherer's garment that brings her great peace of mind due to the attached talismans."
+            }
+        ],
         "voiceActors": {
             "en": "Christie Cate",
             "jp": "Yukari Tamura (田村ゆかり)"
@@ -1596,6 +1751,13 @@
         "birthday": "September 9",
         "gender": "Male",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Wild Sprint",
+                "rarity": 4,
+                "description": "Razor's outfit. Rough and ready clothes suited for running out in the wilderness."
+            }
+        ],
         "voiceActors": {
             "en": "Todd Haberkorn",
             "jp": "Kōki Uchiyama (内山昂輝)"
@@ -1696,6 +1858,13 @@
         "birthday": "November 26",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Germinating Wind",
+                "rarity": 4,
+                "description": "Sucrose's outfit. A Knights of Favonius alchemist's uniform customized for Sucrose."
+            }
+        ],
         "voiceActors": {
             "en": "Valeria Rodriguez",
             "jp": "Akane Fujita (藤田茜)"
@@ -1796,6 +1965,13 @@
         "birthday": "November 2",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Red Pepper and Turmeric",
+                "rarity": 4,
+                "description": "Xiangling's outfit. Light and comfortable clothing brimming with fiery passion."
+            }
+        ],
         "voiceActors": {
             "en": "Jackie Lastra",
             "jp": "Ari Ozawa (小澤亜李)"
@@ -1896,6 +2072,13 @@
         "birthday": "October 9",
         "gender": "Male",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Azure Silk",
+                "rarity": 4,
+                "description": "Xingqiu's outfit. Fine robes woven from the high-quality silk sold by the Feiyun Commerce Guild."
+            }
+        ],
         "voiceActors": {
             "en": "Cristina Vee Valenzuela",
             "jp": "Junko Minagawa (皆川純子)"
@@ -1996,6 +2179,13 @@
         "birthday": "June 16",
         "gender": "Male",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Breezy Ode",
+                "rarity": 4,
+                "description": "Venti's outfit. The clothes of a carefree bard."
+            }
+        ],
         "voiceActors": {
             "en": "Erika Harlacher",
             "jp": "Ayumu Murase (村瀬歩)"
@@ -2096,6 +2286,13 @@
         "birthday": "July 27",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Shooting Spark",
+                "rarity": 4,
+                "description": "Klee's outfit. A set of clothing for an energetic child that even comes with a matching leather backpack."
+            }
+        ],
         "voiceActors": {
             "en": "Poonam Basu",
             "jp": "Misaki Kuno (久野美咲)"
@@ -2196,6 +2393,13 @@
         "birthday": "January 18",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Sugary Brew",
+                "rarity": 4,
+                "description": "Diona's outfit. The work uniform of the Cat's Tail's star bartender."
+            }
+        ],
         "voiceActors": {
             "en": "Dina Sherman",
             "jp": "Shiori Izawa (井澤詩織)"
@@ -2296,6 +2500,13 @@
         "birthday": "July 20",
         "gender": "Male",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Blades of Glory",
+                "rarity": 4,
+                "description": "Tartaglia's outfit. Illustrious attire that signifies Childe's position as the eleventh Fatui Harbinger."
+            }
+        ],
         "voiceActors": {
             "en": "Griffin Burns",
             "jp": "Ryōhei Kimura (木村良平)"
@@ -2396,6 +2607,13 @@
         "birthday": "October 16",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Ardent Soul",
+                "rarity": 4,
+                "description": "Xinyan's outfit. A rocker's stage costume adorned with spikes."
+            }
+        ],
         "voiceActors": {
             "en": "Laura Stahl",
             "jp": "Chiaki Takahashi (たかはし智秋)"
@@ -2496,6 +2714,13 @@
         "birthday": "December 31",
         "gender": "Male",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Hermit of Mortal Life",
+                "rarity": 4,
+                "description": "Zhongli's outfit. This is the leisurewear of choice for Zhongli, the Wangsheng Funeral Parlor's consultant."
+            }
+        ],
         "voiceActors": {
             "en": "Keith Silverstein",
             "jp": "Tomoaki Maeno (前野智昭)"
@@ -2596,6 +2821,13 @@
         "birthday": "September 13",
         "gender": "Male",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Newmoon Starlight",
+                "rarity": 4,
+                "description": "Albedo's outfit. The Knights of Favonius alchemist's uniform that Albedo often wears when conducting his experiments."
+            }
+        ],
         "voiceActors": {
             "en": "Khoi Dao",
             "jp": "Kenji Nojima (野島健児)"
@@ -2695,6 +2927,13 @@
         "birthday": "December 2",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Frostdew Trail",
+                "rarity": 4,
+                "description": "Ganyu's outfit. Elegant clothes blessed by the mighty and illuminated adepti."
+            }
+        ],
         "voiceActors": {
             "en": "Jennifer Losi",
             "jp": "Reina Ueda (上田麗奈)"
@@ -2794,6 +3033,13 @@
         "birthday": "April 17",
         "gender": "Male",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Endurer of Eons",
+                "rarity": 4,
+                "description": "Xiao's outfit. Classical battle-wear fit for a thousand years of evil-conquering."
+            }
+        ],
         "voiceActors": {
             "en": "Laila Berzins",
             "jp": "Yoshitsugu Matsuoka (松岡禎丞)"
@@ -2893,6 +3139,13 @@
         "birthday": "July 15",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Plum Blossom Bouquet",
+                "rarity": 4,
+                "description": "Hu Tao's outfit. The daily work clothes of the Wangsheng Funeral Parlor's director."
+            }
+        ],
         "voiceActors": {
             "en": "Brianna Knickerbocker",
             "jp": "Rie Takahashi (高橋李依)"
@@ -2993,6 +3246,18 @@
         "birthday": "January 24",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Executor's Thorns",
+                "rarity": 4,
+                "description": "Rosaria's outfit. Rosaria has heavily modified this particular Church of Favonius uniform."
+            },
+            {
+                "name": "To the Church's Free Spirit",
+                "rarity": 4,
+                "description": "Rosaria's outfit. This seems to have been custom-made for her by the Church."
+            }
+        ],
         "voiceActors": {
             "en": "Elizabeth Maxwell",
             "jp": "Ai Kakuma (加隈亜衣)"
@@ -3093,6 +3358,13 @@
         "birthday": "July 28",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Golden Rule",
+                "rarity": 4,
+                "description": "Yanfei's outfit. The dress that the legal adviser Yanfei wears when she heads out to visit clients."
+            }
+        ],
         "voiceActors": {
             "en": "Lizzie Freeman",
             "jp": "Yumiri Hanamori (花守 ゆみり)"
@@ -3192,6 +3464,13 @@
         "birthday": "October 25",
         "gender": "Female",
         "nation": "Mondstadt",
+        "outfits": [
+            {
+                "name": "Wavecrest Waltz",
+                "rarity": 4,
+                "description": "Eula's outfit. Consummate elegance shines through in this neat and smart knight's uniform."
+            }
+        ],
         "voiceActors": {
             "en": "Suzie Yeung",
             "jp": "Rina Sato (佐藤利奈)"
@@ -3293,6 +3572,13 @@
         "birthday": "October 29",
         "gender": "Male",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Falling Leaves",
+                "rarity": 4,
+                "description": "Kaedehara Kazuha's outfit. The maple leaf patterns are the hallmark of this wandering samurai's clothes."
+            }
+        ],
         "voiceActors": {
             "en": "Mark Whitten",
             "jp": "Shimazaki Nobunaga (岛崎信长)"
@@ -3401,6 +3687,18 @@
         "birthday": "September 28",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Flawless Radiance",
+                "rarity": 4,
+                "description": "Kamisato Ayaka's outfit. This kimono features an armor-coated skirt, displaying the nobility and resilience of the Shirasagi Himegimi."
+            },
+            {
+                "name": "Springbloom Missive",
+                "rarity": 4,
+                "description": "Ayaka's travel outfit. Its design is based on the Fontaine dresses depicted in light novel illustrations and seems to reflect the lifestyle of proper ladies who live in that nation."
+            }
+        ],
         "voiceActors": {
             "en": "Erica Mendez",
             "jp": "Saori Hayami (早見 沙織)"
@@ -3501,6 +3799,13 @@
         "birthday": "October 19",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Mini Mujina",
+                "rarity": 4,
+                "description": "Sayu's outfit. Marvelous attire designed after the mysterious animal known as the Mujina."
+            }
+        ],
         "voiceActors": {
             "en": "Lilypichu (Lily Ki)",
             "jp": "Aya Suzaki (洲崎綾)"
@@ -3600,6 +3905,13 @@
         "birthday": "June 21",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Goldfish Firecracker",
+                "rarity": 4,
+                "description": "Yoimiya's outfit. A patchwork of memories from festivals over the years."
+            }
+        ],
         "voiceActors": {
             "en": "Jenny Yokobori",
             "jp": "Kana Ueda (植田佳奈)"
@@ -3701,6 +4013,13 @@
         "birthday": "April 4",
         "gender": "Female",
         "nation": "Outlander",
+        "outfits": [
+            {
+                "name": "Machine Hunter",
+                "rarity": 4,
+                "description": "Aloy's outfit. A hunter's garb suited to life in the wilds."
+            }
+        ],
         "voiceActors": {
             "en": "——",
             "jp": "Ayahi Takagaki (高垣 彩陽)"
@@ -3801,6 +4120,13 @@
         "birthday": "June 26",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Narukami's Law",
+                "rarity": 4,
+                "description": "The Raiden Shogun's outfit. This kimono has been adorned with the Electro Mitsudomoe, granting it the highest honor in the land."
+            }
+        ],
         "voiceActors": {
             "en": "Anne Yatco",
             "jp": "Miyuki Sawashiro (沢城みゆき)"
@@ -3902,6 +4228,13 @@
         "birthday": "July 14",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Solemn Purity",
+                "rarity": 4,
+                "description": "Kujou Sara's outfit. Prim and proper, it is a garment worthy of an Archon's devout servant."
+            }
+        ],
         "voiceActors": {
             "en": "Jeannie Tirado",
             "jp": "Asami Seto (瀬戸 麻沙美)"
@@ -4007,6 +4340,13 @@
         "birthday": "February 22",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Sparkling Coralbone",
+                "rarity": 4,
+                "description": "Sangonomiya Kokomi's outfit. A noble's dress decorated with little precious objects produced in Watatsumi Island."
+            }
+        ],
         "voiceActors": {
             "en": "Risa Mei",
             "jp": "Suzuko Mimori (三森すずこ)"
@@ -4108,6 +4448,13 @@
         "birthday": "January 9",
         "gender": "Male",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Warrior of Flame",
+                "rarity": 4,
+                "description": "Thoma's outfit. He cropped the pieces of this light suit of armor till only the thigh and arm guards were left, allowing him to comfortably attend to all matters in and out of combat."
+            }
+        ],
         "voiceActors": {
             "en": "Christian Banas",
             "jp": "Masakazu Morita (森田 成一)"
@@ -4209,6 +4556,13 @@
         "birthday": "May 18",
         "gender": "Male",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Panoply of a Hundred Hunts",
+                "rarity": 4,
+                "description": "Gorou's outfit. This light armor is designed to allow the marksman-general Gorou to handle his bow with ease. The armoring at the shoulder and elbow is also designed with this in mind."
+            }
+        ],
         "voiceActors": {
             "en": "Cory Yee",
             "jp": "Tasuku Hatanaka (畠中 祐)"
@@ -4309,6 +4663,13 @@
         "birthday": "June 1",
         "gender": "Male",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Eccentric Oni",
+                "rarity": 4,
+                "description": "Itto's outfit. It has an uncommon air of awesomeness about it, and the oni mask worn at the hip is quite imposing indeed — certainly enough to reduce even the naughtiest child of Hanamizaka to terrified tears."
+            }
+        ],
         "voiceActors": {
             "en": "Max Mittelman",
             "jp": "Takanori Nishikawa (西川 貴教)"
@@ -4410,6 +4771,13 @@
         "birthday": "March 10",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "The World's Shackles",
+                "rarity": 4,
+                "description": "Shenhe's outfit. These elegant garments have accompanied her through long years of training. The red ropes that surround her body are fetters and wards simultaneously."
+            }
+        ],
         "voiceActors": {
             "en": "Chelsea Kwoka",
             "jp": "Ayako Kawasumi (川澄 綾子)"
@@ -4511,6 +4879,13 @@
         "birthday": "May 21",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Mistcloud Stage",
+                "rarity": 4,
+                "description": "Yun Jin's outfit. It was made by skilled tailors from the Feiyun Commerce Guild. Yun Jin fell in love with it at first sight, and it is now her favorite set of casual wear."
+            }
+        ],
         "voiceActors": {
             "en": "Judy Alice Lee & Yang Yang (杨扬)",
             "jp": "Kotori Koiwai (小岩井 ことり) & Yang Yang (杨扬)"
@@ -4611,6 +4986,13 @@
         "birthday": "June 27",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Miko's Instruction",
+                "rarity": 4,
+                "description": "Yae Miko's outfit. A shrine maiden uniform that declares her lofty position as the Guuji of the Grand Narukami Shrine to all. May the lovely sight of her in that dress remain forever, just as the Sacred Sakura emblazoned upon her pure white skirt, which will never wilt away."
+            }
+        ],
         "voiceActors": {
             "en": "Ratana",
             "jp": "Ayane Sakura (佐倉綾音)"
@@ -4711,6 +5093,13 @@
         "birthday": "March 26",
         "gender": "Male",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Silk Splendor",
+                "rarity": 4,
+                "description": "Kamisato Ayato's outfit. The kimono itself is made using uncommon fabrics, and its patterning recalls a mountain spring, giving off a feeling of calm and stability that matches its wearer."
+            }
+        ],
         "voiceActors": {
             "en": "Chris Hackney",
             "jp": "Akira Ishida (石田 彰)"
@@ -4811,6 +5200,13 @@
         "birthday": "April 20",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "The Waning Point",
+                "rarity": 4,
+                "description": "Yelan's outfit. It has lurked alongside its wearer in the shadows over many a year, to the point where the outfit almost has a mysterious temper of its own, like an orchid blooming at midnight."
+            }
+        ],
         "voiceActors": {
             "en": "Laura Post",
             "jp": "Aya Endō (遠藤 綾)"
@@ -4912,6 +5308,13 @@
         "birthday": "July 27",
         "gender": "Female",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Arataki's Demonic Deputy",
+                "rarity": 4,
+                "description": "Kuki Shinobu's outfit. The iconic oni mask she wears symbolizes her role as the Arataki Gang's terrifying \"demonic deputy.\""
+            }
+        ],
         "voiceActors": {
             "en": "Kira Buckland",
             "jp": "Kaori Mizuhashi (水橋 かおり)"
@@ -5013,6 +5416,13 @@
         "birthday": "July 24",
         "gender": "Male",
         "nation": "Inazuma",
+        "outfits": [
+            {
+                "name": "Spirited Valor",
+                "rarity": 4,
+                "description": "Shikanoin Heizou's outfit style. Having taken his outer coat off and tucked it around his waist, the Tenryou Commission detective cuts quite the dashing figure."
+            }
+        ],
         "voiceActors": {
             "en": "Kieran Regan",
             "jp": "Yūichi Iguchi (井口 祐一)"
@@ -5114,6 +5524,13 @@
         "birthday": "May 8",
         "gender": "Female",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "A New Leaf",
+                "rarity": 4,
+                "description": "Collei's outfit. Now that she no longer needs to remain bundled in a thick cloak, she is free to emerge like a newly-sprouted leaf and welcome every lovely sunrise."
+            }
+        ],
         "voiceActors": {
             "en": "Christina Costello",
             "jp": "Ryoko Maekawa (前川 涼子)"
@@ -5215,6 +5632,13 @@
         "birthday": "December 29",
         "gender": "Male",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Woodland Song",
+                "rarity": 4,
+                "description": "Tighnari's outfit. Clad in the colors of wood, tree, and flower, Tighnari is surrounded at all times by natural life, determined even in fashion sense to put the \"forest\" in \"Forest Watcher.\""
+            }
+        ],
         "voiceActors": {
             "en": "Elliot Gindi",
             "jp": "Sanae Kobayashi (小林 沙苗)"
@@ -5316,6 +5740,13 @@
         "birthday": "December 21",
         "gender": "Female",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "I Love Mora",
+                "rarity": 4,
+                "description": "Dori's outfit. This outfit almost begs to be further adorned with gems and precious metals, loudly announcing its wearer's love of wealth to the world. And they say that this is the merchant Dori's casual wear... So does this mean that she has clothes even more expensive than this one!?"
+            }
+        ],
         "voiceActors": {
             "en": "Anjali Kunapaneni",
             "jp": "Tomoko Kaneda (金田 朋子)"
@@ -5417,6 +5848,13 @@
         "birthday": "May 3",
         "gender": "Female",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Desert and Night",
+                "rarity": 4,
+                "description": "Candace's outfit. No matter where she goes, the golden sands and the nights of her homeland that adorn her clothes go together with her."
+            }
+        ],
         "voiceActors": {
             "en": "Shara Kirby",
             "jp": "Yuzuki Ryoka (柚木 涼香)"
@@ -5517,6 +5955,13 @@
         "birthday": "June 23",
         "gender": "Male",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Heart of the Scales",
+                "rarity": 4,
+                "description": "Cyno's outfit. This garb displays the General Mahamatra's dignity and the just principles he sticks by. It was a rather complicated piece to commission due to Cyno's request for the custom-made head ornaments and requires regular maintenance."
+            }
+        ],
         "voiceActors": {
             "en": "Alejandro Saab",
             "jp": "Irino Miyu (入野 自由)"
@@ -5618,6 +6063,13 @@
         "birthday": "December 3",
         "gender": "Female",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Neither Flower Nor Mist",
+                "rarity": 4,
+                "description": "Nilou's outfit. It is neither flower nor mist, but when she begins to dance, both seem to bloom into being."
+            }
+        ],
         "voiceActors": {
             "en": "Dani Chambers",
             "jp": "Hisako Kanemoto (金元 寿子)"
@@ -5719,6 +6171,13 @@
         "birthday": "October 27",
         "gender": "Female",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "For All Knowledge, a Verse",
+                "rarity": 4,
+                "description": "Nahida's outfit. Only the oracles that interpret knowledge may robe the God of Wisdom, and so even the smallest ornament is viewed by believers as holy writ."
+            }
+        ],
         "voiceActors": {
             "en": "Kimberley Anne Campbell",
             "jp": "Yukari Tamura (田村ゆかり)"
@@ -5820,6 +6279,13 @@
         "birthday": "December 19",
         "gender": "Female",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Dreaming Star",
+                "rarity": 4,
+                "description": "Layla's outfit. In the depths of quiet nights, the stars that dot the sky wrap her like a cloak, guiding her into sweet dreams - well, or so she dearly wishes might happen."
+            }
+        ],
         "voiceActors": {
             "en": "Ashely Biski",
             "jp": "Miyu Tomita (富田 美憂)"
@@ -5921,6 +6387,13 @@
         "birthday": "August 20",
         "gender": "Female",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Pristine Elegance",
+                "rarity": 4,
+                "description": "Faruzan's outfit. The relatively plain yet elegant style represents her unfaltering purity. This style was very popular in the Akademiya a hundred years ago, but has now become an uncommon sight."
+            }
+        ],
         "voiceActors": {
             "en": "Chandni Parekh",
             "jp": "Yui Horie (堀江 由衣)"
@@ -6021,6 +6494,13 @@
         "birthday": "January 3",
         "gender": "Male",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "A Wrathful Void",
+                "rarity": 4,
+                "description": "Wanderer's outfit. An ascetic's garb and hat can provide the wanderer some shelter from the rain, but they can do nothing to quell the winds and storms raging within."
+            }
+        ],
         "voiceActors": {
             "en": "Patrick Pedraza",
             "jp": "Tetsuya Kakihara (柿原 徹也)"
@@ -6122,6 +6602,13 @@
         "birthday": "February 11",
         "gender": "Male",
         "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "The Rational",
+                "rarity": 4,
+                "description": "Alhaitam's outfit. \"Don't bother the Scribe with trivialities... What do you think those soundproofers of his are for, anyway?\"<br />So observed an experienced staff member at the Temple of Silence."
+            }
+        ],
         "voiceActors": {
             "en": "Nazeeh Tarsha",
             "jp": "Yūichirō Umehara (梅原 裕一郎)"
@@ -6223,6 +6710,13 @@
         "birthday": "March 6",
         "gender": "Female",
         "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Cherubic Osmanthus",
+                "rarity": 4,
+                "description": "Yaoyao's outfit. A lovely, short jacket Yaoyao's parents made for her. As the little girl travels safely between Qingce Village and Liyue Harbor, this jacket, along with the adeptal bells her master gave her, always keeps her company."
+            }
+        ],
         "voiceActors": {
             "en": "Kelsey Jaffer",
             "jp": "Mai Kadowaki (門脇 舞以)"
