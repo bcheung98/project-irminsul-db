@@ -798,6 +798,84 @@
                         "description": "Deals 4 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Aurous Blaze.<br /><br /><b>Aurous Blaze</b><br />After your character other than Yoimiya uses a Skill: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
+            },
+            {
+                "name": "Eula",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Claymore",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Favonius Bladework - Edel",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Icetide Vortex",
+                        "cost": "3C",
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>. If this character has not gained <b>Grimheart</b>, they will gain <b>Grimheart</b>.<br /><br /><b>Grimheart</b><br /><b>After the character to which this is attached uses Icetide Vortex</b>: Remove this status, DMG +2 for this instance."
+                    },
+                    "burst": {
+                        "name": "Glacial Illumination",
+                        "cost": "3C 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, summons 1 Lightfall Sword.<br /><br /><b>Lightfall Sword</b><br /><b>When Eula uses a Normal Attack or Elemental Skill</b>, this card will accumulate 2 Zeal stacks, but Eula will not gain Energy.<br /><b>End Phase</b>: Discard this cardr and deal 2 <b>Physical DMG</b>. Each Zeal stack adds 1 DMG to this damage instance.<br />(Effects on this card's <u>Usage(s)</u> will apply to <b>Zeal</b>.)"
+                    }
+                }
+            },
+            {
+                "name": "Kokomi",
+                "fullname": "Sangonomiya Kokomi",
+                "element": "Hydro",
+                "weapon": "Catalyst",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "The Shape of Water",
+                        "cost": "1H 2U",
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Kurage's Oath",
+                        "cost": "3H",
+                        "description": "This character gains <b class=\"text-hydro\">Hydro Application</b> and summons 1 Bake-Kurage.<br /><br /><b>Bake-Kurage</b><br /><b>End Phase</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "burst": {
+                        "name": "Nereid's Ascension",
+                        "cost": "3H 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>. This character gains Ceremonial Garment.<br /><br /><b>Ceremonial Garment</b><br />The character to which this is attched has their <b>Normal Attacks</b> deal +1 DMG.<br /><b>After the character to which this is attached uses a Normal Attack</b>: Heal 1 HP for all your characters.<br /><u>Duration (Rounds)</u>: 2"
+                    }
+                }
+            },
+            {
+                "name": "Sara",
+                "fullname": "Kujou Sara",
+                "element": "Electro",
+                "weapon": "Bow",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Tengu Bowmanship",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Tengu Stormcall",
+                        "cost": "3E",
+                        "description": "Deals 1 <b class=\"text-electro\">Electro DMG</b>, summons 1 Tengu Juurai: Ambush.<br /><br /><b>Tengu Juurai: Ambush</b><br />End Phase: Deal 1 <b class=\"text-electro\">Electro DMG</b>, applies Crowfeather Cover to friendly active character.<br /><u>Usage(s)</u>: 1<br /><br /><b>Crowfeather Cover</b><br />The character with this attached deals +1 <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "burst": {
+                        "name": "Subjugation: Koukou Sendou",
+                        "cost": "4E 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-electro\">Electro DMG</b>, summons 1 Tengu Juurai: Stormcluster.<br /><br /><b>Tengu Juurai: Stormcluster</b><br />End Phase: Deal 2 <b class=\"text-electro\">Electro DMG</b>, applies Crowfeather Cover to friendly active character.<br /><u>Usage(s)</u>: 2<br /><br /><b>Crowfeather Cover</b><br />The character with this attached deals +1 <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br /><u>Usage(s)</u>: 2"
+                    }
+                }
             }
         ]
     },
@@ -1679,6 +1757,41 @@
                 "subType": "",
                 "cost": "1M",
                 "description": "<b>The next time you use a Skill</b>: Switch your next character in to be the active character."
+            },
+            {
+                "name": "Wellspring of War-Lust",
+                "type": "Equipment",
+                "subType": "Talent",
+                "cost": "3C 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Eula</b>, equip this card.<br />After Eula equips this card, immediately use <b class=\"text-highlight\">Glacial Illumination</b> once.<br />When your Eula, who has this card equipped, uses <b>Icetide Vortex</b>, this will generate 1 more Zeal for <b>Lightfall Sword</b>.<br />(You must have Eula in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Tamanooya's Casket",
+                "type": "Equipment",
+                "subType": "Talent",
+                "cost": "3H 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Kokomi</b>, equip this card.<br />After Kokomi equips this card, immediately use <b class=\"text-highlight\">Nereid's Ascension</b> once.<br />When your Kokomi, who has this card equipped, uses <b>Nereid's Ascension</b>: If <b>Bake-Kurage</b> is on the field, its <u>Usage(s)</u> will be refreshed.<br />While <b>Ceremonial Garment</b> exists, <b>Bake-Kurage</b> deals +1 DMG.<br />(You must have Kokomi in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Sin of Pride",
+                "type": "Equipment",
+                "subType": "Talent",
+                "cost": "4E 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Sara</b>, equip this card.<br />After Sara equips this card, immediately use <b class=\"text-highlight\">Subjugation: Koukou Sendou</b> once.<br />If a friendly <b class=\"text-electro\">Electro</b> character has <b>Crowfeather Cover</b> attached, their <b>Elemental Skill</b> and <b>Elemental Burst</b> deal +1 additional DMG.<br />(You must have Sara in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Ornate Kabuto",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2U",
+                "description": "<b>After another character of yours uses an Elemental Burst</b>: The character to which this is attached gains 1 <b>Energy</b>.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "General's Ancient Helm",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>When Action Phase begins</b>: The character to which this is attached gains <b>Unmovable Mountain</b> that provides 2 <b>Shield</b> points.<br />(A character can equip a maximum of 1 Artifact.)"
             }
         ]
     }
