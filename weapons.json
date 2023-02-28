@@ -3018,5 +3018,45 @@
             "commonMat": "Headband"
         },
         "description": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest."
+    },
+    {
+        "id": 151,
+        "name": "Beacon of the Reed Sea",
+        "rarity": 5,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Desert Watch",
+                "description": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <b class=\"text-refinement\">20%</b> for 8s. After the character takes DMG, their ATK will be increased by <b class=\"text-refinement\">20%</b> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <b class=\"text-refinement\">32%</b>."
+            }
+        },
+        "materials": {
+            "ascensionMat": "Scorching Might",
+            "eliteMat": "Shell",
+            "commonMat": "Headband"
+        },
+        "description": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument."
+    },
+    {
+        "id": 152,
+        "name": "Mailed Flower",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Whispers of Wind and Flower",
+                "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <b class=\"text-refinement\">12%</b> and <b class=\"text-refinement\">48</b> respectively."
+            }
+        },
+        "materials": {
+            "ascensionMat": "Dandelion Gladiator",
+            "eliteMat": "Shell",
+            "commonMat": "Specter"
+        },
+        "description": "A graceful and elegant greatsword that is decorated with flowers and ribbons."
     }
 ]

@@ -6553,5 +6553,110 @@
             "date": "January 18, 2021",
             "version": "3.4" 
         }
+    },
+    {
+        "id": 62,
+        "name": "Dehya",
+        "fullname": "",
+        "title": "Flame-Mane",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "talents": {
+            "attack": {
+                "name": "Sandstorm Assault",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive strikes using her Claymore and her martial arts.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Drains Stamina over time to perform continuous slashes.<br />At the end of the sequence, perform a more powerful slash.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "62.12%", "67.17%", "72.23%", "79.45%", "84.51%", "90.29%", "98.23%", "106.18%", "114.12%", "122.79%", "131.46%", "140.13%", "148.79%", "157.46%", "166.13%"], ["2-Hit DMG", "61.71%", "66.73%", "71.76%", "78.93%", "83.95%", "89.7%", "97.59%", "105.48%", "113.37%", "121.99%", "130.6%", "139.21%", "147.82%", "156.43%", "165.04%"], ["3-Hit DMG", "76.63%", "82.87%", "89.11%", "98.02%", "104.25%", "111.38%", "121.18%", "130.99%", "140.79%", "151.48%", "162.17%", "172.87%", "183.56%", "194.25%", "204.94%"], ["4-Hit DMG", "95.29%", "103.05%", "110.8%", "121.88%", "129.64%", "138.51%", "150.69%", "162.88%", "175.07%", "188.37%", "201.66%", "214.96%", "228.26%", "241.55%", "254.85%"], ["Charged Attack Cyclic DMG", "56.33%", "60.91%", "65.5%", "72.05%", "76.63%", "81.88%", "89.08%", "96.28%", "103.49%", "111.35%", "119.21%", "127.07%", "134.93%", "142.79%", "150.65%"], ["Charged Attack Final DMG", "101.82%", "110.11%", "118.4%", "130.24%", "138.53%", "148%", "161.02%", "174.05%", "187.07%", "201.28%", "215.49%", "229.7%", "243.9%", "258.11%", "272.32%"], ["Charged Attack Stamina Cost", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s"], ["Max Duration", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s"], ["Plunge DMG", "74.59%", "80.66%", "86.73%", "95.4%", "101.47%", "108.41%", "117.95%", "127.49%", "137.03%", "147.44%", "157.85%", "168.26%", "178.66%", "189.07%", "199.48%"], ["Low/High Plunge DMG", "149.14% / 186.29%", "161.28% / 201.45%", "173.42% / 216.62%", "190.77% / 238.28%", "202.91% / 253.44%", "216.78% / 270.77%", "235.86% / 294.6%", "254.93% / 318.42%", "274.01% / 342.25%", "294.82% / 368.25%", "315.63% / 394.24%", "336.44% / 420.23%", "357.25% / 446.23%", "378.06% / 472.22%", "398.87% / 498.21%"]
+                ]
+            },
+            "skill": {
+                "name": "Molten Inferno",
+                "description": "This art of Dehya's own invention changes its method of use depending on the combat situation.<br /><br /><b class=\"text-highlight\">Indomitable Flame</b><br />This skill will be unleashed should there be no Fiery Sanctum field created by Dehya herself present at the time.<br />Deals <b class=\"text-pyro\">AoE Pyro DMG</b>, and creates a field known as Fiery Sanctum.<br /><br /><b class=\"text-highlight\">Ranging Flame</b><br />This skill will be unleashed should a Fiery Sanctum field created by Dehya herself already exists.<br />Dehya will peform a leaping attack, dealing <b class=\"text-pyro\">AoE Pyro DMG</b> before recreating a Fiery Sanctum field at her new position.<br />A Fiery Sanctum field created this way will inherit the remaining duration of the previous field.<br /><br />Ranging Flame can be used only once throughout a single Fiery Sanctum field's duration.<br /><br /><b class=\"text-highlight\">Fiery Sanctum</b><br />When an opponent within a Fiery Sanctum field takes DMG, the field will unleash a coordinated attack, dealing <b class=\"text-pyro\">AoE Pyro DMG</b> to them based on Dehya's ATK and Max HP. This effect can be triggered once every 2.5s.<br />Active characters within this field have their resistance to interruption increased, and when such characters take DMG, a portion of that damage will be mitigated and flow into Redmane's Blood. Dehya will then take this DMG over 10s. When the mitigated DMG stored by Redmane's Blood reaches or goes over a certain percantage of Dehya's Max HP, she will stop mitigating DMG in this way.<br /><br />Only 1 Fiery Sanctum created by Dehya herself can exist at the same time.",
+                "scaling": [
+                    ["Indomitable Flame DMG", "112.88%", "121.35%", "129.81%", "141.1%", "149.57%", "158.03%", "169.32%", "180.61%", "191.9%", "203.18%", "214.47%", "225.76%", "239.87%", "253.98%", "268.09%"], ["Ranging Flame DMG", "132.8%", "142.76%", "152.72%", "166%", "175.96%", "185.92%", "199.2%", "212.48%", "225.76%", "239.04%", "252.32%", "265.6%", "282.2%", "298.8%", "315.4%"], ["Field DMG", "60.2% ATK + 1.03% Max HP", "64.71% ATK + 1.11% Max HP", "69.23% ATK + 1.19% Max HP", "75.25% ATK + 1.29% Max HP", "79.76% ATK + 1.37% Max HP", "84.28% ATK + 1.44% Max HP", "90.3% ATK + 1.55% Max HP", "96.32% ATK + 1.65% Max HP", "102.34% ATK + 1.75% Max HP", "108.36% ATK + 1.86% Max HP", "114.38% ATK + 1.96% Max HP", "120.4% ATK + 2.06% Max HP", "127.93% ATK + 2.19% Max HP", "135.45% ATK + 2.32% Max HP", "142.97% ATK + 2.45% Max HP"], ["Mitigation", "32%", "34%", "36%", "38%", "40%", "42%", "44%", "46%", "48%", "50%", "52%", "54%", "56%", "56%", "56%"], ["Redmane's Blood Maximum", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP", "200% Max HP"], ["Field Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"]
+                ],
+                "splash": "Walk this fiery ordeal with me, purging all impurity, just as a beast of flame must descend ablaze."
+            },
+            "burst": {
+                "name": "Leonine Bite",
+                "description": "Unleashing her burning anger and casting her inconvenient blade aside, Dehya enters the Blazing Lioness state and increases her resistance to interruption.<br />In this state, Dehya will automatically and continuously unleash the Flame-Mane's Fists, dealing <b class=\"text-pyro\">Pyro DMG</b> based on her ATK and Max HP, and when its duration ends, she will unleash an Incineration Drive, dealing <b class=\"text-pyro\">AoE Pyro DMG</b> based on her ATK and Max HP.<br />If a Fiery Sanctum field created by Dehya's own Elemental Skill \"Molten Inferno\" exists when this ability is unleashed, Dehya will retrieve it, and then create another field once Blazing Lioness's duration expires. This field will take on the retrieved field's duration at the moment of its retrieval.<br />In this state, Dehya will be unable to cast her Elemental Skill, or perform Normal, Charged, and Plunging Attacks. \"Normal Attack: Sandstorm Assault\" and Elemental Skill \"Molten Inferno\" will be replaced by \"Roaring Barrage.\"<br /><br /><b class=\"text-highlight\">Roaring Barrage</b><br />Unleashing Roaring Barrage within 0.4s after each Flame-Mane's Fist strike will increase the speed at which the next Flame-Mane's Fist strike will be triggered.",
+                "scaling": [
+                    ["Flame-Mane's Fist DMG", "98.7% ATK + 1.69% Max HP", "106.1% ATK + 1.82% Max HP", "113.51% ATK + 1.95% Max HP", "123.37% ATK + 2.12% Max HP", "130.78% ATK + 2.24% Max HP", "138.18% ATK + 2.37% Max HP", "148.05% ATK + 2.54% Max HP", "157.92% ATK + 2.71% Max HP", "167.79% ATK + 2.88% Max HP", "177.66% ATK + 3.05% Max HP", "187.53% ATK + 3.21% Max HP", "197.4% ATK + 3.38% Max HP", "209.74% ATK + 3.6% Max HP", "222.08% ATK + 3.81% Max HP", "234.41% ATK + 4.02% Max HP"], ["Incineration Drive DMG", "139.3% ATK + 2.39% Max HP", "149.75% ATK + 2.57% Max HP", "160.2% ATK + 2.75% Max HP", "174.13% ATK + 2.99% Max HP", "184.57% ATK + 3.16% Max HP", "195.02% ATK + 3.34% Max HP", "208.95% ATK + 3.58% Max HP", "222.88% ATK + 3.82% Max HP", "236.81% ATK + 4.06% Max HP", "250.74% ATK + 4.3% Max HP", "264.67% ATK + 4.54% Max HP", "278.6% ATK + 4.78% Max HP", "296.01% ATK + 5.07% Max HP", "313.42% ATK + 5.37% Max HP", "330.84% ATK + 5.67% Max HP"], ["Duration", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["Energy Cost", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70"]
+                ],
+                "splash": "Even the flowing flames must obey her rage and at her command become her fangs and claws."
+            },
+            "a1passive": {
+                "name": "Unstinting Succor",
+                "description": "Within 6 seconds after Dehya retrieves the Fiery Sanctum field through <b class=\"text-highlight\">Molten Inferno: Ranging Flame</b> or <b class=\"text-highlight\">Leonine Bite</b>, she will take 60% less DMG when receiving DMG from Redmane's Blood. This effect can be triggered once every 2s.<br />Additionally, within 9s after Dehya unleashes <b class=\"text-highlight\">Molten Inferno: Indomitable Flame</b>, she will grant all party members the Gold-Forged Form state. This state will further increase a character's resistance to interruption when they are within the Fiery Sanctum field. Gold-Forged Form can be activated once every 18s."
+            },
+            "a4passive": {
+                "name": "Stalwart and True",
+                "description": "When her HP is less than 40%, Dehya will recover 20% of her Max HP and will restore 6% of her Max HP every 2s for the next 10s. This effect can be triggered once every 20s."
+            },
+            "utilpassive": {
+                "name": "The Sunlit Way",
+                "description": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).<br />Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Mantichora",
+            "c1": {
+                "name": "The Flame Incandescent",
+                "description": "Dehya's Max HP is increased by 20%, and she deals bonus DMG based on her Max HP when using the following attacks:<li><b class=\"text-highlight\">Molten Inferno</b>'s DMG will be increased by 3.6% of her Max HP.</li><li><b class=\"text-highlight\">Leonine Bite</b>'s DMG will be increased by 6% of her Max HP.</li>"
+            },
+            "c2": {
+                "name": "The Sand-Blades Glittering",
+                "description": "When Dehya uses <b class=\"text-highlight\">Molten Inferno: Ranging Flame</b>, the duration of the recreated Fiery Sanctum field will be increased by 6s.<br />Additionally, when a Fiery Sanctum exists on the field, DMG dealt by its next coordinated attack will be increased by 50% when active character(s) within the Fiery Sanctum field are attacked."
+            },
+            "c3": {
+                "name": "A Rage Swift as Afire",
+                "description": "Increases the Level of <b class=\"text-highlight\">Leonine Bite</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "An Oath Abiding",
+                "description": "When Flame-Mane's Fist and Incineration Drive attacks unleashed during <b class=\"text-highlight\">Leonine Bite</b> hit opponents, they will restore 1.5 Energy for Dehya and 2.5% of her Max HP. This effect can be triggered once every 0.2s."
+            },
+            "c5": {
+                "name": "The Alpha Unleashed",
+                "description": "Increases the Level of <b class=\"text-highlight\">Molten Inferno</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "The Burning Claws Cleaving",
+                "description": "The CRIT Rate of <b class=\"text-highlight\">Leonine Bite</b> is increased by 10%.<br />Additionally, after a Flame-Mane's Fist attack hits an opponent and deals CRIT Hits during a single Blazing Lioness state, it will cause the CRIT DMG of Leonine Bite to increase by 15% for the rest of Blazing Lioness's duration and extend that duration by 0.5s. This effect can be triggered every 0.2s. The duration can be extended for a maximum of 2s and CRIT DMG can be increased by a maximum of 60% this way."
+            }
+        },
+        "stats": {
+            "ascensionStat": "HP",
+            "hp": [1220, 3165, 4212, 6302, 7045, 8106, 9097, 10168, 10912, 11993, 12736, 13829, 14573, 15675],
+            "atk": [21, 54, 71, 107, 119, 137, 154, 172, 185, 203, 216, 234, 247, 265],
+            "def": [49, 127, 169, 252, 282, 325, 364, 407, 437, 480, 510, 554, 584, 628]
+        },
+        "materials": {
+            "talentBook": "Praxis",
+            "bossMat": "Light Guiding Tetrahedron",
+            "localMat": "Sand Grease Pupa",
+            "commonMat": "Headband",
+            "weeklyBossMat": "Puppet Strings"
+        },
+        "description": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
+        "birthday": "April 7",
+        "gender": "Female",
+        "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "The Lioness and the Blazing Sun",
+                "rarity": 4,
+                "description": "Dehya's outfit. It is said when the lion roars, even the scorching sun will quiver. Though Dehya is long past the age of believing in such stories, it doesn't stop her from gazing upon the sun sinking below the sands, reminiscing about the tales and storytellers of her childhood."
+            }
+        ],
+        "voiceActors": {
+            "en": "Amber May",
+            "jp": "Ayaka Fukuhara (福原 綾香)"
+        },
+        "release": {
+            "date": "March 1, 2023",
+            "version": "3.5" 
+        }
     }
 ]
