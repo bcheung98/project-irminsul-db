@@ -271,5 +271,13 @@
             "endDate": "February 28, 2023",
             "banner": ["Staff of Homa", "Aqua Simulacra", "Rust", "Favonius Sword", "Dragon's Bane", "Favonius Codex", "Lithic Blade"]
         }
+    },
+    {
+        "version": "3.5",
+        "phase1": {
+            "startDate": "March 1, 2023",
+            "endDate": "March 21, 2023",
+            "banner": ["Beacon of the Reed Sea", "Staff of the Scarlet Sands", "Alley Hunter", "The Alley Flash", "Dragon's Bane", "Eye of Perception", "Sacrificial Greatsword"]
+        }
     }
 ]
