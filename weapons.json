@@ -17,7 +17,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows."
+        "description": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 1,
@@ -37,7 +40,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance."
+        "description": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 2,
@@ -57,7 +63,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "A polearm as straight as a flag pole. Well suited to most combat situations, it has an imposing presence when swung."
+        "description": "A polearm as straight as a flag pole. Well suited to most combat situations, it has an imposing presence when swung.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 3,
@@ -77,7 +86,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "A sturdy sheet of iron that may be powerful enough to break apart mountains, if wielded with enough willpower."
+        "description": "A sturdy sheet of iron that may be powerful enough to break apart mountains, if wielded with enough willpower.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 4,
@@ -97,7 +109,10 @@
             "eliteMat": "Horn",
             "commonMat": "Mask"
         },
-        "description": "Notes left behind by a top student. Many useful spells are listed, and the handwriting is beautiful."
+        "description": "Notes left behind by a top student. Many useful spells are listed, and the handwriting is beautiful.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 5,
@@ -117,7 +132,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm."
+        "description": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 6,
@@ -137,7 +155,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "A sword for chasing away demons. Everyone knows it's made of a silver alloy, not pure silver."
+        "description": "A sword for chasing away demons. Everyone knows it's made of a silver alloy, not pure silver.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 7,
@@ -157,7 +178,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers."
+        "description": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 8,
@@ -177,7 +201,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "A battle-tested greatsword that has seen better days and worse."
+        "description": "A battle-tested greatsword that has seen better days and worse.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 9,
@@ -197,7 +224,10 @@
             "eliteMat": "Horn",
             "commonMat": "Mask"
         },
-        "description": "A carefully compiled notebook featuring the essentials needed to pass a magic exam."
+        "description": "A carefully compiled notebook featuring the essentials needed to pass a magic exam.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 10,
@@ -217,7 +247,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication."
+        "description": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 11,
@@ -237,7 +270,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target."
+        "description": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 12,
@@ -257,7 +293,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer."
+        "description": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 13,
@@ -277,7 +316,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting."
+        "description": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 14,
@@ -297,7 +339,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
-        "description": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow."
+        "description": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 15,
@@ -317,7 +362,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master."
+        "description": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 16,
@@ -337,7 +385,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
-        "description": "A perfectly ordinary iron sword, just slightly darker than most."
+        "description": "A perfectly ordinary iron sword, just slightly darker than most.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 17,
@@ -357,7 +408,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A sharp filleting knife. The blade is long, thin, and incredibly sharp."
+        "description": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 18,
@@ -377,7 +431,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off."
+        "description": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 19,
@@ -397,7 +454,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword..."
+        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 20,
@@ -417,7 +477,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath."
+        "description": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 21,
@@ -437,7 +500,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Arrow"
         },
-        "description": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel."
+        "description": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 22,
@@ -457,7 +523,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Nectar"
         },
-        "description": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers."
+        "description": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 23,
@@ -477,7 +546,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon."
+        "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 24,
@@ -497,7 +569,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
-        "description": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however."
+        "description": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 25,
@@ -517,7 +592,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Mask"
         },
-        "description": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal."
+        "description": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 26,
@@ -537,7 +615,10 @@
             "eliteMat": "Horn",
             "commonMat": "Nectar"
         },
-        "description": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat."
+        "description": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 27,
@@ -557,7 +638,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time."
+        "description": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 28,
@@ -577,7 +661,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
-        "description": "A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder."
+        "description": "A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 29,
@@ -597,7 +684,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\""
+        "description": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 30,
@@ -617,7 +707,10 @@
             "eliteMat": "Horn",
             "commonMat": "Slime"
         },
-        "description": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments."
+        "description": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 31,
@@ -637,7 +730,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Mask"
         },
-        "description": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy."
+        "description": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 32,
@@ -657,7 +753,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Scroll"
         },
-        "description": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure."
+        "description": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 33,
@@ -677,7 +776,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A jade pendant formed by piecing together two jade stones."
+        "description": "A jade pendant formed by piecing together two jade stones.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 34,
@@ -697,7 +799,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Nectar"
         },
-        "description": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use."
+        "description": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 35,
@@ -717,7 +822,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Fatui Insignia"
         },
-        "description": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force."
+        "description": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 36,
@@ -737,7 +845,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Nectar"
         },
-        "description": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential."
+        "description": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 37,
@@ -757,7 +868,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight."
+        "description": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 38,
@@ -777,7 +891,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
-        "description": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force."
+        "description": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 39,
@@ -797,7 +914,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
-        "description": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it."
+        "description": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 40,
@@ -817,7 +937,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time."
+        "description": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 41,
@@ -837,7 +960,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing."
+        "description": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 42,
@@ -857,7 +983,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest."
+        "description": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 43,
@@ -877,7 +1006,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Arrow"
         },
-        "description": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade."
+        "description": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 44,
@@ -897,7 +1029,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!"
+        "description": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 45,
@@ -917,7 +1052,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Nectar"
         },
-        "description": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp."
+        "description": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 46,
@@ -937,7 +1075,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air."
+        "description": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 47,
@@ -957,7 +1098,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
-        "description": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter."
+        "description": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 48,
@@ -977,7 +1121,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner."
+        "description": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 49,
@@ -997,7 +1144,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time."
+        "description": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 50,
@@ -1017,7 +1167,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A sword of unique craftsmanship. It does not appear to belong to this world."
+        "description": "A sword of unique craftsmanship. It does not appear to belong to this world.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 51,
@@ -1037,7 +1190,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter."
+        "description": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 52,
@@ -1057,7 +1213,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind."
+        "description": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 53,
@@ -1077,7 +1236,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen."
+        "description": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 54,
@@ -1097,7 +1259,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage."
+        "description": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 55,
@@ -1117,7 +1282,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Nectar"
         },
-        "description": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men."
+        "description": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 56,
@@ -1137,7 +1305,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Scroll"
         },
-        "description": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease."
+        "description": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 57,
@@ -1157,7 +1328,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
-        "description": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind."
+        "description": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 58,
@@ -1177,7 +1351,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Mask"
         },
-        "description": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night."
+        "description": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 59,
@@ -1197,7 +1374,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
-        "description": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp."
+        "description": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 60,
@@ -1217,7 +1397,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
-        "description": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel."
+        "description": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 61,
@@ -1237,7 +1420,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive."
+        "description": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 62,
@@ -1257,7 +1443,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Mask"
         },
-        "description": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself."
+        "description": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 63,
@@ -1277,7 +1466,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Scroll"
         },
-        "description": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power."
+        "description": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 64,
@@ -1297,7 +1489,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
-        "description": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by the nobility only."
+        "description": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by the nobility only.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 65,
@@ -1317,7 +1512,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
-        "description": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time."
+        "description": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 66,
@@ -1337,7 +1535,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Nectar"
         },
-        "description": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it."
+        "description": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 67,
@@ -1357,7 +1558,10 @@
             "eliteMat": "Horn",
             "commonMat": "Nectar"
         },
-        "description": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged."
+        "description": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 68,
@@ -1377,7 +1581,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it."
+        "description": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 69,
@@ -1397,7 +1604,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Scroll"
         },
-        "description": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth."
+        "description": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 70,
@@ -1417,7 +1627,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Mask"
         },
-        "description": "A dim black glaze pearl that is said to have the power to read the purity of one's heart."
+        "description": "A dim black glaze pearl that is said to have the power to read the purity of one's heart.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 71,
@@ -1437,7 +1650,10 @@
             "eliteMat": "Horn",
             "commonMat": "Scroll"
         },
-        "description": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter."
+        "description": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 72,
@@ -1457,7 +1673,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Slime"
         },
-        "description": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders."
+        "description": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 73,
@@ -1477,7 +1696,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Arrow"
         },
-        "description": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky."
+        "description": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 74,
@@ -1497,7 +1719,10 @@
             "eliteMat": "Horn",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells."
+        "description": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 75,
@@ -1517,7 +1742,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time."
+        "description": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 76,
@@ -1537,7 +1765,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Nectar"
         },
-        "description": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength."
+        "description": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 77,
@@ -1557,7 +1788,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Mask"
         },
-        "description": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within."
+        "description": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 78,
@@ -1577,7 +1811,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
-        "description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is."
+        "description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 79,
@@ -1597,7 +1834,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
-        "description": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within."
+        "description": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 80,
@@ -1617,7 +1857,10 @@
             "eliteMat": "Horn",
             "commonMat": "Arrow"
         },
-        "description": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it."
+        "description": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 81,
@@ -1637,7 +1880,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind."
+        "description": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 82,
@@ -1657,7 +1903,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A jade polearm made by the archons, capable of slaying ancient beasts."
+        "description": "A jade polearm made by the archons, capable of slaying ancient beasts.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 83,
@@ -1677,7 +1926,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind."
+        "description": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 84,
@@ -1697,7 +1949,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed."
+        "description": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 85,
@@ -1717,7 +1972,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves."
+        "description": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 86,
@@ -1737,7 +1995,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
-        "description": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia."
+        "description": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 87,
@@ -1757,7 +2018,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Arrow"
         },
-        "description": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind."
+        "description": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.",
+        "release": {
+            "version": "1.0"
+        }
     },
     {
         "id": 88,
@@ -1777,7 +2041,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Mask"
         },
-        "description": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within."
+        "description": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
+        "release": {
+            "version": "1.1"
+        }
     },
     {
         "id": 89,
@@ -1797,7 +2064,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air."
+        "description": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
+        "release": {
+            "version": "1.1"
+        }
     },
     {
         "id": 90,
@@ -1817,7 +2087,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might."
+        "description": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
+        "release": {
+            "version": "1.1"
+        }
     },
     {
         "id": 91,
@@ -1837,7 +2110,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Mask"
         },
-        "description": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain."
+        "description": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain.",
+        "release": {
+            "version": "1.2"
+        }
     },
     {
         "id": 92,
@@ -1857,7 +2133,10 @@
             "eliteMat": "Horn",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon."
+        "description": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
+        "release": {
+            "version": "1.2"
+        }
     },
     {
         "id": 93,
@@ -1877,7 +2156,10 @@
             "eliteMat": "Horn",
             "commonMat": "Slime"
         },
-        "description": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow."
+        "description": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow.",
+        "release": {
+            "version": "1.2"
+        }
     },
     {
         "id": 94,
@@ -1897,7 +2179,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A spear created from the fang of a dragon. It is oddly warm to the touch."
+        "description": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
+        "release": {
+            "version": "1.2"
+        }
     },
     {
         "id": 95,
@@ -1917,7 +2202,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Nectar"
         },
-        "description": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it."
+        "description": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.",
+        "release": {
+            "version": "1.2"
+        }
     },
     {
         "id": 96,
@@ -1937,7 +2225,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Arrow"
         },
-        "description": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal."
+        "description": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal.",
+        "release": {
+            "version": "1.3"
+        }
     },
     {
         "id": 97,
@@ -1957,7 +2248,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Arrow"
         },
-        "description": "A greatsword carved and chiseled from the very bedrock of Liyue."
+        "description": "A greatsword carved and chiseled from the very bedrock of Liyue.",
+        "release": {
+            "version": "1.3"
+        }
     },
     {
         "id": 98,
@@ -1977,7 +2271,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung."
+        "description": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.",
+        "release": {
+            "version": "1.3"
+        }
     },
     {
         "id": 99,
@@ -1997,7 +2294,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Slime"
         },
-        "description": "A \"firewood staff\" that was once used in ancient and long-lost rituals."
+        "description": "A \"firewood staff\" that was once used in ancient and long-lost rituals.",
+        "release": {
+            "version": "1.3"
+        }
     },
     {
         "id": 100,
@@ -2017,7 +2317,10 @@
             "eliteMat": "Horn",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh."
+        "description": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh.",
+        "release": {
+            "version": "1.4"
+        }
     },
     {
         "id": 101,
@@ -2037,7 +2340,10 @@
             "eliteMat": "Horn",
             "commonMat": "Scroll"
         },
-        "description": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets."
+        "description": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
+        "release": {
+            "version": "1.4"
+        }
     },
     {
         "id": 102,
@@ -2057,7 +2363,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Slime"
         },
-        "description": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught."
+        "description": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught.",
+        "release": {
+            "version": "1.4"
+        }
     },
     {
         "id": 103,
@@ -2077,7 +2386,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw."
+        "description": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw.",
+        "release": {
+            "version": "1.4"
+        }
     },
     {
         "id": 104,
@@ -2097,7 +2409,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Nectar"
         },
-        "description": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person."
+        "description": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.",
+        "release": {
+            "version": "1.4"
+        }
     },
     {
         "id": 105,
@@ -2117,7 +2432,10 @@
             "eliteMat": "Horn",
             "commonMat": "Mask"
         },
-        "description": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon."
+        "description": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon.",
+        "release": {
+            "version": "1.5"
+        }
     },
     {
         "id": 106,
@@ -2137,7 +2455,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Scroll"
         },
-        "description": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind."
+        "description": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
+        "release": {
+            "version": "1.6"
+        }
     },
     {
         "id": 107,
@@ -2157,7 +2478,10 @@
             "eliteMat": "Horn",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A bow painted the color of transgression and nights of illusion."
+        "description": "A bow painted the color of transgression and nights of illusion.",
+        "release": {
+            "version": "1.6"
+        }
     },
     {
         "id": 108,
@@ -2177,7 +2501,10 @@
             "eliteMat": "Ley Line Branch",
             "commonMat": "Mask"
         },
-        "description": "A children's book filled with childish short stories at which one cannot help but laugh.<br />Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within."
+        "description": "A children's book filled with childish short stories at which one cannot help but laugh.<br />Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
+        "release": {
+            "version": "1.6"
+        }
     },
     {
         "id": 109,
@@ -2197,7 +2524,10 @@
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Arrow"
         },
-        "description": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it."
+        "description": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it.",
+        "release": {
+            "version": "2.0"
+        }
     },
     {
         "id": 110,
@@ -2217,7 +2547,10 @@
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
-        "description": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before."
+        "description": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
+        "release": {
+            "version": "2.0"
+        }
     },
     {
         "id": 111,
@@ -2237,7 +2570,10 @@
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Arrow"
         },
-        "description": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy."
+        "description": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.",
+        "release": {
+            "version": "2.0"
+        }
     },
     {
         "id": 112,
@@ -2257,7 +2593,10 @@
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
-        "description": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair."
+        "description": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair.",
+        "release": {
+            "version": "2.0"
+        }
     },
     {
         "id": 113,
@@ -2277,7 +2616,10 @@
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island."
+        "description": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
+        "release": {
+            "version": "2.0"
+        }
     },
     {
         "id": 114,
@@ -2297,7 +2639,10 @@
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
-        "description": "A blade that was once made in Tatarasuna. Heavy and tough."
+        "description": "A blade that was once made in Tatarasuna. Heavy and tough.",
+        "release": {
+            "version": "2.0"
+        }
     },
     {
         "id": 115,
@@ -2317,7 +2662,10 @@
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Scroll"
         },
-        "description": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought."
+        "description": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought.",
+        "release": {
+            "version": "2.0"
+        }
     },
     {
         "id": 116,
@@ -2337,7 +2685,10 @@
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Handguard"
         },
-        "description": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down..."
+        "description": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down...",
+        "release": {
+            "version": "2.1"
+        }
     },
     {
         "id": 117,
@@ -2357,7 +2708,10 @@
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Specter"
         },
-        "description": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant."
+        "description": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant.",
+        "release": {
+            "version": "2.1"
+        }
     },
     {
         "id": 118,
@@ -2377,7 +2731,10 @@
             "eliteMat": "Bone Shard",
             "commonMat": "Slime"
         },
-        "description": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance."
+        "description": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
+        "release": {
+            "version": "2.1"
+        }
     },
     {
         "id": 119,
@@ -2397,7 +2754,10 @@
             "eliteMat": "Sentinel Chaos Part",
             "commonMat": "Specter"
         },
-        "description": "In the distant past, this was the beloved spear of a famed Inazuman bandit."
+        "description": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
+        "release": {
+            "version": "2.1"
+        }
     },
     {
         "id": 120,
@@ -2417,7 +2777,10 @@
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Arrow"
         },
-        "description": "A uniquely-designed bow. This should not belong in this world."
+        "description": "A uniquely-designed bow. This should not belong in this world.",
+        "release": {
+            "version": "2.1"
+        }
     },
     {
         "id": 121,
@@ -2437,7 +2800,10 @@
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Specter"
         },
-        "description": "A pristine bow that is as sharp as the glaciers of the far north."
+        "description": "A pristine bow that is as sharp as the glaciers of the far north.",
+        "release": {
+            "version": "2.2"
+        }
     },
     {
         "id": 122,
@@ -2457,7 +2823,10 @@
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Handguard"
         },
-        "description": "A naginata forged from luminescent material deep in the ocean depths. It was once the possession of the tengu race."
+        "description": "A naginata forged from luminescent material deep in the ocean depths. It was once the possession of the tengu race.",
+        "release": {
+            "version": "2.2"
+        }
     },
     {
         "id": 123,
@@ -2477,7 +2846,10 @@
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Handguard"
         },
-        "description": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield."
+        "description": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
+        "release": {
+            "version": "2.2"
+        }
     },
     {
         "id": 124,
@@ -2497,7 +2869,10 @@
             "eliteMat": "Mirror Maiden Prism",
             "commonMat": "Specter"
         },
-        "description": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms."
+        "description": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms.",
+        "release": {
+            "version": "2.2"
+        }
     },
     {
         "id": 125,
@@ -2517,7 +2892,10 @@
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Handguard"
         },
-        "description": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs."
+        "description": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs.",
+        "release": {
+            "version": "2.3"
+        }
     },
     {
         "id": 126,
@@ -2537,7 +2915,10 @@
             "eliteMat": "Chaos Part",
             "commonMat": "Mask"
         },
-        "description": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon."
+        "description": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon.",
+        "release": {
+            "version": "2.3"
+        }
     },
     {
         "id": 127,
@@ -2557,7 +2938,10 @@
             "eliteMat": "Mist Grass",
             "commonMat": "Nectar"
         },
-        "description": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past."
+        "description": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.",
+        "release": {
+            "version": "2.4"
+        }
     },
     {
         "id": 128,
@@ -2577,7 +2961,10 @@
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Specter"
         },
-        "description": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it."
+        "description": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
+        "release": {
+            "version": "2.5"
+        }
     },
     {
         "id": 129,
@@ -2589,7 +2976,7 @@
             "subStat": "ATK",
             "passive": {
                 "name": "People of the Faltering Light",
-                "description": "Increases Energy Recharge by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b> for 10s after using an Elemental Skill."
+                "description": "ncreases Energy Recharge by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b> for 10s after using an Elemental Skill."
             }
         },
         "materials": {
@@ -2597,7 +2984,10 @@
             "eliteMat": "Riftwolf Claw",
             "commonMat": "Specter"
         },
-        "description": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes."
+        "description": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
+        "release": {
+            "version": "2.5"
+        }
     },
     {
         "id": 130,
@@ -2617,7 +3007,10 @@
             "eliteMat": "Statuette",
             "commonMat": "Handguard"
         },
-        "description": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves."
+        "description": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves.",
+        "release": {
+            "version": "2.6"
+        }
     },
     {
         "id": 131,
@@ -2637,7 +3030,10 @@
             "eliteMat": "Statuette",
             "commonMat": "Specter"
         },
-        "description": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue."
+        "description": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.",
+        "release": {
+            "version": "2.7"
+        }
     },
     {
         "id": 132,
@@ -2657,7 +3053,10 @@
             "eliteMat": "Sacrificial Knife",
             "commonMat": "Scroll"
         },
-        "description": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide."
+        "description": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.",
+        "release": {
+            "version": "2.7"
+        }
     },
     {
         "id": 133,
@@ -2677,7 +3076,10 @@
             "eliteMat": "Statuette",
             "commonMat": "Specter"
         },
-        "description": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey."
+        "description": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey.",
+        "release": {
+            "version": "2.8"
+        }
     },
     {
         "id": 134,
@@ -2697,7 +3099,10 @@
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Headband"
         },
-        "description": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods."
+        "description": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods.",
+        "release": {
+            "version": "3.0"
+        }
     },
     {
         "id": 135,
@@ -2717,7 +3122,10 @@
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Fungi"
         },
-        "description": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow."
+        "description": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
+        "release": {
+            "version": "3.0"
+        }
     },
     {
         "id": 136,
@@ -2737,7 +3145,10 @@
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Arrow"
         },
-        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down."
+        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down.",
+        "release": {
+            "version": "3.0"
+        }
     },
     {
         "id": 137,
@@ -2757,7 +3168,10 @@
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Headband"
         },
-        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest."
+        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest.",
+        "release": {
+            "version": "3.0"
+        }
     },
     {
         "id": 138,
@@ -2777,7 +3191,10 @@
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Fatui Insignia"
         },
-        "description": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear."
+        "description": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear.",
+        "release": {
+            "version": "3.0"
+        }
     },
     {
         "id": 139,
@@ -2797,7 +3214,10 @@
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Headband"
         },
-        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest."
+        "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest.",
+        "release": {
+            "version": "3.0"
+        }
     },
     {
         "id": 140,
@@ -2817,7 +3237,10 @@
             "eliteMat": "Statuette",
             "commonMat": "Fungi"
         },
-        "description": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis."
+        "description": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis.",
+        "release": {
+            "version": "3.0"
+        }
     },
     {
         "id": 141,
@@ -2837,7 +3260,10 @@
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Headband"
         },
-        "description": "One of a paired set of scepters fashioned from obsidian. They say that this can be used as a key to open the gate to a paradise that lies at the end of the ocean of sand."
+        "description": "One of a paired set of scepters fashioned from obsidian. They say that this can be used as a key to open the gate to a paradise that lies at the end of the ocean of sand.",
+        "release": {
+            "version": "3.1"
+        }
     },
     {
         "id": 142,
@@ -2857,7 +3283,10 @@
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Fungi"
         },
-        "description": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia."
+        "description": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia.",
+        "release": {
+            "version": "3.1"
+        }
     },
     {
         "id": 143,
@@ -2877,7 +3306,10 @@
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Headband"
         },
-        "description": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it."
+        "description": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
+        "release": {
+            "version": "3.1"
+        }
     },
     {
         "id": 144,
@@ -2897,7 +3329,10 @@
             "eliteMat": "Drake Chaos Part",
             "commonMat": "Treasure Hoarder Insignia"
         },
-        "description": "An ancient greatsword that gleams like the waters themselves. A thousand years of sand erosion has not dulled its unnaturally sharp edge one bit."
+        "description": "An ancient greatsword that gleams like the waters themselves. A thousand years of sand erosion has not dulled its unnaturally sharp edge one bit.",
+        "release": {
+            "version": "3.1"
+        }
     },
     {
         "id": 145,
@@ -2918,6 +3353,10 @@
             "commonMat": "Fungi"
         },
         "description": "This was originally a device used by researchers to observe and perform calculations on celestial phenomena. It serves as a conduit and catalyst."
+        ,
+        "release": {
+            "version": "3.1"
+        }
     },
     {
         "id": 146,
@@ -2937,7 +3376,10 @@
             "eliteMat": "Statuette",
             "commonMat": "Slime"
         },
-        "description": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing..."
+        "description": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing...",
+        "release": {
+            "version": "3.1"
+        }
     },
     {
         "id": 147,
@@ -2957,7 +3399,10 @@
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Fungi"
         },
-        "description": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days."
+        "description": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days.",
+        "release": {
+            "version": "3.2"
+        }
     },
     {
         "id": 148,
@@ -2977,7 +3422,10 @@
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Fungi"
         },
-        "description": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant."
+        "description": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant.",
+        "release": {
+            "version": "3.3"
+        }
     },
     {
         "id": 149,
@@ -2997,7 +3445,10 @@
             "eliteMat": "Primal Construct Prism",
             "commonMat": "Handguard"
         },
-        "description": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol."
+        "description": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol.",
+        "release": {
+            "version": "3.3"
+        }
     },
     {
         "id": 150,
@@ -3017,7 +3468,10 @@
             "eliteMat": "Shell",
             "commonMat": "Headband"
         },
-        "description": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest."
+        "description": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.",
+        "release": {
+            "version": "3.4"
+        }
     },
     {
         "id": 151,
@@ -3037,7 +3491,10 @@
             "eliteMat": "Shell",
             "commonMat": "Headband"
         },
-        "description": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument."
+        "description": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument.",
+        "release": {
+            "version": "3.5"
+        }
     },
     {
         "id": 152,
@@ -3057,6 +3514,9 @@
             "eliteMat": "Shell",
             "commonMat": "Specter"
         },
-        "description": "A graceful and elegant greatsword that is decorated with flowers and ribbons."
+        "description": "A graceful and elegant greatsword that is decorated with flowers and ribbons.",
+        "release": {
+            "version": "3.5"
+        }
     }
 ]
