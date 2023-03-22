@@ -278,6 +278,11 @@
             "startDate": "March 1, 2023",
             "endDate": "March 21, 2023",
             "banner": ["Beacon of the Reed Sea", "Staff of the Scarlet Sands", "Alley Hunter", "The Alley Flash", "Dragon's Bane", "Eye of Perception", "Sacrificial Greatsword"]
+        },
+        "phase2": {
+            "startDate": "March 21, 2023",
+            "endDate": "April 10, 2023",
+            "banner": ["Mistsplitter Reforged", "Calamity Queller", "Favonius Warbow", "Sacrificial Sword", "Favonius Lance", "Wine and Song", "The Bell"]
         }
     }
 ]

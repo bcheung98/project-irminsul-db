@@ -283,6 +283,11 @@
             "startDate": "March 1, 2023",
             "endDate": "March 21, 2023",
             "banner": ["Dehya", "Cyno", "Barbara", "Bennett", "Collei"]
+        },
+        "phase2": {
+            "startDate": "March 21, 2023",
+            "endDate": "April 10, 2023",
+            "banner": ["Shenhe", "Ayaka", "Diona", "Mika", "Sucrose"]
         }
     }
 ]
