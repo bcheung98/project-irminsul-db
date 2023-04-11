@@ -815,13 +815,13 @@
                     "skill": {
                         "name": "Icetide Vortex",
                         "cost": "3C",
-                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>. If this character has not gained <b>Grimheart</b>, they will gain <b>Grimheart</b>.<br /><br /><b>Grimheart</b><br /><b>After the character to which this is attached uses Icetide Vortex</b>: Remove this status, DMG +2 for this instance."
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>. If this character has not gained <b>Grimheart</b>, they will gain <b>Grimheart</b>.<br /><br /><b>Grimheart</b><br />After the character to which this is attached uses Icetide Vortex: Remove this status, DMG +2 for this instance."
                     },
                     "burst": {
                         "name": "Glacial Illumination",
                         "cost": "3C 2N",
                         "energy": 2,
-                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, summons 1 Lightfall Sword.<br /><br /><b>Lightfall Sword</b><br /><b>When Eula uses a Normal Attack or Elemental Skill</b>, this card will accumulate 2 Zeal stacks, but Eula will not gain Energy.<br /><b>End Phase</b>: Discard this cardr and deal 2 <b>Physical DMG</b>. Each Zeal stack adds 1 DMG to this damage instance.<br />(Effects on this card's <u>Usage(s)</u> will apply to <b>Zeal</b>.)"
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, summons 1 Lightfall Sword.<br /><br /><b>Lightfall Sword</b><br />When Eula uses a Normal Attack or Elemental Skill, this card will accumulate 2 Zeal stacks, but Eula will not gain Energy.<br />End Phase: Discard this card and deal 2 <b>Physical DMG</b>. Each Zeal stack adds 1 DMG to this damage instance.<br />(Effects on this card's <u>Usage(s)</u> will apply to <b>Zeal</b>.)"
                     }
                 }
             },
@@ -841,7 +841,7 @@
                     "skill": {
                         "name": "Kurage's Oath",
                         "cost": "3H",
-                        "description": "This character gains <b class=\"text-hydro\">Hydro Application</b> and summons 1 Bake-Kurage.<br /><br /><b>Bake-Kurage</b><br /><b>End Phase</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
+                        "description": "This character gains <b class=\"text-hydro\">Hydro Application</b> and summons 1 Bake-Kurage.<br /><br /><b>Bake-Kurage</b><br />End Phase: Deal 1 <b class=\"text-hydro\">Hydro DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
                         "name": "Nereid's Ascension",
@@ -874,6 +874,84 @@
                         "cost": "4E 2N",
                         "energy": 2,
                         "description": "Deals 2 <b class=\"text-electro\">Electro DMG</b>, summons 1 Tengu Juurai: Stormcluster.<br /><br /><b>Tengu Juurai: Stormcluster</b><br />End Phase: Deal 2 <b class=\"text-electro\">Electro DMG</b>, applies Crowfeather Cover to friendly active character.<br /><u>Usage(s)</u>: 2<br /><br /><b>Crowfeather Cover</b><br />The character with this attached deals +1 <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br /><u>Usage(s)</u>: 2"
+                    }
+                }
+            },
+            {
+                "name": "Ayato",
+                "fullname": "Kamisato Ayato",
+                "element": "Hydro",
+                "weapon": "Sword",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Kamisato Art: Marobashi",
+                        "cost": "1H 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Kamisato Art: Kyouka",
+                        "cost": "3H",
+                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. This character gains Takimeguri Kanka.<br /><br /><b>Takimeguri Kanka</b><br />The character to which this is attached to has their <b>Normal Attacks</b> deal +1 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "burst": {
+                        "name": "Kamisato Art: Suiyuu",
+                        "cost": "3H 3N",
+                        "energy": 3,
+                        "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>, summons 1 <b>Garden of Purity</b>.<br /><br /><b>Garden of Purity</b><br />End Phase: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 2<br /><br /><b>When this Summon is on the field</b>: Your characters' Normal Attacks deal +1 DMG."
+                    }
+                }
+            },
+            {
+                "name": "Itto",
+                "fullname": "Arataki Itto",
+                "element": "Geo",
+                "weapon": "Claymore",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Fight Club Legend",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Masatsu Zetsugi: Akaushi Burst!",
+                        "cost": "3G",
+                        "description": "Deals 1 <b class=\"text-geo\">Geo DMG</b>. Summons <b>Ushi</b>. This character gains Superlative Superstrength.<br /><br /><b>Ushi</b><br />When your active character receives DMG: Decrease DMG taken by 1.<br /><u>Usage(s)</u>: 1. When the Usage is depleted, this card will not be discarded.<br />Can be triggered once while this Summon is present: When your active character receives DMG, Itto gains <b>Superlative Superstrength</b>.<br />End Phase: Discard this card, deal 1 <b class=\"text-geo\">Geo DMG</b>.<br /><br /><b>Superlative Superstrength</b><br /><b>When the character to which this attached uses a Charged Attack</b>: Deal +1 DMG. If the <u>Usage(s)</u> are no less than 2, expend 1 less <b>Unaligned Element</b>.<br /><u>Usage(s)</u>: 1 (Can stack. Max 3 stacks.)" 
+                    },
+                    "burst": {
+                        "name": "Royal Descent: Behold, Itto the Evil!",
+                        "cost": "3G 3N",
+                        "energy": 3,
+                        "description": "Deals 5 <b class=\"text-geo\">Geo DMG</b>. This character gains Raging Oni King.<br /><br /><b>Raging Oni King</b><br />The character to which this is attached has their <b>Normal Attacks</b> deal +2 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2<br />After the character to which this attached uses a Normal Attack: Gains <b>Superlative Superstrength</b>. (Once per Round)"
+                    }
+                }
+            },
+            {
+                "name": "Tighnari",
+                "fullname": "",
+                "element": "Dendro",
+                "weapon": "Bow",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Khanda Barrier-Buster",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Vijnana-Phala Mine",
+                        "cost": "3D",
+                        "description": "Deals 2 <b class=\"text-dendro\">Dendro DMG</b>. This character gains Vijnana Suffusion.<br /><br /><b>Vijnana Suffusion</b><br />When the character to which this attached uses a Charged Attack: Their <b>Physical DMG</b> dealt will be converted to <b class=\"text-dendro\">Dendro DMG</b> and after the Skill DMG is finalized, summon 1 Clusterbloom Arrow.<br /><u>Usage(s)</u>: 2<br /><br /><b>Clusterbloom Arrow</b><br />End Phase: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>.<br /><u>Usage(s)</u>: 1 (Can stack. Max 2 stacks.)"
+                    },
+                    "burst": {
+                        "name": "Fashioner's Tanglevine Shaft",
+                        "cost": "3D 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <b class=\"text-dendro\">Dendro DMG</b>, deals 1 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
                 }
             }
@@ -1104,7 +1182,7 @@
                 "subType": "Talent",
                 "character": "Mirror Maiden",
                 "cost": "4H",
-                "description": "<b>Combat Action</b>: When your active character is <b>Mirror Maiden</b>, equip this card.<br />After Mirror Maiden equips this card, immediately use <b class=\"text-highlight\">Influx Blast</b> once.<br />When your Mirror Maiden, who has this card equipped, creates a <b>Refraction</b>, it will have the following effects: Starting <b>Duration (Rounds)</b> +1, will increase the Elemental Dice Cost of switching from a character to which this is attched to another character by 1.<br />(You must have Mirror Maiden in your deck to add this card to your deck.)"
+                "description": "<b>Combat Action</b>: When your active character is <b>Mirror Maiden</b>, equip this card.<br />After Mirror Maiden equips this card, immediately use <b class=\"text-highlight\">Influx Blast</b> once.<br />When your Mirror Maiden, who has this card equipped, creates a <b>Refraction</b>, it will have the following effects: Starting <u>Duration (Rounds)</u> +1, will increase the Elemental Dice Cost of switching from a character to which this is attched to another character by 1.<br />(You must have Mirror Maiden in your deck to add this card to your deck.)"
             },
             {
                 "name": "Naganohara Meteor Swarm",
@@ -1216,7 +1294,7 @@
                 "subType": "Talent",
                 "character": "Chongyun",
                 "cost": "4C",
-                "description": "<b>Combat Action</b>: When your active character is <b>Chongyun</b>, equip this card.<br />After Chongyun equips this card, immediately use <b class=\"text-highlight\">Chonghua's Layered Frost</b> once.<br />When your Chongyun, who has this card equipped, creates a <b>Chonghua Frost Field</b>, it will have the following effects: Starting <b>Duration (Rounds)</b> +1, will cause your Sword, Claymore, and Polearm-wielding charactes' <b>Normal Attacks</b> to deal +1 DMG.<br />(You must have Chongyun in your deck to add this card to your deck.)"
+                "description": "<b>Combat Action</b>: When your active character is <b>Chongyun</b>, equip this card.<br />After Chongyun equips this card, immediately use <b class=\"text-highlight\">Chonghua's Layered Frost</b> once.<br />When your Chongyun, who has this card equipped, creates a <b>Chonghua Frost Field</b>, it will have the following effects: Starting <u>Duration (Rounds)</u> +1, will cause your Sword, Claymore, and Polearm-wielding charactes' <b>Normal Attacks</b> to deal +1 DMG.<br />(You must have Chongyun in your deck to add this card to your deck.)"
             },
             {
                 "name": "Stellar Predator",
@@ -1278,7 +1356,7 @@
                 "subType": "Talent",
                 "character": "Keqing",
                 "cost": "3E",
-                "description": "<b>Combat Action</b>: When your active character is <b>Keqing</b>, equip this card.<br />After Keqing equips this card, immediately use <b class=\"text-highlight\">Stellar Restoration</b> once.<br />When your Keqing, who has this card equipped, creates an <b>Electro Elemental Infusion</b>, it will have the following effects: Staring <b>Duration (Rounds)</b> +1, <b class=\"text-electro\">Electro DMG</b> dealt by the attached character +1.<br />(You must have Keqing in your deck to add this card to your deck.)"
+                "description": "<b>Combat Action</b>: When your active character is <b>Keqing</b>, equip this card.<br />After Keqing equips this card, immediately use <b class=\"text-highlight\">Stellar Restoration</b> once.<br />When your Keqing, who has this card equipped, creates an <b>Electro Elemental Infusion</b>, it will have the following effects: Staring <u>Duration (Rounds)</u> +1, <b class=\"text-electro\">Electro DMG</b> dealt by the attached character +1.<br />(You must have Keqing in your deck to add this card to your deck.)"
             },
             {
                 "name": "Transcendent Automaton",
@@ -1792,6 +1870,41 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When Action Phase begins</b>: The character to which this is attached gains <b>Unmovable Mountain</b> that provides 2 <b>Shield</b> points.<br />(A character can equip a maximum of 1 Artifact.)"
+            },
+            {
+                "name": "Kyouka Fuushi",
+                "type": "Equipment",
+                "subType": "Talent",
+                "cost": "3H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Ayato</b>, equip this card.<br />After Ayato equips this card, immediately use <b class=\"text-highlight\">Kamisato Art: Kyouka</b> once.<br />When your Ayato, who has this card equipped, triggers the effects of <b>Takimeguri Kanka</b>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br />(You must have Ayato in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Arataki Ichiban",
+                "type": "Equipment",
+                "subType": "Talent",
+                "cost": "1G 2U",
+                "description": "<b>Combat Action</b>: When your active character is <b>Itto</b>, equip this card.<br />After Itto equips this card, immediately use <b class=\"text-highlight\">Fight Club Legend</b> once.<br />When your Itto, who has this card equipped, uses <b>Fight Club Legend</b> for the second time or more in one Round: If <b>Superlative Superstrength</b> is triggered, deal +1 additional DMG.<br />(You must have Itto in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Keen Sight",
+                "type": "Equipment",
+                "subType": "Talent",
+                "cost": "4D",
+                "description": "<b>Combat Action</b>: When your active character is <b>Tighnari</b>, equip this card.<br />After Tighnari equips this card, immediately use <b class=\"text-highlight\">Vijnana-Phala Mine</b> once.<br />When your Tighnari, who has this card equipped, uses <b>Vijnana Suffusion</b>, the character's <b>Charged Attack</b> costs 1 less <b>Unaligned Element</b>.<br />(You must have Tighnari in your deck to add this card to your deck.)"
+            },
+            {
+                "name": "Favonius Sword",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "The character deals +1 DMG</b>.<br /><b>After the  character uses an Elemental Skill</b>: The character gains 1 additional <b>Energy</b>. (Once per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)"
+            },
+            {
+                "name": "Grand Narukami Shrine",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "2M",
+                "description": "<b>Triggers automatically once per Round</b>: Create 1 random Elemental Die.<br /><u>Usage(s)</u>: 3"
             }
         ]
     }

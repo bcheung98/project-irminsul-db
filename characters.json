@@ -6763,5 +6763,215 @@
             "date": "March 22, 2023",
             "version": "3.5" 
         }
+    },
+    {
+        "id": 64,
+        "name": "Baizhu",
+        "fullname": "",
+        "title": "Beyond Mortality",
+        "rarity": 5,
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "The Classics of Acupuncture",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 attacks that deal <b class=\"text-dendro\">Dendro DMG</b> to opponents in front of him.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to deal <b class=\"text-dendro\">AoE Dendro DMG</b> to opponents in front of him after a short casting time.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Calling upon the might of Dendro, Baizhu plunges towards the ground from mid-air, damaging all opponents in him path. Deals <b class=\"text-dendro\">AoE Dendro DMG</b> upon impact with the ground.",
+                "scaling": [
+                    ["1-Hit DMG", "37.37%", "40.17%", "42.98%", "46.71%", "49.52%", "52.32%", "56.06%", "59.79%", "63.53%", "67.27%", "71%", "74.74%", "79.41%", "84.08%", "88.75%"], ["2-Hit DMG", "36.42%", "39.16%", "41.89%", "45.53%", "48.26%", "50.99%", "54.64%", "58.28%", "61.92%", "65.56%", "69.21%", "72.85%", "77.4%", "81.96%", "86.51%"], ["3-Hit DMG", "22.54%×2", "24.23%×2", "25.92%×2", "28.18%×2", "29.87%×2", "31.56%×2", "33.81%×2", "36.07%×2", "38.32%×2", "40.57%×2", "42.83%×2", "45.08%×2", "47.9%×2", "50.72%×2", "53.54%×2"], ["4-Hit DMG", "54.14%", "58.2%", "62.26%", "67.67%", "71.73%", "75.79%", "81.21%", "86.62%", "92.03%", "97.45%", "102.86%", "108.28%", "115.04%", "121.81%", "128.58%"], ["Charged Attack DMG", "121.04%", "130.12%", "139.2%", "151.3%", "160.38%", "169.46%", "181.56%", "193.66%", "205.77%", "217.87%", "229.98%", "242.08%", "257.21%", "272.34%", "287.47%"], ["Charged Attack Stamina Cost", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Universal Diagnosis",
+                "description": "Controls a Gossamer Sprite that cruises and attacks nearby opponents, dealing <b class=\"text-dendro\">Dendro DMG</b>.<br />After it performs 3 attacks or if there are no opponents nearby, the Sprite will return, healing all nearby party members based on Baizhu's Max HP.",
+                "scaling": [
+                    ["Skill DMG", "79.2%", "85.14%", "91.08%", "99%", "104.94%", "110.88%", "118.8%", "126.72%", "134.64%", "142.56%", "150.48%", "158.4%", "168.3%", "178.2%", "188.1%"], ["Healing", "8% Max HP + 770.38", "8.6% Max HP + 847.42", "9.2% Max HP + 930.89", "10% Max HP + 1020.78", "10.6% Max HP + 1117.09", "11.2% Max HP + 1219.82", "12% Max HP + 1328.98", "12.8% Max HP + 1444.55", "13.6% Max HP + 1566.54", "14.4% Max HP + 1694.95", "15.2% Max HP + 1829.79", "16% Max HP + 1971.04", "17% Max HP + 2118.72", "18% Max HP + 2272.82", "19% Max HP + 2433.33"], ["CD", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"]
+                ],
+                "splash": "Those in the medical field who can read true signs of illness from false ones may even cure people before any symptoms can show."
+            },
+            "burst": {
+                "name": "Holistic Revivification",
+                "description": "Enters the Pulsing Clarity state, creating a Seamless Shield that absorbs <b class=\"text-dendro\">Dendro DMG</b> with 250% effectiveness.<br />While in this state, Baizhu will generate a new Seamless Shield every 2s.<br /><br />The Seamless Shield will heal your own active character based on Baizhu's Max HP and attack opponents by unleashing Spiritveins, dealing <b class=\"text-dendro\">Dendro DMG</b> under the following circumstances:<li>When a character is under the protection of a Seamless Shield and a new Seamless Shield is generated.</li><li>When the Seamless Shield's effects expire, or when it is shattered.</li>",
+                "scaling": [
+                    ["Seamless Shield DMG Absorption", "0.8% Max HP + 77.04", "0.86% Max HP + 84.74", "0.92% Max HP + 93.09", "1% Max HP + 102.08", "1.06% Max HP + 111.71", "1.12% Max HP + 121.98", "1.2% Max HP + 132.9", "1.28% Max HP + 144.45", "1.36% Max HP + 156.65", "1.44% Max HP + 169.5", "1.52% Max HP + 182.98", "1.6% Max HP + 197.1", "1.7% Max HP + 211.87", "1.8% Max HP + 227.28", "1.9% Max HP + 243.33"], ["Seamless Shield Duration", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s"], ["Seamless Shield Healing", "5.2% Max HP + 500.74", "5.59% Max HP + 550.83", "5.98% Max HP + 605.08", "6.5% Max HP + 663.51", "6.89% Max HP + 726.11", "7.28% Max HP + 792.89", "7.8% Max HP + 863.83", "8.32% Max HP + 938.96", "8.84% Max HP + 1018.25", "9.36% Max HP + 1101.72", "9.88% Max HP + 1189.36", "10.4% Max HP + 1281.18", "11.05% Max HP + 1377.17", "11.7% Max HP + 1477.33", "12.35% Max HP + 1581.67"], ["Spiritvein DMG", "97.06%", "104.34%", "111.62%", "121.33%", "128.61%", "135.89%", "145.6%", "155.3%", "165.01%", "174.72%", "184.42%", "194.13%", "206.26%", "218.39%", "230.53%"], ["Pulsing Clarity Duration", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s", "14s"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"], ["Energy Cost", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80"]
+                ],
+                "splash": "If one can perceive the heavens and the earth, defend your inner sphere against outside influence, and keep your mind clear, surely nothing can hinder you."
+            },
+            "a1passive": {
+                "name": "Five Fortunes Forever",
+                "description": "Baizhu gains different effects according to the current HP of your current active character:<li>When their HP is less than 50%, Baizhu gains 20% Healing Bonus.</li><li>When their HP is equal to or more than 50%, Baizhu gains 25% <b class=\"text-dendro\">Dendro DMG Bonus</b>.</li>"
+            },
+            "a4passive": {
+                "name": "All Things Are of the Earth",
+                "description": "Characters who are healed by <b class=\"text-highlight\">Seamless Shields</b> will gain the Year of Verdant Favor effect: Each 1,000 Max HP that Baizhu possesses that does not exceed 50,000 will increase the Burning, Bloom, Hyperbloom, and Burgeon reaction DMG dealt by these characters by 2%, while the Aggravate and Spread reaction DMG dealt by these characters will be increased by 0.8%. This effect lasts 6s."
+            },
+            "utilpassive": {
+                "name": "Herbal Nourishment",
+                "description": "When Baizhu is in the party, interacting with certain harvestable items will heal your current active character for 2.5% of Baizhu's Max HP."
+            }
+        },
+        "constellation": {
+            "name": "Lagenaria",
+            "c1": {
+                "name": "Attentive Observation",
+                "description": "<b class=\"text-highlight\">Universal Diagnosis</b> gains 1 additional charge."
+            },
+            "c2": {
+                "name": "Incisive Discernment",
+                "description": "When your own active character hits a nearby opponent with their attacks, Baizhu will unleash a Gossamer Sprite: Splice.<br />Gossamer Sprite: Splice will initiate 1 attack before returning, dealing 250% of Baizhu's ATK as <b class=\"text-dendro\">Dendro DMG</b> and healing for 20% of <b class=\"text-highlight\">Universal Diagnosis</b>' Gossamer Sprite's normal healing.<br />DMG dealt this way is considered Elemental Skill DMG.<br />This effect can be triggered once every 5s."
+            },
+            "c3": {
+                "name": "All Aspects Stabilized",
+                "description": "Increases the Level of <b class=\"text-highlight\">Holistic Revivification</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Ancient Art of Perception",
+                "description": "For 15s after <b class=\"text-highlight\">Holistic Revivification</b> is used, Baizhu will increase all nearby party members' Elemental Mastery by 80."
+            },
+            "c5": {
+                "name": "The Hidden Ebb and Flow",
+                "description": "Increases the Level of <b class=\"text-highlight\">Universal Diagnosis</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Elimination of Malicious Qi",
+                "description": "Increases the DMG dealt by <b class=\"text-highlight\">Holistic Revivification</b>'s Spiritveins by 8% of Baizhu's Max HP.<br />Additionally, when a <b class=\"text-highlight\">Gossamer Sprite</b> or Gossamer Sprite: Splice hits opponents, there is a 100% chance of generating one of <b class=\"text-highlight\">Holistic Revivification</b>'s Seamless Shields. This effect can only be triggered once by each Gossamer Sprite or Gossamer Sprite: Splice."
+            }
+        },
+        "stats": {
+                "ascensionStat": "HP",
+                "hp": [1039, 2695, 3586, 5366, 5999, 6902, 7747, 8659, 9292, 10213, 10846, 11777, 12410, 13348],
+                "atk": [15, 39, 52, 77, 87, 100, 112, 125, 134, 147, 156, 170, 179, 193],
+                "def": [39, 101, 134, 201, 225, 258, 290, 324, 348, 382, 406, 441, 464, 500]
+            },
+        "materials": {
+            "talentBook": "Gold",
+            "bossMat": "Evergloom Ring",
+            "localMat": "Violetgrass",
+            "commonMat": "Fungi",
+            "weeklyBossMat": "Worldspan Fern"
+        },
+        "description": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.",
+        "birthday": "April 25",
+        "gender": "Male",
+        "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "The Applications of Medicine",
+                "rarity": 4,
+                "description": "Baizhu's outfit. The cloak on his shoulder is dyed using Changsheng's favorite plants. Its fragrance lingers and soothes the senses."
+            }
+        ],
+        "voiceActors": {
+            "en": "Sean Durrie",
+            "jp": "Kōji Yusa (遊佐 浩二)"
+        },
+        "release": {
+            "date": "May 2, 2023",
+            "version": "3.6" 
+        }
+    },
+    {
+        "id": 65,
+        "name": "Kaveh",
+        "fullname": "",
+        "title": "Empyrean Reflection",
+        "rarity": 4,
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "talents": {
+            "attack": {
+                "name": "Schematic Setup",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Uses Mehrak to perform up to 4 consecutive attacks.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Drains Stamina over time to perform continuous slashes.<br />At end of the sequence, perform a more powerful slash.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "76.19%", "82.39%", "88.59%", "97.45%", "103.65%", "110.73%", "120.48%", "130.22%", "139.97%", "150.6%", "161.23%", "171.86%", "182.49%", "193.12%", "203.75%"], ["2-Hit DMG", "69.64%", "75.31%", "80.98%", "89.07%", "94.74%", "101.22%", "110.13%", "119.03%", "127.94%", "137.66%", "147.37%", "157.09%", "166.81%", "176.53%", "186.24%"], ["3-Hit DMG", "84.26%", "91.12%", "97.98%", "107.78%", "114.63%", "122.47%", "133.25%", "144.03%", "154.81%", "166.56%", "178.32%", "190.08%", "201.83%", "213.59%", "225.35%"], ["4-Hit DMG", "102.69%", "111.05%", "119.4%", "131.35%", "139.7%", "149.26%", "162.39%", "175.53%", "188.66%", "202.99%", "217.32%", "231.65%", "245.97%", "260.3%", "274.63%"], ["Charged Attack Cyclic DMG", "53.15%", "57.47%", "61.8%", "67.98%", "72.31%", "77.25%", "84.05%", "90.85%", "97.64%", "105.06%", "112.48%", "119.89%", "127.31%", "134.72%", "142.14%"], ["Charged Attack Final DMG", "96.15%", "103.97%", "111.8%", "122.98%", "130.81%", "139.75%", "152.05%", "164.35%", "176.64%", "190.06%", "203.48%", "216.89%", "230.31%", "243.72%", "257.14%"], ["Charged Attack Stamina Cost", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s"], ["Max Duration", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s"], ["Plunge DMG", "74.59%", "80.66%", "86.73%", "95.4%", "101.47%", "108.41%", "117.95%", "127.49%", "137.03%", "147.44%", "157.85%", "168.26%", "178.66%", "189.07%", "199.48%"], ["Low/High Plunge DMG", "149.14% / 186.29%", "161.28% / 201.45%", "173.42% / 216.62%", "190.77% / 238.28%", "202.91% / 253.44%", "216.78% / 270.77%", "235.86% / 294.6%", "254.93% / 318.42%", "274.01% / 342.25%", "294.82% / 368.25%", "315.63% / 394.24%", "336.44% / 420.23%", "357.25% / 446.23%", "378.06% / 472.22%", "398.87% / 498.21%"]
+                ]
+            },
+            "skill": {
+                "name": "Artistic Ingenuity",
+                "description": "Uses Mehrak's mapping ability for offensive purposes, initiating a radial scan that deals <b class=\"text-dendro\">AoE Dendro DMG</b>. It will also scan all Dendro Cores in its AoE and cause them to immediately burst.",
+                "scaling": [
+                    ["Skill DMG", "204%", "219.3%", "234.6%", "255%", "270.3%", "285.6%", "306%", "326.4%", "346.8%", "367.2%", "387.6%", "408%", "433.5%", "459%", "484.5%"], ["CD", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"]
+                ],
+                "splash": "Mehrak was created through the modification of ancient technology, and may have some other functions apart from mapping work..."
+            },
+            "burst": {
+                "name": "Painted Dome",
+                "description": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing <b class=\"text-dendro\">AoE Dendro DMG</b> to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:<li>Increases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to <b class=\"text-dendro\">Dendro DMG</b> that cannot be overridden.</li><li>All Dendro Cores created by all your own party members through Bloom reactions will deal additional DMG when they burst.</li><li>Increases Kaveh's resistance to interruption.</li>These effects will be canceled once Kaveh leaves the field.",
+                "scaling": [
+                    ["Skill DMG", "160%", "172%", "184%", "200%", "212%", "224%", "240%", "256%", "272%", "288%", "304%", "320%", "340%", "360%", "380%"], ["Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["Dendro Core Burst DMG Bonus", "27.49%", "29.55%", "31.61%", "34.36%", "36.42%", "38.48%", "41.23%", "43.98%", "46.73%", "49.48%", "52.23%", "54.98%", "58.41%", "61.85%", "65.28%"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"], ["Energy Cost", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80"]
+                ],
+                "splash": "\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalsescences of human memories.\""
+            },
+            "a1passive": {
+                "name": "An Architect's Undertaking",
+                "description": "When DMG dealt by a Dendro Core (including DMG from Burgeon and Hyperbloom) hits Kaveh, Kaveh will regain HP equal to 300% of his Elemental Mastery. This effect can be triggered once every 0.5s."
+            },
+            "a4passive": {
+                "name": "A Craftsman's Curious Conceptions",
+                "description": "During <b class=\"text-highlight\">Painted Dome</b>, after Kaveh's Normal, Charged, and Plunging Attacks hit opponents, his Elemental Mastery will increase by 25. This effect can be triggered once every 0.1s. Max 4 stacks.<br />This effect will be canceled when Painted Dome's effects end."
+            },
+            "utilpassive": {
+                "name": "The Art of Budgeting",
+                "description": "When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used."
+            }
+        },
+        "constellation": {
+            "name": "Paradisaea",
+            "c1": {
+                "name": "Sublime Salutations",
+                "description": "Within 3s after using <b class=\"text-highlight\">Artistic Ingenuity</b>, Kaveh's <b class=\"text-dendro\">Dendro RES</b> will be increased by 50% and he will receive 50% more healing."
+            },
+            "c2": {
+                "name": "Grace of Royal Roads",
+                "description": "Kaveh's Normal Attack SPD increases by 15% during <b class=\"text-highlight\">Painted Dome</b>."
+            },
+            "c3": {
+                "name": "Profferings of Dur Untash",
+                "description": "Increases the Level of <b class=\"text-highlight\">Painted Dome</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Feast of Apadana",
+                "description": "Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst."
+            },
+            "c5": {
+                "name": "Treasures of Bonkhanak",
+                "description": "Increases the Level of <b class=\"text-highlight\">Artistic Ingenuity</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Pairidaeza's Dreams",
+                "description": "When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during <b class=\"text-highlight\">Painted Dome</b>, they will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as <b class=\"text-dendro\">AoE Dendro DMG</b> and causing all Dendro Cores within that AoE to rupture. This effect can be triggered once every 3s."
+            }
+        },
+        "stats": {
+                "ascensionStat": "Elemental Mastery",
+                "hp": [1003, 2577, 3326, 4982, 5514, 6343, 7052, 7881, 8413, 9241, 9773, 10602, 11134, 11962],
+                "atk": [20, 50, 65, 97, 108, 124, 138, 154, 164, 180, 191, 207, 217, 234],
+                "def": [63, 162, 209, 313, 346, 398, 443, 495, 528, 580, 613, 665, 699, 751]
+            },
+        "materials": {
+            "talentBook": "Ingenuity",
+            "bossMat": "Quelled Creeper",
+            "localMat": "Mourning Flower",
+            "commonMat": "Fungi",
+            "weeklyBossMat": "Primordial Greenbloom"
+        },
+        "description": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.",
+        "birthday": "July 9",
+        "gender": "Male",
+        "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Gold Pinions in Flames Bathed",
+                "rarity": 4,
+                "description": "Kaveh's outfit. A notable tailor from Treasures Street created these clothes in imitation of the lovely sight of birds extending their wings in flight, and would only sell this to those who knew how to appreciate its beauty."
+            }
+        ],
+        "voiceActors": {
+            "en": "Ben Balmaceda",
+            "jp": "Yuma Uchida (内田 雄馬)"
+        },
+        "release": {
+            "date": "May 2, 2023",
+            "version": "3.6" 
+        }
     }
 ]
