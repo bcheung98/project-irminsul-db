@@ -465,7 +465,7 @@
                         "name": "Sparks 'n' Splash",
                         "cost": "3P 3N",
                         "energy": 3,
-                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, creats 1 Sparks 'n' Splash at the opponent's play area.<br /><br /><b>Sparks 'n' Splash</b><br />After your character uses a Skill: Sparks 'n' Splash deals 2 <b class=\"text-pyro\">Pyro DMG</b> to your active character.<br /><u>Usage(s)</u>: 2"
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, creats 1 Sparks 'n' Splash at the opponent's play area.<br /><br /><b>Sparks 'n' Splash</b><br />After a character to which Sparks 'n' Splash is attached uses a Skill: Deals 2 <b class=\"text-pyro\">Pyro DMG</b> to their team's active character.<br /><u>Usage(s)</u>: 2"
                     }
                 }
             },
@@ -769,7 +769,7 @@
                         "name": "Raincutter",
                         "cost": "3H 2N",
                         "energy": 2,
-                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rainbow Bladework.<br /><br /><b>Rain Sword</b><br />After your character uses a Normal Attack: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rainbow Bladework.<br /><br /><b>Rain Sword</b><br />After your character uses a Normal Attack: Deal 1 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
                 }
             },
@@ -847,7 +847,7 @@
                         "name": "Nereid's Ascension",
                         "cost": "3H 2N",
                         "energy": 2,
-                        "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>. This character gains Ceremonial Garment.<br /><br /><b>Ceremonial Garment</b><br />The character to which this is attched has their <b>Normal Attacks</b> deal +1 DMG.<br /><b>After the character to which this is attached uses a Normal Attack</b>: Heal 1 HP for all your characters.<br /><u>Duration (Rounds)</u>: 2"
+                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. Heals all allied characters for 1 point. This character gains Ceremonial Garment.<br /><br /><b>Ceremonial Garment</b><br />The character to which this is attched has their <b>Normal Attacks</b> deal +1 DMG.<br /><b>After the character to which this is attached uses a Normal Attack</b>: Heal 1 HP for all your characters.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 }
             },
@@ -978,7 +978,7 @@
                 "name": "Archaic Petra",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-geo\">Geo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
@@ -993,7 +993,7 @@
                 "name": "Blizzard Strayer",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-cryo\">Cryo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
@@ -1023,7 +1023,7 @@
                 "name": "Crimson Witch of Flames",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-pyro\">Pyro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
@@ -1038,7 +1038,7 @@
                 "name": "Deepwood Memories",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-dendro\">Dendro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
@@ -1099,7 +1099,7 @@
                 "name": "Heart of Depth",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-hydro\">Hydro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
@@ -1347,7 +1347,7 @@
                 "name": "Thundering Fury",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-electro\">Electro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
@@ -1392,7 +1392,7 @@
                 "name": "Viridescent Venerer",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-anemo\">Anemo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)"
             },
             {
@@ -1490,7 +1490,7 @@
                 "name": "Katheryne",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "2U",
+                "cost": "1U",
                 "description": "<b>When you perform \"Switch Character\"</b>: The switch is considered a <b>Fast Action</b> instead of a <b>Combat Action</b>. (Once per Round)"
             },
             {
@@ -1855,7 +1855,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "cost": "4E 2N",
-                "description": "<b>Combat Action</b>: When your active character is <b>Sara</b>, equip this card.<br />After Sara equips this card, immediately use <b class=\"text-highlight\">Subjugation: Koukou Sendou</b> once.<br />If a friendly <b class=\"text-electro\">Electro</b> character has <b>Crowfeather Cover</b> attached, their <b>Elemental Skill</b> and <b>Elemental Burst</b> deal +1 additional DMG.<br />(You must have Sara in your deck to add this card to your deck.)"
+                "description": "<b>Combat Action</b>: When your active character is <b>Sara</b>, equip this card.<br />After Sara equips this card, immediately use <b class=\"text-highlight\">Subjugation: Koukou Sendou</b> once.<br />When Sara is active and has this card equipped, all allied <b class=\"text-electro\">Electro</b> characters with <b>Crowfeather Cover</b> will deal +1 additional <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br />(You must have Sara in your deck to add this card to your deck.)"
             },
             {
                 "name": "Ornate Kabuto",
