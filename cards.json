@@ -1986,6 +1986,7 @@
             },
             {
                 "name": "Elemental Resonance - Enduring Rock",
+                "displayName": "Elemental Resonance: Enduring Rock",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "1G",
@@ -1996,6 +1997,7 @@
             },
             {
                 "name": "Elemental Resonance - Fervent Flames",
+                "displayName": "Elemental Resonance: Fervent Flames",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "1P",
@@ -2006,6 +2008,7 @@
             },
             {
                 "name": "Elemental Resonance - High Voltage",
+                "displayName": "Elemental Resonance: High Voltage",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "1E",
@@ -2016,6 +2019,7 @@
             },
             {
                 "name": "Elemental Resonance - Impetuous Winds",
+                "displayName": "Elemental Resonance: Impetuous Winds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "1A",
@@ -2026,6 +2030,7 @@
             },
             {
                 "name": "Elemental Resonance - Shattering Ice",
+                "displayName": "Elemental Resonance: Shattering Ice",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "1C",
@@ -2036,6 +2041,7 @@
             },
             {
                 "name": "Elemental Resonance - Soothing Water",
+                "displayName": "Elemental Resonance: Soothing Water",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "1H",
@@ -2046,6 +2052,7 @@
             },
             {
                 "name": "Elemental Resonance - Sprawling Greenery",
+                "displayName": "Elemental Resonance: Sprawling Greenery",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "1D",
@@ -2056,6 +2063,7 @@
             },
             {
                 "name": "Elemental Resonance - Woven Flames",
+                "displayName": "Elemental Resonance: Woven Flames",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "0M",
@@ -2066,6 +2074,7 @@
             },
             {
                 "name": "Elemental Resonance - Woven Ice",
+                "displayName": "Elemental Resonance: Woven Ice",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "0M",
@@ -2076,6 +2085,7 @@
             },
             {
                 "name": "Elemental Resonance - Woven Stone",
+                "displayName": "Elemental Resonance: Woven Stone",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "0M",
@@ -2086,6 +2096,7 @@
             },
             {
                 "name": "Elemental Resonance - Woven Thunder",
+                "displayName": "Elemental Resonance: Woven Thunder",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "0M",
@@ -2096,6 +2107,7 @@
             },
             {
                 "name": "Elemental Resonance - Woven Waters",
+                "displayName": "Elemental Resonance: Woven Waters",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "0M",
@@ -2106,6 +2118,7 @@
             },
             {
                 "name": "Elemental Resonance - Woven Weeds",
+                "displayName": "Elemental Resonance: Weeds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "0M",
@@ -2116,6 +2129,7 @@
             },
             {
                 "name": "Elemental Resonance - Woven Winds",
+                "displayName": "Elemental Resonance: Woven Winds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
                 "cost": "0M",
