@@ -1808,7 +1808,7 @@
                 "name": "Katheryne",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "1U",
+                "cost": "1M",
                 "description": "<b>When you perform \"Switch Character\"</b>: The switch is considered a <b>Fast Action</b> instead of a <b>Combat Action</b>. (Once per Round)",
                 "release": {
                     "version": "3.3"
@@ -2322,6 +2322,7 @@
                 "name": "Wellspring of War-Lust",
                 "type": "Equipment",
                 "subType": "Talent",
+                "character": "Eula",
                 "cost": "3C 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Eula</b>, equip this card.<br />After Eula equips this card, immediately use <b class=\"text-highlight\">Glacial Illumination</b> once.<br />When your Eula, who has this card equipped, uses <b>Icetide Vortex</b>, this will generate 1 more Zeal for <b>Lightfall Sword</b>.<br />(You must have Eula in your deck to add this card to your deck.)",
                 "release": {
@@ -2332,6 +2333,7 @@
                 "name": "Tamanooya's Casket",
                 "type": "Equipment",
                 "subType": "Talent",
+                "character": "Kokomi",
                 "cost": "3H 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Kokomi</b>, equip this card.<br />After Kokomi equips this card, immediately use <b class=\"text-highlight\">Nereid's Ascension</b> once.<br />When your Kokomi, who has this card equipped, uses <b>Nereid's Ascension</b>: If <b>Bake-Kurage</b> is on the field, its <u>Usage(s)</u> will be refreshed.<br />While <b>Ceremonial Garment</b> exists, <b>Bake-Kurage</b> deals +1 DMG.<br />(You must have Kokomi in your deck to add this card to your deck.)",
                 "release": {
@@ -2342,6 +2344,7 @@
                 "name": "Sin of Pride",
                 "type": "Equipment",
                 "subType": "Talent",
+                "character": "Sara",
                 "cost": "4E 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Sara</b>, equip this card.<br />After Sara equips this card, immediately use <b class=\"text-highlight\">Subjugation: Koukou Sendou</b> once.<br />When Sara is active and has this card equipped, all allied <b class=\"text-electro\">Electro</b> characters with <b>Crowfeather Cover</b> will deal +1 additional <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br />(You must have Sara in your deck to add this card to your deck.)",
                 "release": {
@@ -2372,6 +2375,7 @@
                 "name": "Kyouka Fuushi",
                 "type": "Equipment",
                 "subType": "Talent",
+                "character": "Ayato",
                 "cost": "3H",
                 "description": "<b>Combat Action</b>: When your active character is <b>Ayato</b>, equip this card.<br />After Ayato equips this card, immediately use <b class=\"text-highlight\">Kamisato Art: Kyouka</b> once.<br />When your Ayato, who has this card equipped, triggers the effects of <b>Takimeguri Kanka</b>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br />(You must have Ayato in your deck to add this card to your deck.)",
                 "release": {
@@ -2382,6 +2386,7 @@
                 "name": "Arataki Ichiban",
                 "type": "Equipment",
                 "subType": "Talent",
+                "character": "Itto",
                 "cost": "1G 2U",
                 "description": "<b>Combat Action</b>: When your active character is <b>Itto</b>, equip this card.<br />After Itto equips this card, immediately use <b class=\"text-highlight\">Fight Club Legend</b> once.<br />When your Itto, who has this card equipped, uses <b>Fight Club Legend</b> for the second time or more in one Round: If <b>Superlative Superstrength</b> is triggered, deal +1 additional DMG.<br />(You must have Itto in your deck to add this card to your deck.)",
                 "release": {
@@ -2392,6 +2397,7 @@
                 "name": "Keen Sight",
                 "type": "Equipment",
                 "subType": "Talent",
+                "character": "Tighnari",
                 "cost": "4D",
                 "description": "<b>Combat Action</b>: When your active character is <b>Tighnari</b>, equip this card.<br />After Tighnari equips this card, immediately use <b class=\"text-highlight\">Vijnana-Phala Mine</b> once.<br />When your Tighnari, who has this card equipped, uses <b>Vijnana Suffusion</b>, the character's <b>Charged Attack</b> costs 1 less <b>Unaligned Element</b>.<br />(You must have Tighnari in your deck to add this card to your deck.)",
                 "release": {
