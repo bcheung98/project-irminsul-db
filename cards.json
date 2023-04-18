@@ -1738,7 +1738,7 @@
                 "name": "Chang the Ninth",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b>When either side uses a Skill</b>: If <b>Physical DMG</b> or <b>Piercing DMG</b> was dealt, or an <b>Elemental Reaction</b> was triggered, this card gains <b>1 Inspiration</b>.<br />When this card gains <b>3 Inspiration</b>, discard this card, then draw 2 cards.",
                 "release": {
                     "version": "3.3"
@@ -1828,7 +1828,7 @@
                 "name": "Liben",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b>End Phase</b>: Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br /><b>When Action Phase begins</b>: If this card has collected 3 Elemental Dice, draw 2 cards and create <b>Omni Element</b> ×2, then discard this card.",
                 "release": {
                     "version": "3.3"
@@ -1898,7 +1898,7 @@
                 "name": "Timmie",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b>Triggers automatically once per Round</b>: This card gains <b>1 Pigeon</b>.<br />When this card <b>3 Pigeons</b>, discard this card, then draw 1 card and create <b>Omni Element</b> ×1.",
                 "release": {
                     "version": "3.3"
@@ -1958,7 +1958,7 @@
                 "name": "Blessing of the Divine Relic's Installation",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters.",
                 "release": {
                     "version": "3.3"
@@ -1978,7 +1978,7 @@
                 "name": "Changing Shifts",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b>The next time you perform \"Switch Character\"</b>: Spend 1 less Elemental Die.",
                 "release": {
                     "version": "3.3"
@@ -2066,7 +2066,7 @@
                 "displayName": "Elemental Resonance: Woven Flames",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-pyro\">Pyro Die</b>.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)",
                 "release": {
                     "version": "3.3"
@@ -2077,7 +2077,7 @@
                 "displayName": "Elemental Resonance: Woven Ice",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-Cryo\">Cryo Die</b>.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)",
                 "release": {
                     "version": "3.3"
@@ -2088,7 +2088,7 @@
                 "displayName": "Elemental Resonance: Woven Stone",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-geo\">Geo Die</b>.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)",
                 "release": {
                     "version": "3.3"
@@ -2099,7 +2099,7 @@
                 "displayName": "Elemental Resonance: Woven Thunder",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-electro\">Electro Die</b>.<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)",
                 "release": {
                     "version": "3.3"
@@ -2110,7 +2110,7 @@
                 "displayName": "Elemental Resonance: Woven Waters",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-hydro\">Hydro Die</b>.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)",
                 "release": {
                     "version": "3.3"
@@ -2121,7 +2121,7 @@
                 "displayName": "Elemental Resonance: Weeds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-dendro\">Dendro Die</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)",
                 "release": {
                     "version": "3.3"
@@ -2132,7 +2132,7 @@
                 "displayName": "Elemental Resonance: Woven Winds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-anemo\">Anemo Die</b>.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)",
                 "release": {
                     "version": "3.3"
@@ -2152,7 +2152,7 @@
                 "name": "I Haven't Lost Yet!",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>.",
                 "release": {
                     "version": "3.3"
@@ -2162,7 +2162,7 @@
                 "name": "Jueyun Guoba",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "0M",
+                "cost": "",
                 "description": "During this Round, the target character's next <b>Normal Attack</b> deals +1 DMG.<br />(A character can consume at most 1 Food per Round.)",
                 "release": {
                     "version": "3.3"
@@ -2172,7 +2172,7 @@
                 "name": "Leave It to Me!",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b>The next time you perform \"Switch Character\"</b>: The switch will be considered a <b>Fast Action</b> instead of a <b>Combat Action</b>.",
                 "release": {
                     "version": "3.3"
@@ -2192,7 +2192,7 @@
                 "name": "Master of Weaponry",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type.",
                 "release": {
                     "version": "3.3"
@@ -2232,7 +2232,7 @@
                 "name": "Northern Smoked Chicken",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "0M",
+                "cost": "",
                 "description": "During this Round, the target character's <b>Normal Attacks</b> cost 1 less <b>Unaligned Element</b>.<br />(A character can consume at most 1 Food per Round.)",
                 "release": {
                     "version": "3.3"
@@ -2282,7 +2282,7 @@
                 "name": "Sweet Madame",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "0M",
+                "cost": "",
                 "description": "Heal target character for 1 HP.<br />(A character can consume at most 1 Food per Round.)",
                 "release": {
                     "version": "3.3"
@@ -2302,7 +2302,7 @@
                 "name": "Toss-Up",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Select any Elemental Dice to <b>reroll</b>. Can reroll 2 times.",
                 "release": {
                     "version": "3.3"
