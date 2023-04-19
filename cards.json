@@ -31,6 +31,10 @@
                         "description": "(Passive) When switched to be the active character, this character gains Cryo Elemental Infusion.<br /><br /><b>Cryo Elemental Infusion</b><br />The character to which this is attached has their <b>Physical DMG</b> dealt converted to <b class=\"text-cryo\">Cryo DMG</b>.<br />(Lasts until the Round ends)"
                     }
                 },
+                "splash": {
+                    "title": "\"Frostflake Heron\" Kamisato Ayaka",
+                    "description": "As graceful as the frost drifting in the wind, as elegant as a heron perched in a courtyard."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -59,6 +63,10 @@
                         "energy": 3,
                         "description": "Heals all of your characters for 4 HP."
                     }
+                },
+                "splash": {
+                    "title": "\"Shining Idol\" Barbara",
+                    "description": "Ready to heal hearts and soothe souls at any time."
                 },
                 "release": {
                     "version": "3.3"
@@ -89,6 +97,10 @@
                         "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Inspiration Field.<br /><br /><b>Inspiration Field</b><br />When your character uses a Skill: If this character has at least 7 HP, deal +2 additional DMG for this instance. After the Skill DMG is finalized, if this character's HP is not greater than 6, heal this character for 2 HP.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 },
+                "splash": {
+                    "title": "\"Trial by Fire\" Bennett",
+                    "description": "Once you know that you will certainly lose, then you must certainly know the way to win."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -118,6 +130,10 @@
                         "description": "Deals 7 <b class=\"text-cryo\">Cryo DMG</b>."
                     }
                 },
+                "splash": {
+                    "title": "\"Frozen Ardor\" Chongyun",
+                    "description": "\"Ugh, summer... Please pass us by in peace...\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -146,6 +162,10 @@
                         "energy": 2,
                         "description": "Deals 2 <b class=\"text-dendro\">Dendro DMG</b>, summons 1 Cuilein-Anbar.<br /><br /><b>Cuilein-Anbar</b><br />End Phase: Deals 2 <b class=\"text-dendro\">Dendro DMG</b>.<br /><u>Usage(s)</u>: 2"
                     }
+                },
+                "splash": {
+                    "title": "\"Sprout of Rebirth\" Collei",
+                    "description": "\"'Shouting the name of your card loudly will increase its power many-fold'... You've got to be kidding, right?\""
                 },
                 "release": {
                     "version": "3.3"
@@ -180,6 +200,10 @@
                         "description": "(Passive) When the battle begins, this character gains Pactsworn Pathclearer.<br /><br /><b>Pactsworn Pathclearer</b><br />End Phase: Gain 1 level of Indwelling.<br />Create the following effects based on the Indwelling Level:<br />If equal to or greater than 2: <b>Physical DMG</b> dealt is converted to <b class=\"text-electro\">Electro DMG</b>;<br />If equal to or greater than 4: DMG dealt +2;<br />If equal to or greater than 6: Indwelling Level -4."
                     }
                 },
+                "splash": {
+                    "title": "\"Judicator of Secrets\" Cyno",
+                    "description": "The card bears the General Mahamatra's ardent fondness, which reminds one of the scorching sun hanging above the desert."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -209,6 +233,10 @@
                         "description": "Deals 8 <b class=\"text-pyro\">Pyro DMG</b>. This character gains Pyro Infusion.<br /><br /><b>Pyro Elemental Infusion</b><br />The character to which this is attached has their <b>Physical DMG</b> dealt converted to <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 },
+                "splash": {
+                    "title": "\"Dark Side of Dawn\" Diluc",
+                    "description": "His heart is his greatest foe."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -237,6 +265,10 @@
                         "energy": 3,
                         "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, heals this character for 2 HP, summons 1 Drunken Mist.<br /><br /><b>Drunken Mist</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>, heal your active character for 2 HP.<br /><u>Usage(s)</u>: 2"
                     }
+                },
+                "splash": {
+                    "title": "\"Kätzlein Cocktail\" Diona",
+                    "description": "1% energy dedicated to mixing drinks, 99% to... denying the reality of familiar."
                 },
                 "release": {
                     "version": "3.3"
@@ -271,6 +303,10 @@
                         "description": "(Passive) When the battle begins, this character gains Stealth.<br /><br /><b>Stealth</b><br />The character to which this is attached takes -1 DMG and deals +1 DMG.<br /><u>Usage(s)</u>: 2"
                     }
                 },
+                "splash": {
+                    "title": "\"Blade of Settlement\" Agent",
+                    "description": "\"There is no running from your debt, be you living or otherwise.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -299,6 +335,10 @@
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>, deals 2 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
+                },
+                "splash": {
+                    "title": "\"Fischl, Prinzessin der Verurteilung!\" Fischl",
+                    "description": "\"Oz, mine familiar, spread thine wings and weave for me a new fate in the gloom of this night!\"<br />\"Mein Fräulein, you cannot expect me to fetch you a replacement card...\""
                 },
                 "release": {
                     "version": "3.3"
@@ -334,6 +374,10 @@
                         "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, deals 1 <b>Piercing DMG</b> to all opposing characters on standby, summons 1 Sacred Cryo Pearl.<br /><br /><b>Sacred Cryo Pearl</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>, deal 1 Piercing DMG to all opposing characters on standby.<br /><u>Usage(s)</u>: 2"
                     }
                 },
+                "splash": {
+                    "title": "\"Plenilune Gaze\" Ganyu",
+                    "description": "\"This press release is due tomorrow... I suppose I could work through the night and get it done.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -367,6 +411,10 @@
                         "description": "(Passive) When the battle begins, this character gains Radical Vitality.<br /><br /><b>Radical Vitality</b><br />When this character deals or takes Elemental DMG: Gain 1 stack of Radical Vitality. (Max 3 stacks)<br />End Phase: If Radical Vitality stacks reach maximum, they will be cleared and the character will lose all Energy."
                     }
                 },
+                "splash": {
+                    "title": "\"Lord of Fungi\" Jadeplume Terrorshroom",
+                    "description": "\"If you keep silent and listen closely, you can hear the sound of the ruler of the Shroom-Kin inspecting its territory... \""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -395,6 +443,10 @@
                         "energy": 3,
                         "description": "Heals all your characters for 2 HP, summons 1 Dandelion Field.<br /><br /><b>Dandelion Field</b><br />End Phase: Deal 2 <b class=\"text-anemo\">Anemo DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
                     }
+                },
+                "splash": {
+                    "title": "\"Dandelion Knight\" Jean",
+                    "description": "Never believes that she has done well enough — not until final victory is hers, anyway."
                 },
                 "release": {
                     "version": "3.3"
@@ -425,6 +477,10 @@
                         "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Icicle.<br /><br /><b>Icicle</b><br />After you switch characters:<br />Deal 2 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
                 },
+                "splash": {
+                    "title": "\"Frostwind Swordsman\" Kaeya",
+                    "description": "Specializes in awakening knightly virtues in others."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -453,6 +509,10 @@
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-electro\">Electro DMG</b>, deals 3 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
+                },
+                "splash": {
+                    "title": "\"Driving Thunder\" Keqing",
+                    "description": "She can build decks heretofore not conceived and win battles in which victory is unthinkable."
                 },
                 "release": {
                     "version": "3.3"
@@ -488,6 +548,10 @@
                         "description": "Deals 4 <b class=\"text-anemo\">Anemo DMG</b>, triggers the effect(s) of all your <b>Shadowsword</b> Summon(s). (Does not consume their Usages)"
                     }
                 },
+                "splash": {
+                    "title": "\"Ingenious Machine\" Maguu Kenki",
+                    "description": "\"Even today, it still patrols the place where fate was severed.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -516,6 +580,10 @@
                         "energy": 2,
                         "description": "Deals 5 <b class=\"text-hydro\">Hydro DMG</b>."
                     }
+                },
+                "splash": {
+                    "title": "\"Snezhnayan Maiden\" Mirror Envoy",
+                    "description": "\"All secrets shall be concealed within the mirror of glaring brightness... \""
                 },
                 "release": {
                     "version": "3.3"
@@ -550,6 +618,10 @@
                         "description": "(Passive) When you perform \"Switch Character\" while Mona is your active character: This switch is considered a Fast Action instead of a Combat Action. (Once per Round)"
                     }
                 },
+                "splash": {
+                    "title": "\"Astral Reflection\" Mona",
+                    "description": "Victory or defeat — it has all been written in the stars."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -578,6 +650,10 @@
                         "energy": 3,
                         "description": "Deals 6 <b class=\"text-geo\">Geo DMG</b>. If <b>Jade Screen</b> is on the field, deals +2 DMG."
                     }
+                },
+                "splash": {
+                    "title": "\"Eclipsing Star\" Ningguang",
+                    "description": "The greatest secret she keeps is that she keeps a great many of Liyue's secrets."
                 },
                 "release": {
                     "version": "3.3"
@@ -608,6 +684,10 @@
                         "description": "Deals 4 <b class=\"text-geo\">Geo DMG</b>. This character gains Sweeping Time.<br /><br /><b>Sweeping Time</b><br />When your character uses a Normal Attack: Consume 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br />Character's Normal Attacks deal +2 DMG, and their <b>Physical DMG</b> is converted to <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 },
+                "splash": {
+                    "title": "\"Chivalric Blossom\" Noelle",
+                    "description": "You can leave arranging the table to her — really, you can."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -636,6 +716,10 @@
                         "energy": 3,
                         "description": "Deals 5 <b class=\"text-electro\">Electro DMG</b>. This character gains The Wolf Within.<br /><br /><b>The Wolf Within</b><br />After the character to which this is attached uses a Normal Attack or an Elemental Skill: Deal 2 <b class=\"text-electro\">Electro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
+                },
+                "splash": {
+                    "title": "\"Wolf Boy\" Razor",
+                    "description": "\"Cards, hard.\"<br />\"But... friends...\""
                 },
                 "release": {
                     "version": "3.3"
@@ -671,6 +755,10 @@
                         "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. For each friendly Summon on the field, deals +2 additional DMG."
                     }
                 },
+                "splash": {
+                    "title": "\"Lady of Clear Waters\" Rhodeia",
+                    "description": "\"As long as rain falls and rivers flow... water will exist forever... \""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -704,6 +792,10 @@
                         "description": "(Passive) When the battle begins, this character gains Stonehide and Stoneforce.<br /><br /><b>Stonehide</b><br />When the character to which this is attached receives DMG: Decrease DMG taken by 1. When Geo DMG is decreased, consume 1 additional <u>Usage(s)</u>.<br /><u>Usage(s)</u>: 3<br /><br /><b>Stone Force</b><br />The character to which this is attached has their <b>Physical DMG</b> converted to <b class=\"text-geo\">Geo DMG</b>.<br />Once per Round: The character deals +1 DMG. Once the Stonehide attached to the character is removed, this status will be removed alongside it."
                     }
                 },
+                "splash": {
+                    "title": "\"Vale-Crosser\" Stonehide Lawachurl",
+                    "description": "\"Go around — the way ahead is the realm of the 'king.'\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -732,6 +824,10 @@
                         "energy": 2,
                         "description": "Deals 1 <b class=\"text-anemo\">Anemo DMG</b>, summons 1 Large Wind Spirit.<br /><br /><b>Large Wind Spirit</b><br />End Phase: Deal 2 <b class=\"text-anemo\">Anemo DMG</b>.<br /><u>Usage(s)</u>: 3<br /><br />After your character or Summon triggers a Swirl reaction: Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)"
                     }
+                },
+                "splash": {
+                    "title": "\"Harmless Sweetie\" Sucrose",
+                    "description": "\"You can't rate the strength of an as-yet untested deck!\""
                 },
                 "release": {
                     "version": "3.3"
@@ -762,6 +858,10 @@
                         "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Pyronado.<br /><br /><b>Pyronado</b><br />After your character uses a Skill: Deal 2 <b class=\"text-pyro\">Pyro DMG</b>."
                     }
                 },
+                "splash": {
+                    "title": "\"Exquisite Delicacy\" Xiangling",
+                    "description": "As a chef, she is practically omnipotent."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -791,6 +891,10 @@
                         "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rainbow Bladework.<br /><br /><b>Rain Sword</b><br />After your character uses a Normal Attack: Deal 1 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
                 },
+                "splash": {
+                    "title": "\"Juvenile Galant\" Xingqiu",
+                    "description": "\"Is it just me, or are the protagonists in novels nowadays all students of some private school or another...\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -819,6 +923,10 @@
                         "energy": 3,
                         "description": "Deals 4 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Aurous Blaze.<br /><br /><b>Aurous Blaze</b><br />After your character other than Yoimiya uses a Skill: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Duration (Rounds)</u>: 2"
                     }
+                },
+                "splash": {
+                    "title": "\"Frolicking Flames\" Yoimiya",
+                    "description": "Captain and Vanguard of Team Naganohara for the 11th Hanamizaka Street Invitational."
                 },
                 "release": {
                     "version": "3.3"
@@ -853,6 +961,10 @@
                         "description": "(Prepare for 1 turn)<br />Deals 2 <b class=\"text-electro\">Electro DMG</b>."
                     }
                 },
+                "splash": {
+                    "title": "\"Uncrowned Lord of the Ocean\" Beidou",
+                    "description": "\"Remember this day, you almost won money from Captain of the Crux.\""
+                },
                 "release": {
                     "version": "3.4"
                 }
@@ -881,6 +993,10 @@
                         "energy": 3,
                         "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, creats 1 Sparks 'n' Splash at the opponent's play area.<br /><br /><b>Sparks 'n' Splash</b><br />After a character to which Sparks 'n' Splash is attached uses a Skill: Deals 2 <b class=\"text-pyro\">Pyro DMG</b> to their team's active character.<br /><u>Usage(s)</u>: 2"
                     }
+                },
+                "splash": {
+                    "title": "\"Fleeing Sunlight\" Klee",
+                    "description": "Every card you draw may bring an \"explosive surprise.\""
                 },
                 "release": {
                     "version": "3.4"
@@ -911,6 +1027,10 @@
                         "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, summons 1 Lightfall Sword.<br /><br /><b>Lightfall Sword</b><br />When Eula uses a Normal Attack or Elemental Skill, this card will accumulate 2 Zeal stacks, but Eula will not gain Energy.<br />End Phase: Discard this card and deal 2 <b>Physical DMG</b>. Each Zeal stack adds 1 DMG to this damage instance.<br />(Effects on this card's <u>Usage(s)</u> will apply to <b>Zeal</b>.)"
                     }
                 },
+                "splash": {
+                    "title": "\"Dance of the Shimmering Wave\" Eula",
+                    "description": "\"It's but a game. I won't hold a grudge should luck happen to be on your side.\""
+                },
                 "release": {
                     "version": "3.5"
                 }
@@ -939,6 +1059,10 @@
                         "energy": 2,
                         "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. Heals all allied characters for 1 point. This character gains Ceremonial Garment.<br /><br /><b>Ceremonial Garment</b><br />The character to which this is attched has their <b>Normal Attacks</b> deal +1 DMG.<br /><b>After the character to which this is attached uses a Normal Attack</b>: Heal 1 HP for all your characters.<br /><u>Duration (Rounds)</u>: 2"
                     }
+                },
+                "splash": {
+                    "title": "\"Pearl of Wisdom\" Sangonomiya Kokomi",
+                    "description": "\"To survive hardship, you must prepare for hardship.\""
                 },
                 "release": {
                     "version": "3.5"
@@ -969,6 +1093,10 @@
                         "description": "Deals 2 <b class=\"text-electro\">Electro DMG</b>, summons 1 Tengu Juurai: Stormcluster.<br /><br /><b>Tengu Juurai: Stormcluster</b><br />End Phase: Deal 2 <b class=\"text-electro\">Electro DMG</b>, applies Crowfeather Cover to friendly active character.<br /><u>Usage(s)</u>: 2<br /><br /><b>Crowfeather Cover</b><br />The character with this attached deals +1 <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br /><u>Usage(s)</u>: 2"
                     }
                 },
+                "splash": {
+                    "title": "\"Crowfeather Kaburaya\" Kujou Sara",
+                    "description": "\"This is an act of righteousness\""
+                },
                 "release": {
                     "version": "3.5"
                 }
@@ -997,6 +1125,10 @@
                         "energy": 3,
                         "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>, summons 1 <b>Garden of Purity</b>.<br /><br /><b>Garden of Purity</b><br />End Phase: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 2<br /><br /><b>When this Summon is on the field</b>: Your characters' Normal Attacks deal +1 DMG."
                     }
+                },
+                "splash": {
+                    "title": "\"Pillar of Fortitude\" Kamisato Ayato",
+                    "description": "The divinely-blessed cypress sprouts new leaves."
                 },
                 "release": {
                     "version": "3.6"
@@ -1027,6 +1159,10 @@
                         "description": "Deals 5 <b class=\"text-geo\">Geo DMG</b>. This character gains Raging Oni King.<br /><br /><b>Raging Oni King</b><br />The character to which this is attached has their <b>Normal Attacks</b> deal +2 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2<br />After the character to which this attached uses a Normal Attack: Gains <b>Superlative Superstrength</b>. (Once per Round)"
                     }
                 },
+                "splash": {
+                    "title": "\"Hanamizaka Heroics\" Arataki Itto",
+                    "description": "Arataki \"The Ultimate TCG Champion\" Itto"
+                },
                 "release": {
                     "version": "3.6"
                 }
@@ -1056,6 +1192,10 @@
                         "description": "Deals 4 <b class=\"text-dendro\">Dendro DMG</b>, deals 1 <b>Piercing DMG</b> to all opposing characters on standby."
                     }
                 },
+                "splash": {
+                    "title": "\"Verdant Strider\" Tighnari",
+                    "description": "From a certain perspective, experience does not hold parity with wisdom."
+                },
                 "release": {
                     "version": "3.6"
                 }
@@ -1071,6 +1211,10 @@
                 "subType": "Artifact",
                 "cost": "1M",
                 "description": "<b>After a character uses a Normal Attack</b>: Heal self for 1 HP. (Max 3 times per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Trail-Tramper: Adventurer's Bandana",
+                    "description": "\"All the secrets of the stars and the abyss await discovery by mere mortals.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1081,6 +1225,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>After the opposing character uses a Skill</b>: If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Let the Wind Lead: Aquila Favonia",
+                    "description": "This sword was ever at the hip of the warrior from another land, and it bore witness to her achievement in spreading justice and freedom across Mondstadt."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1091,6 +1239,10 @@
                 "subType": "Artifact",
                 "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-geo\">Geo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Of Mountains Mighty: Archaic Petra",
+                    "description": "\"While the Millelith stands guard, evil shall never prevail!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1102,6 +1254,10 @@
                 "character": "Razor",
                 "cost": "4E",
                 "description": "<b>Combat Action</b>: When your active character is <b>Razor</b>, equip this card.<br />After Razor equips this card, immediately use <b class=\"text-highlight\">Claw and Thunder</b> once.<br />After your Razor, who has this card equipped, uses <b>Claw and Thunder</b>: 1 of your Electro characters gains 1 Energy. (Active Character prioritized)<br />(You must have Razor in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Razor: Awakening",
+                    "description": "The hunt is about to begin."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1112,6 +1268,10 @@
                 "subType": "Artifact",
                 "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-cryo\">Cryo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Wintry Wandering: Blizzard Strayer",
+                    "description": "\"...Then please, live on. Do not accompany us to our doom — to languish forgotten in the snow.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1122,6 +1282,10 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Icy Song, Distant Realm: Broken Rime's Echo",
+                    "description": "\"Past the ice-sealed door, walking down the corridors to the depths, he will break off a branch of silver-white, and bring hope to the snowy land.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1133,6 +1297,10 @@
                 "character": "Sucrose",
                 "cost": "3A 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Sucrose</b>, equip this card.<br />After Sucrose equips this card, immediately use <b class=\"text-highlight\">Forbidden Creation - Isomer 75 / Type II</b> once.<br />After the <b>Large Wind Spirit</b> created by your Sucrose, who has this card equipped, has converted to another Elemental Type: Deal +1 DMG of this Elemental Type.<br />(You must have Sucrose in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Sucrose: Chaotic Entropy",
+                    "description": "The wild winds gather — and amidst the chaos, victory."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1144,6 +1312,10 @@
                 "character": "Kaeya",
                 "cost": "4C",
                 "description": "<b>Combat Action</b>: When your active character is <b>Kaeya</b>, equip this card.<br />After Kaeya equips this card, immediately use <b class=\"text-highlight\">Frostgnaw</b> once.<br />After your Kaeya, who has this card equipped, uses <b>Frostgnaw</b>, he heals himself for 2 HP. (Once per Round)<br />(You must have Kaeya in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Kaeya: Cold-Blooded Strike",
+                    "description": "A slightly cold joke."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1154,6 +1326,10 @@
                 "subType": "Artifact",
                 "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-pyro\">Pyro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Blazing Dissipation: Crimson Witch of Flames",
+                    "description": "\"I will sing no elegies. I refuse laments. I shall not sigh. I have no use for pointless noise.<br />If justice is long dead, then to whom can I offer redemption?\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1165,6 +1341,10 @@
                 "character": "Xiangling",
                 "cost": "4P",
                 "description": "<b>Combat Action</b>: When your active character is <b>Xiangling</b>, equip this card.<br />After Xiangling equips this card, immediately use <b class=\"text-highlight\">Guoba Attack</b> once.<br />When your Xiangling, who has this card equipped, uses <b>Guoba Attack</b>, she will also deal 1 <b class=\"text-pyro\">Pyro DMG</b>. (Once per Round)<br />(You must have Xiangling in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Xiangling: Crossfire",
+                    "description": "This heat's just normal for a restaurant's standards!"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1175,6 +1355,10 @@
                 "subType": "Artifact",
                 "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-dendro\">Dendro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Knowledge of the Vine: Deepwood Memories",
+                    "description": "\"For all those who follow nature must pass through the maze of the forest and reach that endless plain.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1185,6 +1369,10 @@
                 "subType": "Artifact",
                 "cost": "2U",
                 "description": "<b>After a character uses an Elemental Burst</b>: All your characters on standby gain 1 <b>Energy</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Noble Descent: Exile's Circlet",
+                    "description": "\"Woe to thee, oh great hall with silver piled high! Why is your crown drenched in blood?\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1196,6 +1384,10 @@
                 "character": "Cyno",
                 "cost": "3E",
                 "description": "<b>Combat Action</b>: When your active character is <b>Cyno</b>, equip this card.<br />After Cyno equips this card, immediately use <b class=\"text-highlight\">Secret Rite: Chasmic Soulfarer</b> once.<br />When your Cyno, who has this card equipped, uses <b>Secret Rite: Chasmic Soulfarer</b> with 3 or 5 levels of <b>Pactsworn Pathclearer</b>'s Indwelling effect, deal +1 additional DMG. (Once per Round)<br />(You must have Cyno in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Cyno: Featherfall Judgment",
+                    "description": "\"This is my duel soul.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1207,6 +1399,10 @@
                 "character": "Collei",
                 "cost": "4D",
                 "description": "<b>Combat Action</b>: When your active character is <b>Collei</b>, equip this card.<br />After Collei equips this card, immediately use <b class=\"text-highlight\">Floral Brush</b> once.<br />When your Collei, who has this card equipped, uses <b>Floral Brush</b> during this Round, when your characters' Skills trigger <b class=\"text-dendro\">Dendro-Related Reactions</b>: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>. (Once per Round)<br />(You must have Collei in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Collei: Floral Sidewinder",
+                    "description": "Never underestimate Collei, and never underestimate her cat."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1218,6 +1414,10 @@
                 "character": "Diluc",
                 "cost": "3P",
                 "description": "<b>Combat Action</b>: When your active character is <b>Diluc</b>, equip this card.<br />After Diluc equips this card, immediately use <b class=\"text-highlight\">Searing Onslaught</b> once.<br />When your Diluc, who has this card equipped, uses <b>Searing Onslaught</b> for the second time in one Round, spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br />(You must have Diluc in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Diluc: Flowing Flame",
+                    "description": "A simple way out of perilous situations."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1228,6 +1428,10 @@
                 "subType": "Artifact",
                 "cost": "1M",
                 "description": "<b>After an opposing character is defeated</b>: If the character this card is attached to is the active character, create <b>Omni Element</b> ×2.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Wager: Gambler's Earrings",
+                    "description": "\"In games where one gambles with life and death, remaining calm and composed is key to increasing one's odds of victory.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1239,6 +1443,10 @@
                 "character": "Barbara",
                 "cost": "4H",
                 "description": "<b>Combat Action</b>: When your active character is <b>Barbara</b>, equip this card.<br />After Barbara equips this card, immediately use <b class=\"text-highlight\">Let the Show Begin♪</b> once.<br />When your Barbara, who has this card equipped, is on the field, <b>Melody Loop</b> will allow you to spend 1 less Elemental Die the next time you use \"Switch Character\". (Once per Round)<br />(You must have Barbara in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Barbara: Glorious Season",
+                    "description": "Here's a song for you~"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1250,6 +1458,10 @@
                 "character": "Bennett",
                 "cost": "4P 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Bennett</b>, equip this card.<br />After Bennett equips this card, immediately use <b class=\"text-highlight\">Fantastic Voyage</b> once.<br />When your Bennett, who has this card equipped, creates an <b>Inspiration Field</b>, its DMG Bonus is now always active and will no longer have an HP restriction.<br />(You must have Bennett in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Bennett: Grand Expectation",
+                    "description": "The best adventure is always yet to be."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1260,6 +1472,10 @@
                 "subType": "Artifact",
                 "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-hydro\">Hydro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Shipborne Afterthought: Heart of Depth",
+                    "description": "\"For all deaths are in vain. There is no saving those who indulge in the past.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1271,6 +1487,10 @@
                 "character": "Noelle",
                 "cost": "3G",
                 "description": "<b>Combat Action</b>: When your active character is <b>Noelle</b>, equip this card.<br />After Noelle equips this card, immediately use <b class=\"text-highlight\">Breastplate</b> once.<br />When your Noelle, who has this card equipped, creates a <b>Full Plate</b>, it will heal all your characters for 1 HP after Noelle uses a <b>Normal Attack</b>. (Once per Round)<br />(You must have Noelle in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Noelle: I Got Your Back",
+                    "description": "A stout heart is the sternest armor."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1281,6 +1501,10 @@
                 "subType": "Artifact",
                 "cost": "2U",
                 "description": "<b>After a character triggers an Elemental Reaction</b>: Create 1 Elemental Die that matches this Character's Elemental Type. (Max 3 times per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Pre-Prepared: Instructor's Cap",
+                    "description": "\"I don't have the talent to command an army as its general, nor am I qualified for anything beyond being a soldier.\"<br />\"All I can do is to be a strict instructor to these children, so that they might survive on the battlefield a bit longer.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1292,6 +1516,10 @@
                 "character": "Ayaka",
                 "cost": "2C",
                 "description": "The <b>Cryo Elemental Infusion</b> created by your <b>Ayaka</b>, who has this card equipped, allows the character to which it is attached to deal +1 <b class=\"text-cryo\">Cryo DMG</b>.<br />When you switch to Ayaka, who has this card equipped: Spend 1 less Elemental Die. (Once per Round)<br />(You must have Ayaka in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Kamisato Ayaka: Kanten Senmyou Blessing",
+                    "description": "The heron holds upon the ice on elegant wing."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1303,6 +1531,10 @@
                 "character": "Jean",
                 "cost": "4A 3N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Jean</b>, equip this card.<br />After Jean equips this card, immediately use <b class=\"text-highlight\">Dandelion Breeze</b> once.<br />When your Jean, who has this card equipped, is on the field, <b>Dandelion Field</b> will cause you to deal +1 <b class=\"text-anemo\">Anemo DMG</b>.<br />(You must have Jean in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Jean: Lands of Dandelion",
+                    "description": "\"Wind, hear me!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1313,6 +1545,10 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Raincaller's Emblem: Laurel Coronet",
+                    "description": "\"There is a time appointed for all things to live and die, and the cycle continues on forever.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1324,6 +1560,10 @@
                 "character": "Beidou",
                 "cost": "3E",
                 "description": "<b>Combat Action</b>: When your active character is <b>Beidou</b>, equip this card.<br />After Beidou equips this card, immediately use <b class=\"text-highlight\">Tidecaller</b> once.<br />When your Beidou, who has this card equipped, uses <b>Wavestrider</b>: If DMG is taken while Prepare Skill is active, Beidou's Normal Attacks this Round will cost 1 less Unaligned Element. (Can be triggered 2 times)<br />(You must have Beidou in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Beidou: Lightning Storm",
+                    "description": "Rumbling thunder goes well with lightning storms!"
+                },
                 "release": {
                     "version": "3.4"
                 }
@@ -1334,6 +1574,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br />When played: For each party member from Liyue, grant <b>1 Shield point</b> to the character to which this is attached. (Max 3 points)<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Evil Shall Never Prevail: Lithic Spear",
+                    "description": "These spears were forged from the rocks of the Guyun Stone Forest, and were favored by the Millelith of old. Their hardness knows no equal."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1344,6 +1588,10 @@
                 "subType": "Artifact",
                 "cost": "2U",
                 "description": "<b>After a character uses an Elemental Skill</b>: Heal self for 2 HP. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Unworried Crown: Lucky Dog's Silver Circlet",
+                    "description": "\"One who is favored by fortune can even find priceless treasures in the most deadly of traps.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1354,6 +1602,10 @@
                 "subType": "Weapon",
                 "cost": "2M",
                 "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Bane of Storm and Tide: Magic Guide",
+                    "description": "The 12th edition of the Magic Guide.<br />It contains a great detail of errors, but nonetheless remains the most authoritative guide to magic in existence."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1364,6 +1616,10 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Jagged Stone: Mask of Solitude Basalt",
+                    "description": "\"He knew right from wrong, and he never missed his mark.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1375,6 +1631,10 @@
                 "character": "Mirror Maiden",
                 "cost": "4H",
                 "description": "<b>Combat Action</b>: When your active character is <b>Mirror Maiden</b>, equip this card.<br />After Mirror Maiden equips this card, immediately use <b class=\"text-highlight\">Influx Blast</b> once.<br />When your Mirror Maiden, who has this card equipped, creates a <b>Refraction</b>, it will have the following effects: Starting <u>Duration (Rounds)</u> +1, will increase the Elemental Dice Cost of switching from a character to which this is attched to another character by 1.<br />(You must have Mirror Maiden in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "The Mirror's Secret",
+                    "description": "\"Mirror, mirror, in my hand, where do our foes lurk in this land?\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1386,6 +1646,10 @@
                 "character": "Yoimiya",
                 "cost": "2P",
                 "description": "<b>Combat Action</b>: When your active character is <b>Yoimiya</b>, equip this card.<br />After Yoimiya equips this card, immediately use <b class=\"text-highlight\">Niwabi Fire-Dance</b> once.<br />After your Yoimiya, who has this card equipped, triggers <b>Niwabi Enshou</b>: Deal 1 additional <b class=\"text-pyro\">Pyro DMG</b>.<br />(You must have Yoimiya in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Yoimiya: Naganohara Meteor Swarm",
+                    "description": "Naganohara Ideal Firework Reserve Theory."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1397,6 +1661,10 @@
                 "character": "Fatui Pyro Agent",
                 "cost": "3P",
                 "description": "<b>Combat Action</b>: When your active character is <b>Fatui Pyro Agent</b>, equip this card.<br />After Fatui Pyro Agent equips this card, immediately use <b class=\"text-highlight\">Prowl</b> once.<br />When your Fatui Pyro Agent, who has this card equipped, creates a <b>Stealth</b>, it will have the following effect: Starting <b>Usage(s)</b> +1, the <b>Physical DMG</b> the character deals will be converted to <b class=\"text-pyro\">Pyro DMG</b>.<br />(You must have Fatui Pyro Agent in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Stealthy Extraction",
+                    "description": "Remember this for so long as you live: You know who it is you owe, and you know when you must pay."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1408,6 +1676,10 @@
                 "character": "Klee",
                 "cost": "3P",
                 "description": "<b>Combat Action</b>: When your active character is <b>Klee</b>, equip this card.<br />After Klee equips this card, immediately use <b class=\"text-highlight\">Jumpy Dumpty</b> once.<br />When your Klee, who has this card equipped, creates an <b>Explosive Spark</b>, its <b>Usage(s)</b> +1.<br />(You must have Klee in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Klee: Pounding Surprise",
+                    "description": "Let out a good laugh when you draw this card!"
+                },
                 "release": {
                     "version": "3.4"
                 }
@@ -1419,6 +1691,10 @@
                 "character": "Jadeplume Terrorshroom",
                 "cost": "3D",
                 "description": "<b>Combat Action</b>: When your active character is <b>Jadeplume Terrorshroom</b>, equip this card.<br />After Jadeplume Terrorshroom equips this card, immediately use <b class=\"text-highlight\">Volatile Spore Cloud</b> once.<br />Your Jadeplume Terrorshroom, who has this card equipped, can accumulate 1 more stack of Radical Vitality.<br />(You must have Jadeplume Terrorshroom in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Spore Dust Cloud",
+                    "description": "Few can safely traverse the traps laid by the Fungus with intelligence above that of the average living being."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1430,6 +1706,10 @@
                 "character": "Mona",
                 "cost": "3H 3N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Mona</b>, equip this card.<br />After Mona equips this card, immediately use <b class=\"text-highlight\">Stellaris Phantasm</b> once.<br />When your Mona, who has this card equipped, is the active character, the <b class=\"text-hydro\">Hydro-Related Reactions</b> you trigger deal +2 additional DMG.<br />(You must have Mona in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Mona: Prophecy of Submersion",
+                    "description": "\"Hey! You should be playing that card!\"<br />\"...Well, alright then, do what you want.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1440,6 +1720,10 @@
                 "subType": "Weapon",
                 "cost": "2M",
                 "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Bane of Flame and Water: Raven Bow",
+                    "description": "Ravens are known to be the ferrymen of the dead. As such, hunters would decorate their bows' limbs with feathers which forebode the imminent death of their targets."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1450,6 +1734,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Composed: Sacrificial Bow",
+                    "description": "A ceremonial hunting bow that has seen the passage of many years. The trinkets on it are still visible."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1460,6 +1748,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Composed: Sacrificial Fragments",
+                    "description": "A weathered musical score, the content of which is no longer legible."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1470,6 +1762,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Composed: Sacrificial Greatsword",
+                    "description": "This greatsword has seen the passage of many years, and was once owned by a clan of brave and gifted warriors who fought hard and died young."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1480,6 +1776,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Composed: Sacrificial Sword",
+                    "description": "This blade was just a prop before its blade was sharpened by the passage of time."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1491,6 +1791,10 @@
                 "character": "Diona",
                 "cost": "4C",
                 "description": "<b>Combat Action</b>: When your active character is <b>Diona</b>, equip this card.<br />After Diona equips this card, immediately use <b class=\"text-highlight\">Icy Paws</b> once.<br />When your Diona, who has this card equipped, creates a <b>Cat-Claw Shield</b>, its <b>Shield</b> points +1.<br />(You must have Diona in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Diona: Shaken, Not Purred",
+                    "description": "Shake and stir till its all evenly mixed... and there! Your refill's ready!"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1501,6 +1805,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Cloud Atlas: Skyward Atlas",
+                    "description": "Its full name is the \"An atlas of the winds and clouds.\"<br />This text records the winds and clouds of the northern lands' skies in poetic and archival forms."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1511,6 +1819,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Echoing Ballad: Skyward Harp",
+                    "description": "The sound of this sky-piercing lyre firing is music to the Anemo Archon's ears."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1521,6 +1833,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br /><b>Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Carving Black Wings: Skyward Spine",
+                    "description": "A spear that can hold up the skies. It was this unshakable resolve that sustained the wind dragon through its mortal battle against its vile nemesis."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1532,6 +1848,10 @@
                 "character": "Chongyun",
                 "cost": "4C",
                 "description": "<b>Combat Action</b>: When your active character is <b>Chongyun</b>, equip this card.<br />After Chongyun equips this card, immediately use <b class=\"text-highlight\">Chonghua's Layered Frost</b> once.<br />When your Chongyun, who has this card equipped, creates a <b>Chonghua Frost Field</b>, it will have the following effects: Starting <u>Duration (Rounds)</u> +1, will cause your Sword, Claymore, and Polearm-wielding charactes' <b>Normal Attacks</b> to deal +1 DMG.<br />(You must have Chongyun in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Chongyun: Steady Breathing",
+                    "description": "Steady breathing makes a steady heart."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1543,6 +1863,10 @@
                 "character": "Fischl",
                 "cost": "3E",
                 "description": "<b>Combat Action</b>: When your active character is <b>Fischl</b>, equip this card.<br />After Fischl equips this card, immediately use <b class=\"text-highlight\">Nightrider</b> once.<br />When your Fischl, who has this card equipped, creates an <b>Oz</b>, and after Fischl uses a <b>Normal Attack</b>: Deal 2 <b class=\"text-electro\">Electro DMG</b>. (Consumes Usage(s))<br />(You must have Fischl in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Fischl: Stellar Prerdator",
+                    "description": "\"The instant in which Ozvaldo Hrafnavins shows his great might.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1554,6 +1878,10 @@
                 "character": "Stonehide Lawachurl",
                 "cost": "4G 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Stonehide Lawachurl</b>, equip this card.<br />After Stonehide Lawachurl equips this card, immediately use <b class=\"text-highlight\">Upa Shato</b> once.<br />When your Stonehide Lawachurl, who has this card equipped, defeats an opposing character: Stonehide Lawachurl will re-attach <b>Stonehide</b> and <b>Stone Force</b>.<br />(You must have Stonehide Lawachurl in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Forged From Rock",
+                    "description": "An enduring force flows through that craggy form."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1565,6 +1893,10 @@
                 "character": "Ningguang",
                 "cost": "4G",
                 "description": "<b>Combat Action</b>: When your active character is <b>Ningguang</b>, equip this card.<br />After Ningguang equips this card, immediately use <b class=\"text-highlight\">Jade Screen</b> once.<br />When your Ningguang, who has this card equipped, is on the field, <b>Jade Screen</b> will cause you to deal +1 <b class=\"text-geo\">Geo DMG</b>.<br />(You must have Ningguang in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Ningguang: Strategic Reserve",
+                    "description": "Abundance is synonymous with confidence."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1576,6 +1908,10 @@
                 "character": "Rhodeia of Loch",
                 "cost": "4H 3N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Rhodeia of Loch</b>, equip this card.<br />After Rhodeia of Loch equips this card, immediately use <b class=\"text-highlight\">Tide and Torrent</b> once.<br />When your Rhodeia of Loch, who has this card equipped, uses <b>Tide and Torrent</b>, all of your Summon(s) gain +1 <b>Usage(s)</b>.<br />(You must have Rhodeia of Loch in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Flowing",
+                    "description": "The racing waters are a display of love toward a deceased deity."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1587,6 +1923,10 @@
                 "character": "Xingqiu",
                 "cost": "4H",
                 "description": "<b>Combat Action</b>: When your active character is <b>Xingqiu</b>, equip this card.<br />After Xingqiu equips this card, immediately use <b class=\"text-highlight\">Fatal Rainscreen</b> once.<br />When your Xingqiu, who has this card equipped, creates a <b>Rain Sword</b>, its starting <b>Usage(s)</b> +1.<br />(You must have Xingqiu in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Xingqiu: The Scent Remained",
+                    "description": "His penmanship leaves quite the impression."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1597,6 +1937,10 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Lightning and Rain: Thunder Summoner's Crown",
+                    "description": "\"The song pierced the storm's low hum, ripped through the clouds, and bestowed upon it, light.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1607,6 +1951,10 @@
                 "subType": "Artifact",
                 "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-electro\">Electro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Plume of the Stormy Skies: Thundering Fury",
+                    "description": "\"Then I shall sing you another tune — when you come again with thunder and rain!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1618,6 +1966,10 @@
                 "character": "Keqing",
                 "cost": "3E",
                 "description": "<b>Combat Action</b>: When your active character is <b>Keqing</b>, equip this card.<br />After Keqing equips this card, immediately use <b class=\"text-highlight\">Stellar Restoration</b> once.<br />When your Keqing, who has this card equipped, creates an <b>Electro Elemental Infusion</b>, it will have the following effects: Staring <u>Duration (Rounds)</u> +1, <b class=\"text-electro\">Electro DMG</b> dealt by the attached character +1.<br />(You must have Keqing in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Keqing: Thundering Penance",
+                    "description": "As long as you're not actually cheating, this is just the name of a card."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1629,6 +1981,10 @@
                 "character": "Maguu Kenki",
                 "cost": "3A",
                 "description": "<b>Combat Action</b>: When your active character is <b>Maguu Kenki</b>, equip this card.<br />After Maguu Kenki equips this card, immediately use <b class=\"text-highlight\">Blustering Blade</b> once.<br />When your Maguu Kenki, who has this card equipped, uses <b>Blustering Blade</b>, you will switch to your next character. You will switch to your previous character when your Maguu Kenki, who has this card equipped, uses <b>Frosty Assault</b>.<br />(You must have Maguu Kenki in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Marionette Swordmaster",
+                    "description": "That unerring strike has been delivered countless times."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1639,6 +1995,10 @@
                 "subType": "Weapon",
                 "cost": "2M",
                 "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Traveler's Companion: Traveler's Handy Sword",
+                    "description": "A handy steel sword that contains all manner of useful items in its sheath."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1649,6 +2009,10 @@
                 "subType": "Artifact",
                 "cost": "1M",
                 "description": "<b>After a character uses an Elemental Burst</b>: Heal all your characters for 1 HP. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Medical Practice: Traveling Doctor's Handkerchief",
+                    "description": "\"Come sun or rain, nothing could stay the traveling doctor's steps.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1660,6 +2024,10 @@
                 "character": "Ganyu",
                 "cost": "5C",
                 "description": "<b>Combat Action</b>: When your active character is <b>Ganyu</b>, equip this card.<br />After Ganyu equips this card, immediately use <b class=\"text-highlight\">Frostflake Arrow</b> once.<br />When your Ganyu, who has this card equipped, uses <b>Frostflake Arrow</b>: <b class=\"text-cryo\">Cryo DMG</b> dealt by this Skill +1 if this Skill has been used before during this match, and it now deals 3 <b>Piercing DMG</b> to all opposing characters on standby instead.<br />(You must have Ganyu in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Ganyu: Undivided Heart",
+                    "description": "First the arrow strikes, and then it turns to frost."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1670,6 +2038,10 @@
                 "subType": "Artifact",
                 "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-anemo\">Anemo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Dream of Broken Leaves: Viridescent Venerer",
+                    "description": "\"One day, in those boundless hunting grounds... we will meet again.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1680,6 +2052,10 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Verdant Winds: Viridescent Venerer's Diadem",
+                    "description": "\"None could ever bestow a crown upon the queen of hunters, for only earth and heaven were higher than she.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1690,6 +2066,10 @@
                 "subType": "Weapon",
                 "cost": "2M",
                 "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Mourning Silver Snow: White Iron Greatsword",
+                    "description": "A lightweight greatsword made of white iron with a silver sheen."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1700,6 +2080,10 @@
                 "subType": "Weapon",
                 "cost": "2M",
                 "description": "<b>The character deals +1 DMG</b>.<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Ardent Argent: White Tassel",
+                    "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1710,6 +2094,10 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Sunken Dreams of Yore: Wine-Stained Tricorne",
+                    "description": "\"The wine-sodden sea hat was thrust by a storm into the sky, and then carried away on the rolling waves, while those fated to lose their homelands engaged in battles bereft of hope and want.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1720,6 +2108,10 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Ashen Lament: Witch's Scorching Hat",
+                    "description": "\"...You ashes who dance so wildly, answer me — why have you taken all that I love?\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1730,6 +2122,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "<b>The character deals +1 DMG</b>.<br />Deal +2 additional DMG if the target's remaining HP is equal or less than 6.<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Mountain Trail: Wolf's Gravestone",
+                    "description": "A longsword said to have been used by the knight of the north wind. It became endowed with legendary power owing to his friendship with the wolves."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1740,6 +2136,10 @@
                 "subType": "Companion",
                 "cost": "",
                 "description": "<b>When either side uses a Skill</b>: If <b>Physical DMG</b> or <b>Piercing DMG</b> was dealt, or an <b>Elemental Reaction</b> was triggered, this card gains <b>1 Inspiration</b>.<br />When this card gains <b>3 Inspiration</b>, discard this card, then draw 2 cards.",
+                "splash": {
+                    "title": "Chang the Ninth, Listless Literati",
+                    "description": "\"He who has not known poverty has yet to become a true man, and at least this man has books to keep him company!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1750,6 +2150,10 @@
                 "subType": "Companion",
                 "cost": "1M",
                 "description": "<b>After playing a Food Event Card</b>: Create 1 random Elemental Die. (Once per Round)",
+                "splash": {
+                    "title": "Chef Mao, Ingenious Gourmet",
+                    "description": "\"We just concern ourselves with making the most delicious food imaginable using everyday ingredients, universally loved flavors, and truly excellent cooking.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1760,6 +2164,10 @@
                 "subType": "Location",
                 "cost": "2M",
                 "description": "<b>When you perform \"Switch Character\"</b>: Spend 1 less Elemental Die. (Once per Round)",
+                "splash": {
+                    "title": "Manor of Daybreak",
+                    "description": "\"The best wine will always be brewed next year.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1770,6 +2178,10 @@
                 "subType": "Companion",
                 "cost": "2M",
                 "description": "<b>When you use a Skill that has already been used in this Round</b>: Spend 1 less Elemental Die. (Once per Round)",
+                "splash": {
+                    "title": "\"Knightly Dream\" Ellin",
+                    "description": "\"I've got to hone my spirit and strength both if my sword arm is to be as steady as Master Jean's!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1780,6 +2192,10 @@
                 "subType": "Location",
                 "cost": "2M",
                 "description": "<b>End Phase</b>: Heal your active character for 2 HP.<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "Gathering of the Devout",
+                    "description": "\"If you speak sincerely into the wind, your words will surely reach the archon's ear one day.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1790,6 +2206,10 @@
                 "subType": "Companion",
                 "cost": "2U",
                 "description": "<b>End Phase</b>: One of your characters without maximum Energy gains 1 <b>Energy</b>. (Active Character prioritized)<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "\"Where We Last Left Off\" Iron Tongue Tian",
+                    "description": "\"Listen, I'll tell you how is it... Let me show you real storytelling tradition!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1800,6 +2220,10 @@
                 "subType": "Location",
                 "cost": "1M",
                 "description": "<b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
+                "splash": {
+                    "title": "Stargazing Amidst Clouds",
+                    "description": "\"They say that it contains a thousand dazzling jewels.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1810,6 +2234,10 @@
                 "subType": "Companion",
                 "cost": "1M",
                 "description": "<b>When you perform \"Switch Character\"</b>: The switch is considered a <b>Fast Action</b> instead of a <b>Combat Action</b>. (Once per Round)",
+                "splash": {
+                    "title": "Katheryne, Guild Receptionist",
+                    "description": "\"Ad astra abyssosque! Welcome to the Adventurers' Guild.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1820,6 +2248,10 @@
                 "subType": "Location",
                 "cost": "1M",
                 "description": "<b>When played</b>: Select any Elemental Dice to reroll.<br /><b>Roll Phase</b>: Gain another chance to reroll.",
+                "splash": {
+                    "title": "Athenaeum of the North",
+                    "description": "\"Most of the books here can be lent out, but do bear in mind that you will have to return them... on time.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1830,6 +2262,10 @@
                 "subType": "Companion",
                 "cost": "",
                 "description": "<b>End Phase</b>: Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br /><b>When Action Phase begins</b>: If this card has collected 3 Elemental Dice, draw 2 cards and create <b>Omni Element</b> ×2, then discard this card.",
+                "splash": {
+                    "title": "\"Marvelous Merchandise\" Liben",
+                    "description": "Big things are about to happen, big things! Oh, and I have an excellent business proposition for you, so, if I could just have a moment of your time?"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1840,6 +2276,10 @@
                 "subType": "Companion",
                 "cost": "1M",
                 "description": "<b>After you switch characters</b>: If the character you switched to does not have <b>Energy</b>, they will gain 1 <b>Energy</b>. (Once per Round)<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "\"In the Next Volume\" Liu Su",
+                    "description": "\"Well then, dear guests, what would you all like to hear next?\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1850,6 +2290,10 @@
                 "subType": "Location",
                 "cost": "2M",
                 "description": "<b>End Phase</b>: Draw 2 Cards.<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "Where All Ships Dock",
+                    "description": "\"Nature provides, the mountains rejoice, we are blessed by heaven's good grace.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1860,6 +2304,10 @@
                 "subType": "Item",
                 "cost": "2U",
                 "description": "<b>When played</b>: Draw 1 Food Event Card from your deck.<br /><b>When you play a Food Event Card</b>: Draw 1 Food Event Card from your deck. (Once per Round)",
+                "splash": {
+                    "title": "Emergency Intake: Portable Dish",
+                    "description": "\"Regular nutrition helps in case of physical exertion.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1870,6 +2318,10 @@
                 "subType": "Companion",
                 "cost": "3M",
                 "description": "<b>When Action Phase begins</b>: Create <b>Omni Element</b> ×2.<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "Paimon, the Best Guide",
+                    "description": "\"That's right! Your fortune is Paimon's fortune! And vice versa, Paimon's fortune is also your fortune.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1880,6 +2332,10 @@
                 "subType": "Item",
                 "cost": "2U",
                 "description": "<b>When either side uses a Skill</b>: If Elemental DMG was dealt this card gains <b>1 Qualitative Progress</b>.<br />When this card gains <b>3 Qualitative Progress</b>, discard this card, then create 3 different Basic Elemental Dice.",
+                "splash": {
+                    "title": "Perpetual Rotation: Parametric Transformation",
+                    "description": "\"Simply put, everything on this earth and below it has cycles. Memories and elements surge throughout the Ley Lines.\"<br />\"Perhaps the ancient civilizations were attempting to uncover the cycle that governs the conversion of dust to treasure.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1890,6 +2346,10 @@
                 "subType": "Companion",
                 "cost": "2M",
                 "description": "Comes with 2 Transmutation Materials when played.<br /><b>End Phase</b>: Gain 1 Transmutation Material.<br /><b>When playing an Artifact Card</b>: If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)",
+                "splash": {
+                    "title": "Timaeus, Scholar of Alchemy",
+                    "description": "\"Hello there... Oh, you'd like to use the Crafting Bench? Sure, be my guest.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1900,6 +2360,10 @@
                 "subType": "Companion",
                 "cost": "",
                 "description": "<b>Triggers automatically once per Round</b>: This card gains <b>1 Pigeon</b>.<br />When this card <b>3 Pigeons</b>, discard this card, then draw 1 card and create <b>Omni Element</b> ×1.",
+                "splash": {
+                    "title": "\"Pure Patience\" Timmie",
+                    "description": "\"Will pigeons that have flown away come back?\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1910,6 +2374,10 @@
                 "subType": "Companion",
                 "cost": "2M",
                 "description": "<b>When playing a Location Support Card</b>: Spend 2 Less Elemental Dice. (Once per Round)",
+                "splash": {
+                    "title": "\"Rain Calmer\" Tubby",
+                    "description": "\"Steeping a pot of tea, watching over the abode, accompanying the Traveler and Paimon to await the arrival of Ping and the others, watching the cloud-filled sky. These days of not having to concern myself with matters of adeptal import truly are ones of leisure...\"<br />\"Oh! Oh dear, I must have fallen asleep again. It's a good thing that no one noticed...\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1920,6 +2388,10 @@
                 "subType": "Companion",
                 "cost": "2M",
                 "description": "Comes with 2 Forging Billets when played.<br /><b>End Phase</b>: Gain 1 Forging Billet.<br /><b>When playing a Weapon Card</b>: If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)",
+                "splash": {
+                    "title": "Wagner, Blacksmith",
+                    "description": "\"Smithing is not dependent on brute strength. You need the sweat on your brow from constant hard work, and perseverance stronger than the metals we forge!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1930,6 +2402,10 @@
                 "subType": "Location",
                 "cost": "2M",
                 "description": "<b>End Phase</b>: Heal the most injured character on standby for 2 HP.<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "Dihua Vantage Point",
+                    "description": "\"Folk stories also have it that even ones as august as the adepti sometimes bask in the moonlight here.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1940,6 +2416,10 @@
                 "subType": "",
                 "cost": "2M",
                 "description": "Summon 1 <b>Random Hilichurl Summon</b>!<br />(You must have at least 2 Monster characters in your deck to add this card to your deck.)<br /><br /><b>Cryo Hilichurl Shooter</b><br />Deal 1 <b class=\"text-cryo\">Cryo DMG</b> at the End Phase. Usage(s): 2.<br /><b>Electro Hilichurl Shooter</b><br />Deal 1 <b class=\"text-electro\">Electro DMG</b> at the End Phase. Usage(s): 2.<br /><b>Hilichurl Berserker</b><br />Deal 1 <b class=\"text-pyro\">Pyro DMG</b> at the End Phase. Usage(s): 2.<br /><b>Hydro Samachurl</b><br />Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. Usage(s): 2.",
+                "splash": {
+                    "title": "Abyssal Summons",
+                    "description": "\"Yaya ika!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1950,6 +2430,10 @@
                 "subType": "Food",
                 "cost": "2U",
                 "description": "During this Round, the target character's next <b>Elemental Burst</b> deals +3 DMG.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Adeptus' Temptation",
+                    "description": "It is said that this name was derived from this dish's ability to tempt an adeptus to return to the mortal realm. But that begs the question... Which adeptus was that?"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1960,6 +2444,10 @@
                 "subType": "",
                 "cost": "",
                 "description": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters.",
+                "splash": {
+                    "title": "Divine Relic's Installation",
+                    "description": "\"Hehe... Well now, isn't this finally getting interesting?\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1970,6 +2458,10 @@
                 "subType": "",
                 "cost": "1M",
                 "description": "Shift 1 <b>Energy</b> from at most 2 of your characters on standby to your active character.",
+                "splash": {
+                    "title": "Alchemical Experiment",
+                    "description": "\"Not to worry. The experiment has been completed, and it is — if I may say so — a great success.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1980,6 +2472,10 @@
                 "subType": "",
                 "cost": "",
                 "description": "<b>The next time you perform \"Switch Character\"</b>: Spend 1 less Elemental Die.",
+                "splash": {
+                    "title": "Changing Shifts",
+                    "description": "\"It's time for the adults to get to work, and for the kids to get some sleep.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -1991,6 +2487,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "1G",
                 "description": "During this round, after your character deals <b class=\"text-geo\">Geo DMG</b> next time: Should there be any Combat Status on your side that provides <b>Shield</b>, grant one such Status with 3 <b>Shield</b> points.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Enduring Rock",
+                    "description": "Bedrock shall make the hills unshakable."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2002,6 +2502,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "1P",
                 "description": "During this round, the next instance of <b class=\"text-pyro\">Pyro-Related Reactions</b> your current active character triggers deals +3 DMG.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Fervent Flames",
+                    "description": "A burning heart may match the sun and moon."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2013,6 +2517,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "1E",
                 "description": "One of your characters without maximum Energy gains 1 <b>Energy</b>. (Active Character prioritized)<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: High Voltage",
+                    "description": "THe storm rises in majesty."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2024,6 +2532,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "1A",
                 "description": "Switch to the target character and create <b>Omni Element</b> ×1.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Impetuous Winds",
+                    "description": "The gale gallops through the woods."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2035,6 +2547,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "1C",
                 "description": "During this Round, your current active character will deal +2 DMG for the next instance.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Shattering Ice",
+                    "description": "The frost flower blooms as a heart undivided."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2046,6 +2562,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "1H",
                 "description": "Heal your active character for 2 HP and all your characters on standby for 1 HP.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Soothing Water",
+                    "description": "With purest water flows prosperity."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2057,6 +2577,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "1D",
                 "description": "During this round, the next Elemental Reaction your active character triggers deals +2 DMG.<br />Your <b>Burning Flame, Dendro Core, and Catalyzing Field</b> gain +1 <b>Usage(s)</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Sprawling Greenery",
+                    "description": "New branches and sprouts grow into a forest."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2068,6 +2592,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "",
                 "description": "Create 1 <b class=\"text-pyro\">Pyro Die</b>.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Woven Flames",
+                    "description": "The scarlet flame reduces the vanquished to dust."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2079,6 +2607,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "",
                 "description": "Create 1 <b class=\"text-Cryo\">Cryo Die</b>.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Woven Ice",
+                    "description": "Even the sky shall shiver before the ice."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2090,6 +2622,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "",
                 "description": "Create 1 <b class=\"text-geo\">Geo Die</b>.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Woven Stone",
+                    "description": "The jagged mountains sign a lasting pact."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2101,6 +2637,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "",
                 "description": "Create 1 <b class=\"text-electro\">Electro Die</b>.<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Woven Thunder",
+                    "description": "Lightning falls on the land of eternity."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2112,6 +2652,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "",
                 "description": "Create 1 <b class=\"text-hydro\">Hydro Die</b>.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Woven Waters",
+                    "description": "The dance of water nourishes life."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2123,6 +2667,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "",
                 "description": "Create 1 <b class=\"text-dendro\">Dendro Die</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Woven Weeds",
+                    "description": "All shall dance in the dream forest."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2134,6 +2682,10 @@
                 "subType": "Elemental Resonance",
                 "cost": "",
                 "description": "Create 1 <b class=\"text-anemo\">Anemo Die</b>.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Elemental Resonance: Woven Winds",
+                    "description": "The wind sings like a leisurely lyre."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2144,6 +2696,10 @@
                 "subType": "",
                 "cost": "4M",
                 "description": "Destroy all Summons. (Affects both you and your opponent.)",
+                "splash": {
+                    "title": "Evil is Banished",
+                    "description": "\"Adeptus Xiao. I will be here when you call.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2154,6 +2710,10 @@
                 "subType": "",
                 "cost": "",
                 "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>.",
+                "splash": {
+                    "title": "I Haven't Lost Yet!",
+                    "description": "Arataki \"He Might Lose but He'll Never Admit Defeatto\" is always game for another round!"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2164,6 +2724,10 @@
                 "subType": "Food",
                 "cost": "",
                 "description": "During this Round, the target character's next <b>Normal Attack</b> deals +1 DMG.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Jueyun Guoba",
+                    "description": "Flavorful and crispy Jueyun Guoba — with Guoba's stamp of approval."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2174,6 +2738,10 @@
                 "subType": "",
                 "cost": "",
                 "description": "<b>The next time you perform \"Switch Character\"</b>: The switch will be considered a <b>Fast Action</b> instead of a <b>Combat Action</b>.",
+                "splash": {
+                    "title": "Leave It to Me!",
+                    "description": "\"It's fine, leave everything to me!\" — This ranks first among \"lines to put Mondstadter hearts at ease.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2184,6 +2752,10 @@
                 "subType": "Food",
                 "cost": "1M",
                 "description": "During this Round, the target character takes -3 DMG the next time.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Lotus Flower Crisp",
+                    "description": "Dough is formed into bud-like shapes and placed into a pot of oil as if upon the surface of a lake, causing them to slowly bloom layer by layer... A pleasing sight indeed."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2194,6 +2766,10 @@
                 "subType": "",
                 "cost": "",
                 "description": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type.",
+                "splash": {
+                    "title": "Master of Weaponry",
+                    "description": "\"Watch and learn, comrade! A real warrior isn't picky about their weapons!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2204,6 +2780,10 @@
                 "subType": "Food",
                 "cost": "1M",
                 "description": "Before this Round ends, the target character's <b>Normal Attacks</b> cost 1 less <b>Unaligned Element</b>.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Minty Meat Rolls",
+                    "description": "Though this might be its current form, think about it for a moment: did this dish first start as mint rolled around meat, or meat rolled around mint?"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2214,6 +2794,10 @@
                 "subType": "Food",
                 "cost": "1M",
                 "description": "Heal target character for 2 HP.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Mondstadt Hash Brown",
+                    "description": "The sweet taste verifies the famous words of a certain famous gourmet known throughout Teyvat — a dish that may be called a regional specialty cannot taste bad."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2224,6 +2808,10 @@
                 "subType": "Food",
                 "cost": "1M",
                 "description": "Heal target character for 1 HP. For the next two Rounds, heal this character for 1 HP again at the End Phase.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Mushroom Pizza",
+                    "description": "They say that a researcher once used very precise calculations to uncover the \"fairest way to cut pizza,\" but as the process is far too bothersome, basically no one uses it..."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2234,6 +2822,10 @@
                 "subType": "Food",
                 "cost": "",
                 "description": "During this Round, the target character's <b>Normal Attacks</b> cost 1 less <b>Unaligned Element</b>.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Northern Smoked Chicken",
+                    "description": "This dish makes for a warm welcome for guests who come to the northern regions. Now, what manner of guests shall be \"treated\" to this hospitality this time?"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2244,6 +2836,10 @@
                 "subType": "",
                 "cost": "1M",
                 "description": "Choose one Summon on your side and grant it +1 <b>Usage(s)</b>.",
+                "splash": {
+                    "title": "Patched-Up Bunny",
+                    "description": "'Tis the secret to Baron Bunny the 893rd's longevity."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2254,6 +2850,10 @@
                 "subType": "",
                 "cost": "2U",
                 "description": "Choose one Summon on the opposing side and destroy it.",
+                "splash": {
+                    "title": "Send Off",
+                    "description": "\"Here at Wangsheng Funeral Parlor, you can count on us to go full send! Satisfaction guaranteed!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2264,6 +2864,10 @@
                 "subType": "",
                 "cost": "2U",
                 "description": "Your current Active Character gains <b>1 Energy</b>.",
+                "splash": {
+                    "title": "Destined Path",
+                    "description": "\"This is destiny, and it cannot be defied.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2274,6 +2878,10 @@
                 "subType": "",
                 "cost": "1M",
                 "description": "Draw 2 cards.",
+                "splash": {
+                    "title": "Strategize",
+                    "description": "\"This might look quite complicated, but in truth, the possible scenarios do not exceed 187 in number.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2284,6 +2892,10 @@
                 "subType": "Food",
                 "cost": "",
                 "description": "Heal target character for 1 HP.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Sweet Madame",
+                    "description": "Perhaps some have never seen a chicken run... But there's no one who hasn't tried a Sweet Madame!"
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2294,6 +2906,10 @@
                 "subType": "",
                 "cost": "2U",
                 "description": "Convert the Elemental Dice spent to <b>Omni Element</b> ×2.",
+                "splash": {
+                    "title": "The Bestest Travel Companion!",
+                    "description": "\"You might be only one of countless stars, but you're Paimon's whole world!\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2304,6 +2920,10 @@
                 "subType": "",
                 "cost": "",
                 "description": "Select any Elemental Dice to <b>reroll</b>. Can reroll 2 times.",
+                "splash": {
+                    "title": "Toss-Up",
+                    "description": "Before the dice are thrown, none can know their own destiny."
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2314,6 +2934,10 @@
                 "subType": "",
                 "cost": "1M",
                 "description": "<b>The next time you use a Skill</b>: Switch your next character in to be the active character.",
+                "splash": {
+                    "title": "When the Crane Returned",
+                    "description": "\"The crane once returned, and once, she was spurned, she turned, and left alone; now, she might be found, with friends all around, to whom she is bound — a home.\""
+                },
                 "release": {
                     "version": "3.3"
                 }
@@ -2325,6 +2949,10 @@
                 "character": "Eula",
                 "cost": "3C 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Eula</b>, equip this card.<br />After Eula equips this card, immediately use <b class=\"text-highlight\">Glacial Illumination</b> once.<br />When your Eula, who has this card equipped, uses <b>Icetide Vortex</b>, this will generate 1 more Zeal for <b>Lightfall Sword</b>.<br />(You must have Eula in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Eula: Wellspring of War-Lust",
+                    "description": "Flood of frost will ensure that vengeance is mine."
+                },
                 "release": {
                     "version": "3.5"
                 }
@@ -2336,6 +2964,10 @@
                 "character": "Kokomi",
                 "cost": "3H 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Kokomi</b>, equip this card.<br />After Kokomi equips this card, immediately use <b class=\"text-highlight\">Nereid's Ascension</b> once.<br />When your Kokomi, who has this card equipped, uses <b>Nereid's Ascension</b>: If <b>Bake-Kurage</b> is on the field, its <u>Usage(s)</u> will be refreshed.<br />While <b>Ceremonial Garment</b> exists, <b>Bake-Kurage</b> deals +1 DMG.<br />(You must have Kokomi in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Sangonomiya Kokomi: Tamanooya's Casket",
+                    "description": "Wisdom yet revealed from the casket parallels tides yet unfolded by the sea."
+                },
                 "release": {
                     "version": "3.5"
                 }
@@ -2347,6 +2979,10 @@
                 "character": "Sara",
                 "cost": "4E 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Sara</b>, equip this card.<br />After Sara equips this card, immediately use <b class=\"text-highlight\">Subjugation: Koukou Sendou</b> once.<br />When Sara is active and has this card equipped, all allied <b class=\"text-electro\">Electro</b> characters with <b>Crowfeather Cover</b> will deal +1 additional <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br />(You must have Sara in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Kujou Sara: Sin of Pride",
+                    "description": "\"With this unity between my mind, arrow, and bow, any enemy will be struck down!\""
+                },
                 "release": {
                     "version": "3.5"
                 }
@@ -2357,6 +2993,10 @@
                 "subType": "Artifact",
                 "cost": "2U",
                 "description": "<b>After another character of yours uses an Elemental Burst</b>: The character to which this is attached gains 1 <b>Energy</b>.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Bygone Lightning: Ornate Kabuto",
+                    "description": "\"Thirteen years went by like a dream. The scarlet snow flies through the shadowed pass like smoke. You have now gone afar.\""
+                },
                 "release": {
                     "version": "3.5"
                 }
@@ -2367,19 +3007,12 @@
                 "subType": "Artifact",
                 "cost": "2M",
                 "description": "<b>When Action Phase begins</b>: The character to which this is attached gains <b>Unmovable Mountain</b> that provides 2 <b>Shield</b> points.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Ironclad Promise: General's Ancient Helm",
+                    "description": "\"The last drop of blood had soaked into the battlefield, and the glazed sands shone gloriously once more.\""
+                },
                 "release": {
                     "version": "3.5"
-                }
-            },
-            {
-                "name": "Kyouka Fuushi",
-                "type": "Equipment",
-                "subType": "Talent",
-                "character": "Ayato",
-                "cost": "3H",
-                "description": "<b>Combat Action</b>: When your active character is <b>Ayato</b>, equip this card.<br />After Ayato equips this card, immediately use <b class=\"text-highlight\">Kamisato Art: Kyouka</b> once.<br />When your Ayato, who has this card equipped, triggers the effects of <b>Takimeguri Kanka</b>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br />(You must have Ayato in your deck to add this card to your deck.)",
-                "release": {
-                    "version": "3.6"
                 }
             },
             {
@@ -2389,6 +3022,25 @@
                 "character": "Itto",
                 "cost": "1G 2U",
                 "description": "<b>Combat Action</b>: When your active character is <b>Itto</b>, equip this card.<br />After Itto equips this card, immediately use <b class=\"text-highlight\">Fight Club Legend</b> once.<br />When your Itto, who has this card equipped, uses <b>Fight Club Legend</b> for the second time or more in one Round: If <b>Superlative Superstrength</b> is triggered, deal +1 additional DMG.<br />(You must have Itto in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Arataki Itto: Arataki Ichiban",
+                    "description": "Whatever you do, remember to ride the momentum."
+                },
+                "release": {
+                    "version": "3.6"
+                }
+            },
+            {
+                "name": "Kyouka Fuushi",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Ayato",
+                "cost": "3H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Ayato</b>, equip this card.<br />After Ayato equips this card, immediately use <b class=\"text-highlight\">Kamisato Art: Kyouka</b> once.<br />When your Ayato, who has this card equipped, triggers the effects of <b>Takimeguri Kanka</b>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br />(You must have Ayato in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Kamisato Ayato: Kyouka Fuushi",
+                    "description": "The courtyard remains fragrant even in the bitterest winter."
+                },
                 "release": {
                     "version": "3.6"
                 }
@@ -2400,6 +3052,10 @@
                 "character": "Tighnari",
                 "cost": "4D",
                 "description": "<b>Combat Action</b>: When your active character is <b>Tighnari</b>, equip this card.<br />After Tighnari equips this card, immediately use <b class=\"text-highlight\">Vijnana-Phala Mine</b> once.<br />When your Tighnari, who has this card equipped, uses <b>Vijnana Suffusion</b>, the character's <b>Charged Attack</b> costs 1 less <b>Unaligned Element</b>.<br />(You must have Tighnari in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Tighnari: Keen Sight",
+                    "description": "Mistakes are part of learning... However, these mistakes should be corrected upon being discovered."
+                },
                 "release": {
                     "version": "3.6"
                 }
@@ -2410,6 +3066,10 @@
                 "subType": "Weapon",
                 "cost": "3M",
                 "description": "The character deals +1 DMG</b>.<br /><b>After the  character uses an Elemental Skill</b>: The character gains 1 additional <b>Energy</b>. (Once per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Windfall: Favonius Sword",
+                    "description": "\"Legend has it that the knight that bore the title of Wolf Pup could cleave even raindrops with his blade, and the gales spurred by his blows were strong enough to snap roses.<br />Though none could match the heights of the Wolf Pup's prowess, the knights bear his oath of protection yet, his legacy lasting even to the present.\""
+                },
                 "release": {
                     "version": "3.6"
                 }
@@ -2420,6 +3080,10 @@
                 "subType": "Location",
                 "cost": "2M",
                 "description": "<b>Triggers automatically once per Round</b>: Create 1 random Elemental Die.<br /><u>Usage(s)</u>: 3",
+                "splash": {
+                    "title": "Distant Red Dreams Forlorn",
+                    "description": "\"May Mt. Yougou flourish eternal, and may its glory be everlasting.\""
+                },
                 "release": {
                     "version": "3.6"
                 }
