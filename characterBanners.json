@@ -296,6 +296,11 @@
             "startDate": "April 12, 2023",
             "endDate": "May 2, 2023",
             "banner": ["Nahida", "Nilou", "Dori", "Layla", "Shinobu"]
+        },
+        "phase2": {
+            "startDate": "May 2, 2023",
+            "endDate": "May 22, 2023",
+            "banner": ["Baizhu", "Ganyu", "Candace", "Fischl", "Kaveh"]
         }
     }
 ]

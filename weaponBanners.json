@@ -282,7 +282,7 @@
         "phase2": {
             "startDate": "March 21, 2023",
             "endDate": "April 11, 2023",
-            "banner": ["Mistsplitter Reforged", "Calamity Queller", "Favonius Warbow", "Sacrificial Sword", "Favonius Lance", "Wine and Song", "The Bell"]
+            "banner": ["Calamity Queller", "Mistsplitter Reforged", "Favonius Warbow", "Sacrificial Sword", "Favonius Lance", "Wine and Song", "The Bell"]
         }
     },
     {
@@ -291,6 +291,11 @@
             "startDate": "April 12, 2023",
             "endDate": "May 2, 2023",
             "banner": ["A Thousand Floating Dreams", "Key of Khaj-Nisut", "The Stringless", "Xiphos' Moonlight", "Dragon's Bane", "Sacrificial Fragments", "Favonius Greatsword"]
+        },
+        "phase2": {
+            "startDate": "May 2, 2023",
+            "endDate": "May 22, 2023",
+            "banner": ["Jadefall's Splendor", "Amos' Bow", "Sacrificial Bow", "Lion's Roar", "Favonius Lance", "Wandering Evenstar", "Makhaira Aquamarine"]
         }
     }
 ]
