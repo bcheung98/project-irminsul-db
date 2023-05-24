@@ -297,5 +297,13 @@
             "endDate": "May 22, 2023",
             "banner": ["Jadefall's Splendor", "Amos' Bow", "Sacrificial Bow", "Lion's Roar", "Favonius Lance", "Wandering Evenstar", "Makhaira Aquamarine"]
         }
+    },
+    {
+        "version": "3.7",
+        "phase1": {
+            "startDate": "May 24, 2023",
+            "endDate": "June 13, 2023",
+            "banner": ["Thundering Pulse", "Kagura's Verity", "Rust", "The Flute", "Dragon's Bane", "The Widsith", "Akuoumaru"]
+        }
     }
 ]

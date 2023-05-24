@@ -299,8 +299,16 @@
         },
         "phase2": {
             "startDate": "May 2, 2023",
-            "endDate": "May 22, 2023",
+            "endDate": "May 23, 2023",
             "banner": ["Baizhu", "Ganyu", "Candace", "Fischl", "Kaveh"]
+        }
+    },
+    {
+        "version": "3.7",
+        "phase1": {
+            "startDate": "May 24, 2023",
+            "endDate": "June 13, 2023",
+            "banner": ["Yoimiya", "Miko", "Chongyun", "Kirara", "Yun Jin"]
         }
     }
 ]
