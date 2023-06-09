@@ -309,6 +309,11 @@
             "startDate": "May 24, 2023",
             "endDate": "June 13, 2023",
             "banner": ["Yoimiya", "Miko", "Chongyun", "Kirara", "Yun Jin"]
+        },
+        "phase2": {
+            "startDate": "June 13, 2023",
+            "endDate": "July 4, 2023",
+            "banner": ["Alhaitham", "Kazuha", "Heizou", "Xiangling", "Yaoyao"]
         }
     }
 ]

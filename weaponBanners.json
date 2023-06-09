@@ -294,7 +294,7 @@
         },
         "phase2": {
             "startDate": "May 2, 2023",
-            "endDate": "May 22, 2023",
+            "endDate": "May 23, 2023",
             "banner": ["Jadefall's Splendor", "Amos' Bow", "Sacrificial Bow", "Lion's Roar", "Favonius Lance", "Wandering Evenstar", "Makhaira Aquamarine"]
         }
     },
@@ -304,6 +304,11 @@
             "startDate": "May 24, 2023",
             "endDate": "June 13, 2023",
             "banner": ["Thundering Pulse", "Kagura's Verity", "Rust", "The Flute", "Dragon's Bane", "The Widsith", "Akuoumaru"]
+        },
+        "phase2": {
+            "startDate": "June 13, 2023",
+            "endDate": "July 4, 2023",
+            "banner": ["Light of Foliar Incision", "Freedom-Sworn", "Mouun's Moon", "Favonius Sword", "Wavebreaker's Fin", "Favonius Codex", "Sacrificial Greatsword"]
         }
     }
 ]
