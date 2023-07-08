@@ -954,6 +954,11 @@
                 "name": "Icy Featherflight",
                 "rarity": 4,
                 "description": "Kaeya's outfit. Fashionable clothes festooned with a fur collar."
+            },
+            {
+                "name": "Sailwind Shadow",
+                "rarity": 4,
+                "description": "Kaeya's outfit from his role as the \"Dagger Bandit\" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted."
             }
         ],
         "voiceActors": {
@@ -2230,6 +2235,11 @@
                 "name": "Shooting Spark",
                 "rarity": 4,
                 "description": "Klee's outfit. A set of clothing for an energetic child that even comes with a matching leather backpack."
+            },
+            {
+                "name": "Blossoming Starlight",
+                "rarity": 4,
+                "description": "An exquisite outfit Klee wears only for the most important performances. The colors are brilliant, like a cake adorned with cream flowers and crowned with scarlet candles. With it comes happiness and smiles that will fill your adventures."
             }
         ],
         "voiceActors": {
