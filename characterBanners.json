@@ -4,12 +4,22 @@
         "phase1": {
             "startDate": "September 28, 2020",
             "endDate": "October 18, 2020",
-            "banner": ["Venti", "Barbara", "Fischl", "Xiangling"]
+            "banner": [
+                "Venti",
+                "Barbara",
+                "Fischl",
+                "Xiangling"
+            ]
         },
         "phase2": {
             "startDate": "October 20, 2020",
             "endDate": "November 10, 2020",
-            "banner": ["Klee", "Noelle", "Sucrose", "Xingqiu"]
+            "banner": [
+                "Klee",
+                "Noelle",
+                "Sucrose",
+                "Xingqiu"
+            ]
         }
     },
     {
@@ -17,12 +27,22 @@
         "phase1": {
             "startDate": "November 11, 2020",
             "endDate": "December 1, 2020",
-            "banner": ["Tartaglia", "Beidou", "Diona", "Ningguang"]
+            "banner": [
+                "Tartaglia",
+                "Beidou",
+                "Diona",
+                "Ningguang"
+            ]
         },
         "phase2": {
             "startDate": "December 1, 2020",
             "endDate": "December 22, 2020",
-            "banner": ["Zhongli", "Chongyun", "Razor", "Xinyan"]
+            "banner": [
+                "Zhongli",
+                "Chongyun",
+                "Razor",
+                "Xinyan"
+            ]
         }
     },
     {
@@ -30,12 +50,22 @@
         "phase1": {
             "startDate": "December 23, 2020",
             "endDate": "January 12, 2021",
-            "banner": ["Albedo", "Bennett", "Fischl", "Sucrose"]
+            "banner": [
+                "Albedo",
+                "Bennett",
+                "Fischl",
+                "Sucrose"
+            ]
         },
         "phase2": {
             "startDate": "January 12, 2021",
             "endDate": "February 2, 2021",
-            "banner": ["Ganyu", "Noelle", "Xiangling", "Xingqiu"]
+            "banner": [
+                "Ganyu",
+                "Noelle",
+                "Xiangling",
+                "Xingqiu"
+            ]
         }
     },
     {
@@ -43,17 +73,32 @@
         "phase1": {
             "startDate": "February 3, 2021",
             "endDate": "February 17, 2021",
-            "banner": ["Xiao", "Beidou", "Diona", "Xinyan"]
+            "banner": [
+                "Xiao",
+                "Beidou",
+                "Diona",
+                "Xinyan"
+            ]
         },
         "phase2": {
             "startDate": "February 17, 2021",
             "endDate": "March 2, 2021",
-            "banner": ["Keqing", "Barbara", "Bennett", "Ningguang"]
+            "banner": [
+                "Keqing",
+                "Barbara",
+                "Bennett",
+                "Ningguang"
+            ]
         },
         "phase3": {
             "startDate": "March 2, 2021",
             "endDate": "March 16, 2021",
-            "banner": ["Hu Tao", "Chongyun", "Xiangling", "Xingqiu"]
+            "banner": [
+                "Hu Tao",
+                "Chongyun",
+                "Xiangling",
+                "Xingqiu"
+            ]
         }
     },
     {
@@ -61,12 +106,22 @@
         "phase1": {
             "startDate": "March 17, 2021",
             "endDate": "April 6, 2021",
-            "banner": ["Venti", "Noelle", "Razor", "Sucrose"]
+            "banner": [
+                "Venti",
+                "Noelle",
+                "Razor",
+                "Sucrose"
+            ]
         },
         "phase2": {
             "startDate": "April 6, 2021",
             "endDate": "April 27, 2021",
-            "banner": ["Tartaglia", "Barbara", "Fischl", "Rosaria"]
+            "banner": [
+                "Tartaglia",
+                "Barbara",
+                "Fischl",
+                "Rosaria"
+            ]
         }
     },
     {
@@ -74,12 +129,22 @@
         "phase1": {
             "startDate": "April 28, 2021",
             "endDate": "May 18, 2021",
-            "banner": ["Zhongli", "Diona", "Noelle", "Yanfei"]
+            "banner": [
+                "Zhongli",
+                "Diona",
+                "Noelle",
+                "Yanfei"
+            ]
         },
         "phase2": {
             "startDate": "May 18, 2021",
             "endDate": "June 8, 2021",
-            "banner": ["Eula", "Beidou", "Xingqiu", "Xinyan"]
+            "banner": [
+                "Eula",
+                "Beidou",
+                "Xingqiu",
+                "Xinyan"
+            ]
         }
     },
     {
@@ -87,12 +152,22 @@
         "phase1": {
             "startDate": "June 9, 2021",
             "endDate": "June 29, 2021",
-            "banner": ["Klee", "Barbara", "Fischl", "Sucrose"]
+            "banner": [
+                "Klee",
+                "Barbara",
+                "Fischl",
+                "Sucrose"
+            ]
         },
         "phase2": {
             "startDate": "June 29, 2021",
             "endDate": "July 20, 2021",
-            "banner": ["Kazuha", "Bennett", "Razor", "Rosaria"]
+            "banner": [
+                "Kazuha",
+                "Bennett",
+                "Razor",
+                "Rosaria"
+            ]
         }
     },
     {
@@ -100,12 +175,22 @@
         "phase1": {
             "startDate": "July 21, 2021",
             "endDate": "August 10, 2021",
-            "banner": ["Ayaka", "Chongyun", "Ningguang", "Yanfei"]
+            "banner": [
+                "Ayaka",
+                "Chongyun",
+                "Ningguang",
+                "Yanfei"
+            ]
         },
         "phase2": {
             "startDate": "August 10, 2021",
             "endDate": "August 31, 2021",
-            "banner": ["Yoimiya", "Diona", "Sayu", "Xinyan"]
+            "banner": [
+                "Yoimiya",
+                "Diona",
+                "Sayu",
+                "Xinyan"
+            ]
         }
     },
     {
@@ -113,12 +198,22 @@
         "phase1": {
             "startDate": "September 1, 2021",
             "endDate": "September 21, 2021",
-            "banner": ["Raiden Shogun", "Sara", "Sucrose", "Xiangling"]
+            "banner": [
+                "Raiden Shogun",
+                "Sara",
+                "Sucrose",
+                "Xiangling"
+            ]
         },
         "phase2": {
             "startDate": "September 21, 2021",
             "endDate": "October 12, 2021",
-            "banner": ["Kokomi", "Beidou", "Rosaria", "Xingqiu"]
+            "banner": [
+                "Kokomi",
+                "Beidou",
+                "Rosaria",
+                "Xingqiu"
+            ]
         }
     },
     {
@@ -126,12 +221,22 @@
         "phase1": {
             "startDate": "October 13, 2021",
             "endDate": "November 2, 2021",
-            "banner": ["Tartaglia", "Chongyun", "Ningguang", "Yanfei"]
+            "banner": [
+                "Tartaglia",
+                "Chongyun",
+                "Ningguang",
+                "Yanfei"
+            ]
         },
         "phase2": {
             "startDate": "November 2, 2021",
             "endDate": "November 23, 2021",
-            "banner": ["Hu Tao", "Diona", "Sayu", "Thoma"]
+            "banner": [
+                "Hu Tao",
+                "Diona",
+                "Sayu",
+                "Thoma"
+            ]
         }
     },
     {
@@ -139,12 +244,23 @@
         "phase1": {
             "startDate": "November 24, 2021",
             "endDate": "December 14, 2021",
-            "banner": ["Albedo", "Eula", "Bennett", "Noelle", "Rosaria"]
+            "banner": [
+                "Albedo",
+                "Eula",
+                "Bennett",
+                "Noelle",
+                "Rosaria"
+            ]
         },
         "phase2": {
             "startDate": "December 14, 2021",
             "endDate": "January 4, 2022",
-            "banner": ["Itto", "Barbara", "Gorou", "Xiangling"]
+            "banner": [
+                "Itto",
+                "Barbara",
+                "Gorou",
+                "Xiangling"
+            ]
         }
     },
     {
@@ -152,12 +268,24 @@
         "phase1": {
             "startDate": "January 5, 2022",
             "endDate": "January 25, 2022",
-            "banner": ["Shenhe", "Xiao", "Chongyun", "Ningguang", "Yun Jin"]
+            "banner": [
+                "Shenhe",
+                "Xiao",
+                "Chongyun",
+                "Ningguang",
+                "Yun Jin"
+            ]
         },
         "phase2": {
             "startDate": "January 25, 2022",
             "endDate": "February 15, 2022",
-            "banner": ["Zhongli", "Ganyu", "Beidou", "Xingqiu", "Yanfei"]
+            "banner": [
+                "Zhongli",
+                "Ganyu",
+                "Beidou",
+                "Xingqiu",
+                "Yanfei"
+            ]
         }
     },
     {
@@ -165,12 +293,23 @@
         "phase1": {
             "startDate": "February 16, 2022",
             "endDate": "March 8, 2022",
-            "banner": ["Miko", "Diona", "Fischl", "Thoma"]
+            "banner": [
+                "Miko",
+                "Diona",
+                "Fischl",
+                "Thoma"
+            ]
         },
         "phase2": {
             "startDate": "March 8, 2022",
             "endDate": "March 29, 2022",
-            "banner": ["Raiden Shogun", "Kokomi", "Bennett", "Sara", "Xinyan"]
+            "banner": [
+                "Raiden Shogun",
+                "Kokomi",
+                "Bennett",
+                "Sara",
+                "Xinyan"
+            ]
         }
     },
     {
@@ -178,12 +317,23 @@
         "phase1": {
             "startDate": "March 30, 2022",
             "endDate": "April 19, 2022",
-            "banner": ["Ayato", "Venti", "Sucrose", "Xiangling", "Yun Jin"]
+            "banner": [
+                "Ayato",
+                "Venti",
+                "Sucrose",
+                "Xiangling",
+                "Yun Jin"
+            ]
         },
         "phase2": {
             "startDate": "April 19, 2022",
             "endDate": "May 31, 2022",
-            "banner": ["Ayaka", "Razor", "Rosaria", "Sayu"]
+            "banner": [
+                "Ayaka",
+                "Razor",
+                "Rosaria",
+                "Sayu"
+            ]
         }
     },
     {
@@ -191,12 +341,23 @@
         "phase1": {
             "startDate": "May 31, 2022",
             "endDate": "June 21, 2022",
-            "banner": ["Yelan", "Xiao", "Barbara", "Noelle", "Yanfei"]
+            "banner": [
+                "Yelan",
+                "Xiao",
+                "Barbara",
+                "Noelle",
+                "Yanfei"
+            ]
         },
         "phase2": {
             "startDate": "June 21, 2022",
             "endDate": "July 12, 2022",
-            "banner": ["Itto", "Chongyun", "Gorou", "Shinobu"]
+            "banner": [
+                "Itto",
+                "Chongyun",
+                "Gorou",
+                "Shinobu"
+            ]
         }
     },
     {
@@ -204,12 +365,23 @@
         "phase1": {
             "startDate": "July 13, 2022",
             "endDate": "August 2, 2022",
-            "banner": ["Kazuha", "Klee", "Heizou", "Ningguang", "Thoma"]
+            "banner": [
+                "Kazuha",
+                "Klee",
+                "Heizou",
+                "Ningguang",
+                "Thoma"
+            ]
         },
         "phase2": {
             "startDate": "August 2, 2022",
             "endDate": "August 23, 2022",
-            "banner": ["Yoimiya", "Bennett", "Xinyan", "Yun Jin"]
+            "banner": [
+                "Yoimiya",
+                "Bennett",
+                "Xinyan",
+                "Yun Jin"
+            ]
         }
     },
     {
@@ -217,12 +389,24 @@
         "phase1": {
             "startDate": "August 24, 2022",
             "endDate": "September 9, 2022",
-            "banner": ["Tighnari", "Zhongli", "Collei", "Diona", "Fischl"]
+            "banner": [
+                "Tighnari",
+                "Zhongli",
+                "Collei",
+                "Diona",
+                "Fischl"
+            ]
         },
         "phase2": {
             "startDate": "September 9, 2022",
             "endDate": "September 27, 2022",
-            "banner": ["Ganyu", "Kokomi", "Dori", "Sucrose", "Xingqiu"]
+            "banner": [
+                "Ganyu",
+                "Kokomi",
+                "Dori",
+                "Sucrose",
+                "Xingqiu"
+            ]
         }
     },
     {
@@ -230,12 +414,24 @@
         "phase1": {
             "startDate": "September 28, 2022",
             "endDate": "October 14, 2022",
-            "banner": ["Cyno", "Venti", "Candace", "Sayu", "Shinobu"]
+            "banner": [
+                "Cyno",
+                "Venti",
+                "Candace",
+                "Sayu",
+                "Shinobu"
+            ]
         },
         "phase2": {
             "startDate": "October 14, 2022",
             "endDate": "November 1, 2022",
-            "banner": ["Nilou", "Albedo", "Barbara", "Beidou", "Xiangling"]
+            "banner": [
+                "Nilou",
+                "Albedo",
+                "Barbara",
+                "Beidou",
+                "Xiangling"
+            ]
         }
     },
     {
@@ -243,12 +439,24 @@
         "phase1": {
             "startDate": "November 2, 2022",
             "endDate": "November 18, 2022",
-            "banner": ["Nahida", "Yoimiya", "Bennett", "Noelle", "Razor"]
+            "banner": [
+                "Nahida",
+                "Yoimiya",
+                "Bennett",
+                "Noelle",
+                "Razor"
+            ]
         },
         "phase2": {
             "startDate": "November 18, 2022",
             "endDate": "December 6, 2022",
-            "banner": ["Miko", "Tartaglia", "Heizou", "Layla", "Thoma"]
+            "banner": [
+                "Miko",
+                "Tartaglia",
+                "Heizou",
+                "Layla",
+                "Thoma"
+            ]
         }
     },
     {
@@ -256,12 +464,24 @@
         "phase1": {
             "startDate": "December 7, 2022",
             "endDate": "December 27, 2022",
-            "banner": ["Wanderer", "Itto", "Faruzan", "Gorou", "Yanfei"]
+            "banner": [
+                "Wanderer",
+                "Itto",
+                "Faruzan",
+                "Gorou",
+                "Yanfei"
+            ]
         },
         "phase2": {
             "startDate": "December 27, 2022",
             "endDate": "January 17, 2023",
-            "banner": ["Raiden Shogun", "Ayato", "Rosaria", "Sara", "Sayu"]
+            "banner": [
+                "Raiden Shogun",
+                "Ayato",
+                "Rosaria",
+                "Sara",
+                "Sayu"
+            ]
         }
     },
     {
@@ -269,12 +489,24 @@
         "phase1": {
             "startDate": "January 18, 2023",
             "endDate": "February 7, 2023",
-            "banner": ["Alhaitham", "Xiao", "Xinyan", "Yaoyao", "Yun Jin"]
+            "banner": [
+                "Alhaitham",
+                "Xiao",
+                "Xinyan",
+                "Yaoyao",
+                "Yun Jin"
+            ]
         },
         "phase2": {
             "startDate": "February 7, 2023",
             "endDate": "February 28, 2023",
-            "banner": ["Hu Tao", "Yelan", "Beidou", "Ningguang", "Xingqiu"]
+            "banner": [
+                "Hu Tao",
+                "Yelan",
+                "Beidou",
+                "Ningguang",
+                "Xingqiu"
+            ]
         }
     },
     {
@@ -282,12 +514,24 @@
         "phase1": {
             "startDate": "March 1, 2023",
             "endDate": "March 21, 2023",
-            "banner": ["Dehya", "Cyno", "Barbara", "Bennett", "Collei"]
+            "banner": [
+                "Dehya",
+                "Cyno",
+                "Barbara",
+                "Bennett",
+                "Collei"
+            ]
         },
         "phase2": {
             "startDate": "March 21, 2023",
             "endDate": "April 11, 2023",
-            "banner": ["Shenhe", "Ayaka", "Diona", "Mika", "Sucrose"]
+            "banner": [
+                "Shenhe",
+                "Ayaka",
+                "Diona",
+                "Mika",
+                "Sucrose"
+            ]
         }
     },
     {
@@ -295,12 +539,24 @@
         "phase1": {
             "startDate": "April 12, 2023",
             "endDate": "May 2, 2023",
-            "banner": ["Nahida", "Nilou", "Dori", "Layla", "Shinobu"]
+            "banner": [
+                "Nahida",
+                "Nilou",
+                "Dori",
+                "Layla",
+                "Shinobu"
+            ]
         },
         "phase2": {
             "startDate": "May 2, 2023",
             "endDate": "May 23, 2023",
-            "banner": ["Baizhu", "Ganyu", "Candace", "Fischl", "Kaveh"]
+            "banner": [
+                "Baizhu",
+                "Ganyu",
+                "Candace",
+                "Fischl",
+                "Kaveh"
+            ]
         }
     },
     {
@@ -308,12 +564,38 @@
         "phase1": {
             "startDate": "May 24, 2023",
             "endDate": "June 13, 2023",
-            "banner": ["Yoimiya", "Miko", "Chongyun", "Kirara", "Yun Jin"]
+            "banner": [
+                "Yoimiya",
+                "Miko",
+                "Chongyun",
+                "Kirara",
+                "Yun Jin"
+            ]
         },
         "phase2": {
             "startDate": "June 13, 2023",
             "endDate": "July 4, 2023",
-            "banner": ["Alhaitham", "Kazuha", "Heizou", "Xiangling", "Yaoyao"]
+            "banner": [
+                "Alhaitham",
+                "Kazuha",
+                "Heizou",
+                "Xiangling",
+                "Yaoyao"
+            ]
+        }
+    },
+    {
+        "version": "3.8",
+        "phase1": {
+            "startDate": "July 5, 2023",
+            "endDate": "July 25, 2023",
+            "banner": [
+                "Eula",
+                "Klee",
+                "Mika",
+                "Razor",
+                "Thoma"
+            ]
         }
     }
 ]
