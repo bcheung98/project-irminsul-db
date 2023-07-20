@@ -596,6 +596,17 @@
                 "Razor",
                 "Thoma"
             ]
+        },
+        "phase2": {
+            "startDate": "July 25, 2023",
+            "endDate": "August 14, 2023",
+            "banner": [
+                "Kokomi",
+                "Wanderer",
+                "Faruzan",
+                "Rosaria",
+                "Yanfei"
+            ]
         }
     }
 ]

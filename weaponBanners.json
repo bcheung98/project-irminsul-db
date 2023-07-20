@@ -709,6 +709,19 @@
                 "Eye of Perception",
                 "Rainslasher"
             ]
+        },
+        "phase2": {
+            "startDate": "July 25, 2023",
+            "endDate": "August 14, 2023",
+            "banner": [
+                "Everlasting Moonglow",
+                "Tulaytullah's Remembrance",
+                "Favonius Warbow",
+                "Lion's Roar",
+                "Dragon's Bane",
+                "Wine and Song",
+                "The Bell"
+            ]
         }
     }
 ]
