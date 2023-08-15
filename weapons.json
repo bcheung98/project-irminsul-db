@@ -239,7 +239,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Archer's Message",
-                "description": "Charged Attack hits on weak points deal an additional <b class=\"text-refinement\">100%/125%/150%/175%/200%</b> ATK DMG as CRIT DMG. Can only occur once every 10s."
+                "description": "Charged Attack hits on weak points deal an additional <b class=\"text-refinement\">100%</b> ATK DMG as CRIT DMG. Can only occur once every 10s.",
+                "scaling": [["100%", "125%", "150%", "175%", "200%"]]
             }
         },
         "materials": {
@@ -262,7 +263,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Bane of Flame and Water",
-                "description": "Increases DMG against opponents affected by Hydro or Pyro by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>."
+                "description": "Increases DMG against opponents affected by Hydro or Pyro by <b class=\"text-refinement\">12%</b>.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -285,7 +287,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Cull the Weak",
-                "description": "Defeating an opponent restores <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> HP."
+                "description": "Defeating an opponent restores <b class=\"text-refinement\">8%</b> HP.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -308,7 +311,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Precise",
-                "description": "Increases DMG against weak spots by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b>."
+                "description": "Increases DMG against weak spots by <b class=\"text-refinement\">24%</b>.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -331,7 +335,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Slingshot",
-                "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by <b class=\"text-refinement\">36%/42%/48%/54%/60%</b>. Otherwise, decreases DMG by 10%."
+                "description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by <b class=\"text-refinement\">36%</b>. Otherwise, decreases DMG by 10%.",
+                "scaling": [["36%", "42%", "48%", "54%", "60%"]]
             }
         },
         "materials": {
@@ -354,7 +359,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Bane of Water and Ice",
-                "description": "Increases DMG against opponents affected by Hydro or Cryo by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>."
+                "description": "Increases DMG against opponents affected by Hydro or Cryo by <b class=\"text-refinement\">12%</b>.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -377,7 +383,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Overloaded",
-                "description": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 12s."
+                "description": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by <b class=\"text-refinement\">20%</b> for 12s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -400,7 +407,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Gash",
-                "description": "On hit, has a 50% chance to deal <b class=\"text-refinement\">240%/280%/320%/360%/400%</b> ATK DMG to a single opponent. Can only occur once every <b class=\"text-refinement\">15/14/13/12/11</b>s."
+                "description": "On hit, has a 50% chance to deal <b class=\"text-refinement\">240%</b> ATK DMG to a single opponent. Can only occur once every <b class=\"text-refinement\">15</b>s.",
+                "scaling": [["240%", "280%", "320%", "360%", "400%"], ["15", "14", "13", "12", "11"]]
             }
         },
         "materials": {
@@ -423,7 +431,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Vigorous",
-                "description": "When HP is above 90%, increases CRIT Rate by <b class=\"text-refinement\">14%/17.5%/21%/24.5%/28%</b>."
+                "description": "When HP is above 90%, increases CRIT Rate by <b class=\"text-refinement\">14%</b>.",
+                "scaling": [["14%", "17.5%", "21%", "24.5%", "28%"]]
             }
         },
         "materials": {
@@ -446,7 +455,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Determination",
-                "description": "Using an Elemental Burst grants a <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> increase in ATK and Movement SPD for 15s."
+                "description": "Using an Elemental Burst grants a <b class=\"text-refinement\">12%</b> increase in ATK and Movement SPD for 15s.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -469,7 +479,8 @@
             "subStat": "DEF",
             "passive": {
                 "name": "Journey",
-                "description": "Each Elemental Orb or Particle collected restores <b class=\"text-refinement\">1%/1.25%/1.5%/1.75%/2%</b> HP."
+                "description": "Each Elemental Orb or Particle collected restores <b class=\"text-refinement\">1%</b> HP.",
+                "scaling": [["1%", "1.25%", "1.5%", "1.75%", "2%"]]
             }
         },
         "materials": {
@@ -492,7 +503,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Bane of the Soft",
-                "description": "Increases DMG against slimes by <b class=\"text-refinement\">40%/50%/60%/70%/80%</b>."
+                "description": "Increases DMG against slimes by <b class=\"text-refinement\">40%</b>.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -515,7 +527,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Heavy",
-                "description": "Normal Attacks deal an additional <b class=\"text-refinement\">160%/200%/240%/280%/320%</b> ATK as DMG. Can only occur once every 10s."
+                "description": "Normal Attacks deal an additional <b class=\"text-refinement\">160%</b> ATK as DMG. Can only occur once every 10s.",
+                "scaling": [["160%", "200%", "240%", "280%", "320%"]]
             }
         },
         "materials": {
@@ -538,7 +551,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Sharp",
-                "description": "Increases Normal Attack DMG by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b>."
+                "description": "Increases Normal Attack DMG by <b class=\"text-refinement\">24%</b>.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -561,7 +575,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Bane of Fire and Thunder",
-                "description": "Increases DMG dealt against opponents affected by Pyro or Electro by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>."
+                "description": "Increases DMG dealt against opponents affected by Pyro or Electro by <b class=\"text-refinement\">12%</b>.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -584,7 +599,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Blunt Conclusion",
-                "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to <b class=\"text-refinement\">60%/75%/90%/105%/120%</b> of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+                "description": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to <b class=\"text-refinement\">60%</b> of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s.",
+                "scaling": [["60%", "75%", "90%", "105%", "120%"]]
             }
         },
         "materials": {
@@ -607,7 +623,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Unbending",
-                "description": "When HP falls below <b class=\"text-refinement\">70%/75%/80%/85%/90%</b>, increases Charged Attack DMG by <b class=\"text-refinement\">30%/35%/40%/45%/50%</b> and Charged Attacks become harder to interrupt."
+                "description": "When HP falls below <b class=\"text-refinement\">70%</b>, increases Charged Attack DMG by <b class=\"text-refinement\">30%</b> and Charged Attacks become harder to interrupt.",
+                "scaling": [["70%", "75%", "80%", "85%", "90%"], ["30%", "35%", "40%", "45%", "50%"]]
             }
         },
         "materials": {
@@ -630,7 +647,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Courage",
-                "description": "On hit, Normal or Charged Attacks increase ATK by <b class=\"text-refinement\">6%/7%/8%/9%/10%</b> for 6s. Max 4 stacks. Can occur once every 0.5s."
+                "description": "On hit, Normal or Charged Attacks increase ATK by <b class=\"text-refinement\">6%</b> for 6s. Max 4 stacks. Can occur once every 0.5s.",
+                "scaling": [["6%", "7%", "8%", "9%", "10%"]]
             }
         },
         "materials": {
@@ -653,7 +671,8 @@
             "subStat": "DEF",
             "passive": {
                 "name": "Cull the Weak",
-                "description": "Defeating an opponent restores <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> HP."
+                "description": "Defeating an opponent restores <b class=\"text-refinement\">8%</b> HP.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -676,7 +695,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Rapids",
-                "description": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 12s."
+                "description": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <b class=\"text-refinement\">20%</b> for 12s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -699,7 +719,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Bane of Storm and Tide",
-                "description": "Increases DMG against opponents affected by Hydro or Electro by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>."
+                "description": "Increases DMG against opponents affected by Hydro or Electro by <b class=\"text-refinement\">12%</b>.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -722,7 +743,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Energy Shower",
-                "description": "Picking up an Elemental Energy Orb/Particle recovers <b class=\"text-refinement\">1%/1.25%/1.5%/1.75%/2%</b> HP."
+                "description": "Picking up an Elemental Energy Orb/Particle recovers <b class=\"text-refinement\">1%</b> HP.",
+                "scaling": [["1%", "1.25%", "1.5%", "1.75%", "2%"]]
             }
         },
         "materials": {
@@ -745,7 +767,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Heritage",
-                "description": "When switching characters, the new character taking the field has their ATK increased by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b> for 10s. This effect can only occur once every 20s."
+                "description": "When switching characters, the new character taking the field has their ATK increased by <b class=\"text-refinement\">24%</b> for 10s. This effect can only occur once every 20s.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -768,7 +791,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Guerilla Tactics",
-                "description": "Defeating an opponent increases Movement SPD and ATK by <b class=\"text-refinement\">12%/14%/16%/18%/20%</b> for 15s."
+                "description": "Defeating an opponent increases Movement SPD and ATK by <b class=\"text-refinement\">12%</b> for 15s.",
+                "scaling": [["12%", "14%", "16%", "18%", "20%"]]
             }
         },
         "materials": {
@@ -791,7 +815,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Press the Advantage",
-                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -814,7 +839,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Infusion Arrow",
-                "description": "Normal Attack and Charged Attack hits increase ATK by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b> and Normal ATK SPD by <b class=\"text-refinement\">1.2%/1.5%/1.8%/2.1%/2.4%</b> for 6s. Max 4 stacks. Can only occur once every 0.3s."
+                "description": "Normal Attack and Charged Attack hits increase ATK by <b class=\"text-refinement\">4%</b> and Normal ATK SPD by <b class=\"text-refinement\">1.2%</b> for 6s. Max 4 stacks. Can only occur once every 0.3s.",
+                "scaling": [["4%", "5%", "6%", "7%", "8%"], ["2%", "1.5%", "1.8%", "2.1%", "2.4%"]]
             }
         },
         "materials": {
@@ -837,7 +863,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Windfall",
-                "description": "CRIT Hits have a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12/10.5/9/7.5/6</b>s."
+                "description": "CRIT Hits have a <b class=\"text-refinement\">60%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12</b>s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["12", "10.5", "9", "7.5", "6"]]
             }
         },
         "materials": {
@@ -860,7 +887,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Unreturning",
-                "description": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <b class=\"text-refinement\">36%/45%/54%/63%/72%</b> for 10s."
+                "description": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <b class=\"text-refinement\">36%</b> for 10s.",
+                "scaling": [["36%", "45%", "54%", "63%", "72%"]]
             }
         },
         "materials": {
@@ -883,7 +911,7 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Focus",
-                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
             }
         },
         "materials": {
@@ -906,7 +934,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Rapid Firing",
-                "description": "Increases Normal Attack DMG by <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> but decreases Charged Attack DMG by 10%."
+                "description": "Increases Normal Attack DMG by <b class=\"text-refinement\">40%</b> but decreases Charged Attack DMG by 10%.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -929,7 +958,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Composed",
-                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30/26/22s/19/16</b>s."
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30</b>s.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"], ["30", "26", "22", "19", "16"]]
             }
         },
         "materials": {
@@ -952,7 +982,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Arrowless Song",
-                "description": "Increases Elemental Skill and Elemental Burst DMG by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b>."
+                "description": "Increases Elemental Skill and Elemental Burst DMG by <b class=\"text-refinement\">24%</b>.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -975,7 +1006,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Verdant Wind",
-                "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <b class=\"text-refinement\">14/13/12/11/10</b>s."
+                "description": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <b class=\"text-refinement\">40%</b> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <b class=\"text-refinement\">14</b>s.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"], ["14", "13", "12", "11", "10"]]
             }
         },
         "materials": {
@@ -998,7 +1030,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Press the Advantage",
-                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -1021,7 +1054,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Windfall",
-                "description": "CRIT Hits have a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12/10.5/9/7.5/6</b>s."
+                "description": "CRIT Hits have a <b class=\"text-refinement\">60%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12</b>s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["12", "10.5", "9", "7.5", "6"]]
             }
         },
         "materials": {
@@ -1044,7 +1078,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Infusion Stinger",
-                "description": "Dealing Elemental DMG increases all DMG by <b class=\"text-refinement\">6%/7.5%/9%/10.5%/12%</b> for 6s. Max 2 stacks. Can occur once every 1s."
+                "description": "Dealing Elemental DMG increases all DMG by <b class=\"text-refinement\">6%</b> for 6s. Max 2 stacks. Can occur once every 1s.",
+                "scaling": [["6%", "7.5%", "9%", "10.5%", "12%"]]
             }
         },
         "materials": {
@@ -1067,7 +1102,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Bane of Fire and Thunder",
-                "description": "Increases DMG dealt against opponents affected by Pyro or Electro by <b class=\"text-refinement\">20%/24%/28%/32%/36%</b>."
+                "description": "Increases DMG dealt against opponents affected by Pyro or Electro by <b class=\"text-refinement\">20%</b>.",
+                "scaling": [["20%", "24%", "28%", "32%", "36%"]]
             }
         },
         "materials": {
@@ -1090,7 +1126,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Smashed Stone",
-                "description": "On hit, Normal or Charged Attacks increase ATK and DEF by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b> for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
+                "description": "On hit, Normal or Charged Attacks increase ATK and DEF by <b class=\"text-refinement\">4%</b> for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
+                "scaling": [["4%", "5%", "6%", "7%", "8%"]]
             }
         },
         "materials": {
@@ -1113,7 +1150,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Focus",
-                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%</b>. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -1136,7 +1174,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Composed",
-                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30/26/22s/19/16</b>s."
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30</b>s.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"], ["30", "26", "22", "19", "16"]]
             }
         },
         "materials": {
@@ -1182,7 +1221,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Justice",
-                "description": "Increases DMG dealt by Normal and Charged Attacks by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Additionally, regenerates <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+                "description": "Increases DMG dealt by Normal and Charged Attacks by <b class=\"text-refinement\">20%</b>. Additionally, regenerates <b class=\"text-refinement\">60%</b> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["60%", "70%", "80%", "90%", "100%"]]
             }
         },
         "materials": {
@@ -1205,7 +1245,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Chord",
-                "description": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals <b class=\"text-refinement\">100%/125%/150%/175%/200%</b> ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
+                "description": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals <b class=\"text-refinement\">100%</b> ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s.",
+                "scaling": [["100%", "125%", "150%", "175%", "200%"]]
             }
         },
         "materials": {
@@ -1228,7 +1269,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Press the Advantage",
-                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -1251,7 +1293,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Infusion Needle",
-                "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> of ATK for 5s."
+                "description": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <b class=\"text-refinement\">20%</b> of ATK for 5s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -1274,7 +1317,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Gladiator",
-                "description": "If there are at least 2 opponents nearby, ATK is increased by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> and DEF is increased by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b>. If there are fewer than 2 opponents nearby, ATK is increased by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b>."
+                "description": "If there are at least 2 opponents nearby, ATK is increased by <b class=\"text-refinement\">16%</b> and DEF is increased by <b class=\"text-refinement\">16%</b>. If there are fewer than 2 opponents nearby, ATK is increased by <b class=\"text-refinement\">24%</b>.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["16%", "20%", "24%", "28%", "32%"], ["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -1297,7 +1341,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Bane of Flame and Water",
-                "description": "Increases DMG against opponents affected by Hydro or Pyro by <b class=\"text-refinement\">20%/24%/28%/32%/36%</b>."
+                "description": "Increases DMG against opponents affected by Hydro or Pyro by <b class=\"text-refinement\">20%</b>.",
+                "scaling": [["20%", "24%", "28%", "32%", "36%"]]
             }
         },
         "materials": {
@@ -1320,7 +1365,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Windfall",
-                "description": "CRIT Hits have a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12/10.5/9/7.5/6</b>s."
+                "description": "CRIT Hits have a <b class=\"text-refinement\">60%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12</b>s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["12", "10.5", "9", "7.5", "6"]]
             }
         },
         "materials": {
@@ -1343,7 +1389,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Magic Affinity",
-                "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> for 12s. Max 2 stacks."
+                "description": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <b class=\"text-refinement\">8%</b> for 12s. Max 2 stacks.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -1366,7 +1413,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Focus",
-                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%</b>. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -1389,7 +1437,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Press the Advantage",
-                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -1412,7 +1461,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Windfall",
-                "description": "CRIT Hits have a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12/10.5/9/7.5/6</b>s."
+                "description": "CRIT Hits have a <b class=\"text-refinement\">60%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12</b>s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["12", "10.5", "9", "7.5", "6"]]
             }
         },
         "materials": {
@@ -1435,7 +1485,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Crush",
-                "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional <b class=\"text-refinement\">240%/300%/360%/420%/480%</b> ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+                "description": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional <b class=\"text-refinement\">240%</b> ATK DMG to opponents within a small AoE. Can only occur once every 15s.",
+                "scaling": [["240%", "300%", "360%", "420%", "480%"]]
             }
         },
         "materials": {
@@ -1458,7 +1509,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Bane of Storm and Tide",
-                "description": "Increases DMG against opponents affected by Hydro or Electro by <b class=\"text-refinement\">20%/24%/28%/32%/36%</b>."
+                "description": "Increases DMG against opponents affected by Hydro or Electro by <b class=\"text-refinement\">20%</b>.",
+                "scaling": [["20%", "24%", "28%", "32%", "36%"]]
             }
         },
         "materials": {
@@ -1481,7 +1533,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Focus",
-                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%</b>. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -1504,7 +1557,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Composed",
-                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30/26/22s/19/16</b>s."
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30</b>s.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"], ["30", "26", "22", "19", "16"]]
             }
         },
         "materials": {
@@ -1527,7 +1581,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Wavesplitter",
-                "description": "Every 4s a character is on the field, they will deal <b class=\"text-refinement\">6%/7%/8%/9%/10%</b> more DMG and take <b class=\"text-refinement\">3%/2.7%/2.4%/2.2%/2%</b> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+                "description": "Every 4s a character is on the field, they will deal <b class=\"text-refinement\">6%/7%/8%/9%/10%</b> more DMG and take <b class=\"text-refinement\">3%/2.7%/2.4%/2.2%/2%</b> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
+                "scaling": [["6%", "7%", "8%", "9%", "10%"], ["3%", "2.7%", "2.4%", "2.2%", "2%"]]
             }
         },
         "materials": {
@@ -1550,7 +1605,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Rebellious Guardian",
-                "description": "Taking DMG generates a shield which absorbs DMG up to <b class=\"text-refinement\">20%/23%/26%/29%/32%</b> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> increased DMG."
+                "description": "Taking DMG generates a shield which absorbs DMG up to <b class=\"text-refinement\">20%</b> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every 45s. While protected by a shield, the character gains <b class=\"text-refinement\">12%</b> increased DMG.",
+                "scaling": [["20%", "23%", "26%", "29%", "32%"], ["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -1573,7 +1629,8 @@
             "subStat": "DEF",
             "passive": {
                 "name": "Infusion Blade",
-                "description": "On hit, Normal or Charged Attacks increase ATK and DEF by <b class=\"text-refinement\">6%/7.5%/9%/10.5%/12%</b> for 6s. Max 4 stacks. Can occur once every 0.5s."
+                "description": "On hit, Normal or Charged Attacks increase ATK and DEF by <b class=\"text-refinement\">6%</b> for 6s. Max 4 stacks. Can occur once every 0.5s.",
+                "scaling": [["6%", "7.5%", "9%", "10.5%", "12%"]]
             }
         },
         "materials": {
@@ -1596,7 +1653,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Press the Advantage",
-                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+                "description": "After defeating an opponent, ATK is increased by <b class=\"text-refinement\">12%</b> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -1619,7 +1677,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Echo",
-                "description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing <b class=\"text-refinement\">240%/270%/300%/330%/360%</b> ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every <b class=\"text-refinement\">12/11/10/9/8</b>s."
+                "description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing <b class=\"text-refinement\">240%</b> ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every <b class=\"text-refinement\">12</b>s.",
+                "scaling": [["240%", "270%", "300%", "330%", "360%"], ["12", "11", "10", "9", "8"]]
             }
         },
         "materials": {
@@ -1642,7 +1701,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Windfall",
-                "description": "CRIT Hits have a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12/10.5/9/7.5/6</b>s."
+                "description": "CRIT Hits have a <b class=\"text-refinement\">60%</b> chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every <b class=\"text-refinement\">12</b>s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["12", "10.5", "9", "7.5", "6"]]
             }
         },
         "materials": {
@@ -1665,7 +1725,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Infusion Scroll",
-                "description": "Triggering an Elemental reaction grants a <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> Elemental DMG Bonus for 10s. Max 2 stacks."
+                "description": "Triggering an Elemental reaction grants a <b class=\"text-refinement\">8%</b> Elemental DMG Bonus for 10s. Max 2 stacks.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -1688,7 +1749,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Gilding",
-                "description": "Using an Elemental Burst regenerates <b class=\"text-refinement\">4/4.5/5/5.5/6</b> Energy every 2s for 6s. All party members will regenerate <b class=\"text-refinement\">4%/4.5%/5%/5.5%/6%</b> HP every 2s for this duration."
+                "description": "Using an Elemental Burst regenerates <b class=\"text-refinement\">4</b> Energy every 2s for 6s. All party members will regenerate <b class=\"text-refinement\">4%</b> HP every 2s for this duration.",
+                "scaling": [["4", "4.5", "5", "5.5", "6"], ["4%", "4.5%", "5%", "5.5%", "6%"]]
             }
         },
         "materials": {
@@ -1711,7 +1773,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Focus",
-                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b>. Max 5 stacks. A CRIT Hit removes all stacks."
+                "description": "Upon damaging an opponent, increases CRIT Rate by <b class=\"text-refinement\">8%</b>. Max 5 stacks. A CRIT Hit removes all stacks.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -1734,7 +1797,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Composed",
-                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30/26/22s/19/16</b>s."
+                "description": "After damaging an opponent with an Elemental Skill, the skill has a <b class=\"text-refinement\">40%</b> chance to end its own CD. Can only occur once every <b class=\"text-refinement\">30</b>s.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"], ["30", "26", "22", "19", "16"]]
             }
         },
         "materials": {
@@ -1757,7 +1821,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Solar Shine",
-                "description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 6s."
+                "description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <b class=\"text-refinement\">20%</b> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <b class=\"text-refinement\">20%</b> for 6s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -1780,7 +1845,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Debut",
-                "description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by <b class=\"text-refinement\">60%/75%/90%/105%/120%</b>. Aria: Increases all Elemental DMG by <b class=\"text-refinement\">48%/60%/72%/84%/96%</b>. Interlude: Elemental Mastery is increased by <b class=\"text-refinement\">240/300/360/420/480</b>."
+                "description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by <b class=\"text-refinement\">60%</b>. Aria: Increases all Elemental DMG by <b class=\"text-refinement\">48%</b>. Interlude: Elemental Mastery is increased by <b class=\"text-refinement\">240</b>.",
+                "scaling": [["60%", "75%", "90%", "105%", "120%"], ["48%", "60%", "72%", "84%", "96%"], ["240", "300", "360", "420", "480"]]
             }
         },
         "materials": {
@@ -1803,7 +1869,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Strong-Willed",
-                "description": "Increases Normal and Charged Attack DMG by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> every 0.1s the arrow is in the air for up to 5 times."
+                "description": "Increases Normal and Charged Attack DMG by <b class=\"text-refinement\">12%</b>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <b class=\"text-refinement\">8%</b> every 0.1s the arrow is in the air for up to 5 times.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -1826,7 +1893,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Echoing Ballad",
-                "description": "Increases CRIT DMG by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Hits have a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <b class=\"text-refinement\">4/3.5/3/2.5/2</b>s."
+                "description": "Increases CRIT DMG by <b class=\"text-refinement\">20%</b>. Hits have a <b class=\"text-refinement\">60%</b> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <b class=\"text-refinement\">4</b>s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["60%", "70%", "80%", "90%", "100%"], ["4", "3.5", "3", "2.5", "2"]]
             }
         },
         "materials": {
@@ -1849,7 +1917,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Falcon's Defiance",
-                "description": "ATK is increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <b class=\"text-refinement\">100%/115%/130%/145%/160%</b> of ATK and dealing <b class=\"text-refinement\">200%/230%/260%/290%/320%</b> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
+                "description": "ATK is increased by <b class=\"text-refinement\">20%</b>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <b class=\"text-refinement\">100%</b> of ATK and dealing <b class=\"text-refinement\">200%</b> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["100%", "115%", "130%", "145%", "160%"], ["200%", "230%", "260%", "290%", "320%"]]
             }
         },
         "materials": {
@@ -1872,7 +1941,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Sky-Piercing Fang",
-                "description": "CRIT Rate increased by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b>. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> of ATK. Skypiercing Might lasts for 12s."
+                "description": "CRIT Rate increased by <b class=\"text-refinement\">4%</b>. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to <b class=\"text-refinement\">20%</b> of ATK. Skypiercing Might lasts for 12s.",
+                "scaling": [["4%", "5%", "6%", "7%", "8%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -1895,7 +1965,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Eagle Spear of Justice",
-                "description": "On hit, increases ATK by <b class=\"text-refinement\">3.2%/3.9%/4.6%/5.3%/6%</b> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>."
+                "description": "On hit, increases ATK by <b class=\"text-refinement\">3.2%</b> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <b class=\"text-refinement\">12%</b>.",
+                "scaling": [["3.2%", "3.9%", "4.6%", "5.3%", "6%"], ["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -1918,7 +1989,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Black Wing",
-                "description": "Increases CRIT Rate by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals <b class=\"text-refinement\">40%/55%/70%/85%/100%</b> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+                "description": "Increases CRIT Rate by <b class=\"text-refinement\">8%</b> and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals <b class=\"text-refinement\">40%</b> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"], ["40%", "55%", "70%", "85%", "100%"]]
             }
         },
         "materials": {
@@ -1941,7 +2013,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Sky-ripping Dragon Spine",
-                "description": "Increases all DMG by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b>. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does <b class=\"text-refinement\">80%/100%/120%/140%/160%</b> of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
+                "description": "Increases all DMG by <b class=\"text-refinement\">8%</b>. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does <b class=\"text-refinement\">80%</b> of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"], ["80%", "100%", "120%", "140%", "160%"]]
             }
         },
         "materials": {
@@ -1964,7 +2037,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Wolfish Tracker",
-                "description": "Increases ATK by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> for 12s. Can only occur once every 30s."
+                "description": "Increases ATK by <b class=\"text-refinement\">20%</b>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <b class=\"text-refinement\">40%</b> for 12s. Can only occur once every 30s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -1987,7 +2061,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Boundless Blessing",
-                "description": "Increases Movement SPD by 10%. When in battle, gain an <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+                "description": "Increases Movement SPD by 10%. When in battle, gain an <b class=\"text-refinement\">8%</b> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -2010,7 +2085,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Wandering Clouds",
-                "description": "Increases Elemental DMG Bonus by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing <b class=\"text-refinement\">160%/200%/240%/280%/320%</b> ATK DMG. Can only occur once every 30s."
+                "description": "Increases Elemental DMG Bonus by <b class=\"text-refinement\">12%</b>. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing <b class=\"text-refinement\">160%</b> ATK DMG. Can only occur once every 30s.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["160%", "200%", "240%", "280%", "320%"]]
             }
         },
         "materials": {
@@ -2033,7 +2109,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Golden Majesty",
-                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["4%", "5%", "6%", "7%", "8%"]]
             }
         },
         "materials": {
@@ -2056,7 +2133,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Golden Majesty",
-                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["4%", "5%", "6%", "7%", "8%"]]
             }
         },
         "materials": {
@@ -2079,7 +2157,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Golden Majesty",
-                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["4%", "5%", "6%", "7%", "8%"]]
             }
         },
         "materials": {
@@ -2102,7 +2181,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Golden Majesty",
-                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+                "description": "Increases Shield Strength by <b class=\"text-refinement\">20%</b>. Scoring hits on opponents increases ATK by <b class=\"text-refinement\">4%</b> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["4%", "5%", "6%", "7%", "8%"]]
             }
         },
         "materials": {
@@ -2125,7 +2205,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Undying Admiration",
-                "description": "Increases Elemental Skill DMG by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> and Elemental Skill CRIT Rate by <b class=\"text-refinement\">6%/7.5%/9%/10.5%/12%</b>."
+                "description": "Increases Elemental Skill DMG by <b class=\"text-refinement\">16%</b> and Elemental Skill CRIT Rate by <b class=\"text-refinement\">6%</b>.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["4%", "5%", "6%", "7%", "8%"]]
             }
         },
         "materials": {
@@ -2148,7 +2229,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Frost Burial",
-                "description": "Hitting an opponent with Normal and Charged Attacks has a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b class=\"text-refinement\">80%/95%/110%/125%/140%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b class=\"text-refinement\">200%/240%/280%/320%/360%</b> of ATK. Can only occur once every 10s."
+                "description": "Hitting an opponent with Normal and Charged Attacks has a <b class=\"text-refinement\">60%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b class=\"text-refinement\">80%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b class=\"text-refinement\">200%</b> of ATK. Can only occur once every 10s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["80%", "95%", "110%", "125%", "140%"], ["200%", "240%", "280%", "320%", "360%"]]
             }
         },
         "materials": {
@@ -2171,7 +2253,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Frost Burial",
-                "description": "Hitting an opponent with Normal and Charged Attacks has a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b class=\"text-refinement\">80%/95%/110%/125%/140%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b class=\"text-refinement\">200%/240%/280%/320%/360%</b> of ATK. Can only occur once every 10s."
+                "description": "Hitting an opponent with Normal and Charged Attacks has a <b class=\"text-refinement\">60%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b class=\"text-refinement\">80%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b class=\"text-refinement\">200%</b> of ATK. Can only occur once every 10s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["80%", "95%", "110%", "125%", "140%"], ["200%", "240%", "280%", "320%", "360%"]]
             }
         },
         "materials": {
@@ -2194,7 +2277,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Frost Burial",
-                "description": "Hitting an opponent with Normal and Charged Attacks has a <b class=\"text-refinement\">60%/70%/80%/90%/100%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b class=\"text-refinement\">80%/95%/110%/125%/140%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b class=\"text-refinement\">200%/240%/280%/320%/360%</b> of ATK. Can only occur once every 10s."
+                "description": "Hitting an opponent with Normal and Charged Attacks has a <b class=\"text-refinement\">60%</b> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <b class=\"text-refinement\">80%</b> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <b class=\"text-refinement\">200%</b> of ATK. Can only occur once every 10s.",
+                "scaling": [["60%", "70%", "80%", "90%", "100%"], ["80%", "95%", "110%", "125%", "140%"], ["200%", "240%", "280%", "320%", "360%"]]
             }
         },
         "materials": {
@@ -2217,7 +2301,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Lithic Axiom: Unity",
-                "description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <b class=\"text-refinement\">7%/8%/9%/10%/11%</b> ATK increase and a <b class=\"text-refinement\">3%/4%/5%/6%/7%</b> CRIT Rate increase. This effect stacks up to 4 times."
+                "description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <b class=\"text-refinement\">7%</b> ATK increase and a <b class=\"text-refinement\">3%</b> CRIT Rate increase. This effect stacks up to 4 times.",
+                "scaling": [["7%", "8%", "9%", "10%", "11%"], ["3%", "4%", "5%", "6%", "7%"]]
             }
         },
         "materials": {
@@ -2240,7 +2325,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Lithic Axiom: Unity",
-                "description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <b class=\"text-refinement\">7%/8%/9%/10%/11%</b> ATK increase and a <b class=\"text-refinement\">3%/4%/5%/6%/7%</b> CRIT Rate increase. This effect stacks up to 4 times."
+                "description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <b class=\"text-refinement\">7%</b> ATK increase and a <b class=\"text-refinement\">3%</b> CRIT Rate increase. This effect stacks up to 4 times.",
+                "scaling": [["7%", "8%", "9%", "10%", "11%"], ["3%", "4%", "5%", "6%", "7%"]]
             }
         },
         "materials": {
@@ -2263,7 +2349,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Protector's Virtue",
-                "description": "HP increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Additionally, provides an ATK Bonus based on <b class=\"text-refinement\">1.2%/1.5%/1.8%/2.1%/2.4%</b> of the wielder's Max HP."
+                "description": "HP increased by <b class=\"text-refinement\">20%</b>. Additionally, provides an ATK Bonus based on <b class=\"text-refinement\">1.2%</b> of the wielder's Max HP.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["1.2%", "1.5%", "1.8%", "2.1%", "2.4%"]]
             }
         },
         "materials": {
@@ -2286,7 +2373,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Reckless Cinnabar",
-                "description": "HP increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Additionally, provides an ATK Bonus based on <b class=\"text-refinement\">0.8%/1%/1.2%/1.4%/1.6%</b> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <b class=\"text-refinement\">1%/1.2%/1.4%/1.6%/1.8%</b> of Max HP."
+                "description": "HP increased by <b class=\"text-refinement\">20%</b>. Additionally, provides an ATK Bonus based on <b class=\"text-refinement\">0.8%</b> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <b class=\"text-refinement\">1%</b> of Max HP.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["0.8%", "1%", "1.2%", "1.4%", "1.6%"], ["1%", "1.2%", "1.4%", "1.6%", "1.8%"]]
             }
         },
         "materials": {
@@ -2309,7 +2397,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "The Parting Refrain",
-                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by <b class=\"text-refinement\">60/75/90/105/120</b>. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by <b class=\"text-refinement\">100/125/150/175/200</b> and increases ATK by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by <b class=\"text-refinement\">60</b>. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by <b class=\"text-refinement\">100</b> and increases ATK by <b class=\"text-refinement\">20%</b>. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "scaling": [["60", "75", "90", "105", "120"], ["100", "125", "150", "175", "200"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -2332,7 +2421,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Itinerant Hero",
-                "description": "Increases DMG dealt by the character equipping this weapon by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>. Taking DMG disables this effect for 5s."
+                "description": "Increases DMG dealt by the character equipping this weapon by <b class=\"text-refinement\">12%</b>. Taking DMG disables this effect for 5s.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -2355,7 +2445,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Oppidan Ambush",
-                "description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <b class=\"text-refinement\">2%/2.5%/3%/3.5%/4%</b> every second up to a max of <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b> per second until it reaches 0%."
+                "description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <b class=\"text-refinement\">2%</b> every second up to a max of <b class=\"text-refinement\">20%</b>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <b class=\"text-refinement\">4%</b> per second until it reaches 0%.",
+                "scaling": [["2%", "2.5%", "3%", "3.5%", "4%"], ["20%", "25%", "30%", "35%", "40%"], ["4%", "5%", "6%", "7%", "8%"]]
             }
         },
         "materials": {
@@ -2378,7 +2469,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Ever-Changing",
-                "description": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <b class=\"text-refinement\">14%/16%/18%/20%/22%</b> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 5s."
+                "description": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <b class=\"text-refinement\">14%</b> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <b class=\"text-refinement\">20%</b> for 5s.",
+                "scaling": [["14%", "16%", "18%", "20%", "22%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -2401,7 +2493,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Windblume Wish",
-                "description": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> for 6s."
+                "description": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <b class=\"text-refinement\">16%</b> for 6s.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"]]
             }
         },
         "materials": {
@@ -2424,7 +2517,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Rebel's Banner-Hymn",
-                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> and increases ATK by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <b class=\"text-refinement\">16%</b>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <b class=\"text-refinement\">12%</b> and increases ATK by <b class=\"text-refinement\">20%</b>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["12%", "15%", "18%", "21%", "24%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -2447,7 +2541,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Revolutionary Chorale",
-                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <b class=\"text-refinement\">10%/12.5%/15%/17.5%/20%</b>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> and increases ATK by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+                "description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <b class=\"text-refinement\">10%</b>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <b class=\"text-refinement\">16%</b> and increases ATK by <b class=\"text-refinement\">20%</b>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
+                "scaling": [["10%", "12.5%", "15%", "17.5%", "20%"], ["16%", "20%", "24%", "28%", "32%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -2470,7 +2565,8 @@
             "subStat": "Physical DMG Bonus",
             "passive": {
                 "name": "Evernight Duet",
-                "description": "Normal Attack hits on opponents increase Elemental Skill DMG by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 5s."
+                "description": "Normal Attack hits on opponents increase Elemental Skill DMG by <b class=\"text-refinement\">20%</b> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <b class=\"text-refinement\">20%</b> for 5s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -2493,7 +2589,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Dodoventure!",
-                "description": "Normal Attack hits on opponents increase Charged Attack DMG by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> for 6s. Charged Attack hits on opponents increase ATK by <b class=\"text-refinement\">8%/10%/12%/14%/16%</b> for 6s."
+                "description": "Normal Attack hits on opponents increase Charged Attack DMG by <b class=\"text-refinement\">16%</b> for 6s. Charged Attack hits on opponents increase ATK by <b class=\"text-refinement\">8%</b> for 6s.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["8%", "10%", "12%", "14%", "16%"]]
             }
         },
         "materials": {
@@ -2516,7 +2613,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Rule by Thunder",
-                "description": "Increases ATK by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <b class=\"text-refinement\">(12/24/40%)/(15/30/50%)/(18/36/60%)/(21/42/70%)/(24/48/80%)</b>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+                "description": "Increases ATK by <b class=\"text-refinement\">20%</b> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <b class=\"text-refinement\">12%/24%/40%</b>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["12%/24%/40%", "15%/30%/50%", "18%/36%/60%", "21%/42%/70%", "24%/48%/80%"]]
             }
         },
         "materials": {
@@ -2539,7 +2637,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Mistsplitter's Edge",
-                "description": "Gain a <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a <b class=\"text-refinement\">(8/16/28%)/(10/20/35%)/(12/24/42%)/(14/28/49%)/(16/32/56%)</b> Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+                "description": "Gain a <b class=\"text-refinement\">12%</b> Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a <b class=\"text-refinement\">8%/16%/28%</b> Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["8%/16%/28%", "10%/20%/35%", "12%/24%/42%", "14%/28%/49%", "16%/32%/56%"]]
             }
         },
         "materials": {
@@ -2562,7 +2661,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Full Draw",
-                "description": "Increases Normal Attack DMG by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> and Charged Attack DMG by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
+                "description": "Increases Normal Attack DMG by <b class=\"text-refinement\">16%</b> and Charged Attack DMG by <b class=\"text-refinement\">12%</b>. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -2585,7 +2685,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Iwakura Succession",
-                "description": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <b class=\"text-refinement\">6/7.5/9/10.5/12</b> Energy for each seed consumed."
+                "description": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <b class=\"text-refinement\">6</b> Energy for each seed consumed.",
+                "scaling": [["6", "7.5", "9", "10.5", "12"]]
             }
         },
         "materials": {
@@ -2608,7 +2709,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Samurai Conduct",
-                "description": "Increases Elemental Skill DMG by <b class=\"text-refinement\">6%/7.5%/9%/10.5%/12%</b>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <b class=\"text-refinement\">3/3.5/4/4.5/5</b> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+                "description": "Increases Elemental Skill DMG by <b class=\"text-refinement\">6%</b>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <b class=\"text-refinement\">3</b> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+                "scaling": [["6%", "7.5%", "9%", "10.5%", "12%"], ["3", "3.5", "4", "4.5", "5"]]
             }
         },
         "materials": {
@@ -2631,7 +2733,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Samurai Conduct",
-                "description": "Increases Elemental Skill DMG by <b class=\"text-refinement\">6%/7.5%/9%/10.5%/12%</b>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <b class=\"text-refinement\">3/3.5/4/4.5/5</b> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+                "description": "Increases Elemental Skill DMG by <b class=\"text-refinement\">6%</b>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <b class=\"text-refinement\">3</b> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
+                "scaling": [["6%", "7.5%", "9%", "10.5%", "12%"], ["3", "3.5", "4", "4.5", "5"]]
             }
         },
         "materials": {
@@ -2654,7 +2757,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Sakura Saiguu",
-                "description": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <b class=\"text-refinement\">10%/12.5%/15%/17.5%/20%</b> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+                "description": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <b class=\"text-refinement\">10%</b> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
+                "scaling": [["10%", "12.5%", "15%", "17.5%", "20%"]]
             }
         },
         "materials": {
@@ -2677,7 +2781,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Timeless Dream: Eternal Stove",
-                "description": "ATK increased by <b class=\"text-refinement\">28%/35%/42%/49%/56%</b> of Energy Recharge over the base 100%. You can gain a maximum bonus of <b class=\"text-refinement\">80%/90%/100%/110%/120%</b> ATK. Gain <b class=\"text-refinement\">30%/35%/40%/45%/50%</b> Energy Recharge for 12s after using an Elemental Burst."
+                "description": "ATK increased by <b class=\"text-refinement\">28%</b> of Energy Recharge over the base 100%. You can gain a maximum bonus of <b class=\"text-refinement\">80%</b> ATK. Gain <b class=\"text-refinement\">30%</b> Energy Recharge for 12s after using an Elemental Burst.",
+                "scaling": [["28%", "35%", "42%", "49%", "56%"], ["80%", "90%", "100%", "110%", "120%"], ["30%", "35%", "40%", "45%", "50%"]]
             }
         },
         "materials": {
@@ -2700,7 +2805,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Byakuya Kougetsu",
-                "description": "Healing Bonus increased by <b class=\"text-refinement\">10%/12.5%/15%/17.5%/20%</b>, Normal Attack DMG is increased by <b class=\"text-refinement\">1%/1.5%/2%/2.5%/3%</b> of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+                "description": "Healing Bonus increased by <b class=\"text-refinement\">10%</b>, Normal Attack DMG is increased by <b class=\"text-refinement\">1%</b> of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s.",
+                "scaling": [["10%", "12.5%", "15%", "17.5%", "20%"], ["1%", "1.5%", "2%", "2.5%", "3%"]]
             }
         },
         "materials": {
@@ -2723,7 +2829,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Oceanic Victory",
-                "description": "Increases Elemental Burst DMG by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <b class=\"text-refinement\">100%/125%/150%/175%/200%</b> ATK as AoE DMG. This effect can occur once every 15s."
+                "description": "Increases Elemental Burst DMG by <b class=\"text-refinement\">12%</b>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <b class=\"text-refinement\">100%</b> ATK as AoE DMG. This effect can occur once every 15s.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["100%", "125%", "150%", "175%", "200%"]]
             }
         },
         "materials": {
@@ -2739,6 +2846,7 @@
     {
         "id": 119,
         "name": "The Catch",
+        "displayName": "\"The Catch\"",
         "rarity": 4,
         "type": "Polearm",
         "stats": {
@@ -2746,7 +2854,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Shanty",
-                "description": "Increases Elemental Burst DMG by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> and Elemental Burst CRIT Rate by <b class=\"text-refinement\">6%/7.5%/9%/10.5%/12%</b>."
+                "description": "Increases Elemental Burst DMG by <b class=\"text-refinement\">16%</b> and Elemental Burst CRIT Rate by <b class=\"text-refinement\">6%</b>.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["6%", "7.5%", "9%", "10.5%", "12%"]]
             }
         },
         "materials": {
@@ -2792,7 +2901,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Daylight's Augury",
-                "description": "Elemental Skill and Elemental Burst DMG increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b>. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by <b class=\"text-refinement\">(10/20/30/48%)/(12.5/25/37.5/60%)/(15/30/45/72%)/(17.5/35/52.5/84%)/(20/40/60/96%)</b>. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
+                "description": "Elemental Skill and Elemental Burst DMG increased by <b class=\"text-refinement\">12%</b>. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by <b class=\"text-refinement\">10%/20%/30%/48%</b>. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["10%/20%/30%/48%", "12.5%/25%/37.5%/60%", "15%/30%/45%/72%", "17.5%/35%/52.5%/84%", "20%/40%/60%/96%"]]
             }
         },
         "materials": {
@@ -2815,7 +2925,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Watatsumi Wavewalker",
-                "description": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <b class=\"text-refinement\">0.12%/0.15%/0.18%/0.21%/0.24%</b>. A maximum of <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> increased Elemental Burst DMG can be achieved this way."
+                "description": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <b class=\"text-refinement\">0.12%</b>. A maximum of <b class=\"text-refinement\">40%</b> increased Elemental Burst DMG can be achieved this way.",
+                "scaling": [["0.12%", "0.15%", "0.18%", "0.21%", "0.24%"], ["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -2838,7 +2949,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Watatsumi Wavewalker",
-                "description": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <b class=\"text-refinement\">0.12%/0.15%/0.18%/0.21%/0.24%</b>. A maximum of <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> increased Elemental Burst DMG can be achieved this way."
+                "description": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <b class=\"text-refinement\">0.12%</b>. A maximum of <b class=\"text-refinement\">40%</b> increased Elemental Burst DMG can be achieved this way.",
+                "scaling": [["0.12%", "0.15%", "0.18%", "0.21%", "0.24%"], ["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -2861,7 +2973,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Watatsumi Wavewalker",
-                "description": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <b class=\"text-refinement\">0.12%/0.15%/0.18%/0.21%/0.24%</b>. A maximum of <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> increased Elemental Burst DMG can be achieved this way."
+                "description": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <b class=\"text-refinement\">0.12%</b>. A maximum of <b class=\"text-refinement\">40%</b> increased Elemental Burst DMG can be achieved this way.",
+                "scaling": [["0.12%", "0.15%", "0.18%", "0.21%", "0.24%"], ["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -2884,7 +2997,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Gokadaiou Otogibanashi",
-                "description": "DEF is increased by <b class=\"text-refinement\">28%/35%/42%/49%/56%</b>. Normal and Charged Attack DMG is increased by <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> of DEF."
+                "description": "DEF is increased by <b class=\"text-refinement\">28%</b>. Normal and Charged Attack DMG is increased by <b class=\"text-refinement\">40%</b> of DEF.",
+                "scaling": [["28%", "35%", "42%", "49%", "56%"], ["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -2907,7 +3021,8 @@
             "subStat": "DEF",
             "passive": {
                 "name": "Spotless Heart",
-                "description": "Elemental Skill DMG is increased by <b class=\"text-refinement\">40%/50%/60%/70%/80%</b> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
+                "description": "Elemental Skill DMG is increased by <b class=\"text-refinement\">40%</b> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
+                "scaling": [["40%", "50%", "60%", "70%", "80%"]]
             }
         },
         "materials": {
@@ -2930,7 +3045,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Extinguishing Precept",
-                "description": "Gain <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by <b class=\"text-refinement\">3.2%/4%/4.8%/5.6%/6.4%</b> per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
+                "description": "Gain <b class=\"text-refinement\">12%</b> All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by <b class=\"text-refinement\">3.2%</b> per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["3.2%", "4%", "4.8%", "5.6%", "6.4%"]]
             }
         },
         "materials": {
@@ -2953,7 +3069,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Kagura Dance of the Sacred Sakura",
-                "description": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> for 16s. Max 3 stacks. This character will gain <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> All Elemental DMG Bonus when they possess 3 stacks."
+                "description": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <b class=\"text-refinement\">12%</b> for 16s. Max 3 stacks. This character will gain <b class=\"text-refinement\">12%</b> All Elemental DMG Bonus when they possess 3 stacks.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["12%", "15%", "18%", "21%", "24%"]]
             }
         },
         "materials": {
@@ -2976,7 +3093,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "People of the Faltering Light",
-                "description": "ncreases Energy Recharge by <b class=\"text-refinement\">24%/30%/36%/42%/48%</b> for 10s after using an Elemental Skill."
+                "description": "ncreases Energy Recharge by <b class=\"text-refinement\">24%</b> for 10s after using an Elemental Skill.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -2999,7 +3117,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Honed Flow",
-                "description": "Obtain <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 8s."
+                "description": "Obtain <b class=\"text-refinement\">12%</b> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <b class=\"text-refinement\">20%</b> for 8s.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -3022,7 +3141,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "The Cleansing Form",
-                "description": "HP is increased by <b class=\"text-refinement\">16%/20%/24%/28%/32%</b>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. This will take effect whether the character is on-field or not."
+                "description": "HP is increased by <b class=\"text-refinement\">16%</b>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <b class=\"text-refinement\">20%</b>. This will take effect whether the character is on-field or not.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["20%", "25%", "30%", "35%", "40%"]]
             }
         },
         "materials": {
@@ -3045,7 +3165,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Radiance of the Deeps",
-                "description": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <b class=\"text-refinement\">(6%/10%/14%)/(7.5%/12.5%/17.5%)/(9%/15%/21%)/(10.5%/17.5%/24.5%)/(12%/20%/28%)</b> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
+                "description": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <b class=\"text-refinement\">6%/10%/14%</b> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
+                "scaling": [["6%/10%/14%", "7.5%/12.5%/17.5%", "9%/15%/21%", "10.5%/17.5%/24.5%", "12%/20%/28%"]]
             }
         },
         "materials": {
@@ -3091,7 +3212,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "At the End of the Beast-Paths",
-                "description": "Gain <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <b class=\"text-refinement\">160%/200%/240%/280%/320%</b> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
+                "description": "Gain <b class=\"text-refinement\">12%</b> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <b class=\"text-refinement\">160%</b> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["160%", "200%", "240%", "280%", "320%"]]
             }
         },
         "materials": {
@@ -3114,7 +3236,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Net Snapper",
-                "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing <b class=\"text-refinement\">80%/100%/120%/140%/160%</b> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+                "description": "Triggers the Flowrider effect after using an Elemental Skill, dealing <b class=\"text-refinement\">80%</b> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
+                "scaling": [["80%", "100%", "120%", "140%", "160%"]]
             }
         },
         "materials": {
@@ -3137,7 +3260,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Labyrinth Lord's Instruction",
-                "description": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by <b class=\"text-refinement\">60/80/100/120/140</b> for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal <b class=\"text-refinement\">100%/120%/140%/160%/180%</b> of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
+                "description": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by <b class=\"text-refinement\">60</b> for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal <b class=\"text-refinement\">100%</b> of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s.",
+                "scaling": [["60", "80", "100", "120", "140"], ["100%", "120%", "140%", "160%", "180%"]]
             }
         },
         "materials": {
@@ -3160,7 +3284,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Forest Sanctuary",
-                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b class=\"text-refinement\">60/75/90/105/120</b> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b class=\"text-refinement\">60</b> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+                "scaling": [["60", "75", "90", "105", "120"]]
             }
         },
         "materials": {
@@ -3183,7 +3308,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Stillwood Moonshadow",
-                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field"
+                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b class=\"text-refinement\">16%</b> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"]]
             }
         },
         "materials": {
@@ -3206,7 +3332,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Forest Sanctuary",
-                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b class=\"text-refinement\">60/75/90/105/120</b> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+                "description": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <b class=\"text-refinement\">60</b> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
+                "scaling": [["60", "75", "90", "105", "120"]]
             }
         },
         "materials": {
@@ -3229,7 +3356,8 @@
             "subStat": "Energy Recharge",
             "passive": {
                 "name": "Full Circle",
-                "description": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining <b class=\"text-refinement\">24/27/30/33/36</b> Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+                "description": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining <b class=\"text-refinement\">24</b> Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field.",
+                "scaling": [["24", "27", "30", "33", "36"]]
             }
         },
         "materials": {
@@ -3252,7 +3380,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Sunken Song of the Sands",
-                "description": "HP increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b>. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by <b class=\"text-refinement\">0.12%/0.15%/0.18%/0.21%/0.24%</b> of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by <b class=\"text-refinement\">0.2%/0.25%/0.3%/0.35%/0.4%</b> of the equipping character's max HP for 20s."
+                "description": "HP increased by <b class=\"text-refinement\">20%</b>. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by <b class=\"text-refinement\">0.12%</b> of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by <b class=\"text-refinement\">0.2%</b> of the equipping character's max HP for 20s.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["0.12%", "0.15%", "0.18%", "0.21%", "0.24%"], ["0.2%", "0.25%", "0.3%", "0.35%", "0.4%"]]
             }
         },
         "materials": {
@@ -3275,7 +3404,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Heat Haze at Horizon's End",
-                "description": "The equipping character gains <b class=\"text-refinement\">52%/65%/78%/91%/104%</b> of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain <b class=\"text-refinement\">28%/35%/42%/49%/56%</b> of their Elemental Mastery as bonus ATK. Max 3 stacks."
+                "description": "The equipping character gains <b class=\"text-refinement\">52%</b> of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain <b class=\"text-refinement\">28%</b> of their Elemental Mastery as bonus ATK. Max 3 stacks.",
+                "scaling": [["52%", "65%", "78%", "91%", "104%"], ["28%", "35%", "42%", "49%", "56%"]]
             }
         },
         "materials": {
@@ -3298,7 +3428,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Jinni's Whisper",
-                "description": "The following effect will trigger every 10s: The equipping character will gain <b class=\"text-refinement\">0.036%/0.045%/0.054%/0.063%/0.072%</b> Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+                "description": "The following effect will trigger every 10s: The equipping character will gain <b class=\"text-refinement\">0.036%</b> Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field.",
+                "scaling": [["0.036%", "0.045%", "0.054%", "0.063%", "0.072%"]]
             }
         },
         "materials": {
@@ -3321,7 +3452,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Desert Pavilion",
-                "description": "The following effect will trigger every 10s: The equipping character will gain <b class=\"text-refinement\">24%/30%/36%/42%/48%</b> of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+                "description": "The following effect will trigger every 10s: The equipping character will gain <b class=\"text-refinement\">24%</b> of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -3344,7 +3476,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Wildling Nightstar",
-                "description": "The following effect will trigger every 10s: The equipping character will gain <b class=\"text-refinement\">24%/30%/36%/42%/48%</b> of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+                "description": "The following effect will trigger every 10s: The equipping character will gain <b class=\"text-refinement\">24%</b> of their Elemental Mastery as bonus ATK for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
         "materials": {
@@ -3352,8 +3485,7 @@
             "eliteMat": "Fungal Nucleus",
             "commonMat": "Fungi"
         },
-        "description": "This was originally a device used by researchers to observe and perform calculations on celestial phenomena. It serves as a conduit and catalyst."
-        ,
+        "description": "This was originally a device used by researchers to observe and perform calculations on celestial phenomena. It serves as a conduit and catalyst.",
         "release": {
             "version": "3.1"
         }
@@ -3368,7 +3500,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "The Wind Unattained",
-                "description": "Within 10s after an Elemental Reaction is triggered, ATK is increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> and Elemental Mastery is increased by <b class=\"text-refinement\">48/60/72/84/96</b>."
+                "description": "Within 10s after an Elemental Reaction is triggered, ATK is increased by <b class=\"text-refinement\">12%</b> and Elemental Mastery is increased by <b class=\"text-refinement\">48</b>.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["48", "60", "72", "84", "96"]]
             }
         },
         "materials": {
@@ -3391,7 +3524,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "A Thousand Nights' Dawnsong",
-                "description": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <b class=\"text-refinement\">32/40/48/56/64</b>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <b class=\"text-refinement\">10%/14%/18%/22%/26%</b>. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <b class=\"text-refinement\">40/42/44/46/48</b>. Multiple such effects from multiple such weapons can stack."
+                "description": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <b class=\"text-refinement\">32</b>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <b class=\"text-refinement\">10%</b>. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <b class=\"text-refinement\">40</b>. Multiple such effects from multiple such weapons can stack.",
+                "scaling": [["32", "40", "48", "56", "64"], ["10%", "14%", "18%", "22%", "26%"], ["40", "42", "44", "46", "48"]]
             }
         },
         "materials": {
@@ -3414,7 +3548,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Bygone Azure Teardrop",
-                "description": "Normal Attack SPD is increased by <b class=\"text-refinement\">10%/12.5%/15%/17.5%/20%</b>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <b class=\"text-refinement\">4.8%/6%/7.2%/8.4%/9.6%</b> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <b class=\"text-refinement\">9.6%/12%/14.4%/16.8%/19.2%</b>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <b class=\"text-refinement\">48%/60%/72%/84%/96%</b>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs."
+                "description": "Normal Attack SPD is increased by <b class=\"text-refinement\">10%</b>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <b class=\"text-refinement\">4.8%</b> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <b class=\"text-refinement\">9.6%</b>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <b class=\"text-refinement\">48%</b>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
+                "scaling": [["10%", "12.5%", "15%", "17.5%", "20%"], ["4.8%", "6%", "7.2%", "8.4%", "9.6%"], ["9.6%", "12%", "14.4%", "16.8%", "19.2%"], ["48%", "60%", "72%", "84%", "96%"]]
             }
         },
         "materials": {
@@ -3437,7 +3572,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Kaidan: Rainfall Earthbinder",
-                "description": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is taken out during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <b class=\"text-refinement\">16%/20%/24%/28%/32%</b> more DMG to the opponent affected by Cursed Parasol."
+                "description": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is taken out during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <b class=\"text-refinement\">16%</b> more DMG to the opponent affected by Cursed Parasol.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"]]
             }
         },
         "materials": {
@@ -3460,7 +3596,8 @@
             "subStat": "CRIT DMG",
             "passive": {
                 "name": "Whitemoon Bristle",
-                "description": "CRIT Rate is increased by <b class=\"text-refinement\">4%/5%/6%/7%/8%</b>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <b class=\"text-refinement\">120%/150%/180%/210%/240%</b> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s."
+                "description": "CRIT Rate is increased by <b class=\"text-refinement\">4%</b>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <b class=\"text-refinement\">120%</b> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
+                "scaling": [["4%", "5%", "6%", "7%", "8%"], ["120%", "150%", "180%", "210%", "240%"]]
             }
         },
         "materials": {
@@ -3483,7 +3620,8 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Desert Watch",
-                "description": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 8s. After the character takes DMG, their ATK will be increased by <b class=\"text-refinement\">20%/25%/30%/35%/40%</b> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <b class=\"text-refinement\">32%/40%/48%/56%/64%</b>."
+                "description": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <b class=\"text-refinement\">20%</b> for 8s. After the character takes DMG, their ATK will be increased by <b class=\"text-refinement\">20%</b> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <b class=\"text-refinement\">32%</b>.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["20%", "25%", "30%", "35%", "40%"], ["32%", "40%", "48%", "56%", "64%"]]
             }
         },
         "materials": {
@@ -3506,7 +3644,8 @@
             "subStat": "Elemental Mastery",
             "passive": {
                 "name": "Whispers of Wind and Flower",
-                "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <b class=\"text-refinement\">12%/15%/18%/21%/24%</b> and <b class=\"text-refinement\">48/60/72/84/96</b> respectively."
+                "description": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <b class=\"text-refinement\">12%</b> and <b class=\"text-refinement\">48</b> respectively.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["48", "60", "72", "84", "96"]]
             }
         },
         "materials": {
@@ -3529,7 +3668,8 @@
             "subStat": "HP",
             "passive": {
                 "name": "Primordial Jade Regalia",
-                "description": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore <b class=\"text-refinement\">4.5/5/5.5/6/6.5</b> Energy every 2.5s, and gain <b class=\"text-refinement\">0.3%/0.5%/0.7%/0.9%/1.1%</b> Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to <b class=\"text-refinement\">12%/20%/28%/36%/44%</b>. Primordial Jade Regalia will still take effect even if the equipping character is not on the field."
+                "description": "For 3s after using an Elemental Burst or creating a shield, the equipping character can gain the Primordial Jade Regalia effect: Restore <b class=\"text-refinement\">4.5</b> Energy every 2.5s, and gain <b class=\"text-refinement\">0.3%</b> Elemental DMG Bonus for their corresponding Elemental Type for every 1,000 Max HP they possess, up to <b class=\"text-refinement\">12%</b>. Primordial Jade Regalia will still take effect even if the equipping character is not on the field.",
+                "scaling": [["4.5", "5", "5.5", "6", "6.5"], ["0.3%", "0.5%", "0.7%", "0.9%", "1.1%"], ["12%", "20%", "28%", "36%", "44%"]]
             }
         },
         "materials": {
@@ -3552,7 +3692,8 @@
             "subStat": "ATK",
             "passive": {
                 "name": "Secret Wisdom's Favor",
-                "description": "The character's Elemental Mastery will increase by <b class=\"text-refinement\">40/50/60/70/80</b> within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s."
+                "description": "The character's Elemental Mastery will increase by <b class=\"text-refinement\">40/50/60/70/80</b> within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
+                "scaling": [["40", "50", "60", "70", "80"]]
             }
         },
         "materials": {
@@ -3563,6 +3704,294 @@
         "description": "A golden bow forged from the description in the story. If you use it as a normal weapon, you can also view it as a part of a fictional world that has made it off the pages.",
         "release": {
             "version": "3.7"
+        }
+    },
+    {
+        "id": 155,
+        "name": "The First Great Magic",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-46",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Parsifal the Great",
+                "description": "DMG dealt by Charged Attacks increased by <b class=\"text-refinement\">16%</b>. For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 Gimmick stack. For every party member with a different Elemental Type from the wielder, gain 1 Theatrics stack. When the wielder has 1/2/3 or more Gimmick stacks, ATK will be increased by <b class=\"text-refinement\">16%/32%/48%</b>. When the wielder has 1/2/3 or more Theatrics stacks, Movement SPD will be increased by <b class=\"text-refinement\">4%/7%/10%</b>.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["16%/32%/48%", "20%/40%/60%", "24%/48%/72%", "28%/56%/84%", "32%/64%/96%"], ["4%/7%/10%", "6%/9%/12%", "8%/11%/14%", "10%/13%/16%", "12%/15%/18%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Chord",
+            "eliteMat": "Tainted Water",
+            "commonMat": "Aberrant"
+        },
+        "description": "A stage prop once used by a past \"Great Magician.\" Its final secret was that it was also a weapon beyond the pale.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 156,
+        "name": "Scion of the Blazing Sun",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "The Way of Sunfire",
+                "description": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing <b class=\"text-refinement\">60%</b> ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take <b class=\"text-refinement\">28%</b> more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
+                "scaling": [["60%", "75%", "90%", "105%", "120%"], ["28%", "35%", "42%", "49%", "56%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Scorching Might",
+            "eliteMat": "Flower",
+            "commonMat": "Fungi"
+        },
+        "description": "An ancient longbow that is a remnant of King Deshret's ancient era. An indecipherable ancient text and solemn patterns have been carved into it.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 157,
+        "name": "Song of Stillness",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Benthic Pulse",
+                "description": "After the wielder is healed, they will deal <b class=\"text-refinement\">16%</b> more DMG for 8s. This can be triggered even when the character is not on the field.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Chord",
+            "eliteMat": "Tainted Water",
+            "commonMat": "Arrow"
+        },
+        "description": "",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 158,
+        "name": "Finale of the Deep",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK",
+            "passive": {
+                "name": "An End Sublime",
+                "description": "When using an Elemental Skill, ATK will be increased by <b class=\"text-refinement\">12%</b> for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of <b class=\"text-refinement\">150</b> ATK will be gained based on <b class=\"text-refinement\">2.4%</b> of the Bond when cleared for 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["150", "187.5", "225", "262.5", "300"], ["2.4%", "3%", "3.6%", "4.2%", "4.8%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Dewdrop",
+            "eliteMat": "Tainted Water",
+            "commonMat": "Handguard"
+        },
+        "description": "This longsword is as silent as the mysterious ocean depths. It is even more ancient than its stylings might imply.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 159,
+        "name": "Fleuve Cendre Ferryman",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Ironbone",
+                "description": "Increases Elemental Skill CRIT Rate by <b class=\"text-refinement\">8%</b>. Additionally, increases Energy Recharge by <b class=\"text-refinement\">16%</b> for 5s after using an Elemental Skill.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"], ["16%", "20%", "24%", "28%", "32%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Chord",
+            "eliteMat": "Tainted Water",
+            "commonMat": "Aberrant"
+        },
+        "description": "A handy length of abandoned copper pipe that was once used as a weapon. It was famous — or infamous, depending — in some circles.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 160,
+        "name": "Wolf-Fang",
+        "rarity": 4,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Northwind Wolf",
+                "description": "DMG dealt by Elemental Skill and Elemental Burst is increased by <b class=\"text-refinement\">16%</b>. When an Elemental Skill hits an opponent, its CRIT Rate will be increased by <b class=\"text-refinement\">2%</b>. When an Elemental Burst hits an opponent, its CRIT Rate will be increased by <b class=\"text-refinement\">2%</b>. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["2%", "2.5%", "3%", "3.5%", "4%"], ["2%", "2.5%", "3%", "3.5%", "4%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Decarabian",
+            "eliteMat": "Chaos Part",
+            "commonMat": "Mask"
+        },
+        "description": "Legend has it that this longsword was once used by a wandering knight in the distant past.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 161,
+        "name": "Ballad of the Fjords",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Tales of the Tundra",
+                "description": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by <b class=\"text-refinement\">120</b>.",
+                "scaling": [["120", "150", "180", "210", "240"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Pristine Sea",
+            "eliteMat": "Flower",
+            "commonMat": "Nectar"
+        },
+        "description": "A polearm used by those seeking to catch fish in the tundra. It lets none escape.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 162,
+        "name": "Rightful Reward",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "HP",
+            "passive": {
+                "name": "Tip of the Spear",
+                "description": "When the wielder is healed, restore <b class=\"text-refinement\">8</b> Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
+                "scaling": [["8", "10", "12", "14", "16"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Pristine Sea",
+            "eliteMat": "Rift Core",
+            "commonMat": "Gear"
+        },
+        "description": "A sharp spear. Only its tip remains freshly bloodstained.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 163,
+        "name": "Talking Stick",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "\"The Silver Tongue\"",
+                "description": "ATK will be increased by <b class=\"text-refinement\">16%</b> for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by <b class=\"text-refinement\">12%</b> for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["12%", "15%", "18%", "21%", "24%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Oasis Garden",
+            "eliteMat": "Shell",
+            "commonMat": "Slime"
+        },
+        "description": "Most people will find this obsidian-inlaid club quite convincing indeed.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 164,
+        "name": "Tidal Shadow",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "ATK",
+            "passive": {
+                "name": "White Cruising Wave",
+                "description": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field.",
+                "scaling": [["24%", "30%", "36%", "42%", "48%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Pristine Sea",
+            "eliteMat": "Rift Core",
+            "commonMat": "Gear"
+        },
+        "description": "An exquisitely-crafted, standard-model sword forged for the high-ranking officers and flagship captains of Fontaine's old navy.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 165,
+        "name": "Flowing Purity",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Unfinished Masterpiece",
+                "description": "When using an Elemental Skill, All Elemental DMG Bonus will be increased by <b class=\"text-refinement\">8%</b> for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide <b class=\"text-refinement\">2%</b> All Elemental DMG Bonus. Up to a maximum of <b class=\"text-refinement\">12%</b> All Elemental DMG can be gained this way. This effect lasts 15s. Bond of Life: Absorbs healing for the character based on its base value, and clears after healing equal to this value is obtained.",
+                "scaling": [["8%", "10%", "12%", "14%", "16%"], ["2%", "2.5%", "3%", "3.5%", "4%"], ["12%", "15%", "18%", "21%", "24%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Dewdrop",
+            "eliteMat": "Rift Core",
+            "commonMat": "Aberrant"
+        },
+        "description": "A strangely-shaped anthology of scripts. All the scripts written by Coppelius are recorded within.",
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "id": 166,
+        "name": "Sacrificial Jade",
+        "rarity": 4,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-41",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Jade Circulation",
+                "description": "When not on the field for more than 5s, Max HP will be increased by 32% and Elemental Mastery will be increased by 40. These effects will be canceled after the wielder has been on the field for 10s.",
+                "scaling": [["32%", "40%", "48%", "56%", "64%"], ["40", "50", "60", "70", "80"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Guyun",
+            "eliteMat": "Mist Grass",
+            "commonMat": "Scroll"
+        },
+        "description": "An ancient jade pendant that gleams like clear water. It seems to have been used in ancient ceremonies.",
+        "release": {
+            "version": "4.0"
         }
     }
 ]

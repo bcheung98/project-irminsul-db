@@ -1754,6 +1754,105 @@
                 "release": {
                     "version": "3.8"
                 }
+            },
+            {
+                "name": "Albedo",
+                "fullname": "",
+                "element": "Geo",
+                "weapon": "Sword",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Favonius Bladework - Weiss",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Abiogenesis: Solar Isotoma",
+                        "cost": "3G",
+                        "description": "Summons Solar Isotoma<br /><br /><b>Solar Isotoma</b>.<br />End Phase: Deal 1 <b class=\"text-geo\">Geo DMG</b>.<br /><u>Usage(s)</u>: 3<br />When this Summon is on the field: Your character's <b>Plunging Attack</b> spends 1 less <b>Unaligned Element</b>. (Once per Round)"
+                    },
+                    "burst": {
+                        "name": "Rite of Progeniture: Tectonic Tide",
+                        "cost": "3G 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <b class=\"text-geo\">Geo DMG</b>. If <b>Solar Isotoma</b> is on the field, deals +2 DMG."
+                    }
+                },
+                "splash": {
+                    "title": "\"Kreideprinz\" Albedo",
+                    "description": "Nigredo and calx, rubedo and citrinitas."
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Lisa",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Catalyst",
+                "nation": "Mondstadt",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Lightning Touch",
+                        "cost": "1E 2U",
+                        "description": "Deals 1 <b class=\"text-electro\">Electro DMG</b>.<br />If this Skill is a <b>Charged Attack</b>: Attach <b>Conductive</b> to the opponent's active character."
+                    },
+                    "skill": {
+                        "name": "Violet Arc",
+                        "cost": "3E",
+                        "description": "Deals 2 <b class=\"text-electro\">Electro DMG</b>. If <b>Conductive</b> is not attached to the opponent's active character, <b>Conductive</b> will be attached.<br /><br /><b>Conductive</b><br />This status starts with 2 stacks of Conductive. When attached repeatedly, Conductive stack +1. Conductive can be stacked to a maximum of 4 stacks.<br />End Phase: Accumulate 1 stack of Conductive.<br /><br />When the character attached with Conductive takes DMG from <b>Violet Arc</b>: Remove this status and DMG +1 for each stack of Conductive."
+                    },
+                    "burst": {
+                        "name": "Lightning Rose",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-electro\">Electro DMG</b>, summons Lightning Rose.<br /><br /><b>Lightning Rose</b><br />End Phase: Deal 2 <b class=\"text-electro\">Electro DMG</b>.<br /><u>Usage(s)</u>: 2"
+                    }
+                },
+                "splash": {
+                    "title": "\"Witch of Purple Rose\" Lisa",
+                    "description": "Pursuing the arcane mysteries of magic, and waiting quietly for an encounter with truth."
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Qiqi",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Sword",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Ancient Sword Art",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Adeptus Art: Herald of Frost",
+                        "cost": "3E",
+                        "description": "Summons Herald of Frost.<br /><br /><b>Herald of Frost</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 3<br />When this Summon is on the field, after Qiqi uses <b>Normal Attack</b>: Heals your character that took the most DMG for 1 HP."
+                    },
+                    "burst": {
+                        "name": "Adeptus Art: Preserver of Fortune",
+                        "cost": "3C 3N",
+                        "energy": 3,
+                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 Fortune-Preserving Talisman.<br /><br /><b>Fortune-Preserving Talisman</b><br />After your character uses a Skill: If that character does not have full HP, heal that character for 2 HP.<br /><u>Usage(s)</u>: 3"
+                    }
+                },
+                "splash": {
+                    "title": "\"Icy Resurrection\" Qiqi",
+                    "description": "Circulating endlessly, life goes on."
+                },
+                "release": {
+                    "version": "4.0"
+                }
             }
         ]
     },
@@ -4496,6 +4595,122 @@
                 },
                 "release": {
                     "version": "3.8"
+                }
+            },
+            {
+                "name": "Descent of Divinity",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Albedo",
+                "cost": "3G",
+                "description": "<b>Combat Action</b>: When your active character is <b>Albedo</b>, equip this card.<br />After Albedo equips this card, immediately use <b class=\"text-highlight\">Abiogenesis: Solar Isotoma</b>.<br />When there is an Albedo on the field who has this card equipped, if your side of the field has <b>Solar Isotoma</b>, then your characters' <b>Plunging Attack</b> deals +1 DMG.<br />(You must have Albedo in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Albedo: Descent of Divinity",
+                    "description": "\"The process of confirming the strategy for a duel also requires meticulous calculations...\""
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Pulsating Witch",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Lisa",
+                "cost": "1E",
+                "description": "After you switch to <b>Lisa</b>, who has this card equipped: Attach <b>Conductive</b> to the opposing active character. (Once per Round)<br />(You must have Lisa in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Lisa: Pulsating Witch",
+                    "description": "As a Librarian who has read through tens of thousands of volumes, of course it's trivial for me to remember how to win..."
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Rite of Resurrection",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Qiqi",
+                "cost": "5C 3N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Qiqi</b>, equip this card.<br />After Qiqi equips this card, immediately use <b class=\"text-highlight\">Adeptus Art: Preserver of Fortune</b> once.<br />After your Qiqi, who has this card equipped, uses <b>Adeptus Art: Preserver of Fortune</b>, she revives all your fallen characters and heals them for 2 HP. (Can happen 2 times per match).<br />(You must have Qiqi in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Qiqi: Rite of Resurrection",
+                    "description": "\"I must... live on...\""
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "King's Squire",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>When played</b>: The character to which this is attached will spend 2 less Elemental Dice next time they use an Elemental Skill or equip a Talent card.<br />(<b>Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Teachings of the Forest: King's Squire",
+                    "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow.<br />\"Remember, this whole world is but a dream of the forest... Please pass on the forest's language and the responsibility of protecting the King's land to future successors.\""
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Golden House",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "",
+                "description": "<b>When you play a Weapon card or an Artifact card with an original cost of at least 3</b>: Spend 1 less Elemental Die. (Once per Round)",
+                "splash": {
+                    "title": "Golden House",
+                    "description": "All the contracts that circulate throughout the land are forged here."
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Setaria",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "1M",
+                "description": "<b>After you perform any action, if you have 0 cards in your hand</b>: Draw 1 card.",
+                "splash": {
+                    "title": "Crossing the Wall: Setaria",
+                    "description": "A genius from the desert, deep within the rainforest's temple..."
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Joyous Celebration",
+                "type": "Event",
+                "subType": "Arcane Legend",
+                "cost": "1M",
+                "description": "<b>Your active character must be one of the following elemental types to play this card</b>: <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-dendro\">Dendro</b>.<br />The element corresponding to your active character's Elemental Type will be applied to all your characters.<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+                "splash": {
+                    "title": "Joyous Celebration",
+                    "description": "\"Celebration should be shared with everyone.\""
+                },
+                "release": {
+                    "version": "4.0"
+                }
+            },
+            {
+                "name": "Where Is the Unseen Razor",
+                "displayName": "Where Is the Unseen Razor?",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "Return a Weapon card equipped by your character to your Hand.<br /><b>During this Round, the next time you play a Weapon card</b>: Spend 2 less Elemental Dice.",
+                "splash": {
+                    "title": "Where Is the Unseen Razor?",
+                    "description": "The origins of this Branch Master of the Adventurers' Guild are shrouded in mystery, yet she keeps looking for clues about the sword, constantly challenging powerful enemies along the way..."
+                },
+                "release": {
+                    "version": "4.0"
                 }
             }
         ]

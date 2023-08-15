@@ -599,13 +599,27 @@
         },
         "phase2": {
             "startDate": "July 25, 2023",
-            "endDate": "August 14, 2023",
+            "endDate": "August 15, 2023",
             "banner": [
                 "Kokomi",
                 "Wanderer",
                 "Faruzan",
                 "Rosaria",
                 "Yanfei"
+            ]
+        }
+    },
+    {
+        "version": "4.0",
+        "phase1": {
+            "startDate": "August 16, 2023",
+            "endDate": "July 25, 2023",
+            "banner": [
+                "Lyney",
+                "Yelan",
+                "Barbara",
+                "Bennett",
+                "Lynette"
             ]
         }
     }

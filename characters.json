@@ -648,7 +648,7 @@
         "talents": {
             "attack": {
                 "name": "Bolts of Downfall",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 5 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise Aimed Shot with increased DMG.<br />While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense <b class=\"text-electro\">Electro DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 5 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise Aimed Shot with increased DMG.<br />While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense <b class=\"text-electro\">Electro DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
                 "scaling": [
                     ["1-Hit DMG", "44.12%", "47.71%", "51.3%", "56.43%", "60.02%", "64.13%", "69.77%", "75.41%", "81.05%", "87.21%", "93.37%", "99.52%", "105.68%", "111.83%", "117.99%"], ["2-Hit DMG", "46.78%", "50.59%", "54.4%", "59.84%", "63.65%", "68%", "73.98%", "79.97%", "85.95%", "92.48%", "99.01%", "105.54%", "112.06%", "118.59%", "125.12%"], ["3-Hit DMG", "58.14%", "62.87%", "67.6%", "74.36%", "79.09%", "84.5%", "91.94%", "99.37%", "106.81%", "114.92%", "123.03%", "131.14%", "139.26%", "147.37%", "155.48%"], ["4-Hit DMG", "57.71%", "62.4%", "67.1%", "73.81%", "78.51%", "83.88%", "91.26%", "98.64%", "106.02%", "114.07%", "122.12%", "130.17%", "138.23%", "146.28%", "154.33%"], ["5-Hit DMG", "72.07%", "77.93%", "83.8%", "92.18%", "98.05%", "104.75%", "113.97%", "123.19%", "132.4%", "142.46%", "152.52%", "162.57%", "172.63%", "182.68%", "192.74%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Fully-Charged Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
                 ]
@@ -2048,7 +2048,7 @@
         "talents": {
             "attack": {
                 "name": "Divine Marksmanship",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
                 "scaling": [
                     ["1-Hit DMG", "20.38% + 20.38%", "22.04% + 22.04%", "23.7% + 23.7%", "26.07% + 26.07%", "27.73% + 27.73%", "29.63% + 29.63%", "32.23% + 32.23%", "34.84% + 34.84%", "37.45% + 37.45%", "40.29% + 40.29%", "43.55% + 43.55%", "47.38% + 47.38%", "51.21% + 51.21%", "55.05% + 55.05%", "59.23% + 59.23%"], ["2-Hit DMG", "44.38%", "47.99%", "51.6%", "56.76%", "60.37%", "64.5%", "70.18%", "75.85%", "81.53%", "87.72%", "94.82%", "103.16%", "111.5%", "119.85%", "128.95%"], ["3-Hit DMG", "52.37%", "56.64%", "60.9%", "66.99%", "71.25%", "76.13%", "82.82%", "89.52%", "96.22%", "103.53%", "111.9%", "121.75%", "131.6%", "141.45%", "152.19%"], ["4-Hit DMG", "26.06% + 26.06%", "28.18% + 28.18%", "30.3% + 30.3%", "33.33% + 33.33%", "35.45% + 35.45%", "37.88% + 37.88%", "41.21% + 41.21%", "44.54% + 44.54%", "47.87% + 47.87%", "51.51% + 51.51%", "55.68% + 55.68%", "60.58% + 60.58%", "65.48% + 65.48%", "70.37% + 70.37%", "75.72% + 75.72%"], ["5-Hit DMG", "50.65%", "54.78%", "58.9%", "64.79%", "68.91%", "73.63%", "80.1%", "86.58%", "93.06%", "100.13%", "108.23%", "117.75%", "127.28%", "136.8%", "147.19%"], ["6-Hit DMG", "70.95%", "76.73%", "82.5%", "90.75%", "96.53%", "103.13%", "112.2%", "121.28%", "130.35%", "140.25%", "151.59%", "164.93%", "178.27%", "191.61%", "206.17%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "93.71%", "101.96%", "110.21%", "118.45%", "127.45%"], ["Fully-Charged Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "236.1%", "252.96%", "269.82%", "286.69%", "303.55%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
                 ]
@@ -2261,7 +2261,7 @@
         "talents": {
             "attack": {
                 "name": "Kätzlein Style",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 5 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <b class=\"text-cryo\">Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 5 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <b class=\"text-cryo\">Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.",
                 "scaling": [
                     ["1-Hit DMG", "36.12%", "39.06%", "42%", "46.2%", "49.14%", "52.5%", "57.12%", "61.74%", "66.36%", "71.4%", "77.18%", "83.97%", "90.76%", "97.55%", "104.96%"], ["2-Hit DMG", "33.54%", "36.27%", "39%", "42.9%", "45.63%", "48.75%", "53.04%", "57.33%", "61.62%", "66.3%", "71.66%", "77.97%", "84.28%", "90.58%", "97.46%"], ["3-Hit DMG", "45.58%", "49.29%", "53%", "58.3%", "62.01%", "66.25%", "72.08%", "77.91%", "83.74%", "90.1%", "97.39%", "105.96%", "114.53%", "123.1%", "132.45%"], ["4-Hit DMG", "43%", "46.5%", "50%", "55%", "58.5%", "62.5%", "68%", "73.5%", "79%", "85%", "91.88%", "99.96%", "108.05%", "116.13%", "124.95%"], ["5-Hit DMG", "53.75%", "58.13%", "62.5%", "68.75%", "73.13%", "78.13%", "85%", "91.88%", "98.75%", "106.25%", "114.84%", "124.95%", "135.06%", "145.16%", "156.19%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "93.71%", "101.96%", "110.21%", "118.45%", "127.45%"], ["Fully-Charged Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "236.1%", "252.96%", "269.82%", "286.69%", "303.55%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
                 ]
@@ -2365,7 +2365,7 @@
         "talents": {
             "attack": {
                 "name": "Cutting Torrent",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal <b class=\"text-hydro\">Hydro DMG</b> and apply the Riptide status.<br /><br /><b class=\"text-highlight\">Riptide</b><br /> Opponents affected by Riptide will suffer from <b class=\"text-hydro\">AoE Hydro DMG</b> effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.<li>Riptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.</li><li>Riptide Burst: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.</li><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.<br />When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal <b class=\"text-hydro\">Hydro DMG</b> and apply the Riptide status.<br /><br /><b class=\"text-highlight\">Riptide</b><br /> Opponents affected by Riptide will suffer from <b class=\"text-hydro\">AoE Hydro DMG</b> effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.<li>Riptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.</li><li>Riptide Burst: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.</li><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.<br />When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.",
                 "scaling": [
                     ["1-Hit DMG", "41.28%", "44.64%", "48%", "52.8%", "56.16%", "60%", "65.28%", "70.56%", "75.84%", "81.6%", "87.36%", "93.12%", "98.88%", "104.64%", "110.4%"], ["2-Hit DMG", "46.27%", "50.03%", "53.8%", "59.18%", "62.95%", "67.25%", "73.17%", "79.09%", "85%", "91.46%", "97.92%", "104.37%", "110.83%", "117.28%", "123.74%"], ["3-Hit DMG", "55.38%", "59.89%", "64.4%", "70.84%", "75.35%", "80.5%", "87.58%", "94.67%", "101.75%", "109.48%", "117.21%", "124.94%", "132.66%", "140.39%", "148.12%"], ["4-Hit DMG", "57.02%", "61.66%", "66.3%", "72.93%", "77.57%", "82.88%", "90.17%", "97.46%", "104.75%", "112.71%", "120.67%", "128.62%", "136.58%", "144.53%", "152.49%"], ["5-Hit DMG", "60.89%", "65.84%", "70.8%", "77.88%", "82.84%", "88.5%", "96.29%", "104.08%", "111.86%", "120.36%", "128.86%", "137.35%", "145.85%", "154.34%", "162.84%"], ["6-Hit DMG", "72.76%", "78.68%", "84.6%", "93.06%", "98.98%", "105.75%", "115.06%", "124.36%", "133.67%", "143.82%", "153.97%", "164.12%", "174.28%", "184.43%", "194.58%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Fully-Charged Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Riptide Flash DMG", "12.4% ×3", "13.33% ×3", "14.26% ×3", "15.5% ×3", "16.43% ×3", "17.36% ×3", "18.6% ×3", "19.84% ×3", "21.08% ×3", "22.32% ×3", "23.56% ×3", "24.8% ×3", "26.35% ×3", "27.9% ×3", "29.45% ×3"], ["Riptide Burst DMG", "62%", "66.65%", "71.3%", "77.5%", "82.15%", "86.8%", "93%", "99.2%", "105.4%", "111.6%", "117.8%", "124%", "131.75%", "139.5%", "147.25%"], ["Riptide Duration", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
                 ]
@@ -2781,7 +2781,7 @@
         "talents": {
             "attack": {
                 "name": "Liutian Archery",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:<li>Charge Level 1: Fires off an icy arrow that deals <b class=\"text-cryo\">Cryo DMG</b>.</li><li>Charge Level 2: Fires off a Frostflake Arrow that deals <b class=\"text-cryo\">Cryo DMG</b>. The Frostflake Arrow blooms after hitting its target, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>.</li><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 6 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:<li>Charge Level 1: Fires off an icy arrow that deals <b class=\"text-cryo\">Cryo DMG</b>.</li><li>Charge Level 2: Fires off a Frostflake Arrow that deals <b class=\"text-cryo\">Cryo DMG</b>. The Frostflake Arrow blooms after hitting its target, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>.</li><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
                 "scaling": [
                     ["1-Hit DMG", "31.73%", "34.32%", "36.9%", "40.59%", "43.17%", "46.13%", "50.18%", "54.24%", "58.3%", "62.73%", "67.8%", "73.77%", "79.74%", "85.7%", "92.21%"], ["2-Hit DMG", "35.6%", "38.5%", "41.4%", "45.54%", "48.44%", "51.75%", "56.3%", "60.86%", "65.41%", "70.38%", "76.07%", "82.77%", "89.46%", "96.16%", "103.46%"], ["3-Hit DMG", "45.49%", "49.2%", "52.9%", "58.19%", "61.89%", "66.13%", "71.94%", "77.76%", "83.58%", "89.93%", "97.2%", "105.76%", "114.31%", "122.87%", "132.2%"], ["4-Hit DMG", "45.49%", "49.2%", "52.9%", "58.19%", "61.89%", "66.13%", "71.94%", "77.76%", "83.58%", "89.93%", "97.2%", "105.76%", "114.31%", "122.87%", "132.2%"], ["5-Hit DMG", "48.25%", "52.17%", "56.1%", "61.71%", "65.64%", "70.13%", "76.3%", "82.47%", "88.64%", "95.37%", "103.08%", "112.16%", "121.23%", "130.3%", "140.19%"], ["6-Hit DMG", "57.62%", "62.31%", "67%", "73.7%", "78.39%", "83.75%", "91.12%", "98.49%", "105.86%", "113.9%", "123.11%", "133.95%", "144.78%", "155.61%", "167.43%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Aimed Shot Charge Level 1", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Frostflake Arrow DMG", "128%", "137.6%", "147.2%", "160%", "169.6%", "179.2%", "192%", "204.8%", "217.6%", "230.4%", "243.2%", "256%", "272%", "288%", "304%"], ["Frostflake Arrow Bloom DMG", "217.6%", "233.92%", "250.24%", "272%", "288.32%", "304.64%", "326.4%", "348.16%", "369.92%", "391.68%", "413.44%", "435.2%", "462.4%", "489.6%", "516.8%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
                 ]
@@ -3842,7 +3842,7 @@
         "talents": {
             "attack": {
                 "name": "Rapid Fire",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <b class=\"text-cryo\">Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <b class=\"text-cryo\">Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.",
                 "scaling": [
                     ["1-Hit DMG", "21.12% + 23.76%", "22.56% + 25.38%", "24% + 27%", "25.92% + 29.16%", "27.36% + 30.78%", "29.04% + 32.67%", "31.2% + 35.1%", "33.36% + 37.53%", "35.52% + 39.96%", "37.68% + 42.39%", "39.84% + 44.82%", "42% + 47.25%", "44.16% + 49.68%", "46.32% + 52.11%", "48.48% + 54.54%"], ["2-Hit DMG", "43.12%", "46.06%", "49%", "52.92%", "55.86%", "59.29%", "63.7%", "68.11%", "72.52%", "76.93%", "81.34%", "85.75%", "90.16%", "94.57%", "98.98%"], ["3-Hit DMG", "52.8%", "56.4%", "60%", "64.8%", "68.4%", "72.6%", "78%", "83.4%", "88.8%", "94.2%", "99.6%", "105%", "110.4%", "115.8%", "121.2%"], ["4-Hit DMG", "65.65%", "70.12%", "74.6%", "80.57%", "85.04%", "90.27%", "96.98%", "103.69%", "110.41%", "117.12%", "123.84%", "130.55%", "137.26%", "143.98%", "150.69%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Fully-Charged Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
                 ]
@@ -5420,7 +5420,7 @@
         "talents": {
             "attack": {
                 "name": "Khanda Barrier-Buster",
-                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:<li>Charge Level 1: Fires off an arrow carrying the power of flora that deals <b class=\"text-dendro\">Dendro DMG</b>.</li><li>Charge Level 2: Fires off a Wreath Arrow that deals <b class=\"text-dendro\">Dendro DMG</b>. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal <b class=\"text-dendro\">Dendro DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br /> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:<li>Charge Level 1: Fires off an arrow carrying the power of flora that deals <b class=\"text-dendro\">Dendro DMG</b>.</li><>Charge Level 2: Fires off a Wreath Arrow that deals <b class=\"text-dendro\">Dendro DMG</b>. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal <b class=\"text-dendro\">Dendro DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
                 "scaling": [
                     ["1-Hit DMG", "44.63%", "48.27%", "51.9%", "57.09%", "60.72%", "64.88%", "70.58%", "76.29%", "82%", "88.23%", "94.46%", "100.69%", "106.91%", "113.14%", "119.37%"], ["2-Hit DMG", "41.97%", "45.38%", "48.8%", "53.68%", "57.1%", "61%", "66.37%", "71.74%", "77.1%", "82.96%", "88.82%", "94.67%", "100.53%", "106.38%", "112.24%"], ["3-Hit DMG", "26.45%×2", "28.6%×2", "30.75%×2", "33.83%×2", "35.98%×2", "38.44%×2", "41.82%×2", "45.2%×2", "48.59%×2", "52.28%×2", "55.97%×2", "59.65%×2", "63.34%×2", "67.04%×2", "70.72%×2"], ["4-Hit DMG", "68.63%", "74.21%", "79.8%", "87.78%", "93.37%", "99.75%", "108.53%", "117.31%", "126.08%", "135.66%", "145.24%", "154.81%", "164.39%", "173.96%", "183.54%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Level 1 Aimed Shot", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Wreath Arrow DMG", "87.2%", "93.74%", "100.28%", "109%", "115.54%", "122.08%", "130.8%", "139.52%", "148.24%", "156.96%", "165.68%", "174.4%", "185.3%", "196.2%", "207.1%"], ["Clusterbloom Arrow DMG", "38.6%", "41.5%", "44.39%", "48.25%", "51.14%", "54.04%", "57.9%", "61.76%", "65.62%", "69.48%", "73.34%", "77.2%", "82.02%", "86.85%", "91.68%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
                 ]
@@ -6170,7 +6170,7 @@
             },
             "burst": {
                 "name": "The Wind's Secret Ways",
-                "description": "Faruzan deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals <b class=\"text-anemo\">AoE Anemo DMG</b>.<br />While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse.<br /><br /><b class=\"text-highlight\">Whirlwind Pulse</b><li>When the Whirlwind Pulse is unleashed, it will apply Perfidious Wind's Bale to them, decreasing their <b class=\"text-anemo\">Anemo RES</b>.</li><li>The Whirlwind Pulse will also apply Prayerful Wind's Benefit to all nearby party members when it is unleashed, granting them <b class=\"text-anemo\">Anemo DMG Bonus</b>.</li>",
+                "description": "Faruzan deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals <b class=\"text-anemo\">AoE Anemo DMG</b>.<br />While the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse.<br /><br /><b class=\"text-highlight\">Whirlwind Pulse</b><li>When the Whirlwind Pulse is unleashed, it will apply Perfidious Wind's Bale to nearby opponents, decreasing their <b class=\"text-anemo\">Anemo RES</b>.</li><li>The Whirlwind Pulse will also apply Prayerful Wind's Benefit to all nearby party members when it is unleashed, granting them an <b class=\"text-anemo\">Anemo DMG Bonus</b>.</li>",
                 "scaling": [
                     ["Skill DMG", "377.6%", "405.92%", "434.24%", "472%", "500.32%", "528.64%", "566.4%", "604.16%", "641.92%", "679.68%", "717.44%", "755.2%", "802.4%", "849.6%", "896.8%"], ["Anemo DMG Bonus", "18%", "19.35%", "20.7%", "22.5%", "23.85%", "25.2%", "27%", "28.8%", "30.6%", "32.4%", "34.2%", "36%", "38.25%", "40.5%", "42.75%"], ["Prayerful Wind's Benefit Duration", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["Anemo RES Decrease", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%", "30%"], ["Perfidious Wind's Bale Duration", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"], ["Energy Cost", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80"]
                 ],
@@ -6871,8 +6871,8 @@
             }
         ],
         "voiceActors": {
-            "en": "Sean Durrie & Xanthe Huynh",
-            "jp": "Kōji Yusa (遊佐 浩二) & Yui Shoji (裕衣 庄子)"
+            "en": "Sean Durrie",
+            "jp": "Kōji Yusa (遊佐 浩二)"
         },
         "release": {
             "date": "May 2, 2023",
@@ -7087,6 +7087,321 @@
         "release": {
             "date": "May 24, 2023",
             "version": "3.7"
+        }
+    },
+    {
+        "id": 67,
+        "name": "Lyney",
+        "fullname": "",
+        "title": "Spectacle of Phantasmagoria",
+        "rarity": 5,
+        "element": "Pyro",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Card Force Translocation",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br /> Perform up to 4 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br /> Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, flames will run across the arrowhead before being fired. Different effects will occur based on the time spent charging.<li>Charge Level 1: Fires off a Pyro-infused arrow, dealing <b class=\"text-pyro\">Pyro DMG</b>.</li><li>Charge Level 2: Fires off a Prop Arrow that deals <b class=\"text-pyro\">Pyro DMG</b>, and upon hit, it will summon a Grin-Malkin Hat.</li>When firing the Prop Arrow, and when Lyney has more than 60% HP, he will consume a portion of his HP to obtain 1 Prop Surplus stack. Max 5 stacks. The effect will be removed after the character spends 30s out of combat.<br />The lowest Lyney can drop to through this method is 60% of his Max HP.<br /><br /><b class=\"text-highlight\">Grin Malkin Hat</b><li>Can taunt nearby opponents and attract their attacks. Each opponent can only be taunted by the Hat once every 5s.</li><li>The Hat will inherit a percentage of Lyney's Max HP.</li><li>If destroyed, or if its duration expires, it will fire off a <b class=\"text-highlight\">Pyrotechnic Strike</b> at 1 nearby opponent, dealing <b class=\"text-pyro\">Pyro DMG</b>.</li>Only 1 Hat can exist at any given time.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.<br /><br /><b class=\"text-highlight\">Arkhe: Pneuma</b><br />At certain intervals, the Prop Arrow will cause a Spiritbreath Thorn to descend upon its hit location, dealing Pneuma-aligned <b class=\"text-pyro\">Pyro DMG</b>.",
+                "scaling": [
+                    ["1-Hit DMG", "38.79%", "41.94%", "45.1%", "49.61%", "52.77%", "56.38%", "61.34%", "66.3%", "71.26%", "76.67%", "82.08%", "87.49%", "92.91%", "98.32%", "103.73%"], ["2-Hit DMG", "38.01%", "41.11%", "44.2%", "48.62%", "51.71%", "55.25%", "60.11%", "64.97%", "69.84%", "75.14%", "80.44%", "85.75%", "91.05%", "96.36%", "101.66%"], ["3-Hit DMG", "27.26% + 27.26%", "29.48% + 29.48%", "31.7% + 31.7%", "34.87% + 34.87%", "37.09% + 37.09%", "39.63% + 39.63%", "43.11% + 43.11%", "46.6% + 46.6%", "50.09% + 50.09%", "53.89% + 53.89%", "57.69% + 57.69%", "61.5% + 61.5%", "65.3% + 65.3%", "69.11% + 69.11%", "72.91% + 72.91%"], ["4-Hit DMG", "56.93%", "61.57%", "66.2%", "72.82%", "77.45%", "82.75%", "90.03%", "97.31%", "104.6%", "112.54%", "120.48%", "128.43%", "136.37%", "144.32%", "152.26%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Aimed Shot Charge Level 1", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Prop Arrow DMG", "172.8%", "185.76%", "198.72%", "216%", "228.96%", "241.92%", "259.2%", "276.48%", "293.76%", "311.04%", "328.32%", "345.6%", "367.2%", "388.8%", "410.4%"], ["HP Cost", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP", "20% Max HP"], ["Grin-Malkin Hat Inherited HP", "64%", "68.8%", "73.6%", "80%", "84.8%", "89.6%", "96%", "102.4%", "108.8%", "115.2%", "121.6%", "128%", "136%", "144%", "152%"], ["Grin-Malkin Hat Duration", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["Pyrotechnic Strike DMG", "212%", "227.9%", "243.8%", "265%", "280.9%", "296.8%", "318%", "339.2%", "360.4%", "381.6%", "402.8%", "424%", "450.5%", "477%", "503.5%"], ["Spiritbreath Thorn DMG", "27.55%", "29.62%", "31.68%", "34.44%", "36.51%", "38.57%", "41.33%", "44.08%", "46.84%", "49.59%", "52.35%", "55.1%", "58.55%", "61.99%", "65.44%"], ["Spiritbreath Thorn Interval", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"]
+                ]
+            },
+            "skill": {
+                "name": "Bewildering Lights",
+                "description": "Lyney does a flourish with his hat, unleashing a firework surprise!<br />When used, he will clear all current Prop Surplus stacks and deal <b class=\"text-pyro\">AoE Pyro DMG</b> to opponents in front of him. DMG will be increased according to the stacks cleared, and this will also regenerate Lyney's HP based on his Max HP.<br /><br />When a Grin-Malkin Hat created by Lyney is on the field, the fireworks will cause it to explode, dealing <b class=\"text-pyro\">AoE Pyro DMG</b> equal to that of a Pyrotechnic Strike.<br />The DMG dealt through the Grin-Malkin Hat in this way is considered Charged Attack DMG.",
+                "scaling": [
+                    ["Skill DMG", "167.2%", "179.74%", "192.28%", "209%", "221.54%", "234.08%", "250.8%", "267.52%", "284.24%", "300.96%", "317.68%", "334.4%", "355.3%", "376.2%", "397.1%"], ["Skill DMG Bonus", "53.2% ATK/Stack", "57.19% ATK/Stack", "61.18% ATK/Stack", "66.5% ATK/Stack", "70.49% ATK/Stack", "74.48% ATK/Stack", "79.8% ATK/Stack", "85.12% ATK/Stack", "90.44% ATK/Stack", "95.76% ATK/Stack", "101.08% ATK/Stack", "106.4% ATK/Stack", "113.05% ATK/Stack", "119.7% ATK/Stack", "126.35% ATK/Stack"], ["HP Regeneration", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack", "20%/Stack"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"]
+                ],
+                "splash": "\"Everyone knows that magicians will intentionally misdirect the audience... Ah, yes, while you were looking my way, the hat and assistant over there have both disappeared... Fascinating, is it not?\""
+            },
+            "burst": {
+                "name": "Wondrous Trick: Miracle Parade",
+                "description": "Unleashing his magic, Lyney turns himself into a Grin-Malkin Cat that can move around quickly. (Not to be mistaken for the Grin-Malkin Hat. They're two different props!)<br />When the Grin-Malkin Cat gets close to opponents, it will send flames falling down on them, dealing at most 1 instance of <b class=\"text-pyro\">Pyro DMG</b> to each opponent. When the duration ends, he will dismiss the Grin-Malkin Cat and ignite fireworks that deal <b class=\"text-pyro\">AoE Pyro DMG</b>, summon 1 Grin-Malkin Hat, and grant himself 1 Prop Surplus stack.",
+                "scaling": [
+                    ["Skill DMG", "154%", "165.55%", "177.1%", "192.5%", "204.05%", "215.6%", "231%", "246.4%", "261.8%", "277.2%", "292.6%", "308%", "327.25%", "346.5%", "365.75%"], ["Explosive Firework DMG", "414%", "445.05%", "476.1%", "517.5%", "548.55%", "579.6%", "621%", "662.4%", "703.8%", "745.2%", "786.6%", "828%", "879.75%", "931.5%", "983.25%"], ["Duration", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s", "3s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "\"Watch closely now. This is a time for miracles, and it belongs just to the two of us!\""
+            },
+            "a1passive": {
+                "name": "Perilous Performance",
+                "description": "If Lyney consumes HP when firing off a <b class=\"text-highlight\">Prop Arrow</b>, the Grin-Malkin hat summoned by the arrow will, upon hitting an opponent, restore 3 Energy to Lyney and increase DMG dealt by 80% of his ATK."
+            },
+            "a4passive": {
+                "name": "Conclusive Ovation",
+                "description": "The DMG Lyney deals to opponents affected by <b class=\"text-pyro\">Pyro</b> will receive the following buffs:<li>Increases the DMG dealt by 60%.</li><li>Each <b class=\"text-pyro\">Pyro</b> party member other than Lyney will cause the DMG dealt to increase by an additional 20%.</li>Lyney can deal up to 100% increased DMG to opponents affected by <b class=\"text-pyro\">Pyro</b> in this way."
+            },
+            "utilpassive": {
+                "name": "Trivial Observations",
+                "description": "Displays the location of nearby <b class=\"text-highlight\">resources unique to Fontaine</b> on the mini-map."
+            }
+        },
+        "constellation": {
+            "name": "Felis Fuscus",
+            "c1": {
+                "name": "Whimsical Wonders",
+                "description": "Lyney can have 2 <b class=\"text-highlight\">Grin-Malkin Hats</b> present at once. Additionally, Prop Arrows will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of Prop Surplus. This effect can occur once every 15s."
+            },
+            "c2": {
+                "name": "Locquacious Cajoling",
+                "description": "When Lyney is on the field, he will gain a stack of Crisp Focus every 2s. This will increase his CRIT DMG by 20%. Max 3 stacks. This effect will be canceled when Lyney leaves the field."
+            },
+            "c3": {
+                "name": "Prestidigitation",
+                "description": "Increases the Level of <b class=\"text-highlight\">Card Force Translocation</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Well-Versed, Well-Rehearsed",
+                "description": "After an opponent is hit by Lyney's <b class=\"text-pyro\">Pyro</b> Charged Attack, this opponent's <b class=\"text-pyro\">Pyro RES</b> will be decreased by 20% for 6s."
+            },
+            "c5": {
+                "name": "To Pierce Enigmas",
+                "description": "Increases the Level of <b class=\"text-highlight\">Wondrous Trick: Miracle Parade</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Guarded Smile",
+                "description": "When Lyney fires a <b class=\"text-highlight\">Prop Arrow</b>, he will fire a Pyrotechnic Strike: Reprised that will deal 80% of a Pyrotechnic Strike's DMG. This DMG is considered Charged Attack DMG."
+            }
+        },
+        "stats": {
+            "ascensionStat": "CRIT Rate",
+            "hp": [858, 2226, 2961, 4431, 4954, 5699, 6396, 7150, 7672, 8432, 8955, 9724, 10247, 11021],
+            "atk": [25, 64, 85, 128, 143, 164, 185, 206, 221, 243, 258, 281, 296, 318],
+            "def": [42, 109, 145, 216, 242, 278, 312, 349, 375, 412, 437, 475, 500, 538]
+        },
+        "materials": {
+            "talentBook": "Equity",
+            "bossMat": "Emperor's Resolution",
+            "localMat": "Rainbow Rose",
+            "commonMat": "Fatui Insignia",
+            "weeklyBossMat": "Primordial Greenbloom"
+        },
+        "description": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. Audiences are enthralled by his exquisite skills, and they hang on to his every clever word.",
+        "birthday": "February 2",
+        "gender": "Male",
+        "nation": "Fontaine",
+        "outfits": [
+            {
+                "name": "Fantasticat",
+                "rarity": 4,
+                "description": "Lyney's outfit. Cats only stretch in front of those they trust completely. Otherwise, they merely hide their claws behind a smile — intimate yet reserved, just like the sweet words of this magician."
+            }
+        ],
+        "voiceActors": {
+            "en": "Daman Mills",
+            "jp": "Hiro Shimono (下野 紘)"
+        },
+        "release": {
+            "date": "August 16, 2023",
+            "version": "4.0" 
+        }
+    },
+    {
+        "id": 68,
+        "name": "Lynette",
+        "fullname": "",
+        "title": "Elegance in the Shadows",
+        "rarity": 4,
+        "element": "Anemo",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Rapid Ritesword",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 rapid strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "43.08%", "46.59%", "50.09%", "55.1%", "58.61%", "62.62%", "68.13%", "73.64%", "79.15%", "85.16%", "91.17%", "97.18%", "103.2%", "109.21%", "115.22%"], ["2-Hit DMG", "37.61%", "40.67%", "43.74%", "48.11%", "51.17%", "54.67%", "59.48%", "64.29%", "69.1%", "74.35%", "79.6%", "84.85%", "90.09%", "95.34%", "100.59%"], ["3-Hit DMG", "27.86% + 21.59%", "30.13% + 23.35%", "32.4% + 25.11%", "35.64% + 27.62%", "37.91% + 29.38%", "40.5% + 31.38%", "44.06% + 34.15%", "47.63% + 36.91%", "51.19% + 39.67%", "55.08% + 42.68%", "58.97% + 45.7%", "62.86% + 48.71%", "66.74% + 51.72%", "70.63% + 54.74%", "74.52% + 57.75%"], ["4-Hit DMG", "63.15%", "68.29%", "73.44%", "80.78%", "85.92%", "91.79%", "99.87%", "107.95%", "116.03%", "124.84%", "133.65%", "142.46%", "151.28%", "160.09%", "168.9%"], ["Charged Attack DMG", "44.2% + 61.4%", "47.8% + 66.4%", "51.4% + 71.4%", "56.54% + 78.54%", "60.14% + 83.54%", "64.25% + 89.25%", "69.9% + 97.1%", "75.56% + 104.96%", "81.21% + 112.81%", "87.38% + 121.38%", "93.55% + 129.95%", "99.72% + 138.52%", "105.88% + 147.08%", "112.05% + 155.65%", "118.22% + 164.22%"], ["Charged Attack Stamina Cost", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Enigmatic Feint",
+                "description": "Flicks her mantle and executes an Enigma Thrust, dealing <b class=\"text-anemo\">Anemo DMG</b>.<br />When the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.<br />Based on whether you press or hold this ability, she will use Enigma Thrust differently.<br /><br /><b class=\"text-highlight\">Press</b><br />She swiftly uses an Enigma Thrust.<br /><br /><b class=\"text-highlight\">Hold</b><br />Lynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent. You can control her movement direction during this state, and you can end it prematurely by using this skill again.<br />When this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.<br /><br />A maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.<br /><br /><b class=\"text-highlight\">Arkhe: Ousia</b><br />At specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned <b class=\"text-anemo\">Anemo DMG</b>.",
+                "scaling": [
+                    ["Enigma Thrust DMG", "268%", "288.1%", "308.2%", "335%", "355.1%", "375.2%", "402%", "428.8%", "455.6%", "482.4%", "509.2%", "536%", "569.5%", "603%", "636.5%"], ["Surging Blade DMG", "31.2%", "33.54%", "35.88%", "39%", "41.34%", "43.68%", "46.8%", "49.92%", "53.04%", "56.16%", "59.28%", "62.4%", "66.3%", "70.2%", "74.1%"], ["Surging Blade Interval", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["HP Regeneration", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP", "25% Max HP"], ["HP Cost", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s", "6% Current HP/s"], ["Hold Max Duration", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"]
+                ],
+                "splash": "\"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect.\""
+            },
+            "burst": {
+                "name": "Magic Trick: Astonishing Shift",
+                "description": "Lynette raises her mantle high, dealing <b class=\"text-anemo\">AoE Anemo DMG</b>, using skillful sleight of hand to make a giant Bogglecat Box appear!<br /><br /><b class=\"text-highlight\">Bogglecat Box</b><li>Taunts nearby opponents, attracting their attacks.</li><li>Deals Anemo DMG to nearby opponents at intervals.</li><li>When the Bogglecat Box comes into contact with <b class=\"text-pyro\">Pyro</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-cryo\">Cryo</b>, it will gain the corresponding element and additionally fire Vivid Shots that will deal DMG from that element at intervals.</li>Elemental Absorption of this kind will only occur once during this ability's duration.",
+                "scaling": [
+                    ["Skill DMG", "83.2%", "89.44%", "95.68%", "104%", "110.24%", "116.48%", "124.8%", "133.12%", "141.44%", "149.76%", "158.08%", "166.4%", "176.8%", "187.2%", "197.6%"], ["Bogglecat Box DMG", "51.2%", "55.04%", "58.88%", "64%", "67.84%", "71.68%", "76.8%", "81.92%", "87.04%", "92.16%", "97.28%", "102.4%", "108.8%", "115.2%", "121.6%"], ["Vivid Shot DMG", "45.6%", "49.02%", "52.44%", "57%", "60.42%", "63.84%", "68.4%", "72.96%", "77.52%", "82.08%", "86.64%", "91.2%", "96.9%", "102.6%", "108.3%"], ["Bogglecat Box Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["Energy Cost", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70"]
+                ],
+                "splash": "\"Look this way, and look closely. This is a time for miracles, just for us.\""
+            },
+            "a1passive": {
+                "name": "Sophisticated Synergy",
+                "description": "Within 10s after using <b class=\"text-highlight\">Magic Trick: Astonishing Shift</b>, when there are 1/2/3/4 Elemental Types in the party, all party members' ATK will be increased by 8%/12%/16%/20% respectively."
+            },
+            "a4passive": {
+                "name": "Props Positively Prepped",
+                "description": "After the Bogglecat Box summoned by <b class=\"text-highlight\">Magic Trick: Astonishing Shift</b> performs Elemental Conversion, Lynette's Elemental Burst will deal 15% more DMG. This effect will persist until the Bogglecat Box's duration ends."
+            },
+            "utilpassive": {
+                "name": "Loci-Based Mnemonics",
+                "description": "Shows the location of nearby <b class=\"text-highlight\">Recovery Orbs</b> on the minimap. The underwater Stamina and HP gained from touching Orbs will be increased by 25%."
+            }
+        },
+        "constellation": {
+            "name": "Felis Alba",
+            "c1": {
+                "name": "A Cold Blade Like a Shadow",
+                "description": "When <b class=\"text-highlight\">Enigmatic Feint</b>'s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in."
+            },
+            "c2": {
+                "name": "Endless Mysteries",
+                "description": "Whenever the Bogglecat Box summoned by <b class=\"text-highlight\">Magic Trick: Astonishing Shift</b> fires a Vivid Shot, it will fire an extra Vivid Shot."
+            },
+            "c3": {
+                "name": "Cognition-Inverting Gaze",
+                "description": "Increases the Level of <b class=\"text-highlight\">Magic Trick: Astonishing Shift</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Tacit Coordination",
+                "description": "Increases <b class=\"text-highlight\">Enigmatic Feint</b>'s charges by 1."
+            },
+            "c5": {
+                "name": "Obscuring Ambiguity",
+                "description": "Increases the Level of <b class=\"text-highlight\">Enigmatic Feint</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Watchful Eye",
+                "description": "When Lynette uses <b class=\"text-highlight\">Enigmatic Feint</b>'s Enigma Thrust, she will gain an <b class=\"text-anemo\">Anemo Infusion</b> and 20% <b class=\"text-anemo\">Anemo DMG Bonus</b> for 6s."
+            }
+        },
+        "stats": {
+            "ascensionStat": "Anemo DMG Bonus",
+            "hp": [1039, 2670, 3447, 5163, 5715, 6573, 7309, 8168, 8719, 9577, 10129, 10987, 11539, 12397],
+            "atk": [19, 50, 64, 96, 107, 123, 136, 153, 163, 179, 189, 205, 215, 232],
+            "def": [60, 153, 198, 296, 328, 377, 420, 469, 501, 550, 582, 631, 663, 712]
+        },
+        "materials": {
+            "talentBook": "Order",
+            "bossMat": "Clockwork Geppelia",
+            "localMat": "Lumidouce Bell",
+            "commonMat": "Gear",
+            "weeklyBossMat": "Everamber"
+        },
+        "description": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
+        "birthday": "February 2",
+        "gender": "Female",
+        "nation": "Fontaine",
+        "outfits": [
+            {
+                "name": "Phantomeow",
+                "rarity": 4,
+                "description": "Lynette's outfit. A cat resides in the shadows until it wishes to show itself — inscrutable, just like a magician's assistant."
+            }
+        ],
+        "voiceActors": {
+            "en": "Anairis Quiñones",
+            "jp": "Yū Sasahara (篠原 侑)"
+        },
+        "release": {
+            "date": "August 16, 2023",
+            "version": "4.0" 
+        }
+    },
+    {
+        "id": 69,
+        "name": "Freminet",
+        "fullname": "",
+        "title": "Yearning for Unseen Depths",
+        "rarity": 4,
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "talents": {
+            "attack": {
+                "name": "Flowing Eddies",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Drains Stamina over time to perform continuous spinning attacks on all nearby opponents.<br />At the end of the sequence, perform a more powerful slash.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "84.24%", "91.09%", "97.95%", "107.75%", "114.6%", "122.44%", "133.21%", "143.99%", "154.76%", "166.52%", "178.27%", "190.02%", "201.78%", "213.53%", "225.29%"], ["2-Hit DMG", "80.68%", "87.24%", "93.81%", "103.19%", "109.76%", "117.26%", "127.58%", "137.9%", "148.22%", "159.48%", "170.73%", "181.99%", "193.25%", "204.5%", "215.76%"], ["3-Hit DMG", "101.9%", "110.2%", "118.49%", "130.34%", "138.64%", "148.12%", "161.15%", "174.18%", "187.22%", "201.44%", "215.66%", "229.88%", "244.1%", "258.31%", "272.53%"], ["4-Hit DMG", "123.8%", "133.88%", "143.96%", "158.35%", "168.43%", "179.95%", "195.78%", "211.62%", "227.46%", "244.73%", "262.01%", "279.28%", "296.56%", "313.83%", "331.11%"], ["Charged Attack Cyclic DMG", "62.52%", "67.61%", "72.7%", "79.97%", "85.06%", "90.87%", "98.87%", "106.87%", "114.87%", "123.59%", "132.31%", "141.04%", "149.76%", "158.49%", "167.21%"], ["Charged Attack Final DMG", "113.09%", "122.29%", "131.5%", "144.65%", "153.86%", "164.37%", "178.84%", "193.31%", "207.77%", "223.55%", "239.33%", "255.11%", "270.89%", "286.67%", "302.45%"], ["Charged Attack Stamina Cost", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s"], ["Max Duration", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s"], ["Plunge DMG", "74.59%", "80.66%", "86.73%", "95.4%", "101.47%", "108.41%", "117.95%", "127.49%", "137.03%", "147.44%", "157.85%", "168.26%", "178.66%", "189.07%", "199.48%"], ["Low/High Plunge DMG", "149.14% / 186.29%", "161.28% / 201.45%", "173.42% / 216.62%", "190.77% / 238.28%", "202.91% / 253.44%", "216.78% / 270.77%", "235.86% / 294.6%", "254.93% / 318.42%", "274.01% / 342.25%", "294.82% / 368.25%", "315.63% / 394.24%", "336.44% / 420.23%", "357.25% / 446.23%", "378.06% / 472.22%", "398.87% / 498.21%"]
+                ]
+            },
+            "skill": {
+                "name": "Pressurized Floe",
+                "description": "Does an upward thrust that will deal <b class=\"text-cryo\">Cryo DMG</b> and cause Freminet to enter Pers Timer for 10s.<br />While Pers Timer is active, his Elemental Skill will turn into Shattering Pressure.<br /><br /><b class=\"text-highlight\">Shattering Pressure</b><br />Executes different sorts of attacks based on the Pressure level of Pers Timer, and then cancels Pers Timer.<li>Level 0: Unleashes a vertical cut that will deal <b class=\"text-cryo\">Cryo DMG</b>.</li><li>Levels 1 to 3: Unleashes a vertical cut alongside Pers, dealing <b class=\"text-cryo\">Cryo DMG</b> and Physical DMG. DMG dealt scales based on Pressure level.</li><li>Level 4: Borrows the power of a fully-pressurized Pers to deal Physical DMG. Meanwhile, Normal Attack: Flowing Eddies will be replaced by Shattering Pressure.</li><br /><b class=\"text-highlight\">Pers Timer</b><br />When Freminet uses Normal Attacks, he will also unleash waves of frost that deal <b class=\"text-cryo\">Cryo DMG</b> and increase Pers' Pressure level.<br />The accompanying <b class=\"text-cryo\">Cryo DMG</b> dealt this way is considered Elemental Skill DMG.<br /><br /><b class=\"text-highlight\">Arkhe: Pneuma</b><br />At certain intervals, after using the upward thrust, a Spiritbreath Thorn in the form of another upward thrust will be created, dealing Pneuma-aligned <b class=\"text-cryo\">Cryo DMG</b>.",
+                "scaling": [
+                    ["Upward Thrust DMG", "83.04%", "89.27%", "95.5%", "103.8%", "110.03%", "116.26%", "124.56%", "132.86%", "141.17%", "149.47%", "157.78%", "166.08%", "176.46%", "186.84%", "197.22%"], ["Frost DMG", "7.16%", "7.7%", "8.23%", "8.95%", "9.49%", "10.02%", "10.74%", "11.46%", "12.17%", "12.89%", "13.6%", "14.32%", "15.22%", "16.11%", "17%"], ["Level 0 Shattering Pressure DMG", "200.48%", "215.52%", "230.55%", "250.6%", "265.64%", "280.67%", "300.72%", "320.77%", "340.82%", "360.86%", "380.91%", "400.96%", "426.02%", "451.08%", "476.14%"], ["Level 1 Shattering Pressure DMG", "100.24% Cryo + 48.69% Physical", "107.76% Cryo + 52.34% Physical", "115.28% Cryo + 55.99% Physical", "125.3% Cryo + 60.86% Physical", "132.82% Cryo + 64.51% Physical", "140.34% Cryo + 68.16% Physical", "150.36% Cryo + 73.03% Physical", "160.38% Cryo + 77.9% Physical", "170.41% Cryo + 82.77% Physical", "180.43% Cryo + 87.64% Physical", "190.46% Cryo + 92.51% Physical", "200.48% Cryo + 97.38% Physical", "213.01% Cryo + 103.46% Physical", "225.54% Cryo + 109.55% Physical", "238.07% Cryo + 115.63% Physical"], ["Level 2 Shattering Pressure DMG", "70.17% Cryo + 85.2% Physical", "75.43% Cryo + 91.59% Physical", "80.69% Cryo + 97.98% Physical", "87.71% Cryo + 106.51% Physical", "92.97% Cryo + 112.9% Physical", "98.24% Cryo + 119.29% Physical", "105.25% Cryo + 127.81% Physical", "112.27% Cryo + 136.33% Physical", "119.29% Cryo + 144.85% Physical", "126.3% Cryo + 153.37% Physical", "133.32% Cryo + 161.89% Physical", "140.34% Cryo + 170.41% Physical", "149.11% Cryo + 181.06% Physical", "157.88% Cryo + 191.71% Physical", "166.65% Cryo + 202.36% Physical"], ["Level 3 Shattering Pressure DMG", "40.1% Cryo + 121.72% Physical", "43.1% Cryo + 130.85% Physical", "46.11% Cryo + 139.98% Physical", "50.12% Cryo + 152.15% Physical", "53.13% Cryo + 161.28% Physical", "56.13% Cryo + 170.41% Physical", "60.14% Cryo + 182.58% Physical", "64.15% Cryo + 194.75% Physical", "68.16% Cryo + 206.92% Physical", "72.17% Cryo + 219.1% Physical", "76.18% Cryo + 231.27% Physical", "80.19% Cryo + 243.44% Physical", "85.2% Cryo + 258.65% Physical", "90.22% Cryo + 273.87% Physical", "95.23% Cryo + 289.09% Physical"], ["Level 4 Shattering Pressure DMG", "243.44%", "261.7%", "279.96%", "304.3%", "322.56%", "340.82%", "365.16%", "389.5%", "413.85%", "438.19%", "462.54%", "486.88%", "517.31%", "547.74%", "578.17%"], ["Spiritbreath Thorn DMG", "14.4%", "15.48%", "16.56%", "18%", "19.08%", "20.16%", "21.6%", "23.04%", "24.48%", "25.92%", "27.36%", "28.8%", "30.6%", "32.4%", "34.2%"], ["Spiritbreath Thorn Interval", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s", "9s"], ["CD", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"]
+                ],
+                "splash": "To immobilize one's opponent without taking their life can also be considered something of a \"survival\" strategy that one may choose.<br />\"Pers... I leave the rest to you.\""
+            },
+            "burst": {
+                "name": "Shadowhunter's Ambush",
+                "description": "Unleashes a wave of untouchable cold, dealing <b class=\"text-cryo\">AoE Cryo DMG</b>, resetting the CD of the Elemental Skill \"Pressurized Floe\", and causing Freminet to enter the Subnautical Hunter mode for 10s.<br /><br />While in Subnautical Hunter mode, his interruption resistance will increase, and Pressurized Floe will obtain the following buffs:<li>CD decreased by 70%.</li><li>Normal Attacks will give Pers 1 additional Pressure stack, and the frost released by his Normal Attacks deal 200% of their original DMG.</li><br />This effect will be canceled when Freminet leaves the field.",
+                "scaling": [
+                    ["Skill DMG", "318.4%", "342.28%", "366.16%", "398%", "421.88%", "445.76%", "477.6%", "509.44%", "541.28%", "573.12%", "604.96%", "636.8%", "676.6%", "716.4%", "756.2%"], ["Duration", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "\"Now... I have no need of any extraneous noise.\""
+            },
+            "a1passive": {
+                "name": "Saturation Deep Dive",
+                "description": "When Freminet unleashes <b class=\"text-highlight\">Pressurized Floe: Shattering Pressure</b>, if Pers Timer has yet to reach Pressure Level 4, the CD of Pressurized Floe will be decreased by 1s."
+            },
+            "a4passive": {
+                "name": "Parallel Condensers",
+                "description": "When Freminet triggers Shatter against opponents, the DMG dealt by <b class=\"text-highlight\">Pressurized Floe: Shattering Pressure</b> will be increased by 40% for 5s."
+            },
+            "utilpassive": {
+                "name": "Deepwater Navigation",
+                "description": "Decreases underwater stamina consumption for your own party members by 35%.<br />Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Automaton",
+            "c1": {
+                "name": "Dreams of the Foamy Deep",
+                "description": "The CRIT Rate of <b class=\"text-highlight\">Pressurized Floe: Shattering Pressure</b> will be increased by 15%."
+            },
+            "c2": {
+                "name": "Penguins and the Land of Plenty",
+                "description": "Unleashing <b class=\"text-highlight\">Pressurized Floe: Shattering Pressure</b> will restore 2 Energy to Freminet. If a Pressure Level 4 Shattering Pressure is unleashed, this will restore 3 Energy."
+            },
+            "c3": {
+                "name": "Song of the Eddies and Bleached Sands",
+                "description": "Increases the Level of <b class=\"text-highlight\">Flowing Eddies</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Dance of the Snowy Moon and Flute",
+                "description": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s."
+            },
+            "c5": {
+                "name": "Nights of Hearth and Happiness",
+                "description": "Increases the Level of <b class=\"text-highlight\">Pressurized Floe</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Moment of Waking and Resolve",
+                "description": "After Freminet triggers Frozen, Shatter, or Superconduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s."
+            }
+        },
+        "stats": {
+            "ascensionStat": "ATK",
+            "hp": [1012, 2600, 3356, 5027, 5564, 6400, 7117, 7953, 8490, 9325, 9862, 10698, 11235, 12071],
+            "atk": [21, 55, 71, 106, 117, 135, 150, 168, 179, 197, 208, 226, 237, 255],
+            "def": [59, 153, 197, 295, 327, 376, 418, 467, 498, 547, 579, 628, 659, 708]
+        },
+        "materials": {
+            "talentBook": "Justice",
+            "bossMat": "Clockwork Coppelius",
+            "localMat": "Romaritime Flower",
+            "commonMat": "Aberrant",
+            "weeklyBossMat": "Worldspan Fern"
+        },
+        "description": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws.",
+        "birthday": "September 24",
+        "gender": "Male",
+        "nation": "Fontaine",
+        "outfits": [
+            {
+                "name": "Icy Skin",
+                "rarity": 4,
+                "description": "Freminet's outfit. This suit wraps around the deep diver like a second skin, his constant companion in countless sallies to the silent seabed."
+            }
+        ],
+        "voiceActors": {
+            "en": "Paul Castro Jr.",
+            "jp": "Shun'ichi Toki (土岐 隼一)"
+        },
+        "release": {
+            "date": "August 16, 2023",
+            "version": "4.0" 
         }
     }
 ]
