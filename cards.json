@@ -1891,7 +1891,7 @@
                 "name": "Archaic Petra",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-geo\">Geo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Of Mountains Mighty: Archaic Petra",
@@ -1920,7 +1920,7 @@
                 "name": "Blizzard Strayer",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-cryo\">Cryo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Wintry Wandering: Blizzard Strayer",
@@ -1934,7 +1934,7 @@
                 "name": "Broken Rime's Echo",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Icy Song, Distant Realm: Broken Rime's Echo",
@@ -1978,7 +1978,7 @@
                 "name": "Crimson Witch of Flames",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-pyro\">Pyro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Blazing Dissipation: Crimson Witch of Flames",
@@ -2007,7 +2007,7 @@
                 "name": "Deepwood Memories",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-dendro\">Dendro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Knowledge of the Vine: Deepwood Memories",
@@ -2124,7 +2124,7 @@
                 "name": "Heart of Depth",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-hydro\">Hydro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Shipborne Afterthought: Heart of Depth",
@@ -2197,7 +2197,7 @@
                 "name": "Laurel Coronet",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Raincaller's Emblem: Laurel Coronet",
@@ -2268,7 +2268,7 @@
                 "name": "Mask of Solitude Basalt",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Jagged Stone: Mask of Solitude Basalt",
@@ -2589,7 +2589,7 @@
                 "name": "Thunder Summoner's Crown",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Lightning and Rain: Thunder Summoner's Crown",
@@ -2603,7 +2603,7 @@
                 "name": "Thundering Fury",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-electro\">Electro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Plume of the Stormy Skies: Thundering Fury",
@@ -2690,7 +2690,7 @@
                 "name": "Viridescent Venerer",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-anemo\">Anemo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Dream of Broken Leaves: Viridescent Venerer",
@@ -2704,7 +2704,7 @@
                 "name": "Viridescent Venerer's Diadem",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Verdant Winds: Viridescent Venerer's Diadem",
@@ -2746,7 +2746,7 @@
                 "name": "Wine-Stained Tricorne",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Sunken Dreams of Yore: Wine-Stained Tricorne",
@@ -2760,7 +2760,7 @@
                 "name": "Witch's Scorching Hat",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Ashen Lament: Witch's Scorching Hat",
@@ -2872,7 +2872,7 @@
                 "name": "Jade Chamber",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "1M",
+                "cost": "",
                 "description": "<b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
                 "splash": {
                     "title": "Stargazing Amidst Clouds",
@@ -3363,7 +3363,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "",
-                "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>.",
+                "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>. (Only one copy of I Haven't Lost Yet! can be played each round.)",
                 "splash": {
                     "title": "I Haven't Lost Yet!",
                     "description": "Arataki \"He Might Lose but He'll Never Admit Defeatto\" is always game for another round!"
@@ -3645,7 +3645,7 @@
                 "name": "Ornate Kabuto",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "1M",
                 "description": "<b>After another character of yours uses an Elemental Burst</b>: The character to which this is attached gains 1 <b>Energy</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Bygone Lightning: Ornate Kabuto",
@@ -4055,7 +4055,7 @@
                 "name": "Emblem of Severed Fate",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "2M",
                 "description": "<b>After another character of yours uses an Elemental Burst</b>: The character to which this is attached gains 1 <b>Energy</b>.<br />The DMG dealt by the character's Elemental Bursts is increased by 2.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Emblem of Severed Fate: Ornate Kabuto",
@@ -4083,7 +4083,7 @@
                 "name": "Thundering Poise",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses a Normal Attack or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Stilling Calamity: Thundering Poise",
@@ -4097,7 +4097,7 @@
                 "name": "Vermillion Hereafter",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Normal Attack or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br /><b>After a character is switched to the active character</b>: During this Round, character deals +1 Normal Attack DMG.<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Masked Twilight: Vermillion Hereafter",
@@ -4111,7 +4111,7 @@
                 "name": "Capricious Visage",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
+                "cost": "2U",
                 "description": "<b>When the character uses an Elemental Skill or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Preponderant Recollection: Capricious Visage",
@@ -4125,7 +4125,7 @@
                 "name": "Shimenawa's Reminiscence",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses an Elemental Skill or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br /><b>If the character has at least 2 Energy</b>, this character's Normal Attacks and Elemental Skills will deal +1 DMG.<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Fleeting Iridescence: Shimenawa's Reminiscence",
@@ -4336,7 +4336,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "",
-                "description": "Convert all your Elemental Dice to the Type of the active character.<br />(You must have at least 2 Inazuman characters in your deck to add this card to your deck.)",
+                "description": "Convert all your Elemental Dice to <b>Omni Element</b>.<br />(You must have at least 2 Inazuman characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Dream of Evanescent Eternity",
                     "description": "\"It once promised its people a dream: the never-changing 'eternity.'\""
