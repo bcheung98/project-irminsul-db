@@ -7096,6 +7096,7 @@
         "title": "Spectacle of Phantasmagoria",
         "rarity": 5,
         "element": "Pyro",
+        "arkhe": "Pneuma",
         "weapon": "Bow",
         "talents": {
             "attack": {
@@ -7201,6 +7202,7 @@
         "title": "Elegance in the Shadows",
         "rarity": 4,
         "element": "Anemo",
+        "arkhe": "Ousia",
         "weapon": "Sword",
         "talents": {
             "attack": {
@@ -7306,6 +7308,7 @@
         "title": "Yearning for Unseen Depths",
         "rarity": 4,
         "element": "Cryo",
+        "arkhe": "Pneuma",
         "weapon": "Claymore",
         "talents": {
             "attack": {
