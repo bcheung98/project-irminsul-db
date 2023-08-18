@@ -3932,7 +3932,7 @@
             "subStat": "ATK",
             "passive": {
                 "name": "White Cruising Wave",
-                "description": "After the wielder is healed, ATK will be increased by 24% for 8s. This can be triggered even when the character is not on the field.",
+                "description": "After the wielder is healed, ATK will be increased by <b class=\"text-refinement\">24%</b> for 8s. This can be triggered even when the character is not on the field.",
                 "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
@@ -3980,7 +3980,7 @@
             "subStat": "CRIT Rate",
             "passive": {
                 "name": "Jade Circulation",
-                "description": "When not on the field for more than 5s, Max HP will be increased by 32% and Elemental Mastery will be increased by 40. These effects will be canceled after the wielder has been on the field for 10s.",
+                "description": "When not on the field for more than 5s, Max HP will be increased by <b class=\"text-refinement\">32%</b> and Elemental Mastery will be increased by <b class=\"text-refinement\">40</b>. These effects will be canceled after the wielder has been on the field for 10s.",
                 "scaling": [["32%", "40%", "48%", "56%", "64%"], ["40", "50", "60", "70", "80"]]
             }
         },
