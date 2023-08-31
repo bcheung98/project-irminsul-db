@@ -738,6 +738,19 @@
                 "Sacrificial Fragments",
                 "Favonius Greatsword"
             ]
+        },
+        "phase2": {
+            "startDate": "September 5, 2023",
+            "endDate": "September 26, 2023",
+            "banner": [
+                "Vortex Vanquisher",
+                "Polar Star",
+                "Rust",
+                "The Flute",
+                "Dragon's Bane",
+                "The Widsith",
+                "Sacrificial Greatsword"
+            ]
         }
     }
 ]

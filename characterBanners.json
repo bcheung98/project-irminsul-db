@@ -621,6 +621,17 @@
                 "Bennett",
                 "Lynette"
             ]
+        },
+        "phase2": {
+            "startDate": "September 5, 2023",
+            "endDate": "September 26, 2023",
+            "banner": [
+                "Zhongli",
+                "Tartaglia",
+                "Freminet",
+                "Noelle",
+                "Sayu"
+            ]
         }
     }
 ]
