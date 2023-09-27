@@ -3093,7 +3093,7 @@
             "subStat": "ATK",
             "passive": {
                 "name": "People of the Faltering Light",
-                "description": "ncreases Energy Recharge by <b class=\"text-refinement\">24%</b> for 10s after using an Elemental Skill.",
+                "description": "Increases Energy Recharge by <b class=\"text-refinement\">24%</b> for 10s after using an Elemental Skill.",
                 "scaling": [["24%", "30%", "36%", "42%", "48%"]]
             }
         },
