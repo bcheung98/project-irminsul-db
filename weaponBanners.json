@@ -752,5 +752,21 @@
                 "Sacrificial Greatsword"
             ]
         }
+    },
+    {
+        "version": "4.1",
+        "phase1": {
+            "startDate": "September 27, 2023",
+            "endDate": "October 17, 2023",
+            "banner": [
+                "Tome of the Eternal Flow",
+                "Staff of Homa",
+                "Mitternachts Waltz",
+                "The Dockhand's Assistant",
+                "Favonius Lance",
+                "Favonius Codex",
+                "Portable Power Saw"
+            ]
+        }
     }
 ]

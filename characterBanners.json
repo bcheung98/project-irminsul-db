@@ -633,5 +633,19 @@
                 "Sayu"
             ]
         }
+    },
+    {
+        "version": "4.1",
+        "phase1": {
+            "startDate": "September 27, 2023",
+            "endDate": "October 17, 2023",
+            "banner": [
+                "Neuvillette",
+                "Hu Tao",
+                "Diona",
+                "Fischl",
+                "Xingqiu"
+            ]
+        }
     }
 ]
