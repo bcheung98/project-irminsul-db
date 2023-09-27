@@ -888,7 +888,7 @@
                         "name": "Raincutter",
                         "cost": "3H 2N",
                         "energy": 2,
-                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rainbow Bladework.<br /><br /><b>Rain Sword</b><br />After your character uses a Normal Attack: Deal 1 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
+                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>, grants this character <b class=\"text-hydro\">Hydro Application</b>, creates 1 Rainbow Bladework.<br /><br /><b>Rain Sword</b><br />After your character uses a Normal Attack: Deal 1 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
                     }
                 },
                 "splash": {
@@ -1117,13 +1117,13 @@
                     "skill": {
                         "name": "Kamisato Art: Kyouka",
                         "cost": "3H",
-                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. This character gains Takimeguri Kanka.<br /><br /><b>Takimeguri Kanka</b><br />The character to which this is attached to has their <b>Normal Attacks</b> deal +1 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 2"
+                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. This character gains Takimeguri Kanka.<br /><br /><b>Takimeguri Kanka</b><br />The character to which this is attached to has their <b>Normal Attacks</b> deal +1 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 3"
                     },
                     "burst": {
                         "name": "Kamisato Art: Suiyuu",
-                        "cost": "3H 3N",
+                        "cost": "2H 3N",
                         "energy": 3,
-                        "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>, summons 1 <b>Garden of Purity</b>.<br /><br /><b>Garden of Purity</b><br />End Phase: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 2<br /><br /><b>When this Summon is on the field</b>: Your characters' Normal Attacks deal +1 DMG."
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, summons 1 <b>Garden of Purity</b>.<br /><br /><b>Garden of Purity</b><br />End Phase: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br /><u>Usage(s)</u>: 2<br /><br /><b>When this Summon is on the field</b>: Your characters' Normal Attacks deal +1 DMG."
                     }
                 },
                 "splash": {
@@ -1324,7 +1324,7 @@
                     "skill": {
                         "name": "Misty Summons",
                         "cost": "3C",
-                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, summons <b>Cryo Cicins</b>.<br /><br /><b>Cryo Cicins</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 2 (Can stack, max 3 stacks)<br /><br />After Fatui Cryo Cicin Mage performs a Normal Attack: This card gains 1 <u>Usage(s)</u>.<br />After your character takes Elemental Reaction DMG: This card loses 1 <u>Usage(s)</u>."
+                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>, summons <b>Cryo Cicins</b>.<br /><br /><b>Cryo Cicins</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>.<br /><u>Usage(s)</u>: 2 (Can stack, max 3 stacks)<br /><br />After Fatui Cryo Cicin Mage performs a Normal Attack: This card gains 1 <u>Usage(s)</u>.<br />After Fatui Cryo Cicin Mage takes Elemental Reaction DMG: This card loses 1 <u>Usage(s)</u>.<br />After your character takes Elemental Reaction DMG: This card loses 1 <u>Usage(s)</u>."
                     },
                     "burst": {
                         "name": "Blizzard, Branch, Blossom",
@@ -1531,13 +1531,13 @@
                     "skill": {
                         "name": "Foul Legacy: Raging Tide",
                         "cost": "3H",
-                        "description": "Switches to <b>Melee Stance</b> and deals 2 <b class=\"text-hydro\">Hydro DMG</b>."
+                        "description": "Switches to <b>Melee Stance</b> and deals 2 <b class=\"text-hydro\">Hydro DMG</b>, and attach <b>Riptide</b> to the target character."
                     },
                     "burst": {
                         "name": "Havoc: Obliteration",
                         "cost": "3H 3N",
                         "energy": 3,
-                        "description": "Performs different attacks based on the current stance that Tartaglia is in.<br /><b>Ranged Stance - Flash of Havoc</b>: Deal 4 <b class=\"text-hydro\">Hydro DMG</b>, reclaim 2 <b>Energy</b>, and apply <b>Riptide</b> to the target character.<br /><b>Melee Stance - Light of Obliteration</b>: Deal 7 <b class=\"text-hydro\">Hydro DMG</b>.<br /><br /><b>Riptide</b><br />When the character to which this is attached is defeated: Apply Riptide to active character.<br />(When Tartaglia is in <b>Melee Stance</b>, he will deal additional DMG when attacking the character to which this is attached.)<br /><u>Duration (Rounds)</u>: 2"
+                        "description": "Performs different attacks based on the current stance that Tartaglia is in.<br /><b>Ranged Stance - Flash of Havoc</b>: Deal 5 <b class=\"text-hydro\">Hydro DMG</b>, reclaim 2 <b>Energy</b>, and apply <b>Riptide</b> to the target character.<br /><b>Melee Stance - Light of Obliteration</b>: Deal 7 <b class=\"text-hydro\">Hydro DMG</b>.<br /><br /><b>Riptide</b><br />When the character to which this is attached is defeated: Apply Riptide to active character.<br />(When Tartaglia is in <b>Melee Stance</b>, he will deal additional DMG when attacking the character to which this is attached.)<br /><u>Duration (Rounds)</u>: 2"
                     },
                     "passive": {
                         "name": "Tide Withholder",
@@ -1853,6 +1853,105 @@
                 "release": {
                     "version": "4.0"
                 }
+            },
+            {
+                "name": "Dehya",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Claymore",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Sandstorm Assault",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Molten Inferno",
+                        "cost": "3P",
+                        "description": "Summon <b>Fiery Sanctum Field</b>. If Fiery Sanctum Field already exists, then first deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><br /><b>Fiery Sanctum Field</b><br /><b>End Phase</b>: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Usage(s)</u>: 3<br /><b>When this Summon is on the field and Dehya is on standby on your side, then when your active character takes damage</b>: Decrease DMG taken by 1, and if Dehya has at least 7 HP, deal 1 <b>Piercing DMG</b> to her (once per round)."
+                    },
+                    "burst": {
+                        "name": "Leonine Bite",
+                        "cost": "4P 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, then <u>prepares</u>: <b>Incineration Drive</b><br /><br /><b>Incineration Drive</b><br />Deals 3 <b class=\"text-pyro\">Pyro DMG</b>."
+                    }
+                },
+                "splash": {
+                    "title": "\"Flame-Mane\" Dehya",
+                    "description": "The eyes of a vulture, the spirit of a lion, an unbridled daughter of the desert."
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Wanderer",
+                "fullname": "",
+                "element": "Anemo",
+                "weapon": "Catalyst",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Yuuban Meigen",
+                        "cost": "1A 2U",
+                        "description": "Deals 1 <b class=\"text-anemo\">Anemo DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Hanega: Song of the Wind",
+                        "cost": "3A",
+                        "description": "Deals 2 <b class=\"text-anemo\">Anemo DMG</b>. This character gains <b>Windfavored</b>.<br /><br /><b>Windfavored</b><br /><b>When the character to which this is attached performs a Normal Attack</b>: DMG dealt +2. If the opponent has characters on standby, then this Skill will deal damage to the next opposing character on standby instead.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "burst": {
+                        "name": "Kyougen: Five Ceremonial Plays",
+                        "cost": "3A 3N",
+                        "energy": 3,
+                        "description": "Deals 7 <b class=\"text-anemo\">Anemo DMG</b>. If the character has <b>Windfavored</b> attached, then remove it and increase DMG by 1."
+                    }
+                },
+                "splash": {
+                    "title": "\"Eons Adrift\" Wanderer",
+                    "description": "Tribulations uncounted, trials unknowable."
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Yaoyao",
+                "fullname": "",
+                "element": "Dendro",
+                "weapon": "Polearm",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Toss 'N' Turn Spear",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Raphanus Sky Cluster",
+                        "cost": "3D",
+                        "description": "Summons 1 <b>Yuegui: Throwing Mode</b>.<br /><br /><b>Yuegui: Throwing Mode</b><br ><b>End Phase</b>: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>, heal the character on your team that has taken the most damage for 1 HP.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "burst": {
+                        "name": "Moonjade Descent",
+                        "cost": "4D 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <b class=\"text-dendro\">Dendro DMG</b>, creates 1 <b>Adeptal Legacy</b>.<br /><br /><b>Adeptal Legacy</b><br ><b>End Phase</b>: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>, heal the character on your team that has taken the most damage for 1 HP.<br /><u>Usage(s)</u>: 3"
+                    }
+                },
+                "splash": {
+                    "title": "\"Burgeoning Grace\" Yaoyao",
+                    "description": "An adeptal constitution."
+                },
+                "release": {
+                    "version": "4.1"
+                }
             }
         ]
     },
@@ -1891,7 +1990,7 @@
                 "name": "Archaic Petra",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-geo\">Geo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Of Mountains Mighty: Archaic Petra",
@@ -1920,7 +2019,7 @@
                 "name": "Blizzard Strayer",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-cryo\">Cryo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Wintry Wandering: Blizzard Strayer",
@@ -1934,7 +2033,7 @@
                 "name": "Broken Rime's Echo",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-cryo\">Cryo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Icy Song, Distant Realm: Broken Rime's Echo",
@@ -1978,7 +2077,7 @@
                 "name": "Crimson Witch of Flames",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-pyro\">Pyro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Blazing Dissipation: Crimson Witch of Flames",
@@ -2007,7 +2106,7 @@
                 "name": "Deepwood Memories",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-dendro\">Dendro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Knowledge of the Vine: Deepwood Memories",
@@ -2124,7 +2223,7 @@
                 "name": "Heart of Depth",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-hydro\">Hydro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Shipborne Afterthought: Heart of Depth",
@@ -2197,7 +2296,7 @@
                 "name": "Laurel Coronet",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-dendro\">Dendro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Raincaller's Emblem: Laurel Coronet",
@@ -2268,7 +2367,7 @@
                 "name": "Mask of Solitude Basalt",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-geo\">Geo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Jagged Stone: Mask of Solitude Basalt",
@@ -2443,7 +2542,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Diona",
-                "cost": "4C",
+                "cost": "3C",
                 "description": "<b>Combat Action</b>: When your active character is <b>Diona</b>, equip this card.<br />After Diona equips this card, immediately use <b class=\"text-highlight\">Icy Paws</b> once.<br />When your Diona, who has this card equipped, creates a <b>Cat-Claw Shield</b>, its <b>Shield</b> points +1.<br />(You must have Diona in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Diona: Shaken, Not Purred",
@@ -2589,7 +2688,7 @@
                 "name": "Thunder Summoner's Crown",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Lightning and Rain: Thunder Summoner's Crown",
@@ -2603,7 +2702,7 @@
                 "name": "Thundering Fury",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-electro\">Electro Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-electro\">Electro Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Plume of the Stormy Skies: Thundering Fury",
@@ -2690,7 +2789,7 @@
                 "name": "Viridescent Venerer",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3M",
+                "cost": "3U",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br /><b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to be <b class=\"text-anemo\">Anemo Dice</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Dream of Broken Leaves: Viridescent Venerer",
@@ -2704,7 +2803,7 @@
                 "name": "Viridescent Venerer's Diadem",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-anemo\">Anemo Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Verdant Winds: Viridescent Venerer's Diadem",
@@ -2746,7 +2845,7 @@
                 "name": "Wine-Stained Tricorne",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-hydro\">Hydro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Sunken Dreams of Yore: Wine-Stained Tricorne",
@@ -2760,7 +2859,7 @@
                 "name": "Witch's Scorching Hat",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Skill or equips a Talent</b>: Spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Ashen Lament: Witch's Scorching Hat",
@@ -2803,7 +2902,7 @@
                 "type": "Support",
                 "subType": "Companion",
                 "cost": "1M",
-                "description": "<b>After playing a Food Event Card</b>: Create 1 random Elemental Die. (Once per Round)",
+                "description": "<b>After playing a Food Event Card</b>: Create 1 random Elemental Die. (Once per Round).<br /><b>After playing a Food Event Card</b>: Draw 1 random Food Event Card from your deck (once per match).",
                 "splash": {
                     "title": "Chef Mao, Ingenious Gourmet",
                     "description": "\"We just concern ourselves with making the most delicious food imaginable using everyday ingredients, universally loved flavors, and truly excellent cooking.\""
@@ -2872,7 +2971,7 @@
                 "name": "Jade Chamber",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "",
+                "cost": "1M",
                 "description": "<b>Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
                 "splash": {
                     "title": "Stargazing Amidst Clouds",
@@ -2956,7 +3055,7 @@
                 "name": "NRE",
                 "type": "Support",
                 "subType": "Item",
-                "cost": "2U",
+                "cost": "1U",
                 "description": "<b>When played</b>: Draw 1 Food Event Card from your deck.<br /><b>When you play a Food Event Card</b>: Draw 1 Food Event Card from your deck. (Once per Round)",
                 "splash": {
                     "title": "Emergency Intake: Portable Dish",
@@ -3097,7 +3196,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "",
-                "description": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters.",
+                "description": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters, and reset the \"usages per Round\" limit on its effects.",
                 "splash": {
                     "title": "Divine Relic's Installation",
                     "description": "\"Hehe... Well now, isn't this finally getting interesting?\""
@@ -3363,7 +3462,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "",
-                "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>. (Only one copy of I Haven't Lost Yet! can be played each round.)",
+                "description": "Only playable if one of your characters is defeated this Round:<br />Create <b>Omni Element</b> ×1 and your current active character gains 1 <b>Energy</b>.",
                 "splash": {
                     "title": "I Haven't Lost Yet!",
                     "description": "Arataki \"He Might Lose but He'll Never Admit Defeatto\" is always game for another round!"
@@ -3419,7 +3518,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "",
-                "description": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type.",
+                "description": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type, and reset the \"usages per Round\" limit on its effects.",
                 "splash": {
                     "title": "Master of Weaponry",
                     "description": "\"Watch and learn, comrade! A real warrior isn't picky about their weapons!\""
@@ -3645,7 +3744,7 @@
                 "name": "Ornate Kabuto",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "1M",
+                "cost": "2U",
                 "description": "<b>After another character of yours uses an Elemental Burst</b>: The character to which this is attached gains 1 <b>Energy</b>.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Bygone Lightning: Ornate Kabuto",
@@ -3763,8 +3862,8 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Tartaglia",
-                "cost": "4H",
-                "description": "<b>Combat Action</b>: When your active character is <b>Tartaglia</b>, equip this card.<br />After Tartaglia equips this card, immediately use <b class=\"text-highlight\">Foul Legacy: Raging Tide</b> once.<br />End Phase: Deals 1 <b>Piercing DMG</b> to all opposing characters affected by <b>Riptide</b><br />(You must have Tartaglia in your deck to add this card to your deck.)",
+                "cost": "3H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Tartaglia</b>, equip this card.<br />After Tartaglia equips this card, immediately use <b class=\"text-highlight\">Foul Legacy: Raging Tide</b> once.<br />End Phase: Deals 1 <b>Piercing DMG</b> to the opponent's active character if they have <b>Riptide</b> attached.<br />(You must have Tartaglia in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Tartaglia: Hydrospout",
                     "description": "A reckless yet precise blow."
@@ -4055,8 +4154,8 @@
                 "name": "Emblem of Severed Fate",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2M",
-                "description": "<b>After another character of yours uses an Elemental Burst</b>: The character to which this is attached gains 1 <b>Energy</b>.<br />The DMG dealt by the character's Elemental Bursts is increased by 2.<br />(A character can equip a maximum of 1 Artifact.)",
+                "cost": "3U",
+                "description": "<b>After another character of yours uses an Elemental Burst</b>: The character to which this is attached gains 1 <b>Energy</b>.<br />The DMG dealt by the character's Elemental Bursts is increased by 2 (once per Round).<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Emblem of Severed Fate: Ornate Kabuto",
                     "description": "Thirteen years went by like a dream.<br />The scarlet snow flies through the shadowed pass like smoke.<br />You have now gone afar."
@@ -4083,7 +4182,7 @@
                 "name": "Thundering Poise",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses a Normal Attack or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Stilling Calamity: Thundering Poise",
@@ -4097,7 +4196,7 @@
                 "name": "Vermillion Hereafter",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses a Normal Attack or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br /><b>After a character is switched to the active character</b>: During this Round, character deals +1 Normal Attack DMG.<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Masked Twilight: Vermillion Hereafter",
@@ -4111,7 +4210,7 @@
                 "name": "Capricious Visage",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "2U",
+                "cost": "2M",
                 "description": "<b>When the character uses an Elemental Skill or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Preponderant Recollection: Capricious Visage",
@@ -4125,7 +4224,7 @@
                 "name": "Shimenawa's Reminiscence",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
+                "cost": "3M",
                 "description": "<b>When the character uses an Elemental Skill or equips a Talent</b>: Spend 1 less Elemental Die. (Once per Round)<br /><b>If the character has at least 2 Energy</b>, this character's Normal Attacks and Elemental Skills will deal +1 DMG.<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Fleeting Iridescence: Shimenawa's Reminiscence",
@@ -4252,7 +4351,7 @@
                 "type": "Support",
                 "subType": "Companion",
                 "cost": "1M",
-                "description": "<b>When playing a Companion Support Card</b>: Spend 2 Less Elemental Dice. (Once per Round)",
+                "description": "<b>When playing a Companion Support Card</b>: Spend 2 Less Elemental Dice. (Once per Round).<br /><b>After playing a Companion Support Card</b>: Draw 1 random Companion Support Card from your deck (once per match).",
                 "splash": {
                     "title": "Purity of Trust: Dunyarzad",
                     "description": "\"The point of living is to not leave behind any regrets.\""
@@ -4308,7 +4407,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "1M",
-                "description": "<b>In this Round, when an opposing character is defeated during your Action</b>, you can continue to act again when that Action ends.<br /><u>Usage(s)</u>: 1<br />(You must have at least 2 Mondstadt characters in your deck to add this card to your deck.)",
+                "description": "<b>During this turn, after one of your characters uses a Skill</b>: Switch your next character in to be the active character.<br />(You must have at least 2 Mondstadt characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Verse of Unchained Happenings",
                     "description": "\"Someday, the winds will blow towards a brighter future.\""
@@ -4336,7 +4435,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "",
-                "description": "Convert all your Elemental Dice to <b>Omni Element</b>.<br />(You must have at least 2 Inazuman characters in your deck to add this card to your deck.)",
+                "description": "Convert all your Elemental Dice to the Type of the active character.<br />(You must have at least 2 Inazuman characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Dream of Evanescent Eternity",
                     "description": "\"It once promised its people a dream: the never-changing 'eternity.'\""
@@ -4433,7 +4532,7 @@
                 "name": "Teyvat Fried Egg",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "3M",
+                "cost": "2M",
                 "description": "Revives the target character and heals that character for 1 HP.<br />(You can only revive 1 character via Food per Round, and a character can consume at most 1 Food per Round)",
                 "splash": {
                     "title": "Teyvat Fried Egg",
@@ -4711,6 +4810,135 @@
                 },
                 "release": {
                     "version": "4.0"
+                }
+            },
+            {
+                "name": "Beneficent",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Yaoyao",
+                "cost": "3D",
+                "description": "<b>Combat Action</b>: When your active character is <b>Yaoyao</b>, equip this card.<br />After Yaoyao equips this card, immediately use <b class=\"text-highlight\">Raphanus Sky Cluster</b> once.<br />When <b>Yuegui: Throwing Mode</b> is created by your Yaoyao, who has this card equipped, and it has only 1 <b>Usage(s)</b> remaining, it deals +1 DMG and healing is increased by 1.<br />(You must have Yaoyao in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Yaoyao: Beneficent",
+                    "description": "\"Pain, pain, go away!\""
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Gales of Reverie",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Wanderer",
+                "cost": "4A",
+                "description": "<b>Combat Action</b>: When your active character is <b>Wanderer</b>, equip this card.<br />After Wanderer equips this card, immediately use <b class=\"text-highlight\">Hanega: Song of the Wind</b> once.<br />When your Wanderer, who has this card equipped, is in <b>Windfavored</b> state and after using <b>Charged Attack</b>: you will spend 1 less Elemental Die the next time you use \"Switch Character\" and deal 1 <b class=\"text-anemo\">Anemo DMG</b>.<br />(You must have Wanderer in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Wanderer: Gales of Reverie",
+                    "description": "\"Squall and fury!\""
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Stalwart and True",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Dehya",
+                "cost": "4P",
+                "description": "<b>Combat Action</b>: When your active character is <b>Dehya</b>, equip this card.<br />After Dehya equips this card, immediately use <b class=\"text-highlight\">Molten Inferno</b> once.<br />End Phase: If your Dehya, who has this card equipped, has no more than 6 HP, heal that character for 2 HP.<br />(You must have Dehya in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Dehya: Stalwart and True",
+                    "description": "\"Don't hold back, let's go!\""
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Moonpiercer",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>When played</b>: When played: The character to which this is attached will spend 2 less Elemental Dice the next time they use an Elemental Skill or equip a Talent card.<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Stillwood Moonshadow: Moonpiercer",
+                    "description": "\"Children fascinated by the moon will weep when they gaze upon it, for the moon has turned into fine sand and entered their eyes. In many stories, no tears are shed in vain.\""
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Crown of Watatsumi",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "1M",
+                "description": "For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br /><b>When this character deals DMG</b>: Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br />(A character can equip a maximum of 1 Artifact)",
+                "splash": {
+                    "title": "Pearl Crown — Crown of Watatsumi",
+                    "description": "\"The people of the sea sing that these crowns of pearls and coral will never be stained by any dirt.\""
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Gandharva Ville",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b>Before you choose your action, when the number of Elemental Dice you have is 0</b>: Create 1 <b>Omni Element</b> (once per Round).",
+                "splash": {
+                    "title": "Gandharva Ville",
+                    "description": "The place where travelers and Forest Rangers meet in joy — the village that listens to the heartbeat of the rainforest."
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Yayoi Nanatsuki",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "1M",
+                "description": "<b>When playing an Artifact card</b>: Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with an Artifact on the field, you spend 1 less Elemental Die (once per Round).",
+                "splash": {
+                    "title": "Art of Lacquerwater: Yayoi Nanatsuki",
+                    "description": "\"If my skill can reach that apex, I am sure that my lacquerware will bear out the pattern of the truth...\""
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Fresh Wind of Freedom",
+                "type": "Event",
+                "subType": "Arcane Legend",
+                "cost": "1M",
+                "description": "<b>In this Round, when an opposing character is defeated during your Action</b>, you can continue to act again when that Action ends.<br /><u>Usage(s)</u>: 1<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+                "splash": {
+                    "title": "Fresh Wind of Freedom",
+                    "description": "\"The heavenly bard brushed the strings of the lyre, summoning forth the gale, dispersing the ice and snow, cleaving the peaks, and making the new Mondstadt the home of freedom.\""
+                },
+                "release": {
+                    "version": "4.1"
+                }
+            },
+            {
+                "name": "Pankration!",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "<b>Can only be played when you have at least 8 Elemental Dice remaining, and your opponent has not yet ended their Round</b>: After a player announces the end of their Round first, the other player, who has yet to announced the end of their Round, draws 2 cards.",
+                "splash": {
+                    "title": "Pankration!",
+                    "description": "\"For victory, Credit Coupons, and the hottest goods in the Rag and Bone Shop... and the freedom that may come someday, strike!\""
+                },
+                "release": {
+                    "version": "4.1"
                 }
             }
         ]
