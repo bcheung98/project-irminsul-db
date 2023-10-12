@@ -646,6 +646,17 @@
                 "Fischl",
                 "Xingqiu"
             ]
+        },
+        "phase2": {
+            "startDate": "October 17, 2023",
+            "endDate": "November 6, 2023",
+            "banner": [
+                "Wriothesley",
+                "Venti",
+                "Chongyun",
+                "Dori",
+                "Thoma"
+            ]
         }
     }
 ]

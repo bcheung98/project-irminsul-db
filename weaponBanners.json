@@ -767,6 +767,19 @@
                 "Favonius Codex",
                 "Portable Power Saw"
             ]
+        },
+        "phase2": {
+            "startDate": "October 17, 2023",
+            "endDate": "November 6, 2023",
+            "banner": [
+                "Cashflow Supervision",
+                "Elegy for the End",
+                "Range Gauge",
+                "Favonius Sword",
+                "Prospector's Drill",
+                "Eye of Perception",
+                "Rainslasher"
+            ]
         }
     }
 ]
