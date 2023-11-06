@@ -1952,6 +1952,105 @@
                 "release": {
                     "version": "4.1"
                 }
+            },
+            {
+                "name": "Baizhu",
+                "fullname": "",
+                "element": "Dendro",
+                "weapon": "Catalyst",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "The Classics of Acupuncture",
+                        "cost": "1D 2U",
+                        "description": "Deals 1 <b class=\"text-dendro\">Dendro DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Universal Diagnosis",
+                        "cost": "3D",
+                        "description": "Deals 1 <b class=\"text-dendro\">Dendro DMG</b>, summons 1 Gossamer Sprite.<br /><br /><b>Gossamer Sprite</b><br >End Phase: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 1"
+                    },
+                    "burst": {
+                        "name": "Holistic Revivification",
+                        "cost": "4D 2N",
+                        "energy": 2,
+                        "description": "Creates 1 Pulsing Clarity and Seamless Shield.<br /><br /><b>Pulsing Clarity</b><br />When Action Phase begins: Create <b>Seamless Shield</b><br /><br /><b>Seamless Shield</b><br />Provides <b>1 Shield</b>, protectingi your active character.<br />When this effect is removed, or generated again: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>, and heal your active character for 1 HP."
+                    }
+                },
+                "splash": {
+                    "title": "\"Beyond Mortality\" Baizhu",
+                    "description": "Living with many maladies, where will one find a cure?"
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "Dori",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Claymore",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Marvelous Sword-Dance (Modified)",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Spirit-Warding Lamp: Troubleshooter Cannon",
+                        "cost": "3E",
+                        "description": "Deals 2 <b class=\"text-electro\">Electro DMG</b>, summons 1 After-Sales Service Rounds.<br /><br /><b>After-Sales Service Rounds</b><br />End Phase: Deal 1 <b class=\"text-electro\">Electro DMG</b><br /><u>Usage(s)</u>: 1"
+                    },
+                    "burst": {
+                        "name": "Alcazarzaray's Exactitude",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <b class=\"text-electro\">Electro DMG</b>, summons 1 Jinni.<br /><br /><b>Jinni</b><br />End Phase: Heal your active character for 2 HP and that character gains 1 Energy.<br /><u>Usage(s)</u>: 2"
+                    }
+                },
+                "splash": {
+                    "title": "\"Treasure of Dream Garden\" Dori",
+                    "description": "The Mora, the merrier!"
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "Nilou",
+                "fullname": "",
+                "element": "Hydro",
+                "weapon": "Sword",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Dance of Samser",
+                        "cost": "1H 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Dance of Haftkarsvar",
+                        "cost": "3H",
+                        "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>, if the party includes <b class=\"text-hydro\">Hydro Characters</b> and <b class=\"text-dendro\">Dendro Characters</b> and characters from no other Elements, create 1 Golden Chalice's Bounty.<br /><br /><b>Golden Chalice's Bounty</b><br />After opponent's characters are affected by the Bloom reaction: Your team no longer generates <b>Dendro Core</b>, but instead summons Bountiful Core.<br /><br /><b>Bountiful Core</b><br />End Phase: Deal 2 <b class=\"text-dendro\">Dendro DMG</b>.<br /><u>Usage(s)</u>: 1 (Can stack, max 3 stacks)<br />When you declare the end of your Round: If this summon has at least 2 Usages remaining, deal 2 <b class=\"text-dendro\">Dendro DMG</b>. (Consumes <u>Usages</u>)"
+                    },
+                    "burst": {
+                        "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. The target character receives Lingering Aeon.<br /><br /><b>Lingering Aeon</b><br />End Phase: Deal 3 <b class=\"text-hydro\">Hydro DMG</b> to affected character.<br /><u>Usage(s)</u>: 1"
+                    }
+                },
+                "splash": {
+                    "title": "\"Dance of Lotuslight\" Nilou",
+                    "description": "Steps floating like lotus petals, emerging from an intoxicating dream."
+                },
+                "release": {
+                    "version": "4.2"
+                }
             }
         ]
     },
@@ -4939,6 +5038,121 @@
                 },
                 "release": {
                     "version": "4.1"
+                }
+            },
+            {
+                "name": "All Things Are of the Earth",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Baizhu",
+                "cost": "4D 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Baizhu</b>, equip this card.<br />After Baizhu equips this card, immediately use <b class=\"text-highlight\">Holistic Revivification</b> once.<br />When your Baizhu, who has this card equipped, is on the field, when <b>Seamless Shield</b> activates a healing effect, generate 1 Elemental Dice of the same type as your active character.<br />(You must have Baizhu in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "\"All Things Are of the Earth\" Baizhu",
+                    "description": "\"If you can perceive the heavens and the earth, defend against malignant auras with the flow of qi, and keep your mind clear, surely nothing can hinder you.\""
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "Discretionary Supplement",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Dori",
+                "cost": "3E 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Dori</b>, equip this card.<br />After Dori equips this card, immediately use <b class=\"text-highlight\">Alcazarzaray's Exactitude</b> once.<br />The <b>Jinni</b> summoned by your Dori who has this card equipped heals 1 more HP when healing characters with no more than 6 HP, and increases the amount of <b>Energy</b> gaine by characters with no <b>Energy</b> by 1 when <b>Energy</b> is gained.<br />(You must have Dori in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "\"Discretionary Supplement\" Dori",
+                    "description": "\"First raise the price by 30%, then sell at a 20% discount!\""
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "The Starry Skies Their Flowers Rain",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Nilou",
+                "cost": "3H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Nilou</b>, equip this card.<br />After Nilou equips this card, immediately use <b class=\"text-highlight\">Dance of Haftkarsvar</b> once.<br />When your Nilou is on the field who has this card equipped, the damage dealt by your <b>Bountiful Core</b> is increased by 1.<br />(You must have Nilou in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "\"The Starry Skies Their Flowers Rain\" Nilou",
+                    "description": "Seven heavens, passing like a radiant stream, as though a dream drawn into being."
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "Ocean-Hued Clam",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3U",
+                "description": "When played: Heal the attached character for 3 HP.<br />For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br />When this character deals DMG: Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Memories of the Deep: Ocean-Hued Clam",
+                    "description": "\"Bringing hopes and memories from the depths, permeating long-lost civilizations and history, these graceful and exquisite crowns slide into the forgotten rifts with their owners.\""
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "Shadow of the Sand King",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "1M",
+                "description": "When played: Draw a card.<br />When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG: Draw a card. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Proxy Generations: Shadow of the Sand King",
+                    "description": "\"Once, the wise mortal king and the clergy received divine oracles personally, and they were the masters of the land.\"<br />\"Today, those who rule as proxies in the oases are the shadows of the gods.\""
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "Stormterror's Lair",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "2M",
+                "description": "When played: Draw a random Talent card from your deck.<br />When you play a Talent card, or when your character uses a Skill with an original cost of at least 4 Elemental Dice: Spend 1 less Elemental Die. (Once per Round)<br /><u>Usage(s)</u>: 3",
+                "splash": {
+                    "title": "Stormterror's Lair",
+                    "description": "The ambitious dream was built proudly upon the capital of the God of Storms, and collapsed to ruin under the lofty song of freedom."
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "In Every House a Stove",
+                "type": "Event",
+                "subType": "Arcane Legend",
+                "cost": "1M",
+                "description": "Draw a number of cards equal to the current Round number. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+                "splash": {
+                    "title": "In Every House a Stove",
+                    "description": "\"The Stove God cared for the people, turning himself into minions who went into every home, fostering food and solidarity alike.\""
+                },
+                "release": {
+                    "version": "4.2"
+                }
+            },
+            {
+                "name": "Lyresong",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "Return an Artifact card equipped by your character to your Hand.<br />During this Round, the next time you play an Artifact card from your hand: Spend 2 less Elemental Dice.",
+                "splash": {
+                    "title": "Lyresong",
+                    "description": "\"The traditions of song and poetry, flowing onward in clear, moving melodies.\""
+                },
+                "release": {
+                    "version": "4.2"
                 }
             }
         ]

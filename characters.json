@@ -7618,5 +7618,217 @@
             "date": "October 17, 2023",
             "version": "4.1" 
         }
+    },
+    {
+        "id": 72,
+        "name": "Charlotte",
+        "fullname": "",
+        "title": "Lens of Verity",
+        "rarity": 4,
+        "element": "Cryo",
+        "arkhe": "Pneuma",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "Cool-Color Capture",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Taking aim at targets using Monsieur Verite, her custom Kamera, Charlotte performs up to 3 consecutive attacks, dealing <b class=\"text-cryo\">Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a fixed amount of Stamina, and after a moment's preparation, will deploy Monsieur Verite to deal <b class=\"text-cryo\">AoE Cryo DMG</b>.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Gathering the power of Cryo, Charlotte plunges toward the ground, dealing DMG to all opponents in her path and dealing <b class=\"text-cryo\">AoE Cryo DMG</b> upon landing.<br /><br /><b class=\"text-highlight\">Arkhe: Pneuma</b><br />At certain intervals, upon using a Charged Attack, Charlotte will cause a Spiritbreath Thorn to descend and pierce opponents, dealing Pneuma-aligned <b class=\"text-cryo\">AoE Cryo DMG</b>.",
+                "scaling": [
+                    ["1-Hit DMG", "49.85%", "53.58%", "57.32%", "62.31%", "66.05%", "69.78%", "74.77%", "79.75%", "84.74%", "89.72%", "94.71%", "99.69%", "105.92%", "112.15%", "118.38%"], ["2-Hit DMG", "43.38%", "46.63%", "49.88%", "54.22%", "57.47%", "60.73%", "65.06%", "69.4%", "73.74%", "78.08%", "82.41%", "86.75%", "92.17%", "97.59%", "103.02%"], ["3-Hit DMG", "64.6%", "69.45%", "74.29%", "80.75%", "85.6%", "90.44%", "96.9%", "103.36%", "109.82%", "116.28%", "122.74%", "129.2%", "137.28%", "145.35%", "153.43%"], ["Charged Attack DMG", "100.51%", "108.05%", "115.59%", "125.64%", "133.18%", "140.72%", "150.77%", "160.82%", "170.87%", "180.92%", "190.97%", "201.02%", "213.59%", "226.15%", "238.72%"], ["Charged Attack Stamina Cost", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"], ["Spiritbreath Thorn DMG", "11.17%", "12.01%", "12.84%", "13.96%", "14.8%", "15.64%", "16.75%", "17.87%", "18.99%", "20.1%", "21.22%", "22.34%", "23.73%", "25.13%", "26.52%"], ["Spiritbreath Thorn DMG Interval", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"]
+                ]
+            },
+            "skill": {
+                "name": "Framing: Freezing Point Composition",
+                "description": "Using the keen instincts of an ace reporter, Charlotte uses her photography skills to produce different effects based on whether the ability is Tapped or Held.<br /><br /><b class=\"text-highlight\">Tap</b><br />Takes a snapshot using Monsieur Verite, dealing <b class=\"text-cryo\">AoE Cryo DMG</b> to opponents in front of her and applying Snappy Silhouette to a maximum of 5 opponents. During this effect's duration, it will deal <b class=\"text-cryo\">Cryo DMG</b> to affected opponents at intervals.<br /><br /><b class=\"text-highlight\">Hold</b><br />Popping Monsieur Verite's viewfinder open, Charlotte enters Composition Mode, and during this time, the viewfinder will expand as you hold until you reach a Finisher Frame state. In this state, Charlotte can move and change direction freely.<br />When the hold state ends, Monsieur Verite will deal <b class=\"text-cryo\">Cryo DMG</b> to all opponents locked on within the viewfinder, and apply the same Snappy Silhouette as Tap Mode does to them. If you unleash this ability only after reaching Finisher Frame, you will instead apply Focused Impression, which lasts longer and deals more DMG, although the Skill CD will be longer.<br />Composition Mode lasts a maximum of 15s and allows a maximum of 5 opponents to be selected.",
+                "scaling": [
+                    ["Photo DMG (Press)", "67.2%", "72.24%", "77.28%", "84%", "89.04%", "94.08%", "100.8%", "107.52%", "114.24%", "120.96%", "127.68%", "134.4%", "142.8%", "151.2%", "159.6%"], ["Photo DMG (Hold)", "139.2%", "149.64%", "160.08%", "174%", "184.44%", "194.88%", "208.8%", "222.72%", "236.64%", "250.56%", "264.48%", "278.4%", "295.8%", "313.2%", "330.6%"], ["\"Snappy Silhouette\" Mark DMG", "39.2%", "42.14%", "45.08%", "49%", "51.94%", "54.88%", "58.8%", "62.72%", "66.64%", "70.56%", "74.48%", "78.4%", "83.3%", "88.2%", "93.1%"], ["\"Snappy Silhouette\" Mark Trigger Interval", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s"], ["\"Snappy Silhouette\" Mark Duration", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"], ["\"Focused Impression\" Mark DMG", "40.6%", "43.65%", "46.69%", "50.75%", "53.79%", "56.84%", "60.9%", "64.96%", "69.02%", "73.08%", "77.14%", "81.2%", "86.27%", "91.35%", "96.43%"], ["\"Focused Impression\" Mark Interval", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s", "1.5s"], ["\"Focused Impression\" Mark Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["Finisher Frame Cast CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"]
+                ],
+                "splash": "\"Press-photography requires simple shots with exceptional theming, but most of all, you need to have a knack for capturing the moment!\""
+            },
+            "burst": {
+                "name": "Still Photo: Comprehensive Confirmation",
+                "description": "Condensing ice to create The Steambird's signature, Charlotte creates a Newsflash Field that will deal <b class=\"text-cryo\">AoE Cryo DMG</b> and restores HP for all party members based on Charlotte's ATK.<br /><br /><b class=\"text-highlight\">Newsflash Field</b><li>While the ability is active, Monsieur Verite will deal <b class=\"text-cryo\">Cryo DMG</b> at intervals to opponents within its AoE.</li><li>Will continuously restore HP to active character(s) within its AoE based on Charlotte's ATK.</li>",
+                "scaling": [
+                    ["Cast Healing", "256.57% ATK + 1608.49", "275.82% ATK + 1769.36", "295.06% ATK + 1943.63", "320.72% ATK + 2131.32", "339.96% ATK + 2332.41", "359.2% ATK + 2546.9", "384.86% ATK + 2774.8", "410.52% ATK + 3016.11", "436.17% ATK + 3270.82", "461.83% ATK + 3538.94", "487.49% ATK + 3820.46", "513.15% ATK + 4115.39", "545.22% ATK + 4423.73", "577.29% ATK + 4745.47", "609.36% ATK + 5080.62"], ["Skill DMG", "77.62%", "83.44%", "89.26%", "97.02%", "102.84%", "108.66%", "116.42%", "124.19%", "131.95%", "139.71%", "147.47%", "155.23%", "164.93%", "174.64%", "184.34%"], ["Kamera Continuous Regeneration", "9.22% ATK + 57.45", "9.91% ATK + 63.19", "10.6% ATK + 69.42", "11.52% ATK + 76.12", "12.21% ATK + 83.3", "12.9% ATK + 90.96", "13.82% ATK + 99.1", "14.75% ATK + 107.72", "15.67% ATK + 116.82", "16.59% ATK + 126.39", "17.51% ATK + 136.45", "18.43% ATK + 146.98", "19.58% ATK + 157.99", "20.74% ATK + 169.48", "21.89% ATK + 181.45"], ["Kamera DMG", "6.47%", "6.95%", "7.44%", "8.08%", "8.57%", "9.06%", "9.7%", "10.35%", "11%", "11.64%", "12.29%", "12.94%", "13.74%", "14.55%", "15.36%"], ["Newsflash Field Duration", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s", "4s"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"], ["Energy Cost", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80", "80"]
+                ],
+                "splash": "\"Hearing stories from multiple perspectives to recreate what really happened is key to a good report... I mean, that's how you can pick the best angle for your article!\""
+            },
+            "a1passive": {
+                "name": "Moment of Impact",
+                "description": "When opponents marked by \"Focused Impression\" are defeated, <b class=\"text-highlight\">Framing: Freezing Point Composition</b>'s CD will be decreased by 2s. This CD decrease can be triggered 4 times every 12s."
+            },
+            "a4passive": {
+                "name": "Diversity Investigation",
+                "description": "When the party contains 1/2/3 Fontainians other than herself, Charlotte gains a 5%/10%/15% Healing Bonus. When the party contains 1/2/3 non-Fontainians, Charlotte gains a 5%/10%/15% <b class=\"text-cryo\">Cryo DMG</b> Bonus."
+            },
+            "utilpassive": {
+                "name": "First-Person Shutter",
+                "description": "After equipping the Special Analysis Zoom Lens, Charlotte's <b class=\"text-highlight\">Framing: Freezing Point Composition</b>'s Hold Mode cannot trigger its original effects, but you can now take photos in a more special way..."
+            }
+        },
+        "constellation": {
+            "name": "Hualina Veritas",
+            "c1": {
+                "name": "A Need to Verify Facts",
+                "description": "After <b class=\"text-highlight\">Still Photo: Comprehensive Confirmation</b> heals a character, it will mark them with Verification, which will heal them once every 2s for 80% of Charlotte's ATK. This effect lasts 6s."
+            },
+            "c2": {
+                "name": "A Duty to Pursue Truth",
+                "description": "When using <b class=\"text-highlight\">Framing: Freezing Point Composition</b>, when Monsieur Verite hits 1/2/3 (or more) opponents, Charlotte's own attack will be increased by 10%/20%/30% for 12s."
+            },
+            "c3": {
+                "name": "An Imperative to Independence",
+                "description": "Increases the Level of <b class=\"text-highlight\">Still Photo: Comprehensive Confirmation</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "A Responsibility to Oversee",
+                "description": "When <b class=\"text-highlight\">Still Photo: Comprehensive Confirmation</b> hits an opponent marked by Speedy Silhouette or Focused Impression, it will deal 10% more DMG and restore 2 Energy to Charlotte. This restoration can be triggered 5 times every 20s."
+            },
+            "c5": {
+                "name": "A Principle of Conscience",
+                "description": "Increases the Level of <b class=\"text-highlight\">Framing: Freezing Point Composition</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "A Summation of Interest",
+                "description": "When the active character's Normal and Charged Attacks hit an opponent marked by <b class=\"text-highlight\">Framing: Freezing Point Composition</b>'s Focused Impression, Monsieur Verite will initiate a follow-up attack that deals 180% of Charlotte's ATK as <b class=\"text-cryo\">AoE Cryo DMG</b> and heals active character(s) within the AoE for 42% of Charlotte's ATK. This effect can be triggered once every 6s, and both DMG and healing done this way will be considered as having been done by Charlotte's Elemental Burst."
+            }
+        },
+        "stats": {
+            "ascensionStat": "ATK",
+            "hp": [903, 2319, 2993, 4484, 4963, 5708, 6347, 7093, 7572, 8317, 8796, 9541, 10021, 10766],
+            "atk": [15, 37, 48, 72, 80, 92, 102, 114, 122, 134, 141, 153, 161, 173],
+            "def": [46, 118, 152, 227, 252, 290, 322, 360, 384, 422, 446, 484, 508, 546]
+        },
+        "materials": {
+            "talentBook": "Justice",
+            "bossMat": "Tubion Device",
+            "localMat": "Beryl Conch",
+            "commonMat": "Gear",
+            "weeklyBossMat": "Lightless Silk String"
+        },
+        "description": "Indefatigable reporter of The Steambird, constantly on the hunt for the \"truth.\"",
+        "birthday": "April 10",
+        "gender": "Female",
+        "nation": "Fontaine",
+        "outfits": [
+            {
+                "name": "\"All Is Overt Through My Lens\"",
+                "rarity": 4,
+                "description": "Charlotte's outfit. \"If your reporting isn't real enough, it's because you're not close enough.\" Charlotte often has this to say about journalism. Sometimes, however, she adds: \"But of course, maybe it's that the lens you're using just isn't that great.\""
+            }
+        ],
+        "voiceActors": {
+            "en": "Maya Aoki Tuttle",
+            "jp": "Azumi Waki (和氣 あず未)"
+        },
+        "release": {
+            "date": "November 8, 2023",
+            "version": "4.2" 
+        }
+    },
+    {
+        "id": 73,
+        "name": "Furina",
+        "fullname": "",
+        "title": "Endless Solo of Solitude",
+        "rarity": 5,
+        "element": "Hydro",
+        "arkhe": "Ousia",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Soloist's Solicitation",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or Singers of the Streams summoned by her Elemental Skill \"Salon Solitaire\" are present, their lineup will switch in response.<br /><br /><b class=\"text-highlight\">Arkhe: Seats Sacred and Secular</b><br />At intervals, when Furina's Normal Attacks hit, a Surging Blade or a Spiritbreath Thorn will descend based on her current alignment, dealing <b class=\"text-hydro\">Hydro DMG</b> based on her current alignment.<br />When Furina takes the field, her starting Arkhe will be Ousia.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "48.39%", "52.32%", "56.26%", "61.89%", "65.83%", "70.33%", "76.52%", "82.71%", "88.9%", "95.65%", "102.4%", "109.15%", "115.9%", "122.65%", "129.4%"], ["2-Hit DMG", "43.73%", "47.29%", "50.85%", "55.93%", "59.49%", "63.56%", "69.15%", "74.75%", "80.34%", "86.44%", "92.54%", "98.65%", "104.75%", "110.85%", "116.95%"], ["3-Hit DMG", "55.12%", "59.61%", "64.09%", "70.5%", "74.99%", "80.12%", "87.17%", "94.22%", "101.27%", "108.96%", "116.65%", "124.34%", "132.03%", "139.72%", "147.41%"], ["4-Hit DMG", "73.3%", "79.26%", "85.23%", "93.75%", "99.72%", "106.54%", "115.91%", "125.29%", "134.66%", "144.89%", "155.12%", "165.35%", "175.57%", "185.8%", "196.03%"], ["Charged Attack DMG", "74.22%", "80.26%", "86.3%", "94.93%", "100.97%", "107.88%", "117.37%", "126.86%", "136.35%", "146.71%", "157.07%", "167.42%", "177.78%", "188.13%", "198.49%"], ["Charged Attack Stamina Cost", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"], ["Spiritbreath Thorn/Surging Blade DMG", "9.46%", "10.23%", "11%", "12.1%", "12.87%", "13.75%", "14.96%", "16.17%", "17.38%", "18.7%", "20.02%", "21.34%", "22.66%", "23.98%", "25.3%"], ["Spiritbreath Thorn/Surging Blade DMG Interval", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s", "6s / 6s"]
+                ]
+            },
+            "skill": {
+                "name": "Salon Solitaire",
+                "description": "Invites the guests of the Salon Solitaire to come forth and abet in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current <b class=\"text-highlight\">Arkhe alignment</b>.<br /><br /><b class=\"text-highlight\">Ousia</b><br />Foaming bubbles like celebrants shall dance, dealing <b class=\"text-hydro\">AoE Hydro DMG</b> based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.<br />They will attack nearby opponents at intervals, prioritizing the target of the active character, dealing <b class=\"text-hydro\">Hydro DMG</b> based on Max HP.<br />When they attack, if character(s) with more than 50% HP are nearby, the Members will increase their current attack's power based on the number of such characters, and consume said characters' HP. If the characters who meet these requirements are 1/2/3/4 (or more), the Members' attacks will deal 110%/120%/130%/140% of their original DMG.<br /><br /><b class=\"text-highlight\">Pneuma</b><br />Summons the Singer of Many Waters, who will heal nearby active character(s) based on Max HP at intervals.<br /><br />The Salon Members and Singer of Many Waters share a duration, and when Furina uses her Charged Attack to change the guest type, the new guests will inherit the initial duration.<br />While the Salon Members and the Singer of Many Waters are on the field, Furina can move on the water's surface.",
+                "scaling": [
+                    ["Ousia Bubble DMG", "7.86% Max HP", "8.45% Max HP", "9.04% Max HP", "9.83% Max HP", "10.42% Max HP", "11.01% Max HP", "11.8% Max HP", "12.58% Max HP", "13.37% Max HP", "14.16% Max HP", "14.94% Max HP", "15.73% Max HP", "16.71% Max HP", "17.69% Max HP", "18.68% Max HP"], ["Duration", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s", "30s"], ["Gentilhomme Usher DMG", "5.96% Max HP", "6.41% Max HP", "6.85% Max HP", "7.45% Max HP", "7.9% Max HP", "8.34% Max HP", "8.94% Max HP", "9.54% Max HP", "10.13% Max HP", "10.73% Max HP", "11.32% Max HP", "11.92% Max HP", "12.67% Max HP", "13.41% Max HP", "14.16% Max HP"], ["Surintendante Chevalmarin DMG", "3.23% Max HP", "3.47% Max HP", "3.72% Max HP", "4.04% Max HP", "4.28% Max HP", "4.52% Max HP", "4.85% Max HP", "5.17% Max HP", "5.49% Max HP", "5.82% Max HP", "6.14% Max HP", "6.46% Max HP", "6.87% Max HP", "7.27% Max HP", "7.68% Max HP"], ["Mademoiselle Crabaletta DMG", "8.29% Max HP", "8.91% Max HP", "9.53% Max HP", "10.36% Max HP", "10.98% Max HP", "11.6% Max HP", "12.43% Max HP", "13.26% Max HP", "14.09% Max HP", "14.92% Max HP", "15.75% Max HP", "16.58% Max HP", "17.61% Max HP", "18.65% Max HP", "19.68% Max HP"], ["Gentilhomme Usher HP Consumption", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP", "2.4% Max HP"], ["Surintendante Chevalmarin HP Consumption", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP", "1.6% Max HP"], ["Mademoiselle Crabaletta HP Consumption", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP", "3.6% Max HP"], ["Singer of Many Waters Healing", "4.8% Max HP + 462.23", "5.16% Max HP + 508.45", "5.52% Max HP + 558.54", "6% Max HP + 612.47", "6.36% Max HP + 670.26", "6.72% Max HP + 731.89", "7.2% Max HP + 797.39", "7.68% Max HP + 866.73", "8.16% Max HP + 939.92", "8.64% Max HP + 1016.97", "9.12% Max HP + 1097.87", "9.6% Max HP + 1182.63", "10.2% Max HP + 1271.23", "10.8% Max HP + 1363.69", "11.4% Max HP + 1460"], ["CD", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s", "20s"]
+                ],
+                "splash": "A fixed roster of regulars frequent Furina's Salon Solitaire. At other times, Mademoiselle Crabaletta, Surintendante Chevalmarin, and Gentilhomme Usher shall visit, and on gloomy Wednesdays, it is the singers who come by."
+            },
+            "burst": {
+                "name": "Let the People Rejoice",
+                "description": "Rouses the impulse to revel, creating a stage of foam that will deal <b class=\"text-hydro\">AoE Hydro DMG</b> based on Furina's Max HP and cause nearby party members to enter the Universal Revelry state: During this time, when nearby party members' HP increases or decreases, 1 Fanfare point will be granted to Furina for each percentage point of their Max HP by which their HP changes.<br />At the same time, Furina will increase the DMG dealt by and Incoming Healing Bonus of all nearby party members based on the amount of Fanfare she has.<br />When the duration ends, Furina's Fanfare points will be cleared.",
+                "scaling": [
+                    ["Skill DMG", "11.41% Max HP", "12.26% Max HP", "13.12% Max HP", "14.26% Max HP", "15.11% Max HP", "15.97% Max HP", "17.11% Max HP", "18.25% Max HP", "19.39% Max HP", "20.53% Max HP", "21.67% Max HP", "22.81% Max HP", "24.24% Max HP", "25.66% Max HP", "27.09% Max HP"], ["Duration", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["Maximum Fanfare", "300", "300", "300", "300", "300", "300", "300", "300", "300", "300", "300", "300", "300", "300", "300"], ["Fanfare to DMG Increase Conversion Ratio", "0.07%", "0.09%", "0.11%", "0.13%", "0.15%", "0.17%", "0.19%", "0.21%", "0.23%", "0.25%", "0.27%", "0.29%", "0.31%", "0.33%", "0.35%"], ["Fanfare to Incoming Healing Bonus Conversion Ratio", "0.01%", "0.02%", "0.03%", "0.04%", "0.05%", "0.06%", "0.07%", "0.08%", "0.09%", "0.1%", "0.11%", "0.12%", "0.13%", "0.14%", "0.15%"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "\"Cheer! Give praise! Be awed! Raise your glasses! Every night bereft of banqueting is a sordid squandering of sore, sober daylight... And, uh, those who are not yet of age may have grape juice instead!\""
+            },
+            "a1passive": {
+                "name": "Endless Waltz",
+                "description": "When the active character in your party receives healing, if the source of the healing is not Furina herself and the healing overflows, then Furina will heal a nearby party member for 2% of their Max HP once every 2s within the next 4s."
+            },
+            "a4passive": {
+                "name": "Unheard Confession",
+                "description": "Every 1,000 points of Furina's Max HP can buff the different Arkhe-aligned <b class=\"text-highlight\">Salon Solitaire</b> in the following ways:<br />Will increase Salon Member DMG dealt by 0.7%, up to a maximum of 28%.</br>Will decrease active character healing interval of the Singer of Many Waters by 0.4%, up to a maximum of 16%."
+            },
+            "utilpassive": {
+                "name": "The Sea is My Stage",
+                "description": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%."
+            }
+        },
+        "constellation": {
+            "name": "Animula Choragi",
+            "c1": {
+                "name": "\"Love Is a Rebellious Bird That None Can Tame\"",
+                "description": "When using <b class=\"text-highlight\">Let the People Rejoice</b>, Furina will gain 150 Fanfare.<br />Additionally, Furina's Fanfare limit is increased by 100."
+            },
+            "c2": {
+                "name": "\"A Woman Adapts Like Duckweed in Water\"",
+                "description": "While <b class=\"text-highlight\">Let the People Rejoice</b> lasts, Furina's Fanfare gain from increases or decreases in nearby characters' HP is increased by 250%. Each point of Fanfare above the limit will increase Furina's Max HP by 0.35%. Her maximum Max HP increase is 140%."
+            },
+            "c3": {
+                "name": "\"My Secret Is Hidden Within Me, No One Will Know My Name\"",
+                "description": "Increases the Level of <b class=\"text-highlight\">Let the People Rejoice</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "\"They Know Not Life, Who Dwelt in the Netherworld Not!\"",
+                "description": "When the Salon Members from <b class=\"text-highlight\">Salon Solitaire</b> hit an opponent, or the Singer of Many Waters restores HP to the active character, Furina will restore 4 Energy. This effect triggers once every 5s."
+            },
+            "c5": {
+                "name": "\"His Name I Now Know, It Is...!\"",
+                "description": "Increases the Level of <b class=\"text-highlight\">Salon Solitaire</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "\"Hear Me — Let Us Raise the Chalice of Love!\"",
+                "description": "When using <b class=\"text-highlight\">Salon Solitaire</b>, Furina gains \"Center of Attention\" for 10s.<br />Throughout the duration, Furina's Normal Attacks, Charged Attacks, and Plunging Attacks are converted into <b class=\"text-hydro\">Hydro DMG</b> which cannot be overridden by any other elemental infusion. DMG is also increased by an amount equivalent to 15% of Furina's max HP.<br />Throughout the duration, Furina's Normal Attacks (not including Arkhe: Seats Sacred and Secular Attacks), Charged Attacks, and Plunging Attacks will cause different effects up to every 0.1s after hitting opponents depending on her current Arkhe alignment:<br /><br />Arkhe: Ousia<br />Every 1s, all nearby characters in the party will be healed by 4% of Furina's max HP, for a duration of 2.9s. Triggering this effect again will extend its duration.<br />Arkhe: Pneuma<br />This Normal Attack, Charged Attack, or Plunging Attack ground impact DMG will be further increased by an amount equivalent to 25% of Furina's max HP. When any of the attacks mentioned previously hit an opponent, all nearby characters in the party will consume 1% of their current HP.<br /><br />During the duration of each instance of \"Center of Attention\", the above effects can be triggered up to 6 times. \"Center of Attention\" will end when its effects have triggered 6 times or when the duration expires."
+            }
+        },
+        "stats": {
+            "ascensionStat": "CRIT Rate",
+            "hp": [1192, 3091, 4113, 6154, 6880, 7916, 8884, 9930, 10656, 11712, 12438, 13505, 14231, 15307],
+            "atk": [19, 49, 66, 98, 110, 126, 142, 158, 170, 187, 198, 215, 227, 244],
+            "def": [54, 140, 187, 280, 313, 360, 404, 451, 484, 532, 565, 614, 647, 696]
+        },
+        "materials": {
+            "talentBook": "Justice",
+            "bossMat": "Water That Failed To Transcend",
+            "localMat": "Lakelight Lily",
+            "commonMat": "Nectar",
+            "weeklyBossMat": "Lightless Mass"
+        },
+        "description": "The absolute focus of the stage of judgment, until the final applause sounds.",
+        "birthday": "October 13",
+        "gender": "Female",
+        "nation": "Fontaine",
+        "outfits": [
+            {
+                "name": "Coronated Prima Donna",
+                "rarity": 4,
+                "description": "Furina's outfit. When the curtain rises, the star of the show is meant to shine bright on the stage, and even gorgeous costumes adorned with diamonds pale in comparison to her own dazzling brilliance."
+            }
+        ],
+        "voiceActors": {
+            "en": "Amber Lee Connors",
+            "jp": "Inori Minase (水瀬 いのり)"
+        },
+        "release": {
+            "date": "November 8, 2023",
+            "version": "4.2" 
+        }
     }
 ]

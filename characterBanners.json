@@ -649,13 +649,27 @@
         },
         "phase2": {
             "startDate": "October 17, 2023",
-            "endDate": "November 6, 2023",
+            "endDate": "November 7, 2023",
             "banner": [
                 "Wriothesley",
                 "Venti",
                 "Chongyun",
                 "Dori",
                 "Thoma"
+            ]
+        }
+    },
+    {
+        "version": "4.2",
+        "phase1": {
+            "startDate": "November 8, 2023",
+            "endDate": "November 28, 2023",
+            "banner": [
+                "Furina",
+                "Baizhu",
+                "Beidou",
+                "Charlotte",
+                "Collei"
             ]
         }
     }
