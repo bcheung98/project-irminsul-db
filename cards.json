@@ -439,9 +439,9 @@
                     },
                     "burst": {
                         "name": "Dandelion Breeze",
-                        "cost": "4A 3N",
-                        "energy": 3,
-                        "description": "Heals all your characters for 2 HP, summons 1 Dandelion Field.<br /><br /><b>Dandelion Field</b><br />End Phase: Deal 2 <b class=\"text-anemo\">Anemo DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
+                        "cost": "4A 2N",
+                        "energy": 2,
+                        "description": "Heals all your characters for 2 HP, summons 1 Dandelion Field.<br /><br /><b>Dandelion Field</b><br />End Phase: Deal 1 <b class=\"text-anemo\">Anemo DMG</b>, heal your active character for 1 HP.<br /><u>Usage(s)</u>: 2"
                     }
                 },
                 "splash": {
@@ -752,7 +752,7 @@
                         "name": "Tide and Torrent",
                         "cost": "3H 3N",
                         "energy": 3,
-                        "description": "Deals 2 <b class=\"text-hydro\">Hydro DMG</b>. For each friendly Summon on the field, deals +2 additional DMG."
+                        "description": "Deals 4 <b class=\"text-hydro\">Hydro DMG</b>. For each friendly Summon on the field, deals +1 additional DMG."
                     }
                 },
                 "splash": {
@@ -1156,7 +1156,7 @@
                         "name": "Royal Descent: Behold, Itto the Evil!",
                         "cost": "3G 3N",
                         "energy": 3,
-                        "description": "Deals 5 <b class=\"text-geo\">Geo DMG</b>. This character gains Raging Oni King.<br /><br /><b>Raging Oni King</b><br />The character to which this is attached has their <b>Normal Attacks</b> deal +2 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2<br />After the character to which this attached uses a Normal Attack: Gains <b>Superlative Superstrength</b>. (Once per Round)"
+                        "description": "Deals 4 <b class=\"text-geo\">Geo DMG</b>. This character gains Raging Oni King.<br /><br /><b>Raging Oni King</b><br />The character to which this is attached has their <b>Normal Attacks</b> deal +1 DMG, and their <b>Physical DMG</b> dealt converted to <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2<br />After the character to which this attached uses a Normal Attack: Gains <b>Superlative Superstrength</b>. (Once per Round)"
                     }
                 },
                 "splash": {
@@ -1498,7 +1498,7 @@
                     "skill": {
                         "name": "Spring Spirit Summoning",
                         "cost": "3C",
-                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 <b>Icy Quill</b>.<br /><br /><b>Icy Quill</b><br />Your character deals 1 increased <b class=\"text-cryo\">Cryo DMG</b> (Includes the DMG triggered by <b class=\"text-cryo\">Cryo-infused</b> Swirl reactions)<br /><u>Usage(s)</u>: 3"
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, creates 1 <b>Icy Quill</b>.<br /><br /><b>Icy Quill</b><br />Your character deals 1 increased <b class=\"text-cryo\">Cryo DMG</b> (Includes the DMG triggered by <b class=\"text-cryo\">Cryo-infused</b> Swirl reactions)<br /><u>Usage(s)</u>: 2"
                     },
                     "burst": {
                         "name": "Divine Maiden's Deliverance",
@@ -1705,13 +1705,13 @@
                     "skill": {
                         "name": "Signed Edict",
                         "cost": "3P",
-                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b> and attaches <b>Scarlet Seal</b> to this character.<br /><br /><b>Scarlet Seal</b><br />When the character uses a Charged Attack: Damage dealt +2.<br /><u>Usage(s)</u>: 1"
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b> and attaches <b>Scarlet Seal</b> to this character.<br /><br /><b>Scarlet Seal</b><br />When the character uses a Charged Attack: Damage dealt +2.<br /><u>Usage(s)</u>: 1. (Can stack up to 2 times)"
                     },
                     "burst": {
                         "name": "Done Deal",
                         "cost": "3P 2N",
                         "energy": 2,
-                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, attaches <b>Scarlet Seal</b> and <b>Brilliance</b> to this character.<br /><br /><b>Scarlet Seal</b><br />When the character uses a Charged Attack: Damage dealt +2.<br /><u>Usage(s)</u>: 1<br /><br /><b>Brilliance</b><br />When the character uses a Charged Attack: Spend 1 less <b class=\"text-pyro\">Pyro</b> Die. (Once every round.)<br />End Phase: Attach <b>Scarlet Seal</b> to this character.<br /><u>Duration (Rounds)</u>: 2"
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, attaches <b>Scarlet Seal</b> and <b>Brilliance</b> to this character.<br /><br /><b>Scarlet Seal</b><br />When the character uses a Charged Attack: Damage dealt +2.<br /><u>Usage(s)</u>: 1 (Can stack up to 2 times)<br /><br /><b>Brilliance</b><br />When the character uses a Charged Attack: Spend 1 less <b class=\"text-pyro\">Pyro</b> Die. (Once every round.)<br />End Phase: Attach <b>Scarlet Seal</b> to this character.<br /><u>Duration (Rounds)</u>: 2"
                     }
                 },
                 "splash": {
@@ -2104,8 +2104,8 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Razor",
-                "cost": "4E",
-                "description": "<b>Combat Action</b>: When your active character is <b>Razor</b>, equip this card.<br />After Razor equips this card, immediately use <b class=\"text-highlight\">Claw and Thunder</b> once.<br />After your Razor, who has this card equipped, uses <b>Claw and Thunder</b>: 1 of your Electro characters gains 1 Energy. (Active Character prioritized)<br />(You must have Razor in your deck to add this card to your deck.)",
+                "cost": "3E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Razor</b>, equip this card.<br />After Razor equips this card, immediately use <b class=\"text-highlight\">Claw and Thunder</b> once.<br />After your Razor, who has this card equipped, uses <b>Claw and Thunder</b>: 1 of your Electro characters gains 1 Energy. (One per Round, active Character prioritized)<br />(You must have Razor in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Razor: Awakening",
                     "description": "The hunt is about to begin."
@@ -2191,7 +2191,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Xiangling",
-                "cost": "4P",
+                "cost": "3P",
                 "description": "<b>Combat Action</b>: When your active character is <b>Xiangling</b>, equip this card.<br />After Xiangling equips this card, immediately use <b class=\"text-highlight\">Guoba Attack</b> once.<br />When your Xiangling, who has this card equipped, uses <b>Guoba Attack</b>, she will also deal 1 <b class=\"text-pyro\">Pyro DMG</b>. (Once per Round)<br />(You must have Xiangling in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Xiangling: Crossfire",
@@ -2235,7 +2235,7 @@
                 "subType": "Talent",
                 "character": "Cyno",
                 "cost": "3E",
-                "description": "<b>Combat Action</b>: When your active character is <b>Cyno</b>, equip this card.<br />After Cyno equips this card, immediately use <b class=\"text-highlight\">Secret Rite: Chasmic Soulfarer</b> once.<br />When your Cyno, who has this card equipped, uses <b>Secret Rite: Chasmic Soulfarer</b> with 3 or 5 levels of <b>Pactsworn Pathclearer</b>'s Indwelling effect, deal +1 additional DMG. (Once per Round)<br />(You must have Cyno in your deck to add this card to your deck.)",
+                "description": "<b>Combat Action</b>: When your active character is <b>Cyno</b>, equip this card.<br />After Cyno equips this card, immediately use <b class=\"text-highlight\">Secret Rite: Chasmic Soulfarer</b> once.<br />When your Cyno, who has this card equipped, uses <b>Secret Rite: Chasmic Soulfarer</b> while having an even number of levels of <b>Pactsworn Pathclearer</b>'s Indwelling effect, deal +1 DMG.<br />(You must have Cyno in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Cyno: Featherfall Judgment",
                     "description": "\"This is my duel soul.\""
@@ -2293,7 +2293,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Barbara",
-                "cost": "4H",
+                "cost": "3H",
                 "description": "<b>Combat Action</b>: When your active character is <b>Barbara</b>, equip this card.<br />After Barbara equips this card, immediately use <b class=\"text-highlight\">Let the Show Begin♪</b> once.<br />When your Barbara, who has this card equipped, is on the field, <b>Melody Loop</b> will allow you to spend 1 less Elemental Die the next time you use \"Switch Character\". (Once per Round)<br />(You must have Barbara in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Barbara: Glorious Season",
@@ -2381,7 +2381,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Jean",
-                "cost": "4A 3N",
+                "cost": "4A 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Jean</b>, equip this card.<br />After Jean equips this card, immediately use <b class=\"text-highlight\">Dandelion Breeze</b> once.<br />When your Jean, who has this card equipped, is on the field, <b>Dandelion Field</b> will cause you to deal +1 <b class=\"text-anemo\">Anemo DMG</b>.<br />(You must have Jean in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Jean: Lands of Dandelion",
@@ -2411,7 +2411,7 @@
                 "subType": "Talent",
                 "character": "Beidou",
                 "cost": "3E",
-                "description": "<b>Combat Action</b>: When your active character is <b>Beidou</b>, equip this card.<br />After Beidou equips this card, immediately use <b class=\"text-highlight\">Tidecaller</b> once.<br />When your Beidou, who has this card equipped, uses <b>Wavestrider</b>: If DMG is taken while Prepare Skill is active, Beidou's Normal Attacks this Round will cost 1 less Unaligned Element. (Can be triggered 2 times)<br />(You must have Beidou in your deck to add this card to your deck.)",
+                "description": "<b>Combat Action</b>: When your active character is <b>Beidou</b>, equip this card.<br />After Beidou equips this card, immediately use <b class=\"text-highlight\">Tidecaller</b> once.<br />After Beidou, who has this card equipped, uses <b>Wavestrider</b>: Beidou's Normal Attacks this Round will cost 1 less Unaligned Element. (Can be triggered 2 times)<br />(You must have Beidou in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Beidou: Lightning Storm",
                     "description": "Rumbling thunder goes well with lightning storms!"
@@ -2481,7 +2481,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Mirror Maiden",
-                "cost": "4H",
+                "cost": "3H",
                 "description": "<b>Combat Action</b>: When your active character is <b>Mirror Maiden</b>, equip this card.<br />After Mirror Maiden equips this card, immediately use <b class=\"text-highlight\">Influx Blast</b> once.<br />When your Mirror Maiden, who has this card equipped, creates a <b>Refraction</b>, it will have the following effects: Starting <u>Duration (Rounds)</u> +1, will increase the Elemental Dice Cost of switching from a character to which this is attched to another character by 1.<br />(You must have Mirror Maiden in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "The Mirror's Secret",
@@ -2497,7 +2497,7 @@
                 "subType": "Talent",
                 "character": "Yoimiya",
                 "cost": "2P",
-                "description": "<b>Combat Action</b>: When your active character is <b>Yoimiya</b>, equip this card.<br />After Yoimiya equips this card, immediately use <b class=\"text-highlight\">Niwabi Fire-Dance</b> once.<br />After your Yoimiya, who has this card equipped, triggers <b>Niwabi Enshou</b>: Deal 1 additional <b class=\"text-pyro\">Pyro DMG</b>.<br />(You must have Yoimiya in your deck to add this card to your deck.)",
+                "description": "<b>Combat Action</b>: When your active character is <b>Yoimiya</b>, equip this card.<br />After Yoimiya equips this card, immediately use <b class=\"text-highlight\">Niwabi Fire-Dance</b> once.<br />The <b>Niwabi Enshou</b> generated by your Yoimiya, who has the card equipped, gains +1 initial <u>Usage(s)</u>.<br />(You must have Yoimiya in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Yoimiya: Naganohara Meteor Swarm",
                     "description": "Naganohara Ideal Firework Reserve Theory."
@@ -2698,8 +2698,8 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Chongyun",
-                "cost": "4C",
-                "description": "<b>Combat Action</b>: When your active character is <b>Chongyun</b>, equip this card.<br />After Chongyun equips this card, immediately use <b class=\"text-highlight\">Chonghua's Layered Frost</b> once.<br />When your Chongyun, who has this card equipped, creates a <b>Chonghua Frost Field</b>, it will have the following effects: Starting <u>Duration (Rounds)</u> +1, will cause your Sword, Claymore, and Polearm-wielding charactes' <b>Normal Attacks</b> to deal +1 DMG.<br />(You must have Chongyun in your deck to add this card to your deck.)",
+                "cost": "3C",
+                "description": "<b>Combat Action</b>: When your active character is <b>Chongyun</b>, equip this card.<br />After Chongyun equips this card, immediately use <b class=\"text-highlight\">Chonghua's Layered Frost</b> once.<br />When your Chongyun, who has this card equipped, creates a <b>Chonghua Frost Field</b>, it will have the following effects: Your Sword, Claymore, and Polearm-wielding charactes' <b>Normal Attacks</b> deal +1 DMG.<br />(You must have Chongyun in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Chongyun: Steady Breathing",
                     "description": "Steady breathing makes a steady heart."
@@ -2773,8 +2773,8 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Xingqiu",
-                "cost": "4H",
-                "description": "<b>Combat Action</b>: When your active character is <b>Xingqiu</b>, equip this card.<br />After Xingqiu equips this card, immediately use <b class=\"text-highlight\">Fatal Rainscreen</b> once.<br />When your Xingqiu, who has this card equipped, creates a <b>Rain Sword</b>, its starting <b>Usage(s)</b> +1.<br />(You must have Xingqiu in your deck to add this card to your deck.)",
+                "cost": "3H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Xingqiu</b>, equip this card.<br />After Xingqiu equips this card, immediately use <b class=\"text-highlight\">Fatal Rainscreen</b> once.<br />When your Xingqiu has this card equipped, the <b>Rain Sword</b> created can block DMG of at least 2 and its starting <b>Usage(s)</b> +1.<br />(You must have Xingqiu in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Xingqiu: The Scent Remained",
                     "description": "His penmanship leaves quite the impression."
@@ -3815,7 +3815,7 @@
                 "subType": "Talent",
                 "character": "Kokomi",
                 "cost": "3H 2N",
-                "description": "<b>Combat Action</b>: When your active character is <b>Kokomi</b>, equip this card.<br />After Kokomi equips this card, immediately use <b class=\"text-highlight\">Nereid's Ascension</b> once.<br />When your Kokomi, who has this card equipped, uses <b>Nereid's Ascension</b>: If <b>Bake-Kurage</b> is on the field, its <u>Usage(s)</u> will be refreshed.<br />While <b>Ceremonial Garment</b> exists, <b>Bake-Kurage</b> deals +1 DMG.<br />(You must have Kokomi in your deck to add this card to your deck.)",
+                "description": "<b>Combat Action</b>: When your active character is <b>Kokomi</b>, equip this card.<br />After Kokomi equips this card, immediately use <b class=\"text-highlight\">Nereid's Ascension</b> once.<br />When your Kokomi, who has this card equipped, uses <b>Nereid's Ascension</b>: Summon a <b>Bake-Kurage</b> with a <u>Usage(s)</u> of 1; if <b>Bake-Kurage</b> is already on the field, then increase its <u>Usage(s)</u> by 1 instead.<br />While <b>Ceremonial Garment</b> exists, <b>Bake-Kurage</b> deals +1 DMG.<br />(You must have Kokomi in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Sangonomiya Kokomi: Tamanooya's Casket",
                     "description": "Wisdom yet revealed from the casket parallels tides yet unfolded by the sea."
@@ -3829,8 +3829,8 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Sara",
-                "cost": "4E 2N",
-                "description": "<b>Combat Action</b>: When your active character is <b>Sara</b>, equip this card.<br />After Sara equips this card, immediately use <b class=\"text-highlight\">Subjugation: Koukou Sendou</b> once.<br />When Sara is active and has this card equipped, all allied <b class=\"text-electro\">Electro</b> characters with <b>Crowfeather Cover</b> will deal +1 additional <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br />(You must have Sara in your deck to add this card to your deck.)",
+                "cost": "3E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Sara</b>, equip this card.<br />After Sara equips this card, immediately use <b class=\"text-highlight\">Tengu Stormcall</b> once.<br />When Sara is active and has this card equipped, all allied <b class=\"text-electro\">Electro</b> characters with <b>Crowfeather Cover</b> will deal +1 additional <b>Elemental Skill</b> and <b>Elemental Burst</b> DMG.<br />(You must have Sara in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Kujou Sara: Sin of Pride",
                     "description": "\"With this unity between my mind, arrow, and bow, any enemy will be struck down!\""
@@ -3977,7 +3977,7 @@
                 "subType": "Talent",
                 "character": "Amber",
                 "cost": "3P",
-                "description": "<b>Combat Action</b>: When your active character is <b>Amber</b>, equip this card.<br />After Amber equips this card, immediately use <b class=\"text-highlight\">Explosive Puppet</b> once.<br />After you use a <b>Normal Attack</b>: If this card and <b>Baron Bunny</b> are still on the field, then <b>Baron Bunny</b> explodes and deals 3 <b class=\"text-pyro\">Pyro DMG</b>.<br />(You must have Amber in your deck to add this card to your deck.)",
+                "description": "<b>Combat Action</b>: When your active character is <b>Amber</b>, equip this card.<br />After Amber equips this card, immediately use <b class=\"text-highlight\">Explosive Puppet</b> once.<br />After you use a <b>Normal Attack</b>: If this card and <b>Baron Bunny</b> are still on the field, then <b>Baron Bunny</b> explodes and deals 4 <b class=\"text-pyro\">Pyro DMG</b>.<br />(You must have Amber in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Amber: Bunny Triggered",
                     "description": "\"Go go Baron Bunny!\""
@@ -4127,7 +4127,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Electro Hypostasis",
-                "cost": "3E",
+                "cost": "2E",
                 "description": "<b>Combat Action</b>: When your active character is <b>Electro Hypostasis</b>, heal that character for 3 HP and attach the <b>Electro Crystal Core</b> to them.<br />(You must have Electro Hypostasis in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Electro Hypostasis: Absorbing Prism",
@@ -4687,7 +4687,7 @@
                 "name": "The Overflow",
                 "type": "Equipment",
                 "subType": "Talent",
-                "cost": "4H 2N",
+                "cost": "3H 2N",
                 "description": "<b>Combat Action</b>: When your active character is <b>Candace</b>, equip this card.<br />After Candace equips this card, she will immediately use <b class=\"text-highlight\">Sacred Rite: Wagtail's Tide</b> once.<br />When this card is equipped by Candace, her <b>Prayer of the Crimson Crown</b> has the following extra effect: After your character uses a Normal Attack: Deals 1 <b class=\"text-hydro\">Hydro DMG</b>. (Once per Round)<br />(You must have Candace in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Candace: The Overflow",
@@ -4702,7 +4702,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "cost": "1P 2U",
-                "description": "<b>Combat Action</b>: When your active character is <b>Yanfei</b>, equip this card.<br />After Yanfei equips this card, she will immediately use <b class=\"text-highlight\">Seal of Approval</b> once.<br />When Yanfei uses a <b>Charged Attack</b> with this card equipped: Deal +1 DMG to enemies with 6 or less HP.<br />(You must have Yanfei in your deck to add this card to your deck.)",
+                "description": "<b>Combat Action</b>: When your active character is <b>Yanfei</b>, equip this card.<br />After Yanfei equips this card, she will immediately use <b class=\"text-highlight\">Seal of Approval</b> once.<br />When Yanfei uses a <b>Charged Attack</b> with this card equipped: Deal +1 DMG to enemies with 6 or less HP. If <b>Scarlet Seal</b> is triggered, then draw 1 card after the skill finishes calculating.<br />(You must have Yanfei in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Yanfei: Right of Final Interpretation",
                     "description": "\"When it comes to cards... Well, anything is permissible, so long as the rules don't forbid it.\""
@@ -4887,7 +4887,7 @@
                 "type": "Event",
                 "subType": "Arcane Legend",
                 "cost": "1M",
-                "description": "<b>Your active character must be one of the following elemental types to play this card</b>: <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-dendro\">Dendro</b>.<br />The element corresponding to your active character's Elemental Type will be applied to all your characters.<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+                "description": "<b>Your active character must be one of the following elemental types to play this card</b>: <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-dendro\">Dendro</b>.<br />The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Joyous Celebration",
                     "description": "\"Celebration should be shared with everyone.\""
