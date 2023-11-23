@@ -796,6 +796,19 @@
                 "Sacrificial Fragments",
                 "The Bell"
             ]
+        },
+        "phase2": {
+            "startDate": "November 28, 2023",
+            "endDate": "December 19, 2023",
+            "banner": [
+                "Haran Geppaku Futsu",
+                "Staff of the Scarlet Sands",
+                "Favonius Warbow",
+                "Lion's Roar",
+                "Favonius Lance",
+                "The Widsith",
+                "Favonius Greatsword"
+            ]
         }
     }
 ]

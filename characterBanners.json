@@ -671,6 +671,17 @@
                 "Charlotte",
                 "Collei"
             ]
+        },
+        "phase2": {
+            "startDate": "November 28, 2023",
+            "endDate": "December 19, 2023",
+            "banner": [
+                "Cyno",
+                "Ayato",
+                "Kirara",
+                "Shinobu",
+                "Xiangling"
+            ]
         }
     }
 ]
