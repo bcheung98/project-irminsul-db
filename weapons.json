@@ -4209,5 +4209,54 @@
         "release": {
             "version": "4.2"
         }
+    },
+    {
+        "id": 176,
+        "name": "Verdict",
+        "rarity": 5,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "CRIT Rate",
+            "passive": {
+                "name": "Many Oaths of Dawn and Dusk",
+                "description": "Increases ATK by <b class=\"text-refinement\">20%</b>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <b class=\"text-refinement\">18%</b>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["18%", "22.5%", "27%", "31.5%", "36%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Chord",
+            "eliteMat": "Rift Core",
+            "commonMat": "Gear"
+        },
+        "description": "A weapon once used by a young maiden who forsook her family name, stained with the blood of enemies and loved ones both.",
+        "release": {
+            "version": "4.3"
+        }
+    },
+    {
+        "id": 177,
+        "name": "Ultimate Overlord's Mega Magic Sword",
+        "displayName":"\"Ultimate Overlord's Mega Magic Sword\"",
+        "rarity": 4,
+        "type": "Claymore",
+        "stats": {
+            "atk": "t-44",
+            "subStat": "Energy Recharge",
+            "passive": {
+                "name": "Melussistance!",
+                "description": "ATK increased by <b class=\"text-refinement\">12%</b>. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional <b class=\"text-refinement\">12%</b>.",
+                "scaling": [["12%", "15%", "18%", "21%", "24%"], ["12%", "15%", "18%", "21%", "24%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Pristine Sea",
+            "eliteMat": "Watch",
+            "commonMat": "Gear"
+        },
+        "description": "A magical sword that can only be wielded by the ultimate overlord who rules the seas. As it has been made with special water-resistant materials, it will not get soaked even when immersed in water. Why, one might even call it invincible!",
+        "release": {
+            "version": "4.3"
+        }
     }
 ]

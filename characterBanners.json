@@ -683,5 +683,19 @@
                 "Xiangling"
             ]
         }
+    },
+    {
+        "version": "4.3",
+        "phase1": {
+            "startDate": "December 20, 2023",
+            "endDate": "January 9, 2024",
+            "banner": [
+               "Navia",
+               "Ayaka",
+               "Candace",
+               "Rosaria",
+               "Sucrose"
+            ]
+        }
     }
 ]

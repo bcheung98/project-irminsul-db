@@ -280,7 +280,7 @@
                 "element": "Pyro",
                 "weapon": "Other Weapons",
                 "nation": "Fatui",
-                "hp": 10,
+                "hp": 9,
                 "talents": {
                     "attack": {
                         "name": "Thrust",
@@ -741,12 +741,12 @@
                     "skill": {
                         "name": "Oceanid Mimic Summoning",
                         "cost": "3H",
-                        "description": "Randomly summons 1 Oceanid Mimic (Prioritizes summoning a different type from preexisting ones).<br /><br /><b>Oceanic Mimic</b><br />There are 3 kinds of Oceanid Mimic in total:<br /><b>Ferret</b>: Deal 2 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 2 Uses.<br /><b>Raptor</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 3 Uses.<br /><b>Frog</b>: Can block 2 DMG. Once this effect is depleted, deal 2 <b class=\"text-hydro\">Hydro DMG</b>."
+                        "description": "Randomly summons 1 Oceanid Mimic (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).<br /><br /><b>Oceanic Mimic</b><br />There are 3 kinds of Oceanid Mimic in total:<br /><b>Ferret</b>: Deal 2 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 2 Uses.<br /><b>Raptor</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 3 Uses.<br /><b>Frog</b>: Can take 1 DMG for active character. 1 Usage. Once this effect is depleted, deal 2 <b class=\"text-hydro\">Hydro DMG</b> during the End Phase."
                     },
                     "skill2": {
                         "name": "The Myriad Wilds",
                         "cost": "5H",
-                        "description": "Randomly summons 2 Oceanid Mimics (Prioritizes summoning different types).<br /><br /><b>Oceanic Mimic</b><br />There are 3 kinds of Oceanid Mimic in total:<br /><b>Ferret</b>: Deal 2 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 2 Uses.<br /><b>Raptor</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 3 Uses.<br /><b>Frog</b>: Can block 2 DMG. Once this effect is depleted, deal 2 <b class=\"text-hydro\">Hydro DMG</b>."
+                        "description": "Randomly summons 2 Oceanid Mimics (Prioritizes summoning a different type from preexisting ones, at most 2 types of Oceanid Mimic can exist at the same time in the summons area).<br /><br /><b>Oceanic Mimic</b><br />There are 3 kinds of Oceanid Mimic in total:<br /><b>Ferret</b>: Deal 2 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 2 Uses.<br /><b>Raptor</b>: Deal 1 <b class=\"text-hydro\">Hydro DMG</b> at the End Phase. 3 Uses.<br /><b>Frog</b>: Can take 1 DMG for active character. 1 Usage. Once this effect is depleted, deal 2 <b class=\"text-hydro\">Hydro DMG</b> during the End Phase."
                     },
                     "burst": {
                         "name": "Tide and Torrent",
@@ -2051,6 +2051,399 @@
                 "release": {
                     "version": "4.2"
                 }
+            },
+            {
+                "name": "Alhaitham",
+                "fullname": "",
+                "element": "Dendro",
+                "weapon": "Sword",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Abductive Reasoning",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Universality: An Elaboration on Form",
+                        "cost": "3D",
+                        "description": "Deals 2 <b class=\"text-dendro\">Dendro DMG</b>. This character gains Chisel-Light Mirror.<br /><br /><b>Chisel-Light Mirror</b><br /><b>Physical DMG</b> dealt by the character is converted to <b class=\"text-dendro\">Dendro DMG</b>.<br />After this character performs a Normal Attack: Deal 1 <b class=\"text-dendro\">Dendro DMG</b>. If it is a <b>Charged Attack</b>, this state's <b>Duration (Rounds)</b> +1.<br /><b>Duration (Rounds): 2</b> (Can stack. Max 3 Rounds.)"
+                    },
+                    "burst": {
+                        "name": "Particular Field: Fetters of Phenomena",
+                        "cost": "3D 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <b class=\"text-dendro\">Dendro DMG</b>, consumes Chisel-Light Mirror, with the DMG bonus based on Chisel-Light Mirror's <b>Duration (Rounds)</b> consumed.<br />If Chisel-Light Mirror <b>Duration (Rounds)</b> consumed is 0/1/2, then apply Chisel-Light Mirror with 3/2/1 <b>Duration (Rounds)</b> to this character."
+                    }
+                },
+                "splash": {
+                    "title": "\"Admonishing Instruction\" Alhaitham",
+                    "description": "Learning, thinking, and taking care of business."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Azhdaha",
+                "fullname": "",
+                "element": "Geo",
+                "weapon": "Other Weapons",
+                "nation": "Monster",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Sundering Charge",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Aura of Majesty",
+                        "cost": "3G",
+                        "description": "Deals 3 <b class=\"text-geo\">Geo DMG</b>. If a Crystallize reaction occurs, then this character will perform <b>Elemental Absorption</b>.<br />If during the usage of this skill, the character hasn't absorbed an element's power yet, then Stone Facets: Elemental Crystallization will be attached.<br /><br /><b>Stone Facets: Elemental Crystallization</b><br />After this character takes <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b> DMG: If this character currently has not absorbed the power of this element, remove this effect, and then this character performs Elemental Absorption."
+                    },
+                    "burst": {
+                        "name": "Decimating Rockfall",
+                        "cost": "3G 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <b class=\"text-geo\">Geo DMG</b>. DMG +1 for each element previously absorbed."
+                    },
+                    "passive": {
+                        "name": "Stone Facets",
+                        "description": "(Passive) When the battle begins, this character gains Stone Facets: Elemental Absorption.<br /><br /><b>Stone Facets: Elemental Absorption</b><br />The character can absorb the power of the Elements, including <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>, and then based on the element absorbed gain the skills <b class=\"text-cryo\">Frostspike Wave</b>/<b class=\"text-hydro\">Torrential Rebuke</b>/<b class=\"text-pyro\">Blazing Rebuke</b>/<b class=\"text-electro\">Thunderstorm Wave</b>. (The character can only have one Elemental Type absorbed at once, and this status will record the Elemental Type previously absorbed)<br />After this character absorbs an element of a different type than the currently absorbed element: Generate 1 Elemental Die of the same type as the Element that was just absorbed."
+                    }
+                },
+                "splash": {
+                    "title": "Ancient Geovishap Ancestor: Azhdaha",
+                    "description": "The faint rattling of this dragon lord's shackles and his deep, angry growl echo through the bowels of the mountains like memories of a bygone era."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Dvalin",
+                "fullname": "",
+                "element": "Anemo",
+                "weapon": "Other Weapons",
+                "nation": "Monster",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Lacerating Slash",
+                        "cost": "1A 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Tempestuous Barrage",
+                        "cost": "3A",
+                        "description": "Deals 2 <b class=\"text-anemo\">Anemo DMG</b>. The target character receives Total Collapse.<br /><br /><b>Total Collapse</b><br /><b>Physical DMG</b> or <b class=\"text-anemo\">Anemo DMG</b> taken by the affected character increased by 2.<br /><u>Usage(s)</u>: 1"
+                    },
+                    "skill2": {
+                        "name": "Dvalin's Cleansing",
+                        "cost": "5A",
+                        "description": "Deals 2 <b class=\"text-anemo\">Anemo DMG</b> and then separately peforms <u>Prepare Skill</u> for <b>Perpetual Cleansing</b> and <b>Ultimate Cleansing</b>.<br /><br /><b>Perpetual Cleansing</b><br />Deals 1 <b class=\"text-anemo\">Anemo DMG</b> to the next opposing character on standby. After this, <u>Prepare Skill</u> <b>Ultimate Cleansing</b>. (If there are no opposing characters on standby, deals DMG to active character instead)<br /><br /><b>Ultimate Cleansing</b><br />Deals 2 <b class=\"text-anemo\">Anemo DMG</b> to the previous opposing character on standby. (If there are no opposing characters on standby, deals DMG to the active character instead)"
+                    },
+                    "burst": {
+                        "name": "Caelestinum Finale Termini",
+                        "cost": "4A 2N",
+                        "energy": 2,
+                        "description": "Deals 5 <b class=\"text-anemo\">Anemo DMG</b>. Applies <b>Total Collapse</b> to all opposing standby characters."
+                    }
+                },
+                "splash": {
+                    "title": "\"Dragon of the East\" Dvalin",
+                    "description": "\"How wonderful it would have been if you were as I, witnessing your noble, beautiful form as you soared through the blue sky.\"<br />\"Then you would know that this sky and this earth are both things worth fighting for.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Eremite Scorching Loremaster",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Other Weapons",
+                "nation": "Eremite",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Searing Glare",
+                        "cost": "1P 2U",
+                        "description": "Deals 1 <b class=\"text-pyro\">Pyro DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Blazing Strike",
+                        "cost": "3P",
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>."
+                    },
+                    "burst": {
+                        "name": "Spirit of Omen's Awakening: Pyro Scorpion",
+                        "cost": "3P 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, summons 1 Spirit of Omen: Pyro Scorpion.<br /><br /><b>Spirit of Omen: Pyro Scorpion</b><br />End Phase: Deal 1 <b class=\"text-pyro\">Pyro DMG</b>.<br /><u>Usage(s)</u>: 2<br /><br />When entering play, when the Action Phase starts: Attach Pyro Scorpion: Guardian Stance to your Eremite Scorching Loremaster. (When Spirit of Omen: Pyro Scorpion is in play, the character will take -1 DMG, once per Round.)"
+                    },
+                    "passive": {
+                        "name": "Spirit of Omen's Power",
+                        "description": "(Passive) After this character takes DMG: If this character has no greater than 7 HP, they gain 1 <b>Energy</b>. (Once per Match)"
+                    }
+                },
+                "splash": {
+                    "title": "\"Poetry and Secret Histories\" Eremite Scorching Loremaster",
+                    "description": ""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Gorou",
+                "fullname": "",
+                "element": "Geo",
+                "weapon": "Bow",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Ripping Fang Fletching",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Inuzaka All-Round Defense",
+                        "cost": "3G",
+                        "description": "Deals 2 <b class=\"text-geo\">Geo DMG</b>, creates 1 General's War Banner.<br /><br /><b>General's War Banner</b><br />Your party's characters deal +1 <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2 (Can stack, can stack till 3 Rounds)"
+                    },
+                    "burst": {
+                        "name": "Juuga: Forward Unto Victory",
+                        "cost": "3G 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-geo\">Geo DMG</b>, creates 1 General's War Banner, summons General's Glory.<br /><br /><b>General's War Banner</b><br />Your party's characters deal +1 <b class=\"text-geo\">Geo DMG</b>.<br /><u>Duration (Rounds)</u>: 2 (Can stack, can stack till 3 Rounds)<br /><br /><b>General's Glory</b><br />End Phase: Deal 1 <b class=\"text-geo\">Geo DMG</b>. If your party has 2 <b class=\"text-geo\">Geo</b> characters, create 1 <b>Crystallize</b>.<br /><u>Usage(s)</u>: 2"
+                    }
+                },
+                "splash": {
+                    "title": "\"Canine Warrior\" Gorou",
+                    "description": "The leader of the pack, leading the soldiers onward!"
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Layla",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Sword",
+                "nation": "Sumeru",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Sword of the Radiant Path",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Nights of Formal Focus",
+                        "cost": "3C",
+                        "description": "Creates 1 Curtain of Slumber Shield and Shooting Star.<br /><br /><b>Curtain of Slumber Shield</b><br />Grants 2 <b>Shield</b> points to defend your active character.<br /><br /><b>Shooting Star</b><br />After your character uses a Skill: Accumulate 1 <b>Night Star</b>. If you have at least 4 <b>Night Stars</b>, consume 4 <b>Night Stars</b> and deal 1 <b class=\"text-cryo\">Cryo DMG</b>. (The Skill that causes this Combat Status will also trigger this effect)<br />When causing this Combat Status again: Accumulate 2 <b>Night Stars</b>."
+                    },
+                    "burst": {
+                        "name": "Dream of the Star-Stream Shaker",
+                        "cost": "3C 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>, summons 1 Celestial Dreamsphere.<br /><br /><b>Celestial Dreamsphere</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b>. If Shooting Star is in play, it will let it gain 1 <b>Night Star</b>.<br /><u>Usage(s)</u>: 2"
+                    }
+                },
+                "splash": {
+                    "title": "\"Fantastical Evening Star\" Layla",
+                    "description": "As night falls, the stars swirl and the moon wanders amidst dreams."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "La Signora",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Other Weapons",
+                "nation": "Fatui",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Frostblade Hailstorm",
+                        "cost": "1C 2U",
+                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Biting Shards",
+                        "cost": "3C",
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>. The target character receives Sheer Cold.<br / ><br /><b>Sheer Cold</b><br />End Phase: Deals 1 <b class=\"text-cryo\">Cryo DMG</b> to attached character.<br /><u>Usage(s)</u>: 1<br /><br />When attached character has <b>Blazing Heat</b> attached, remove this effect."
+                    },
+                    "burst": {
+                        "name": "Carmine Chrysalis",
+                        "cost": "3C 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <b class=\"text-cryo\">Cryo DMG</b>, heals this character for 2 HP. Removes <b>Ice-Sealed Crimson Witch of Embers</b>. This character permanently switches to <b>Crimson Witch of Embers</b> state."
+                    },
+                    "passive": {
+                        "name": "Might of Delusion",
+                        "description": "(Passive) When the battle begins, this character gains Ice-Sealed Crimson Witch of Embers.<br /><br /><b>Ice-Sealed Crimson Witch of Embers</b><br />When the Action Phase starts: If the attached character has no more than 4 HP, remove this effect.<br />When attached character is defeated: Remove this effect, and heal them to 1 HP.<br /><br />When this effect is removed: Attached character will transform into the <b>Crimson Witch of Embers</b> state.<br /><br ><b>Crimson Witch of Embers</b><br />La Signora can permanently change into the \"Crimson Witch of Embers\" state.<br />After changing, La Signora's Elemental Type changes from <b class=\"text-cryo\">Cryo</b> to <b class=\"text-pyro\">Pyro</b>.<br />After changing, this character can use the skills of the Crimson Witch of Embers, but can no longer use La Signora's original skills."
+                    }
+                },
+                "splash": {
+                    "title": "\"The Eighth Harbinger\" La Signora",
+                    "description": "The crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.<br />\"But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything.\"<br />Yet it mattered not, for she knew in her heart that the flames had devoured her long ago."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Lynette",
+                "fullname": "",
+                "element": "Anemo",
+                "weapon": "Sword",
+                "nation": "Fontaine",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Rapid Ritesword",
+                        "cost": "1A 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Enigmatic Feint",
+                        "cost": "3A",
+                        "description": "Deals 3 <b class=\"text-anemo\">Anemo DMG</b>. The first time this Skill is used this Round, heal the character for 2 HP if they have no more than 8 HP, but apply Overawing Assault to said character.<br /><br /><b>Overawing Assault</b><br />End Phase: If this character's HP is at least 6, then they will take 2 <b>Piercing DMG</b>.<br /><u>Duration (Rounds)</u>: 1"
+                    },
+                    "burst": {
+                        "name": "Magic Trick: Astonishing Shift",
+                        "cost": "3A 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-anemo\">Anemo DMG</b>, summons 1 Bogglecat Box.<br /><br /><b>Bogglecat Box</b><br />End Phase: Deal 1 <b class=\"text-anemo\">Anemo DMG</b>.<br /><u>Usage(s)</u>: 2<br /><br />When your active character takes DMG: Decreases DMG taken by 1. (Once per Round)<br />When your character(s) take <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b> DMG: Change the Elemental Type of this card to the element of the damage taken. (Once before leaving play)"
+                    }
+                },
+                "splash": {
+                    "title": "\"Elegance in the Shadows\" Lynette",
+                    "description": "The firmament glimpsed in a reflected moon."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Lyney",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Bow",
+                "nation": "Fontaine",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Card Force Translocation",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "attack2": {
+                        "name": "Prop Arrow",
+                        "cost": "3P",
+                        "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, summons a Grin-Malkin Hat, and gains 1 stack of Prop Surplus.<br />If this character has at least 6 HP, then they deal 1 <b>Piercing DMG</b> to themself.<br /><br /><b>Grin-Malkin Hat</b><br />End Phase: Deal 1 <b class=\"text-pyro\">Pyro DMG</b><br /><u>Usage(s)</u>: 1 (Can stack. Max 2 stacks.)<br /><br /><b>Prop Surplus</b><br />Prop Surplus can stack up to 3 times.<br />When this character uses Bewildering Lights: +1 DMG for each Prop Surplus stack. After the skill is finalized, consume all Prop Surplus, healing 1 HP for this character per stack."
+                    },
+                    "skill": {
+                        "name": "Bewildering Lights",
+                        "cost": "3P",
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>."
+                    },
+                    "burst": {
+                        "name": "Wondrous Trick: Miracle Parade",
+                        "cost": "3P 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <b class=\"text-pyro\">Pyro DMG</b>, summons 1 Grin-Malkin Hat, and gains 1 stack of Prop Surplus."
+                    }
+                },
+                "splash": {
+                    "title": "\"Spectacle of Phantasmagoria\" Lyney",
+                    "description": "Those flowers in the mirror... who are they for?"
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Thunder Manifestation",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Other Weapons",
+                "nation": "Monster",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Thunderous Wingslash",
+                        "cost": "1E 2U",
+                        "description": "Deals 1 <b class=\"text-electro\">Electro DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Strifeful Lightning",
+                        "cost": "3E",
+                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b> to the opposing character affected by Lightning Rod. (If there are no eligible opposing characters, deals DMG to the active character instead)<br /><br /><b>Lightning Rod</b><br />While this status is active, can be triggered once: DMG received by the attached character from Thunder Manifestation or its summons is increased by 1.<br />(Only one of this status can exist on the field at once. Some of Thunder Manifestation's skills will target the character to which this is attached.)"
+                    },
+                    "burst": {
+                        "name": "Thundering Shackles",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-electro\">Electro DMG</b>, summons 1 Thundering Shackles.<br /><br /><b>Thundering Shackles</b><br />End Phase: Deals 3 <b class=\"text-electro\">Electro DMG</b> to the opposing character affected by Lightning Rod. (If there are no eligible opposing characters, deals DMG to the active character instead)<br /><u>Usage(s)</u>: 1"
+                    },
+                    "passive": {
+                        "name": "Lightning Probe",
+                        "description": "(Passive) When battle begins, create a Lightning Strike Probe on the opponent's side of the field.<br /><br /><b>Lightning Strike Probe</b><br />After a character on whose side of the field this card is on uses a Skill: Attach Lightning Rod to the active character on that side. (Once per Round)"
+                    }
+                },
+                "splash": {
+                    "title": "\"Lingering Hatred\" Thunder Manifestation",
+                    "description": "As long as the grudges of the land do not fade, so will the roaring thunder persist."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Yelan",
+                "fullname": "",
+                "element": "Hydro",
+                "weapon": "Bow",
+                "nation": "Liyue",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Stealthy Bowshot",
+                        "cost": "1H 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Lingering Lifeline",
+                        "cost": "3H",
+                        "description": "Deals 3 <b class=\"text-hydro\">Hydro DMG</b>. This character gains 2 <b>Breakthrough</b> stacks."
+                    },
+                    "burst": {
+                        "name": "Depth-Clarion Dice",
+                        "cost": "3H 3N",
+                        "energy": 3,
+                        "description": "Deals 1 <b class=\"text-hydro\">Hydro DMG</b>, creates 1 Exquisite Throw.<br /><br /><b>Exquisite Throw</b><br />After your character uses a Normal Attack: Deal 2 <b class=\"text-hydro\">Hydro DMG</b>.<br/ ><u>Duration (Rounds)</u>: 2"
+                    },
+                    "passive": {
+                        "name": "Breakthrough",
+                        "description": "(Passive) When the battle begins, this character gains Breakthrough.<br /><br /><b>Breakthrough</b><br />This state starts with 1 Breakthrough stack. When re-attached, add 1 Breakthrough stack. Breakthrough can have a maximum of 3 stacks.<br />End Phase: Gain 1 Breakthrough stack.<br /><br />When the character to which this is attached uses a Normal Attack: If Breakthrough has at least 2 stacks, consume 2 Breakthrough stacks to convert Physical DMG dealt into <b class=\"text-hydro\">Hydro DMG</b> and draw 1 card."
+                    }
+                },
+                "splash": {
+                    "title": "\"Valley Orchid\" Yelan",
+                    "description": "The world is vast and infinite, the solitary one comes and goes as she pleases."
+                },
+                "release": {
+                    "version": "4.3"
+                }
             }
         ]
     },
@@ -3197,7 +3590,7 @@
                 "type": "Support",
                 "subType": "Companion",
                 "cost": "2M",
-                "description": "Comes with 2 Transmutation Materials when played.<br /><b>End Phase</b>: Gain 1 Transmutation Material.<br /><b>When playing an Artifact Card</b>: If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)",
+                "description": "Comes with 2 Transmutation Materials when played. If your deck originally includes at least 6 Artifact cards, you will randomly also draw 1 Artifact Card from your deck.<br /><b>End Phase</b>: Gain 1 Transmutation Material.<br /><b>When playing an Artifact Card</b>: If possible, spend Transmutation Materials equal to the total cost of the Artifact and equip this Artifact for free. (Once per Round)",
                 "splash": {
                     "title": "Timaeus, Scholar of Alchemy",
                     "description": "\"Hello there... Oh, you'd like to use the Crafting Bench? Sure, be my guest.\""
@@ -3239,7 +3632,7 @@
                 "type": "Support",
                 "subType": "Companion",
                 "cost": "2M",
-                "description": "Comes with 2 Forging Billets when played.<br /><b>End Phase</b>: Gain 1 Forging Billet.<br /><b>When playing a Weapon Card</b>: If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)",
+                "description": "Comes with 2 Forging Billets when played. If your deck originally includes at least 3 different types of Weapons, you will randomly also draw 1 Weapon Card from your deck.<br /><b>End Phase</b>: Gain 1 Forging Billet.<br /><b>When playing a Weapon Card</b>: If possible, spend Forging Billets equal to the total cost of the Weapon and equip this Weapon for free. (Once per Round)",
                 "splash": {
                     "title": "Wagner, Blacksmith",
                     "description": "\"Smithing is not dependent on brute strength. You need the sweat on your brow from constant hard work, and perseverance stronger than the metals we forge!\""
@@ -4505,7 +4898,7 @@
                 "name": "Wind and Freedom",
                 "type": "Event",
                 "subType": "",
-                "cost": "1M",
+                "cost": "",
                 "description": "<b>During this turn, after one of your characters uses a Skill</b>: Switch your next character in to be the active character.<br />(You must have at least 2 Mondstadt characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Verse of Unchained Happenings",
@@ -4520,7 +4913,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "3U",
-                "description": "<b>When the Action Phase of the next Round begins</b>: Create 3 <b>Omni Element</b>.<br />(You must have at least 2 Liyue characters in your deck to add this card to your deck.)",
+                "description": "<b>When the Action Phase of the next Round begins</b>: Create 3 <b>Omni Element</b> and draw 1 card.<br />(You must have at least 2 Liyue characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Contract of Eons Unshaken",
                     "description": "\"This is the trust I have placed in them. Betray it, and you taint my blood.\""
@@ -4886,7 +5279,7 @@
                 "name": "Joyous Celebration",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1M",
+                "cost": "",
                 "description": "<b>Your active character must be one of the following elemental types to play this card</b>: <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-dendro\">Dendro</b>.<br />The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Joyous Celebration",
@@ -5090,7 +5483,7 @@
                 "type": "Equipment",
                 "subType": "Artifact",
                 "cost": "3U",
-                "description": "When played: Heal the attached character for 3 HP.<br />For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br />When this character deals DMG: Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br />(A character can equip a maximum of 1 Artifact.)",
+                "description": "When played: Heal the attached character for 2 HP.<br />For every 3 HP of healing your characters receive, this card accumulates 1 Sea-Dyed Foam (maximum of 2).<br />When this character deals DMG: Consume all Sea-Dyed Foam. DMG is increased by 1 for each Sea-Dyed Foam consumed.<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Memories of the Deep: Ocean-Hued Clam",
                     "description": "\"Bringing hopes and memories from the depths, permeating long-lost civilizations and history, these graceful and exquisite crowns slide into the forgotten rifts with their owners.\""
@@ -5153,6 +5546,452 @@
                 },
                 "release": {
                     "version": "4.2"
+                }
+            },
+            {
+                "name": "Light's Remit",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Layla",
+                "cost": "3C",
+                "description": "<b>Combat Action</b>: When your active character is <b>Layla</b>, equip this card.<br />After Layla equips this card, immediately use <b class=\"text-highlight\">Nights of Formal Focus</b> once.<br />When Layla is on othe field and has this card equipped, every time <b>Shooting Star</b> deals DMG, draw 1 card.<br />(You must have Layla in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Layla: Light's Remit",
+                    "description": "\"My guiding stars.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Turn Control",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Yelan",
+                "cost": "3H",
+                "description": "<b>Combat Action</b>: When your active character is <b>Yelan</b>, equip this card.<br />After Yelan equips this card, immediately use <b class=\"text-highlight\">Lingering Lifeline</b> once.<br />Roll Phase: If Yelan, who has this card equipped, is on the field, 1 Elemental Dice will be rolled as 1 <b>Omni Element</b> for each Elemental Type in your party. (Max 3).<br />(You must have Yelan in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Yelan: Turn Control",
+                    "description": "\"Things are about to get dicey.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Conclusive Ovation",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Lyney",
+                "cost": "3P",
+                "description": "<b>Combat Action</b>: When your active character is <b>Lyney</b>, equip this card.<br />After Lyney equips this card, immediately use <b class=\"text-highlight\">Prop Arrow</b> once.<br />When Lyney is on the field and has this card equipped, the DMG dealt by Lyney and your <b>Grin-Malkin Hat</b> will deal +2 DMG to characters <b class=\"text-pyro\">affected by Pyro</b>.<br />(You must have Lyney in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Lyney: Conclusive Ovation",
+                    "description": "\"A round of applause!\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "A Cold Blade Like a Shadow",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Lynette",
+                "cost": "3A",
+                "description": "<b>Combat Action</b>: When your active character is <b>Lynette</b>, equip this card.<br />After Lynette equips this card, immediately use <b class=\"text-highlight\">Enigmatic Feint</b> once.<br />After your Lynette, who has this card equipped, uses <b>Enigmatic Feint</b> for the second time this Round: deals +2 DMG and forces your opponent to switch to their previous character.<br />(You must have Lynette in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Lynette: A Cold Blade Like a Shadow",
+                    "description": "\"Step on up!\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Rushing Hound Swift as the Wind",
+                "displayName": "Rushing Hound: Swift as the Wind",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Gorou",
+                "cost": "3G",
+                "description": "<b>Combat Action</b>: When your active character is <b>Gorou</b>, equip this card.<br />After Gorou equips this card, immediately use <b class=\"text-highlight\">Inuzaka All-Round Defense</b> once.<br />When your Gorou, who has this card equipped, is on the field, and after any of your characters deals <b class=\"text-geo\">Geo DMG</b>: If <b>General's War Banner</b> is in play, draw 1 card. (Once per Round)<br />(You must have Gorou in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Gorou: Rushing Hound: Swift as the Wind",
+                    "description": "\"Rally!\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Structuration",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Alhaitham",
+                "cost": "3D 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Alhaitham</b>, equip this card.<br />After Alhaitham equips this card, immediately use <b class=\"text-highlight\">Particular Field: Fetters of Phenomena</b> once.<br />When your Alhaitham, who has this card equipped, uses <b>Particular Field: Fetters of Phenomena</b>, if the character consumes a <b>Chisel-Light Mirror</b> with at least 1 <b>Duration (Rounds)</b>, then always attached <b>Chisel-Light Mirror</b> with 3 <b>Duration (Rounds) and draw 1 card</b>.<br />(You must have Alhaitham in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Alhaitham: Structuration",
+                    "description": "\"A process of elimination.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Pain for Pain",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "La Signora",
+                "cost": "3M",
+                "description": "Can only be played if your active character is <b>La Signora</b>: When entering play, generate 3 Elemental Dice of the same Type as <b>La Signora</b>.<br />When this character takes at least 3 DMG: Negates 1 DMG, then apply <b>Sheer Cold</b> or <b>Blazing Heat</b> to the opposing active character based on La Signora's state. (Once per Round)<br />(Your deck must contain La Signora to add this card to your deck)",
+                "splash": {
+                    "title": "La Signora: Pain for Pain",
+                    "description": "\"You too will experience this suffering.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Scorpocalypse",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Eremite Scorching Loremaster",
+                "cost": "3P 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Eremite Scorching Loremaster</b>, equip this card.<br />After Eremite Scorching Loremaster equips this card, immediately use <b class=\"text-highlight\">Spirit of Omen's Awakening: Pyro Scorpion</b> once.<br /><b>Spirit of Omen: Pyro Scorpion</b> created by Eremite Scorching Loremaster with this card equipped will deal +1 DMG in Rounds when Eremite Scorching Loremaster uses a <b>Normal Attack</b> or <b>Elemental Skill</b>.<br /><b>Spirit of Omen: Pyro Scorpion</b>'s DMG reduction effect can now be triggered twice per Round.<br />(You must have Eremite Scorching Loremaster in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Eremite Scorching Loremaster: Scorpocalypse",
+                    "description": "\"For the Eternal Oasis!\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Grieving Echo",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Thunder Manifestation",
+                "cost": "",
+                "description": "When <b>Thunder Manifestation</b>, with this card equipped, is in play, when opponents with <b>Lightning Rod</b> attached take DMG: You draw 1 card (Once per Round)<br />(Your deck must contain Thunder Manifestation to add this card to your deck)",
+                "splash": {
+                    "title": "Thunder Manifestation: Grieving Echo",
+                    "description": "That which drives the Thunder Manifestation is a much more primal fury..."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Rending Vortex",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Dvalin",
+                "cost": "3A",
+                "description": "<b>Combat Action</b>: When your active character is <b>Dvalin</b>, equip this card.<br />After Dvalin equips this card, immediately use <b class=\"text-highlight\">Tempestuous Barrage</b> once.<br />When your Dvalin, who has this card equipped, is on the field, when <b>Total Collapse</b> attached to opposing active character is removed: Apply <b>Total Collapse</b> to the next opposing standby character. (Once per Round)<br />(You must have Dvalin in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Dvalin: Rending Vortex",
+                    "description": "But never forget that dust can be wiped away, and the power of doubt and poison can be shattered."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Lunar Cycles Unending",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Azhdaha",
+                "cost": "2M",
+                "description": "<b>Combat Action</b>: When your active character is <b>Azhdaha</b>, play this card on them. Attach <b>Stone Facets: Elemental Crystallization</b> to Azhdaha, then create 1 Elemental Die for each Elemental Type your characters have.<br />(Deck must contain Azhdaha to add this card to it)",
+                "splash": {
+                    "title": "Azhdaha: Lunar Cycles Unending",
+                    "description": "\"Today is the day... We settle this now!\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Lost Prayer to the Sacred Winds",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "For each point of \"Bonus DMG\" this card has, character deals +1 DMG.<br />End Phase: This card gains 1 point of \"Bonus DMG.\" (Max 2 points)<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Boundless Blessing: Lost Prayer to the Sacred Winds",
+                    "description": "\"When flowers bloom, when leaves sway, that is me who sings the songs of freedom, of the winds.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Tulaytullah's Remembrance",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>When the character uses a Charged Attack: Spend 1 less <b>Unaligned Element</b>. (Can be triggered up to twice per Round)</b>: Deal +1 DMG. (Once per Round)<br />(<b>Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Bygone Azure Teardrop: Tulaytullah's Remembrance",
+                    "description": "\"In the end, all people, good or evil, will find themselves ground beneath the wheels of fate, and the sapphire city would fade, dissipating like tears beneath the scorching sun.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Beacon of the Reed Sea",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses an Elemental Skill</b>: +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br /><b>After this character takes DMG</b>: +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br />(<b>Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Desert Watch: Beacon of the Reed Sea",
+                    "description": "\"On top of the ruins of the pool where the regalia of past executions of offenders was excavated, those who had lost the dream of the desert, yet were unwilling to give up their vast sea of sand gathered.<br />In the name of the Reed Sea that never existed, they connected with the dream that was promised to them...\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Primordial Jade Winged-Spear",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After this character uses a Skill</b>: Until the end of this Round, +1 additional DMG provided by this card. (Up to +2 DMG total)<br />(<b>Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Eagle Spear of Justice: Primordial Jade Winged-Spear",
+                    "description": "\"The stone bird took to the unbound skies once forged. Into the heart of the ocean it dove, into the battlefield with the behemoth and the whale. Into the depths of the sea the behemoth sank, there to stay forever. Released from its thundering roars were the people of Liyue.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Light of Foliar Incision",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>After the character uses a Normal Attack</b>: Create 1 random basic Elemental Die. (Can be triggered up to twice per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Whitemoon Bristle: Light of Foliar Incision",
+                    "description": "\"If you believe that he yet has the potential to reclaim his honor in the maze, then guide him to break off the pale branch...<br />Only then can the bright moon and the newborn stars grant him pure wisdom and help him shed his bitter memories and desires.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Gilded Dreams",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3U",
+                "description": "<b>When played</b>: Generate 1 Die of the same Element as the attached character. If you have 3 different Elemental Types in your party, generate 1 <b>Omni Element</b> in addition to this.<br /><b>When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG</b>: Draw 1 card. (Up to twice per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Golden Vision: Gilded Dreams",
+                    "description": "\"Some time later, absurd decisions would be issued alongside illusory madness, using lovely expectations as bait to lead the people towards a bitter end.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Flowing Rings",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "",
+                "description": "<b>After the character uses a Normal Attack</b>: Draw 1 card. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Enthralling Tales Passed On: Flowing Rings",
+                    "description": "\"...And the stone that had been lost to the waters may have been a lesser jade, or perhaps just a simple cup. Some even say that the \"jade\" in the tale is in fact an analogy for a beautiful person.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Echoes of an Offering",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>After this character uses Normal Attack</b>: Draw 1 card. (Once per Round)<br /><b>After this character uses a Skill</b>: If you do not have more Elemental Dice than cards in your Hand, you will gain 1 Elemental Die of the attached character's Type. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Everlasting Uncut Jade: Echoes of an Offering",
+                    "description": "\"The wide river of a legend will oft produce many tributaries. One of these goes like this: This gem was once jade from a sacred mountain, carved into its current shape only by the hand of Rex Lapis himself.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Heart of Khvarena's Brilliance",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "",
+                "description": "<b>After this character takes DMG</b>: If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Cleansing of Filth: Heart of Khvarena's Brilliance",
+                    "description": "\"If the darkness of death did not threaten it, no life would have any importance.<br />If the waves of forgetfulness did not surge against them, there would be no histories worth recording...\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Vourukasha's Glow",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "1M",
+                "description": "<b>After this character takes DMG</b>: If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br /><b>End Phase</b>: Heal the attached character for 1 HP.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Scions of the Khvarena: Vourukasha's Glow",
+                    "description": "\"Many spirits dwell in the sea, and they carry the wishes of grass, tree, and dew, cleansing all filth.<br />Many spirits dwell in the sea, and they sing of the three mothers — of verdure, of sweet dew, and fresh flowers.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Weeping Willow of the Lake",
+                "type": "Event",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b>End Phase</b>: If your Hand has no more than 2 cards, draw 2 cards.<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "Weeping Willow of the Lake",
+                    "description": "In ancient times, the weeping willow of the lake was an object of reverence. All the water veins converge upon Erinnyes and the weeping willow flourishes or withers when the waters are sweet or bitter."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Opera Epiclese",
+                "type": "Event",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b>Before you choose an action</b>: If the original Elemental Dice cost of the cards equipped to your characters is not less than that of the opposing side, create 1 Elemental Die of your active character's element. (Once per Round)<br /><u>Usage(s)</u>: 3",
+                "splash": {
+                    "title": "Opera Epiclese",
+                    "description": "The true and the fantastical, the comedic and tragic find a stage here equally. Perhaps it truly is as an ancient Fontainian playwright once said — \"All the world's a stage, and all of us merely players.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Mamere",
+                "type": "Event",
+                "subType": "Companion",
+                "cost": "",
+                "description": "<b>After you play a Food/Location/Companion/Item Action Card other than Mamere</b>: Randomly create 1 Food/Location/Companion/Item Action Card other than Mamere, and add it to your hand. (Once per Round).<br /><u>Usage(s)</u>: 3",
+                "splash": {
+                    "title": "Mamere",
+                    "description": "A Melusine that paints every day.<br />\"Because painting the things that I want to brings me happiness!\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Seed Dispensary",
+                "type": "Event",
+                "subType": "Item",
+                "cost": "",
+                "description": "<b>When you play an Equipment or Support Card with an original cost of 1 Elemental Die</b>: Spend 1 less Elemental Die. (Once per Round)<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "Seed Dispensary",
+                    "description": "A special container obtained from Madame Ping. According to her, this dispensary has the power to \"generate seeds\"..."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Memento Lens",
+                "type": "Event",
+                "subType": "Item",
+                "cost": "1M",
+                "description": "<b>When you play a Weapon/Artifact/Location/Companion card</b>: If you have played a card with the same name previously during this match, spend 2 less Elemental Dice to play it. (Once per Round)<br /><u>Usage(s)</u>: 2",
+                "splash": {
+                    "title": "Memento Lens",
+                    "description": "They say that in the distant past, the legendary Kitsune Saiguu left a catalyst for the then-Hiiragi Clan head, Hiroshi, as a tool to be used in exorcisms.<br />The Hiiragis would have a special Kamera made to order from overseas with that catalyst mounted on its lens assembly, before giving it back to the Grand Narukami Shrine as a symbol of their friendship."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Passing of Judgment",
+                "type": "Event",
+                "subType": "Arcane Legend",
+                "cost": "1M",
+                "description": "3 Event Cards played by your opponent in this Round will take no effect.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+                "splash": {
+                    "title": "Passing of Judgment",
+                    "description": "\"It is time to make the final decision on this case.\""
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "The Boar Princess",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "<b>Each time you discard an Equipment Card from one of your characters during this Round</b>: Gain 1 Omni Element. (Max 2)<br />(This effect can be triggered by the loss of an Equipment Card from a character falling or from having their Weapon or Artifact replaced.)",
+                "splash": {
+                    "title": "The Boar Princess",
+                    "description": "In ancient legends, the Boar Kingdom was prosperous and filled with joy. The young princess of the Kingdom took the wise Fox and long-lived Tortoise, and set out on the road to the north, hoping to turn the little wolf back into that good child..."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Falls and Fortune",
+                "type": "Event",
+                "subType": "",
+                "cost": "1M",
+                "description": "<b>Can only be played when you have at least 8 Elemental Dice remaining and your opponent has not ended their Round</b>: In this Round, both sides must spend 1 extra Elemental Die when switching characters.",
+                "splash": {
+                    "title": "Falls and Fortune",
+                    "description": "The accident of falling into a pit can also be a chance to reveal the buried past beneath the dust."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Flickering Four-Leaf Sigil",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "Attach <b>Four-Leaf Sigil</b> to target character: At the End Phase of Every Round, you will switch to this character.",
+                "splash": {
+                    "title": "Flickering Four-Leaf Sigil",
+                    "description": "A wondrous symbol shaped like a four-leaf clover, it is of great assistance to one who manipulates the elements."
+                },
+                "release": {
+                    "version": "4.3"
+                }
+            },
+            {
+                "name": "Fish and Chips",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "2U",
+                "description": "During this Round, all your characters will use 1 less Elemental Die when using their Skill next time.<br />(A character can consume at most 1 Food per Round.)",
+                "splash": {
+                    "title": "Fish and Chips",
+                    "description": "Fish fried until golden and crispy, with chips and a smorgasbord of sauces. Every single bite is suffused with savory satisfaction..."
+                },
+                "release": {
+                    "version": "4.3"
                 }
             }
         ]

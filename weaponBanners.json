@@ -810,5 +810,21 @@
                 "Favonius Greatsword"
             ]
         }
+    },
+    {
+        "version": "4.3",
+        "phase1": {
+            "startDate": "December 20, 2023",
+            "endDate": "January 9, 2024",
+            "banner": [
+               "Verdict",
+               "Mistsplitter Reforged",
+               "Mouun's Moon",
+               "The Flute",
+               "Dragon's Bane",
+               "Favonius Codex",
+               "Akuoumaru"
+            ]
+        }
     }
 ]
