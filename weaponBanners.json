@@ -825,6 +825,19 @@
                "Favonius Codex",
                "Akuoumaru"
             ]
+        },
+        "phase2": {
+            "startDate": "January 9, 2024",
+            "endDate": "January 29, 2024",
+            "banner": [
+                "Engulfing Lightning",
+                "Thundering Pulse",
+                "Rust",
+                "Favonius Sword",
+                "Wavebreaker's Fin",
+                "Eye of Perception",
+                "Rainslasher"
+            ]
         }
     }
 ]

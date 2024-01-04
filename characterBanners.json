@@ -696,6 +696,17 @@
                "Rosaria",
                "Sucrose"
             ]
+        },
+        "phase2": {
+            "startDate": "January 9, 2024",
+            "endDate": "January 29, 2024",
+            "banner": [
+                "Raiden Shogun",
+                "Yoimiya",
+                "Bennett",
+                "Chevreuse",
+                "Sara"
+            ]
         }
     }
 ]
