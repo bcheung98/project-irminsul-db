@@ -4258,5 +4258,29 @@
         "release": {
             "version": "4.3"
         }
+    },
+    {
+        "id": 178,
+        "name": "Crane's Echoing Call",
+        "rarity": 5,
+        "type": "Catalyst",
+        "stats": {
+            "atk": "t-49",
+            "subStat": "ATK",
+            "passive": {
+                "name": "Cloudfall Axiom",
+                "description": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal <b class=\"text-refinement\">28%</b> increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore <b class=\"text-refinement\">2.5</b> Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                "scaling": [["28%", "41%", "54%", "67%", "80%"], ["2.5", "2.75", "3", "3.25", "3.5"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Mist Veiled Elixir",
+            "eliteMat": "Fin",
+            "commonMat": "Scroll"
+        },
+        "description": "A fan carved from pure jade, around which swirls an ancient aura of adeptal energy.",
+        "release": {
+            "version": "4.4"
+        }
     }
 ]

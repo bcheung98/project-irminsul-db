@@ -2289,7 +2289,7 @@
                     },
                     "passive": {
                         "name": "Might of Delusion",
-                        "description": "(Passive) When the battle begins, this character gains Ice-Sealed Crimson Witch of Embers.<br /><br /><b>Ice-Sealed Crimson Witch of Embers</b><br />When the Action Phase starts: If the attached character has no more than 4 HP, remove this effect.<br />When attached character is defeated: Remove this effect, and heal them to 1 HP.<br /><br />When this effect is removed: Attached character will transform into the <b>Crimson Witch of Embers</b> state.<br /><br ><b>Crimson Witch of Embers</b><br />La Signora can permanently change into the \"Crimson Witch of Embers\" state.<br />After changing, La Signora's Elemental Type changes from <b class=\"text-cryo\">Cryo</b> to <b class=\"text-pyro\">Pyro</b>.<br />After changing, this character can use the skills of the Crimson Witch of Embers, but can no longer use La Signora's original skills."
+                        "description": "(Passive) When the battle begins, this character gains Ice-Sealed Crimson Witch of Embers.<br /><br /><b>Ice-Sealed Crimson Witch of Embers</b><br />When the Action Phase starts: If the attached character has no more than 4 HP, remove this effect.<br />When the attached character is defeated: Remove this effect, and heal them to 1 HP.<br /><br />When this effect is removed: Attached character will transform into the <b>Crimson Witch of Embers</b> state.<br /><br ><b>Crimson Witch of Embers</b><br />La Signora can permanently change into the \"Crimson Witch of Embers\" state.<br />After changing, La Signora's Elemental Type changes from <b class=\"text-cryo\">Cryo</b> to <b class=\"text-pyro\">Pyro</b>.<br />After changing, this character can use the skills of the Crimson Witch of Embers, but can no longer use La Signora's original skills."
                     }
                 },
                 "splash": {
@@ -2387,7 +2387,7 @@
                     "skill": {
                         "name": "Strifeful Lightning",
                         "cost": "3E",
-                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b> to the opposing character affected by Lightning Rod. (If there are no eligible opposing characters, deals DMG to the active character instead)<br /><br /><b>Lightning Rod</b><br />While this status is active, can be triggered once: DMG received by the attached character from Thunder Manifestation or its summons is increased by 1.<br />(Only one of this status can exist on the field at once. Some of Thunder Manifestation's skills will target the character to which this is attached.)"
+                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b> to the opposing character affected by Lightning Rod. (If there are no eligible opposing characters, deals DMG to the active character instead)<br /><br /><b>Lightning Rod</b><br />When the attached character takes DMG from Thunder Manifestation or its summons: Remove this state, cause this DMG instance to increase by 1.<br />(Only one of this status can exist on the field at once. Some of Thunder Manifestation's skills will target the character to which this is attached.)"
                     },
                     "burst": {
                         "name": "Thundering Shackles",
@@ -2443,6 +2443,146 @@
                 },
                 "release": {
                     "version": "4.3"
+                }
+            },
+            {
+                "name": "Thoma",
+                "fullname": "",
+                "element": "Pyro",
+                "weapon": "Polearm",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Swiftshatter Spear",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Blazing Blessing",
+                        "cost": "3P",
+                        "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Blazing Barrier.<br /><br /><b>Blazing Barrier</b><br />Grants 1 <b>Shield point</b> to your active character. (Can stack. Max 3 points.)"
+                    },
+                    "burst": {
+                        "name": "Crimson Ooyoroi",
+                        "cost": "3P 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-pyro\">Pyro DMG</b>, creates 1 Blazing Barrier and Scorching Ooyoroi.<br /><br /><b>Blazing Barrier</b><br />Grants 1 <b>Shield point</b> to your active character. (Can stack. Max 3 points.)<br /><br /><b>Scorching Ooyoroi</b><br />After your chracter uses a Normal Attack: Deal 1 <b class=\"text-pyro\">Pyro DMG</b> and create a Blazing Barrier.<br /><u>Usage(s)</u>: 2"
+                    }
+                },
+                "splash": {
+                    "title": "\"Protector From Afar\" Thoma",
+                    "description": "A protector from abroad, loyal to the end."
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Sayu",
+                "fullname": "",
+                "element": "Anemo",
+                "weapon": "Claymore",
+                "nation": "Inazuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Shuumatsuban Ninja Blade",
+                        "cost": "1A 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Yoohoo Art: Fuuin Dash",
+                        "cost": "3A",
+                        "description": "Deals 1 <b class=\"text-anemo\">Anemo DMG</b>, and this character <u>Prepare Skill</u>: Fuufuu Whirlwind Kick.<br />If this usage of the skill triggers Swirl, then Fuufuu Whirlwind Kick is converted to DMG of the Swirled Element.<br /><br /><b>Fuufuu Whirlwind Kick</b><br />(Prepare for 1 turn)<br />Deals 2 <b class=\"text-anemo\">Anemo DMG</b> (or the Swirled Element's DMG)"
+                    },
+                    "burst": {
+                        "name": "Yoohoo Art: Mujina Flurry",
+                        "cost": "3A 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <b class=\"text-anemo\">Anemo DMG</b>, summons 1 Muji-Muji Daruma.<br /><br /><b>Muji-Muji Daruma</b><br />End Phase: Deal 1 <b class=\"text-anemo\">Anemo DMG</b>, heal the character on your team that has taken the most damage for 2 HP.<br /><u>Usage(s)</u>: 2"
+                    }
+                },
+                "splash": {
+                    "title": "\"Mujina Ninja\" Sayu",
+                    "description": "By your side without a trace, like a character from a dream."
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Cryo Hypostasis",
+                "fullname": "",
+                "element": "Cryo",
+                "weapon": "Other Weapons",
+                "nation": "Monster",
+                "hp": 8,
+                "talents": {
+                    "attack": {
+                        "name": "Icespike Shot",
+                        "cost": "1C 2U",
+                        "description": "Deals 1 <b class=\"text-cryo\">Cryo DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Ice Ring Waltz",
+                        "cost": "3C",
+                        "description": "Deals 3 <b class=\"text-cryo\">Cryo DMG</b>. This character gains Overwhelming Ice.<br /><br /><b>Overwhelming Ice</b><br />When the character uses a Normal Attack: Deal 1 <b>Piercing DMG</b> to all opposing characters on standby.<br /><u>Usage(s)</u>: 1"
+                    },
+                    "burst": {
+                        "name": "Plunging Ice Shards",
+                        "cost": "3C 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <b class=\"text-cryo\">Cryo DMG</b>, deals 1 <b>Piercing DMG</b> to all opposing characters on standby, summons 1 Piercing Iceridge.<br /><br /><b>Piercing Iceridge</b><br />End Phase: Deal 1 <b class=\"text-cryo\">Cryo DMG</b> to the opposing character closest to your current active character.<br /><u>Usage(s)</u>: 2"
+                    },
+                    "passive": {
+                        "name": "Cryocrystal Core",
+                        "description": "(Passive) When the battle begins, this character gains Cryocrystal Core.<br /><br /><b>Cryocrystal Core</b><br />When the character to which this is attached would be defeated: Remove this effect, and heal them to 1 HP"
+                    }
+                },
+                "splash": {
+                    "title": "Cryo Hypostasis",
+                    "description": "Code name: Daleth. A high-purity Cryo entity.<br />It doesn't seem all that good at ball sports..."
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Millennial Pearl Seahorse",
+                "fullname": "",
+                "element": "Electro",
+                "weapon": "Other Weapons",
+                "nation": "Monster",
+                "hp": 8,
+                "talents": {
+                    "attack": {
+                        "name": "Tail Sweep",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <b>Physical DMG</b>."
+                    },
+                    "skill": {
+                        "name": "Swirling School of Fish",
+                        "cost": "3E",
+                        "description": "Deals 3 <b class=\"text-electro\">Electro DMG</b>. Once per Round: If this character has Fontemer Pearl attached, then <u>Usage(s)</u> + 1."
+                    },
+                    "burst": {
+                        "name": "Fontemer Hoarthunder",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <b class=\"text-electro\">Electro DMG</b>, attaches Fontemer Pearl to this character, and summons 1 Resonant Coral Orb.<br /><br /><b>Resonant Coral Orb</b><br />End Phase: Deal 1 <b class=\"text-electro\">Electro DMG</b><br /><u>Usage(s)</u>: 2"
+                    },
+                    "passive": {
+                        "name": "Pearl Armor",
+                        "description": "(Passive) When the battle begins, attach Fontemer Pearl to this character.<br /><br /><b>Fontemer Pearl</b><br />When the character to which this is attached takes DMG: Negate 1 DMG. Once per Round, <u>Usage(s)</u> will not be used when negating DMG from Summons.<br /><u>Usage(s)</u>: 2<br />When you declare the end of your Round: If the character to which this is attached is the active character, draw 1 card."
+                    }
+                },
+                "splash": {
+                    "title": "Millennial Pearl Seahorse",
+                    "description": "One of the two sovereigns standing at the apex of the Fontemer Aberrants. Poets and authors view it as a proud and noble creature, thus bestowing it with its high-flown title."
+                },
+                "release": {
+                    "version": "4.4"
                 }
             }
         ]
@@ -5525,7 +5665,7 @@
                 "type": "Event",
                 "subType": "Arcane Legend",
                 "cost": "1M",
-                "description": "Draw a number of cards equal to the current Round number. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+                "description": "Draw a number of cards equal to the current Round number minus 1. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "In Every House a Stove",
                     "description": "\"The Stove God cared for the people, turning himself into minions who went into every home, fostering food and solidarity alike.\""
@@ -5674,8 +5814,8 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Thunder Manifestation",
-                "cost": "",
-                "description": "When <b>Thunder Manifestation</b>, with this card equipped, is in play, when opponents with <b>Lightning Rod</b> attached take DMG: You draw 1 card (Once per Round)<br />(Your deck must contain Thunder Manifestation to add this card to your deck)",
+                "cost": "3E",
+                "description": "<b>Combat Action</b>: When your active character is <b>Thunder Manifestation</b>, equip this card.<br />After Thunder Manifestation equips this card, immediately use <b class=\"text-highlight\">Strifeful Lightning</b> once.<br />When your Thunder Manifestation is on the field and has this card equipped, when an opponent with <b>Lightning Rod</b> attached takes DMG: You draw 1 card. (Once per Round)<br />(You must have Thunder Manifestation in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Thunder Manifestation: Grieving Echo",
                     "description": "That which drives the Thunder Manifestation is a much more primal fury..."
@@ -5845,7 +5985,7 @@
                 "type": "Equipment",
                 "subType": "Artifact",
                 "cost": "1M",
-                "description": "<b>After this character takes DMG</b>: If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br /><b>End Phase</b>: Heal the attached character for 1 HP.<br />(A character can equip a maximum of 1 Artifact.)",
+                "description": "<b>After this character takes DMG</b>: If the character to which this is attached is the active character, then draw 1 card. During this End Phase, heal the attached character for 1 HP. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Scions of the Khvarena: Vourukasha's Glow",
                     "description": "\"Many spirits dwell in the sea, and they carry the wishes of grass, tree, and dew, cleansing all filth.<br />Many spirits dwell in the sea, and they sing of the three mothers — of verdure, of sweet dew, and fresh flowers.\""
@@ -5992,6 +6132,165 @@
                 },
                 "release": {
                     "version": "4.3"
+                }
+            },
+            {
+                "name": "A Subordinate's Skills",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Thoma",
+                "cost": "3P 2N",
+                "description": "<b>Combat Action</b>: When your active character is <b>Thoma</b>, equip this card.<br />After Thoma equips this card, immediately use <b class=\"text-highlight\">Crimson Ooyoroi</b> once.<br />When your Thoma, who has this card equipped, creates a <b>Scorching Ooyoroi</b>, its starting <u>Usage(s)</u> +1.<br />(You must have Thoma in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Thoma: A Subordinate's Skills",
+                    "description": "\"It looks like I'm responsible for another smile.\""
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Skiving New and Improved",
+                "displayName": "Skiving: New and Improved",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Sayu",
+                "cost": "3A",
+                "description": "<b>Combat Action</b>: When your active character is <b>Sayu</b>, equip this card.<br />After Sayu equips this card, immediately use <b class=\"text-highlight\">Yoohoo Art: Fuuin Dash</b> once.<br />When your Sayu, who has this card equipped is the active character, drarw 2 cards when you trigger a Swirl reaction. (Once per Round)<br />(You must have Sayu in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Sayu: Skiving: New and Improved",
+                    "description": "\"I should have just stayed in bed today.\""
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Sternfrost Prism",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Cryo Hypostasis",
+                "cost": "",
+                "description": "Can only be played if your active character is <b>Cryo Hypostasis</b>: Attach <b>Cryocrystal Core</b> to them.<br />After Cryo Hypostasis, who has this card equipped, triggers <b>Cryocrystal Core</b>: Attach <b>Sheer Cold</b> to the opposing active character.<br />(Your deck must contain Cryo Hypostasis to add this card to your deck)",
+                "splash": {
+                    "title": "Cryo Hypostasis: Sternfrost Prism",
+                    "description": "Despite its highly stable form and almost machine-like movements, it must still meticulously defend its weak spot..."
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Pearl Solidification",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Millennial Pearl Seahorse",
+                "cost": "",
+                "description": "Can only be played if your active character is <b>Millennial Pearl Seahorse</b>: When entering play, Millennial Pearl Seahorse will have <b>Fontemer Pearl</b> with 1 <u>Usage(s)</u> attached to them. If they already have Fontemer Pearl attached, <u>Usage(s)</u> +1 instead.<br />When the <b>Fontemer Pearl</b> attached to Millennial Pearl Seahorse negates DMG from Summons, change to <u>Usage(s)</u> not being consumed twice per Round.<br />(Your deck must contain Millennial Pearl Seahorse to add this card to your deck)",
+                "splash": {
+                    "title": "Millennial Pearl Seahorse: Pearl Solidification",
+                    "description": "Xenomare Pearl, Fontemer Hoarthunder... The seahorse-shaped phantasmal beast, though a solitary king, has neither an opulent court nor the ruins of one. What it does have, however, is the majesty and might to send other Fontemer Aberrants skittering away from it in terror..."
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Sapwood Blade",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3M",
+                "description": "<b>The character deals +1 DMG</b>.<br /><b>When entering play</b>: When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type. (Once per Round)<br />(<b>Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Forest Sanctuary: Sapwood Blade",
+                    "description": "\"...Even so, your stories and mine will leave their traces in the depths of the desert, like the footprints of the Forest Kind.\"<br />\"So shall past friendships peacefully sleep, like an Aranara transformed into a seed.\""
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Veteran's Visage",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b>After this character takes DMG or is healed</b>: Based on the number of times this effect has been triggered this Round, the effects will be different.<br /><b>First Trigger</b>: Create 1 Elemental Die of the character's Elemental Type.<br /><b>Second Trigger</b>: Draw 1 card.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Face of Glory: Veteran's Visage",
+                    "description": "\"Yet even though the scars can be covered, the wounds laid on one's heart will not disappear.\""
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Jeht",
+                "type": "Event",
+                "subType": "Companion",
+                "cost": "2M",
+                "description": "This card will record the number of cards discarded from your Support Zone during this match as Sophistication points. (Max 6 points)<br />After your characters use an Elemental Burst: If this card has recorded at least 5 Sophistication points, discard this card and generate <b>Omni Element</b> equal to the number of Sophistication points minus 2.",
+                "splash": {
+                    "title": "Drifting Sand, Drifting Dreams: Jeht",
+                    "description": "\"Here's a thousand hugs! We will meet again!\"<br />\"May we meet again under a lovelier sun.\""
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Silver and Melus",
+                "type": "Event",
+                "subType": "Companion",
+                "cost": "1U",
+                "description": "This card will record the number of types of Elemental DMG opposing characters have taken during this match as points of Attendant's Attentiveness. (Max 4 points)<br /><b>End Phase</b>: If you have at least 3 Attendant's Attentiveness points, discard this card and draw cards equal to the amount of Attendant's Attentiveness points.",
+                "splash": {
+                    "title": "The Best Attendants: Silver and Melus",
+                    "description": "\"Don't be afraid. We will protect you to the very end.\""
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Machine Assembly Line",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "Each time after your character is targeted by and takes DMG or is healed: Accumulate 1 point of Battle-Readiness (Max 2 points).<br />When you play a Weapon or Artifact with an original cost of fewer Dice than you have Battle-Readiness points: Clear all Battle-Readiness points and play that card for free.",
+                "splash": {
+                    "title": "Machine Assembly Line",
+                    "description": "Countless widgets, heated and forged, eventually go into making these exceptional machines, and to the inmates of the Fortress of Meropide, they mean valuable Credit Coupons..."
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Sunyata Flower",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "Select a card from your Support Zone and discard it. After that, randomly generate 2 Support Cards in your hand.<br />During the Round, the next time you play a Support Card: Spend 1 less Elemental Die.",
+                "splash": {
+                    "title": "Sunyata Flower",
+                    "description": "\"This vibrant color is the miracle of life's flowing springs.\"<br />\"Abide with me, sing and caper with me, and let us weave eternal joy\"..."
+                },
+                "release": {
+                    "version": "4.4"
+                }
+            },
+            {
+                "name": "Matsutake Meat Rolls",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "2U",
+                "description": "Heal the target character for 2 HP. For the next 3 Rounds, heal this character for 1 HP again during the End Phase.<br />(A character can consume at most 1 Food per Round)",
+                "splash": {
+                    "title": "Matsutake Meat Rolls",
+                    "description": "Ground meat is put on the Matsutake and gently pan-fried on low heat so the Matsutake can fully take in the aromatic juice of the meat. It's a mouthwatering delicacy in all of its glory."
+                },
+                "release": {
+                    "version": "4.4"
                 }
             }
         ]

@@ -2027,6 +2027,11 @@
                 "name": "Azure Silk",
                 "rarity": 4,
                 "description": "Xingqiu's outfit. Fine robes woven from the high-quality silk sold by the Feiyun Commerce Guild."
+            },
+            {
+                "name": "Bamboo Rain",
+                "rarity": 4,
+                "description": "Formal wear prepared by the Feiyun Commerce Guild for Xingqiu. The bamboo prints are refined and the cut is most flattering, but Xingqiu's favorite aspect of the outfit is its inner pockets, into which a thinner novel might be stuffed."
             }
         ],
         "voiceActors": {
@@ -2864,6 +2869,11 @@
                 "name": "Frostdew Trail",
                 "rarity": 4,
                 "description": "Ganyu's outfit. Elegant clothes blessed by the mighty and illuminated adepti."
+            },
+            {
+                "name": "Twilight Blossom",
+                "rarity": 4,
+                "description": "A light and graceful festive outfit accented mainly in black nightshade and cerulean blue. Its hair accessory is as radiant as the Qingxin — a pairing that Ganyu is most fond of."
             }
         ],
         "voiceActors": {
@@ -4663,6 +4673,11 @@
                 "name": "The World's Shackles",
                 "rarity": 4,
                 "description": "Shenhe's outfit. These elegant garments have accompanied her through long years of training. The red ropes that surround her body are fetters and wards simultaneously."
+            },
+            {
+                "name": "Frostflower Dew",
+                "rarity": 4,
+                "description": "This Lantern Rite gift that Shenhe received is a set of elegant formal attire that her master, Cloud Retainer had commissioned for her. Red ropes still adorn her arms, but the bitter cold in Shenhe's heart has faded."
             }
         ],
         "voiceActors": {
@@ -7933,7 +7948,7 @@
             "jp": "Aki Toyosaki (豊崎 愛生)"
         },
         "release": {
-            "date": "December 19, 2023",
+            "date": "December 20, 2023",
             "version": "4.3" 
         }
     },
@@ -8041,6 +8056,216 @@
         "release": {
             "date": "January 9, 2024",
             "version": "4.3" 
+        }
+    },
+    {
+        "id": 76,
+        "name": "Xianyun",
+        "fullname": "",
+        "title": "Passerine Herald",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "talents": {
+            "attack": {
+                "name": "Word of Wind and Flower",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Summon swirling winds to perform up to 4 attacks, dealing <b class=\"text-anemo\">Anemo DMG</b>.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina and launches a Breeze Bolt in a straight line that deals <b class=\"text-anemo\">Anemo DMG</b> to opponents along its path.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Gathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals <b class=\"text-anemo\">AoE Anemo DMG</b> upon impact with the ground.",
+                "scaling": [
+                    ["1-Hit DMG", "40.3%", "43.33%", "46.35%", "50.38%", "53.4%", "56.42%", "60.45%", "64.48%", "68.51%", "72.54%", "76.57%", "80.6%", "85.64%", "90.68%", "95.72%"], ["2-Hit DMG", "38.86%", "41.77%", "44.68%", "48.57%", "51.48%", "54.4%", "58.28%", "62.17%", "66.05%", "69.94%", "73.82%", "77.71%", "82.57%", "87.42%", "92.28%"], ["3-Hit DMG", "48.88%", "52.54%", "56.21%", "61.1%", "64.76%", "68.43%", "73.32%", "78.2%", "83.09%", "87.98%", "92.87%", "97.76%", "103.86%", "109.97%", "116.08%"], ["4-Hit DMG", "64.92%", "69.79%", "74.65%", "81.15%", "86.01%", "90.88%", "97.38%", "103.87%", "110.36%", "116.85%", "123.34%", "129.83%", "137.95%", "146.06%", "154.18%"], ["Charged Attack DMG", "123.12%", "132.35%", "141.59%", "153.9%", "163.13%", "172.37%", "184.68%", "196.99%", "209.3%", "221.62%", "233.93%", "246.24%", "261.63%", "277.02%", "292.41%"], ["Charged Attack Stamina Cost", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50", "50"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.16% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "White Clouds at Dawn",
+                "description": "Xianyun enters the Cloud Transmogrification state, in which she will not take Fall DMG, and uses Skyladder once.<br />In this state, her Plunging Attack will be converted into Driftcloud Wave instead, which deals <b class=\"text-anemo\">AoE Anemo DMG</b> and ends the Cloud Transmogrification state. This DMG is considered Plunging Attack DMG.<br />Each use of Skyladder while in this state increases the DMG and AoE of the next Driftcloud Wave used.<br /><br /><b class=\"text-highlight\">Skyladder</b><br />Can be used while in mid-air. Xianyun leaps forward, dealing <b class=\"text-anemo\">Anemo DMG</b> to targets along her path.<br />During each Cloud Transmogrification state Xianyun enters, Skyladder may be used up to 3 times and only 1 instance of Skyladder DMG can be dealt to any one opponent.<br />If Skyladder is not used again in a short period, the Cloud Transmogrification state will be canceled.<br /><br />If Xianyun does not use Driftcloud Wave while in this state, the next CD of White Clouds at Dawn will be decreased by 3s.",
+                "scaling": [
+                    ["Skill DMG", "24.8%", "26.66%", "28.52%", "31%", "32.86%", "34.72%", "37.2%", "39.68%", "42.16%", "44.64%", "47.12%", "49.6%", "52.7%", "55.8%", "58.9%"], ["Driftcloud Wave DMG", "116% / 148% / 337.6%", "124.7% / 159.1% / 362.92%", "133.4% / 170.2% / 388.24%", "145% / 185% / 422%", "153.7% / 196.1% / 447.32%", "162.4% / 207.2% / 472.64%", "174% / 222% / 506.4%", "185.6% / 236.8% / 540.16%", "197.2% / 251.6% / 573.92%", "208.8% / 266.4% / 607.68%", "220.4% / 281.2% / 641.44%", "232% / 296% / 675.2%", "246.5% / 314.5% / 717.4%", "261% / 333% / 759.6%", "275.5% / 351.5% / 801.8%"], ["CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["Chasing Crane: Third Leap", "337.6%", "362.92%", "388.24%", "422%", "447.32%", "472.64%", "506.4%", "540.16%", "573.92%", "607.68%", "641.44%", "675.2%", "717.4%", "759.6%", "801.8%"], ["Press CD", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"]
+                ],
+                "splash": "Do not shake Cloud Retainer's hand too tightly; cranes are quite adept at gripping."
+            },
+            "burst": {
+                "name": "Stars Gather at Dusk",
+                "description": "Brings forth a sacred breeze that deals <b class=\"text-anemo\">AoE Anemo DMG</b> and heals all nearby characters based on Xianyun's ATK. It will also summon the \"Starwicker\" mechanism.<br /><br /><b class=\"text-highlight\">Starwicker</b><li>Continuously follows the active character and periodically heals all nearby party members based on Xianyun's ATK.</li><li>Starts with 8 stacks of Adeptal Assistance. While Adeptal Assistance is active, nearby active characters in the party will have their jump height increased.</li><li>When the active character completes a Plunging Attack, Starwicker will consume 1 stack of Adeptal Assistance and deal <b class=\"text-anemo\">AoE Anemo DMG</b>.</li><br />Only 1 Starwicker can exist simultaneously.",
+                "scaling": [
+                    ["Skill DMG", "108%", "116.1%", "124.2%", "135%", "143.1%", "151.2%", "162%", "172.8%", "183.6%", "194.4%", "205.2%", "216%", "229.5%", "243%", "256.5%"], ["Starwicker DMG", "39.2%", "42.14%", "45.08%", "49%", "51.94%", "54.88%", "58.8%", "62.72%", "66.64%", "70.56%", "74.48%", "78.4%", "83.3%", "88.2%", "93.1%"], ["Healing", "92.16% ATK + 577.78", "99.07% ATK + 635.57", "105.98% ATK + 698.17", "115.2% ATK + 765.59", "122.11% ATK + 837.82", "129.02% ATK + 914.87", "138.24% ATK + 996.73", "147.46% ATK + 1083.41", "156.67% ATK + 1174.91", "165.89% ATK + 1271.22", "175.1% ATK + 1372.34", "184.32% ATK + 1478.28", "195.84% ATK + 1589.04", "207.36% ATK + 1704.61", "218.88% ATK + 1825"], ["Continuous Healing", "43.01% ATK + 269.63", "46.23% ATK + 296.6", "49.46% ATK + 325.81", "53.76% ATK + 357.27", "56.99% ATK + 390.98", "60.21% ATK + 426.94", "64.51% ATK + 465.14", "68.81% ATK + 505.59", "73.11% ATK + 548.29", "77.41% ATK + 593.23", "81.72% ATK + 640.43", "86.02% ATK + 689.87", "91.39% ATK + 741.55", "96.77% ATK + 795.49", "102.14% ATK + 851.67"], ["Duration", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["Energy Cost", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70"], ["Energy Cost", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70"]
+                ],
+                "splash": "This is the newest invention in the \"Lunastar Artifices\" series, of which previous creations include the Supreme Cuisine Machine, the Snowdrift Mechanism, the Supreme Housekeeping Machine, the Floating Toting Device, and the Bloom Pruner. This series was intended for young humans Cloud Retainer held in great esteem, and so was not designed with a certain half-adeptus in mind. However, when offered Starwicker, a certain female disciple of hers had these emotionless words to say: \"No thank you.\"<br />Cloud Retainer thus had no choice but to keep it herself."
+            },
+            "a1passive": {
+                "name": "Galefeather Pursuit",
+                "description": "Each opponent hit by Driftcloud Waves from <b class=\"text-highlight\">White Clouds at Dawn</b> will grant all nearby party members 1 stack of Storm Pinion for 20s. Max 4 stacks. These will cause the characters' Plunging Attack CRIT Rate to increase by 4%/6%/8%/10% respectively.<br />Each Storm Pinion created by hitting an opponent has an independent duration."
+            },
+            "a4passive": {
+                "name": "Consider, the Adeptus in Her Realm",
+                "description": "When the Starwicker created by <b class=\"text-highlight\">Stars Gather at Dusk</b> has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 200% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 9,000.<br />Each Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s."
+            },
+            "utilpassive": {
+                "name": "Crane Form",
+                "description": "Increases gliding SPD for your own party members by 15%.<br />Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Grus Serena",
+            "c1": {
+                "name": "Purifying Wind",
+                "description": "<b class=\"text-highlight\">White Clouds at Dawn</b> gains 1 additional charge."
+            },
+            "c2": {
+                "name": "Aloof From the World",
+                "description": "After using a Skyladder from <b class=\"text-highlight\">White Clouds at Dawn</b>, Xianyun's ATK will be increased by 20% for 15s.<br />Additionally, the effects of the Passive Talent \"Consider, the Adeptus in Her Realm\" will be enhanced: When the Starwicker created by <b class=\"text-highlight\">Stars Gather at Dusk</b> has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 400% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 18,000.<br />Each Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s.<br />You must first unlock the Passive Talent \"Consider, the Adeptus in Her Realm.\""
+            },
+            "c3": {
+                "name": "Creations of Star and Moon",
+                "description": "Increases the Level of <b class=\"text-highlight\">Stars Gather at Dusk</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Mystery Millet Gourmet",
+                "description": "After using Skyladder 1/2/3 times during one <b class=\"text-highlight\">White Clouds at Dawn</b> Cloud Transmogrification state, when a Driftcloud Wave unleashed during that instance hits an opponent, it will heal all nearby party members for 50%/80%/150% of Xianyun's ATK. This effect can be triggered once every 5s."
+            },
+            "c5": {
+                "name": "Astride Rose-Colored Clouds",
+                "description": "Increases the Level of <b class=\"text-highlight\">White Clouds at Dawn</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "They Call Her Cloud Retainer",
+                "description": "After Xianyun uses 1/2/3 Skyladders within one Cloud Transmogrification caused by <b class=\"text-highlight\">White Clouds at Dawn</b>, the CRIT DMG of a Driftcloud Wave created in this instance of Cloud Transmogrification will be increased by 15%/35%/70%.<br />Within 16s after Xianyun has used <b class=\"text-highlight\">Stars Gather at Dusk</b>, White Clouds at Dawn will not enter CD. This effect will be canceled once she has used White Clouds at Dawn 8 times."
+            }
+        },
+        "stats": {
+            "ascensionStat": "ATK",
+            "hp": [810, 2102, 2797, 4185, 4678, 5383, 6041, 6752, 7246, 7964, 8458, 9184, 9677, 10409],
+            "atk": [26, 68, 90, 135, 151, 173, 194, 217, 233, 256, 272, 295, 311, 335],
+            "def": [45, 116, 154, 230, 257, 296, 332, 371, 399, 438, 465, 505, 532, 573]
+        },
+        "materials": {
+            "talentBook": "Gold",
+            "bossMat": "Cloudseam Scale",
+            "localMat": "Clearwater Jade",
+            "commonMat": "Scroll",
+            "weeklyBossMat": "Lightless Eye of the Maelstrom"
+        },
+        "description": "One of the Mighty and Illuminated Adepti of Jueyun, known as \"Cloud Retainer.\" Expert in all kinds of mechanical contraptions, her heart now turns towards the affairs of the mortal world, through which she walks under the name \"Xianyun.\"",
+        "birthday": "April 11",
+        "gender": "Female",
+        "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "A Guest's August Omen",
+                "rarity": 4,
+                "description": "Xianyun's outfit. These garments were not designed by any famous tailor, though at first glance, they appear to be made of the finest silks. Yet closer inspection reveals that the weave is not of silk, cotton, or linen, and a glow runs through it like an adeptus's feather coat. One can only imagine from what provenance she obtained such clothes..."
+            }
+        ],
+        "voiceActors": {
+            "en": "Stephanie Panisello",
+            "jp": "Mana Nakatomi (中臣 真菜)"
+        },
+        "release": {
+            "date": "January 31, 2024",
+            "version": "4.4" 
+        }
+    },
+    {
+        "id": 77,
+        "name": "Gaming",
+        "fullname": "",
+        "title": "Leonine Vanguard",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "talents": {
+            "attack": {
+                "name": "Stellar Rend",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 4 consecutive strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Drains Stamina over time to perform continuous spinning attacks on all nearby opponents.<br />At the end of the sequence, perform a more powerful slash.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "83.86%", "90.68%", "97.51%", "107.26%", "114.08%", "121.88%", "132.61%", "143.34%", "154.06%", "165.76%", "177.46%", "189.16%", "200.86%", "212.57%", "224.27%"], ["2-Hit DMG", "79.04%", "85.48%", "91.91%", "101.1%", "107.54%", "114.89%", "125%", "135.11%", "145.22%", "156.25%", "167.28%", "178.31%", "189.34%", "200.37%", "211.4%"], ["3-Hit DMG", "106.65%", "115.33%", "124.01%", "136.41%", "145.09%", "155.01%", "168.65%", "182.29%", "195.93%", "210.81%", "225.69%", "240.57%", "255.45%", "270.34%", "285.22%"], ["4-Hit DMG", "127.95%", "138.36%", "148.78%", "163.66%", "174.07%", "185.97%", "202.34%", "218.7%", "235.07%", "252.92%", "270.78%", "288.63%", "306.48%", "324.34%", "342.19%"], ["Charged Attack Cyclic DMG", "62.52%", "67.61%", "72.7%", "79.97%", "85.06%", "90.87%", "98.87%", "106.87%", "114.87%", "123.59%", "132.31%", "141.04%", "149.76%", "158.49%", "167.21%"], ["Charged Attack Final DMG", "113.09%", "122.29%", "131.5%", "144.65%", "153.86%", "164.37%", "178.84%", "193.31%", "207.77%", "223.55%", "239.33%", "255.11%", "270.89%", "286.67%", "302.45%"], ["Charged Attack Stamina Cost", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s", "40/s"], ["Max Duration", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s", "5s"], ["Plunge DMG", "64.15%", "69.37%", "74.59%", "82.05%", "87.27%", "93.23%", "101.44%", "109.64%", "117.85%", "126.8%", "135.75%", "144.7%", "153.65%", "162.6%", "171.55%"], ["Low/High Plunge DMG", "128.26% / 160.21%", "138.7% / 173.25%", "149.14% / 186.29%", "164.06% / 204.92%", "174.5% / 217.96%", "186.43% / 232.86%", "202.84% / 253.35%", "219.24% / 273.84%", "235.65% / 294.34%", "253.54% / 316.69%", "271.44% / 339.05%", "289.34% / 361.4%", "307.24% / 383.76%", "325.13% / 406.11%", "343.03% / 428.46%"]
+                ]
+            },
+            "skill": {
+                "name": "Bestial Ascent",
+                "description": "Pounces forward using the Wushou arts, leaping high into the air after coming into contact with a target or surface.<br />After Gaming has used Bestial Ascent to rise into the air, he will use the especially powerful Plunging Attack: Charmed Cloudstrider when performing a Plunging Attack.<br /><br /><b class=\"text-highlight\">Plunging Attack: Charmed Cloudstrider</b><br />The DMG from Plunging Attacks caused by Bestial Ascent is converted to <b class=\"text-pyro\">Pyro DMG</b> that cannot be overridden by other elemental infusions. Upon landing, Gaming will consume a fixed amount of HP. Gaming's HP cannot be reduced below 10% by this method.<br />Charmed Cloudstrider DMG is considered Plunging Attack DMG.",
+                "scaling": [
+                    ["Plunging Attack: Charmed Cloudstrider DMG", "230.4%", "247.68%", "264.96%", "288%", "305.28%", "322.56%", "345.6%", "368.64%", "391.68%", "414.72%", "437.76%", "460.8%", "489.6%", "518.4%", "547.2%"], ["HP Cost", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP", "15% Max HP"], ["CD", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s", "6s"]
+                ],
+                "splash": "\"Auspicious beasts leap high to pluck the greens — that symbolizes good fortune and knowing how to make some serious green, y'know — so may we all rise to new heights, one step at a time!\""
+            },
+            "burst": {
+                "name": "Suanni's Gilded Dance",
+                "description": "Gaming enters Wushou Stance, briefly applying <b class=\"text-pyro\">Pyro</b> to him, recovering a fixed amount of HP, and summons his companion, the Suanni Man Chai, to smash into his target, dealing <b class=\"text-pyro\">AoE Pyro DMG</b>.<br />After bashing its target, Man Chai will roll to a nearby location before moving towards Gaming. When it links up with Gaming, Man Chai will leave the field and reset the CD for Gaming's Elemental Skill, Bestial Ascent.<br />While Wushou Stance is active, his resistance to interruption is increased, and when Gaming lands with Charmed Cloudstrider attack or completes the forward pounce attack from Bestial Ascent with over 50% HP, he will summon Man Chai again.<br />Each Gaming can only have 1 Man Chai on the field simultaneously.<br />This effect will be canceled once Gaming leaves the field.",
+                "scaling": [
+                    ["Suanni Man Chai Smash DMG", "370.4%", "398.18%", "425.96%", "463%", "490.78%", "518.56%", "555.6%", "592.64%", "629.68%", "666.72%", "703.76%", "740.8%", "787.1%", "833.4%", "879.7%"], ["Skill Healing", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP", "30% Max HP"], ["Wushou Stance Duration", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s", "12s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "\"The gilded Suanni spits out fortune like a fireworks show! Hey, now that's what's called prosperity, when business is really 'booming'!\""
+            },
+            "a1passive": {
+                "name": "Dance of Amity",
+                "description": "After <b class=\"text-highlight\">Bestial Ascent</b>'s Plunging Attack: Charmed Cloudstrider hits an opponent, Gaming will regain 1.5% of his Max HP once every 0.2s for 0.8s."
+            },
+            "a4passive": {
+                "name": "Air of Prosperity",
+                "description": "When Gaming has less than 50% HP, he will receive a 20% Incoming Healing Bonus. When Gaming has 50% HP or more, Plunging Attack: Charmed Cloudstrider will deal 20% more DMG."
+            },
+            "utilpassive": {
+                "name": "The Striding Beast",
+                "description": "Increases the Movement SPD of your own party members by 10% during the day (6:00 – 18:00).<br />Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects."
+            }
+        },
+        "constellation": {
+            "name": "Leo Expergiscens",
+            "c1": {
+                "name": "Bringer of Blessing",
+                "description": "When the Suanni Man Chai from <b class=\"text-highlight\">Suanni's Gilded Dance</b> meets back up with Gaming, it will heal 15% of Gaming's HP."
+            },
+            "c2": {
+                "name": "Plum Blossoms Underfoot",
+                "description": "When Gaming receives healing and this instance of healing overflows, his ATK will be increased by 20% for 5s."
+            },
+            "c3": {
+                "name": "Awakening Spirit",
+                "description": "Increases the Level of <b class=\"text-highlight\">Bestial Ascent</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Soar Across Mountains",
+                "description": "When Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, it will restore 2 Energy to Gaming. This effect can be triggered once every 0.2s."
+            },
+            "c5": {
+                "name": "Evil-Daunting Roar",
+                "description": "Increases the Level of <b class=\"text-highlight\">Suanni's Gilded Dance</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "To Tame All Beasts",
+                "description": "<b class=\"text-highlight\">Bestial Ascent</b>'s Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased."
+            }
+        },
+        "stats": {
+            "ascensionStat": "ATK",
+            "hp": [957, 2460, 3175, 4755, 5264, 6054, 6732, 7523, 8031, 8821, 9329, 10120, 10628, 11419],
+            "atk": [25, 65, 84, 126, 139, 160, 178, 199, 212, 233, 246, 267, 281, 302],
+            "def": [59, 151, 195, 293, 324, 373, 414, 463, 494, 543, 574, 623, 654, 703]
+        },
+        "materials": {
+            "talentBook": "Prosperity",
+            "bossMat": "Emperor's Resolution",
+            "localMat": "Starconch",
+            "commonMat": "Slime",
+            "weeklyBossMat": "Lightless Mass"
+        },
+        "description": "Guard of the Sword and Strongbox Secure Transport Agency, and the head of the \"Mighty Mythical Beasts\" Wushou troupe.",
+        "birthday": "December 22",
+        "gender": "Male",
+        "nation": "Liyue",
+        "outfits": [
+            {
+                "name": "Ranging Rainbow",
+                "rarity": 4,
+                "description": "Gaming's outfit. There's no need for a fancy getup when going out. A few plain layers, comfortable shoes, and voila, you're on solid footing!"
+            }
+        ],
+        "voiceActors": {
+            "en": "Caleb Yen",
+            "jp": "Shouhei Komatsu (昌平 小松)"
+        },
+        "release": {
+            "date": "January 31, 2024",
+            "version": "4.4" 
         }
     }
 ]

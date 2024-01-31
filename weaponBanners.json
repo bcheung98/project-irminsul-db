@@ -817,18 +817,18 @@
             "startDate": "December 20, 2023",
             "endDate": "January 9, 2024",
             "banner": [
-               "Verdict",
-               "Mistsplitter Reforged",
-               "Mouun's Moon",
-               "The Flute",
-               "Dragon's Bane",
-               "Favonius Codex",
-               "Akuoumaru"
+                "Verdict",
+                "Mistsplitter Reforged",
+                "Mouun's Moon",
+                "The Flute",
+                "Dragon's Bane",
+                "Favonius Codex",
+                "Akuoumaru"
             ]
         },
         "phase2": {
             "startDate": "January 9, 2024",
-            "endDate": "January 29, 2024",
+            "endDate": "January 30, 2024",
             "banner": [
                 "Engulfing Lightning",
                 "Thundering Pulse",
@@ -837,6 +837,35 @@
                 "Wavebreaker's Fin",
                 "Eye of Perception",
                 "Rainslasher"
+            ]
+        }
+    },
+    {
+        "version": "4.4",
+        "phase1": {
+            "startDate": "January 31, 2024",
+            "endDate": "February 20, 2024",
+            "banner": [
+                "Crane's Echoing Call",
+                "A Thousand Floating Dreams",
+                "Sacrificial Bow",
+                "Sacrificial Sword",
+                "Lithic Spear",
+                "Sacrificial Fragments",
+                "Sacrificial Greatsword"
+            ]
+        },
+        "phase2": {
+            "startDate": "February 20, 2024",
+            "endDate": "March 12, 2024",
+            "banner": [
+                "Primordial Jade Winged-Spear",
+                "Kagura's Verity",
+                "The Stringless",
+                "Lion's Roar",
+                "Favonius Lance",
+                "The Widsith",
+                "Lithic Blade"
             ]
         }
     }
