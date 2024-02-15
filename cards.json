@@ -2067,7 +2067,7 @@
                     {
                         "tag": "stormeye",
                         "name": "Stormeye",
-                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 2 <span class=\"tooltip-anemo\">Anemo DMG</span>. Your opponent switches to: <b class=\"tcg-bold\">Character Closest to Your Current Active Character</b>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b><br /><br /><b class=\"tcg-bold\">After your character or Summon triggers a Swirl reaction</b>: Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)"
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 2 <span class=\"tooltip-anemo\">Anemo DMG</span>. Your opponent switches to: <span class=\"tooltip-char closest to current active char\">Character Closest to Your Current Active Character</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b><br /><br /><b class=\"tcg-bold\">After your character or Summon triggers a Swirl reaction</b>: Convert the Elemental Type of this card and change its DMG dealt to the element Swirled. (Can only be converted once before leaving the field)"
                     }
                 ],
                 "splash": {
