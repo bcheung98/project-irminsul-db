@@ -6890,7 +6890,7 @@
             },
             {
                 "name": "Mamere",
-                "type": "Event",
+                "type": "Support",
                 "subType": "Companion",
                 "cost": "",
                 "description": "<b class=\"tcg-bold\">After you play a Food/Location/Companion/Item Action Card other than Mamere</b>: Randomly create 1 Food/Location/Companion/Item Action Card other than Mamere, and add it to your hand. (Once per Round).<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>",
@@ -7091,7 +7091,7 @@
             },
             {
                 "name": "Jeht",
-                "type": "Event",
+                "type": "Support",
                 "subType": "Companion",
                 "cost": "2M",
                 "description": "This card will record the number of cards discarded from your Support Zone during this match as Sophistication points. (Max 6 points)<br />After your characters use an Elemental Burst: If this card has recorded at least 5 Sophistication points, discard this card and generate <b class=\"tcg-bold\">Omni Element</b> equal to the number of Sophistication points minus 2.",
@@ -7105,7 +7105,7 @@
             },
             {
                 "name": "Silver and Melus",
-                "type": "Event",
+                "type": "Support",
                 "subType": "Companion",
                 "cost": "1U",
                 "description": "This card will record the number of types of Elemental DMG opposing characters have taken during this match as points of Attendant's Attentiveness. (Max 4 points)<br /><b class=\"tcg-bold\">End Phase</b>: If you have at least 3 Attendant's Attentiveness points, discard this card and draw cards equal to the amount of Attendant's Attentiveness points.",
