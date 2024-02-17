@@ -6862,7 +6862,7 @@
             },
             {
                 "name": "Weeping Willow of the Lake",
-                "type": "Event",
+                "type": "Support",
                 "subType": "Location",
                 "cost": "1M",
                 "description": "<b class=\"tcg-bold\">End Phase</b>: If your Hand has no more than 2 cards, draw 2 cards.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>",
@@ -6876,7 +6876,7 @@
             },
             {
                 "name": "Opera Epiclese",
-                "type": "Event",
+                "type": "Support",
                 "subType": "Location",
                 "cost": "1M",
                 "description": "<b class=\"tcg-bold\">Before you choose an action</b>: If the original Elemental Dice cost of the cards equipped to your characters is not less than that of the opposing side, create 1 Elemental Die of your active character's element. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>",
@@ -6904,7 +6904,7 @@
             },
             {
                 "name": "Seed Dispensary",
-                "type": "Event",
+                "type": "Support",
                 "subType": "Item",
                 "cost": "",
                 "description": "<b class=\"tcg-bold\">When you play an Equipment or Support Card with an original cost of 1 Elemental Die</b>: Spend 1 less Elemental Die. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>",
@@ -6918,7 +6918,7 @@
             },
             {
                 "name": "Memento Lens",
-                "type": "Event",
+                "type": "Support",
                 "subType": "Item",
                 "cost": "1M",
                 "description": "<b class=\"tcg-bold\">When you play a Weapon/Artifact/Location/Companion card</b>: If you have played a card with the same name previously during this match, spend 2 less Elemental Dice to play it. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>",
