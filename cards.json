@@ -4553,7 +4553,7 @@
                 "name": "NRE",
                 "type": "Support",
                 "subType": "Item",
-                "cost": "1U",
+                "cost": "1M",
                 "description": "<b class=\"tcg-bold\">When played</b>: Draw 1 Food Event Card from your deck.<br /><b class=\"tcg-bold\">When you play a Food Event Card</b>: Draw 1 Food Event Card from your deck. (Once per Round)",
                 "splash": {
                     "title": "Emergency Intake: Portable Dish",
@@ -7107,7 +7107,7 @@
                 "name": "Silver and Melus",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "1U",
+                "cost": "1M",
                 "description": "This card will record the number of types of Elemental DMG opposing characters have taken during this match as points of Attendant's Attentiveness. (Max 4 points)<br /><b class=\"tcg-bold\">End Phase</b>: If you have at least 3 Attendant's Attentiveness points, discard this card and draw cards equal to the amount of Attendant's Attentiveness points.",
                 "splash": {
                     "title": "The Best Attendants: Silver and Melus",
