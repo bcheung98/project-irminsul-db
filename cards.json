@@ -6326,7 +6326,7 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Triggers automatically once per Round</b>: If the character to which this attached does not have <span class=\"tooltip-energy\">Energy</span>, they will gain 1 <span class=\"tooltip-energy\">Energy</span>.<br />(<b class=\"tcg-bold\">Only _WEAPON_ Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Triggers automatically once per Round</b>: If the character to which this attached does not have <span class=\"tooltip-energy\">Energy</span>, they will gain 1 <span class=\"tooltip-energy\">Energy</span>.<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Timeless Dream: Engulfing Lightning",
                     "description": "The naginata was a lethal weapon by which scattered dross might be cut away.<br />And the one who wielded that naginata was one who guarded the path to eternity."
