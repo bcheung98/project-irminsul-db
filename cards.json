@@ -7,7 +7,9 @@
                 "fullname": "Kamisato Ayaka",
                 "element": "Cryo",
                 "weapon": "Sword",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -53,10 +55,11 @@
             },
             {
                 "name": "Barbara",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Catalyst",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -93,10 +96,11 @@
             },
             {
                 "name": "Bennett",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Sword",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -133,10 +137,11 @@
             },
             {
                 "name": "Chongyun",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Claymore",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -173,10 +178,11 @@
             },
             {
                 "name": "Collei",
-                "fullname": "",
                 "element": "Dendro",
                 "weapon": "Bow",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -213,10 +219,11 @@
             },
             {
                 "name": "Cyno",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Polearm",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -257,10 +264,11 @@
             },
             {
                 "name": "Diluc",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Claymore",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -297,10 +305,11 @@
             },
             {
                 "name": "Diona",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Bow",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -342,10 +351,11 @@
             },
             {
                 "name": "Fatui Pyro Agent",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Other Weapons",
-                "nation": "Fatui",
+                "factions": [
+                    "Fatui"
+                ],
                 "hp": 9,
                 "talents": {
                     "attack": {
@@ -386,10 +396,11 @@
             },
             {
                 "name": "Fischl",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Bow",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -426,10 +437,11 @@
             },
             {
                 "name": "Ganyu",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Bow",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -476,10 +488,11 @@
             },
             {
                 "name": "Jadeplume Terrorshroom",
-                "fullname": "",
                 "element": "Dendro",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -520,10 +533,11 @@
             },
             {
                 "name": "Jean",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Sword",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -560,10 +574,11 @@
             },
             {
                 "name": "Kaeya",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Sword",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -600,10 +615,11 @@
             },
             {
                 "name": "Keqing",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Sword",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -645,10 +661,11 @@
             },
             {
                 "name": "Maguu Kenki",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -695,10 +712,11 @@
             },
             {
                 "name": "Mirror Maiden",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Other Weapons",
-                "nation": "Fatui",
+                "factions": [
+                    "Fatui"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -735,10 +753,11 @@
             },
             {
                 "name": "Mona",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Catalyst",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -784,10 +803,11 @@
             },
             {
                 "name": "Ningguang",
-                "fullname": "",
                 "element": "Geo",
                 "weapon": "Catalyst",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -824,10 +844,11 @@
             },
             {
                 "name": "Noelle",
-                "fullname": "",
                 "element": "Geo",
                 "weapon": "Claymore",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -869,10 +890,11 @@
             },
             {
                 "name": "Razor",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Claymore",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -909,10 +931,11 @@
             },
             {
                 "name": "Rhodeia of Loch",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Other Weapons",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -954,10 +977,12 @@
             },
             {
                 "name": "Stonehide Lawachurl",
-                "fullname": "",
                 "element": "Geo",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster",
+                    "Hilichurl"
+                ],
                 "hp": 8,
                 "talents": {
                     "attack": {
@@ -1003,10 +1028,11 @@
             },
             {
                 "name": "Sucrose",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Catalyst",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1043,10 +1069,11 @@
             },
             {
                 "name": "Xiangling",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Polearm",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1088,10 +1115,11 @@
             },
             {
                 "name": "Xingqiu",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Sword",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1133,10 +1161,11 @@
             },
             {
                 "name": "Yoimiya",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Bow",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1178,10 +1207,11 @@
             },
             {
                 "name": "Beidou",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Claymore",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1228,10 +1258,11 @@
             },
             {
                 "name": "Klee",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Catalyst",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1273,10 +1304,11 @@
             },
             {
                 "name": "Eula",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Claymore",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1321,7 +1353,9 @@
                 "fullname": "Sangonomiya Kokomi",
                 "element": "Hydro",
                 "weapon": "Catalyst",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1366,7 +1400,9 @@
                 "fullname": "Kujou Sara",
                 "element": "Electro",
                 "weapon": "Bow",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1416,7 +1452,9 @@
                 "fullname": "Kamisato Ayato",
                 "element": "Hydro",
                 "weapon": "Sword",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1461,7 +1499,9 @@
                 "fullname": "Arataki Itto",
                 "element": "Geo",
                 "weapon": "Claymore",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1508,10 +1548,11 @@
             },
             {
                 "name": "Tighnari",
-                "fullname": "",
                 "element": "Dendro",
                 "weapon": "Bow",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1557,7 +1598,9 @@
                 "fullname": "Abyss Lector: Fathomless Flames",
                 "element": "Pyro",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 6,
                 "talents": {
                     "attack": {
@@ -1603,10 +1646,11 @@
             },
             {
                 "name": "Amber",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Bow",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1643,10 +1687,11 @@
             },
             {
                 "name": "Electro Hypostasis",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 8,
                 "talents": {
                     "attack": {
@@ -1702,10 +1747,11 @@
             },
             {
                 "name": "Fatui Cryo Cicin Mage",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Other Weapons",
-                "nation": "Fatui",
+                "factions": [
+                    "Fatui"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1747,10 +1793,11 @@
             },
             {
                 "name": "Hu Tao",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Polearm",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1795,7 +1842,9 @@
                 "fullname": "Yae Miko",
                 "element": "Electro",
                 "weapon": "Catalyst",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1837,10 +1886,11 @@
             },
             {
                 "name": "Nahida",
-                "fullname": "",
                 "element": "Dendro",
                 "weapon": "Catalyst",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1887,10 +1937,11 @@
             },
             {
                 "name": "Raiden Shogun",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Polearm",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1936,10 +1987,11 @@
             },
             {
                 "name": "Shenhe",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Polearm",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -1981,10 +2033,11 @@
             },
             {
                 "name": "Tartaglia",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Bow",
-                "nation": "Fatui",
+                "factions": [
+                    "Fatui"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2035,10 +2088,11 @@
             },
             {
                 "name": "Venti",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Bow",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2080,10 +2134,11 @@
             },
             {
                 "name": "Xiao",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Polearm",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2120,10 +2175,11 @@
             },
             {
                 "name": "Zhongli",
-                "fullname": "",
                 "element": "Geo",
                 "weapon": "Polearm",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2175,10 +2231,11 @@
             },
             {
                 "name": "Candace",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Polearm",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2225,10 +2282,11 @@
             },
             {
                 "name": "Yanfei",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Catalyst",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2273,7 +2331,9 @@
                 "fullname": "Kaedehara Kazuha",
                 "element": "Anemo",
                 "weapon": "Sword",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2315,10 +2375,11 @@
             },
             {
                 "name": "Albedo",
-                "fullname": "",
                 "element": "Geo",
                 "weapon": "Sword",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2355,10 +2416,11 @@
             },
             {
                 "name": "Lisa",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Catalyst",
-                "nation": "Mondstadt",
+                "factions": [
+                    "Mondstadt"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2400,10 +2462,11 @@
             },
             {
                 "name": "Qiqi",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Sword",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2445,10 +2508,12 @@
             },
             {
                 "name": "Dehya",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Claymore",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru",
+                    "Eremite"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2490,10 +2555,9 @@
             },
             {
                 "name": "Wanderer",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Catalyst",
-                "nation": "Sumeru",
+                "factions": [],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2530,10 +2594,11 @@
             },
             {
                 "name": "Yaoyao",
-                "fullname": "",
                 "element": "Dendro",
                 "weapon": "Polearm",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2575,10 +2640,11 @@
             },
             {
                 "name": "Baizhu",
-                "fullname": "",
                 "element": "Dendro",
                 "weapon": "Catalyst",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2625,10 +2691,11 @@
             },
             {
                 "name": "Dori",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Claymore",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2670,10 +2737,11 @@
             },
             {
                 "name": "Nilou",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Sword",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2720,10 +2788,11 @@
             },
             {
                 "name": "Alhaitham",
-                "fullname": "",
                 "element": "Dendro",
                 "weapon": "Sword",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2760,10 +2829,11 @@
             },
             {
                 "name": "Azhdaha",
-                "fullname": "",
                 "element": "Geo",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2814,10 +2884,11 @@
             },
             {
                 "name": "Dvalin",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2869,10 +2940,11 @@
             },
             {
                 "name": "Eremite Scorching Loremaster",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Other Weapons",
-                "nation": "Eremite",
+                "factions": [
+                    "Eremite"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2913,10 +2985,11 @@
             },
             {
                 "name": "Gorou",
-                "fullname": "",
                 "element": "Geo",
                 "weapon": "Bow",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -2958,10 +3031,11 @@
             },
             {
                 "name": "Layla",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Sword",
-                "nation": "Sumeru",
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3008,10 +3082,11 @@
             },
             {
                 "name": "La Signora",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Other Weapons",
-                "nation": "Fatui",
+                "factions": [
+                    "Fatui"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3062,10 +3137,12 @@
             },
             {
                 "name": "Lynette",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Sword",
-                "nation": "Fontaine",
+                "factions": [
+                    "Fontaine",
+                    "Fatui"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3107,10 +3184,12 @@
             },
             {
                 "name": "Lyney",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Bow",
-                "nation": "Fontaine",
+                "factions": [
+                    "Fontaine",
+                    "Fatui"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3157,10 +3236,11 @@
             },
             {
                 "name": "Thunder Manifestation",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3211,10 +3291,11 @@
             },
             {
                 "name": "Yelan",
-                "fullname": "",
                 "element": "Hydro",
                 "weapon": "Bow",
-                "nation": "Liyue",
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3260,10 +3341,11 @@
             },
             {
                 "name": "Thoma",
-                "fullname": "",
                 "element": "Pyro",
                 "weapon": "Polearm",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3305,10 +3387,11 @@
             },
             {
                 "name": "Sayu",
-                "fullname": "",
                 "element": "Anemo",
                 "weapon": "Claymore",
-                "nation": "Inazuma",
+                "factions": [
+                    "Inazuma"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -3350,10 +3433,11 @@
             },
             {
                 "name": "Cryo Hypostasis",
-                "fullname": "",
                 "element": "Cryo",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 8,
                 "talents": {
                     "attack": {
@@ -3404,10 +3488,11 @@
             },
             {
                 "name": "Millennial Pearl Seahorse",
-                "fullname": "",
                 "element": "Electro",
                 "weapon": "Other Weapons",
-                "nation": "Monster",
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 8,
                 "talents": {
                     "attack": {
