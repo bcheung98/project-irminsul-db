@@ -6270,7 +6270,14 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Burst</b>: Create <b class=\"tcg-bold\">Millennial Movement: Farewll Song</b>.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)<br /><br /><b class=\"tcg-bold\">Millennial Movement: Farewll Song</b><br />Your character deals +1 DMG.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Burst</b>: Create <span class=\"tooltip-farewell song\">Millennial Movement: Farewell Song</span>.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "keywords": [
+                    {
+                        "tag": "farewell song",
+                        "name": "Millennial Movement: Farewell Song",
+                        "description": "Your character deals 1 increased DMG.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
                 "splash": {
                     "title": "The Parting Refrain: Elegy for the End",
                     "description": "\"...But no wind in any season on earth\"<br />\"Shall have you gaze upon me again.\""
