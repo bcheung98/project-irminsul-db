@@ -8149,7 +8149,7 @@
                 "name": "Passing of Judgment",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1L 1M",
+                "cost": "1M 1L",
                 "description": "3 Event Cards played by your opponent in this Round will take no effect.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Passing of Judgment",
