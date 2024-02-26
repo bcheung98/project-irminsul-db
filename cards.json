@@ -4882,7 +4882,7 @@
                 "name": "Chang the Ninth",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">When either side uses a Skill</b>: If <span class=\"tooltip-physical\">Physical DMG</span> or <span class=\"tooltip-piercing\">Piercing DMG</span> was dealt, or an <b class=\"tcg-bold\">Elemental Reaction</b> was triggered, this card gains 1 <b class=\"tcg-bold\">Inspiration</b>.<br />When this card gains 3 <b class=\"tcg-bold\">Inspiration</b>, discard this card, then draw 2 cards.",
                 "splash": {
                     "title": "Chang the Ninth, Listless Literati",
@@ -5008,7 +5008,7 @@
                 "name": "Liben",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">End Phase</b>: Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br /><b class=\"tcg-bold\">When Action Phase begins</b>: If this card has collected 3 Elemental Dice, draw 2 cards and create <span class=\"tooltip-omni element\">Omni Element</span> ×2, then discard this card.",
                 "splash": {
                     "title": "\"Marvelous Merchandise\" Liben",
@@ -5106,7 +5106,7 @@
                 "name": "Timmie",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">Triggers automatically once per Round</b>: This card gains 1 <b class=\"tcg-bold\">Pigeon</b>.<br />When this card gains 3 <b class=\"tcg-bold\">Pigeons</b>, discard this card, then draw 1 card and create <span class=\"tooltip-omni element\">Omni Element</span> ×1.",
                 "splash": {
                     "title": "\"Pure Patience\" Timmie",
@@ -5197,7 +5197,7 @@
                 "name": "Blessing of the Divine Relic's Installation",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters, and reset the \"usages per Round\" limit on its effects.",
                 "splash": {
                     "title": "Divine Relic's Installation",
@@ -5225,7 +5225,7 @@
                 "name": "Changing Shifts",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">The next time you perform \"Switch Character\"</b>: Spend 1 less Elemental Die.",
                 "splash": {
                     "title": "Changing Shifts",
@@ -5362,7 +5362,7 @@
                 "displayName": "Elemental Resonance: Woven Flames",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-pyro\">Pyro Die</b>.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Flames",
@@ -5377,7 +5377,7 @@
                 "displayName": "Elemental Resonance: Woven Ice",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-Cryo\">Cryo Die</b>.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Ice",
@@ -5392,7 +5392,7 @@
                 "displayName": "Elemental Resonance: Woven Stone",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-geo\">Geo Die</b>.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Stone",
@@ -5407,7 +5407,7 @@
                 "displayName": "Elemental Resonance: Woven Thunder",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-electro\">Electro Die</b>.<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Thunder",
@@ -5422,7 +5422,7 @@
                 "displayName": "Elemental Resonance: Woven Waters",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-hydro\">Hydro Die</b>.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Waters",
@@ -5437,7 +5437,7 @@
                 "displayName": "Elemental Resonance: Weeds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-dendro\">Dendro Die</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Weeds",
@@ -5452,7 +5452,7 @@
                 "displayName": "Elemental Resonance: Woven Winds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "",
+                "cost": "0M",
                 "description": "Create 1 <b class=\"text-anemo\">Anemo Die</b>.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Winds",
@@ -5480,7 +5480,7 @@
                 "name": "I Haven't Lost Yet!",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">Only playable if one of your characters is defeated this Round</b>: Create <span class=\"tooltip-omni element\">Omni Element</span> ×1 and your current active character gains 1 <span class=\"tooltip-energy\">Energy</span>. (Only one copy of I Haven't Lost Yet! can be played each round.)",
                 "splash": {
                     "title": "I Haven't Lost Yet!",
@@ -5494,7 +5494,7 @@
                 "name": "Jueyun Guoba",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "",
+                "cost": "0M",
                 "description": "During this Round, the target character's next <b class=\"tcg-bold\">Normal Attack</b> deals +1 DMG.<br />(A character can consume at most 1 Food per Round.)",
                 "splash": {
                     "title": "Jueyun Guoba",
@@ -5508,7 +5508,7 @@
                 "name": "Leave It to Me!",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">The next time you perform \"Switch Character\"</b>: The switch will be considered a <span class=\"tooltip-fast action\">Fast Action</span> instead of a <span class=\"tooltip-combat action\">Combat Action</span>.",
                 "splash": {
                     "title": "Leave It to Me!",
@@ -5536,7 +5536,7 @@
                 "name": "Master of Weaponry",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type, and reset the \"usages per Round\" limit on its effects.",
                 "splash": {
                     "title": "Master of Weaponry",
@@ -5592,7 +5592,7 @@
                 "name": "Northern Smoked Chicken",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "",
+                "cost": "0M",
                 "description": "During this Round, the target character's <b class=\"tcg-bold\">Normal Attacks</b> cost 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>.<br />(A character can consume at most 1 Food per Round.)",
                 "splash": {
                     "title": "Northern Smoked Chicken",
@@ -5662,7 +5662,7 @@
                 "name": "Sweet Madame",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "",
+                "cost": "0M",
                 "description": "Heal target character for 1 HP.<br />(A character can consume at most 1 Food per Round.)",
                 "splash": {
                     "title": "Sweet Madame",
@@ -5690,7 +5690,7 @@
                 "name": "Toss-Up",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Select any Elemental Dice to <b class=\"tcg-bold\">reroll</b>. Can reroll 2 times.",
                 "splash": {
                     "title": "Toss-Up",
@@ -6650,7 +6650,7 @@
                 "name": "Vanarana",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">End Phase</b>: Collect up to 2 unused Elemental Dice.<br /><b class=\"tcg-bold\">When Action Phase begins</b>: Reclaim the dice you collected using this card.",
                 "splash": {
                     "title": "Abidance of the Forested Path",
@@ -6678,7 +6678,7 @@
                 "name": "Hanachirusato",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">When a Summon disappears</b>: This card gains 1 <b class=\"tcg-bold\">Cleansing Ritual</b> Progress. (Max 3)<br /><b class=\"tcg-bold\">When you play a Weapon or Artifact Card</b>: If you already have 3 <b class=\"tcg-bold\">Cleansing Ritual</b> Progress, discard this card and cause the card you play to cost 2 less Elemental Dice.",
                 "splash": {
                     "title": "Persistence of Pain: Hanachirusato",
@@ -6692,7 +6692,7 @@
                 "name": "Kid Kujirai",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">When the Action Phase begins</b>: Create 1 <span class=\"tooltip-omni element\">Omni Element</span>. Then if your opponent's Support Zone is not full, transfer this card to your opponent's Support Zone.",
                 "splash": {
                     "title": "Temari-Hiding Intentions: Kid Kujirai",
@@ -6776,7 +6776,7 @@
                 "name": "Wind and Freedom",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">During this turn, after one of your characters uses a Skill</b>: Switch your next character in to be the active character.<br />(You must have at least 2 Mondstadt characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Verse of Unchained Happenings",
@@ -6804,7 +6804,7 @@
                 "name": "Thunder and Eternity",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Convert all your Elemental Dice to the Type of the active character.<br />(You must have at least 2 Inazuman characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Dream of Evanescent Eternity",
@@ -7079,7 +7079,7 @@
                 "name": "Ancient Courtyard",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1L",
+                "cost": "0M 1L",
                 "description": "<b class=\"tcg-bold\">You must have a character who has already equipped a Weapon or Artifact:</b> The next time you play a Weapon or Artifact card in this Round: Spend 2 less Elemental Dice.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Ancient Courtyard",
@@ -7093,7 +7093,7 @@
                 "name": "Covenant of Rock",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1L",
+                "cost": "0M 1L",
                 "description": "<b class=\"tcg-bold\">Can only be played when you have 0 Elemental Dice left:</b> Generate 2 different basic Elemental Dice.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Covenant of Rock",
@@ -7107,7 +7107,7 @@
                 "name": "Rhythm of the Great Dream",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">The next time you play a Weapon or Artifact card:</b> Spend 1 less Elemental Die.",
                 "splash": {
                     "title": "Rhythm of the Great Dream",
@@ -7216,7 +7216,7 @@
                 "name": "Golden House",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">When you play a Weapon card or an Artifact card with an original cost of at least 3</b>: Spend 1 less Elemental Die. (Once per Round)",
                 "splash": {
                     "title": "Golden House",
@@ -7244,7 +7244,7 @@
                 "name": "Joyous Celebration",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1L",
+                "cost": "0M 1L",
                 "description": "<b class=\"tcg-bold\">Your active character must be one of the following elemental types to play this card</b>: <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-dendro\">Dendro</b>.<br />The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Joyous Celebration",
@@ -7259,7 +7259,7 @@
                 "displayName": "Where Is the Unseen Razor?",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Return a Weapon card equipped by your character to your Hand.<br /><b class=\"tcg-bold\">During this Round, the next time you play a Weapon card</b>: Spend 2 less Elemental Dice.",
                 "splash": {
                     "title": "Where Is the Unseen Razor?",
@@ -7417,7 +7417,7 @@
                 "name": "Fresh Wind of Freedom",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1L",
+                "cost": "0M 1L",
                 "description": "<b class=\"tcg-bold\">In this Round, when an opposing character is defeated during your Action</b>, you can continue to act again when that Action ends.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b><br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Fresh Wind of Freedom",
@@ -7431,7 +7431,7 @@
                 "name": "Pankration!",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">Can only be played when you have at least 8 Elemental Dice remaining, and your opponent has not yet ended their Round</b>: After a player announces the end of their Round first, the other player, who has yet to announced the end of their Round, draws 2 cards.",
                 "splash": {
                     "title": "Pankration!",
@@ -7584,7 +7584,7 @@
                 "name": "In Every House a Stove",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1L",
+                "cost": "0M 1L",
                 "description": "Draw a number of cards equal to the current Round number minus 1. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "In Every House a Stove",
@@ -7598,7 +7598,7 @@
                 "name": "Lyresong",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Return an Artifact card equipped by your character to your Hand.<br />During this Round, the next time you play an Artifact card from your hand: Spend 2 less Elemental Dice.",
                 "splash": {
                     "title": "Lyresong",
@@ -8023,7 +8023,7 @@
                 "name": "Flowing Rings",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">After the character uses a Normal Attack</b>: Draw 1 card. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Enthralling Tales Passed On: Flowing Rings",
@@ -8051,7 +8051,7 @@
                 "name": "Heart of Khvarena's Brilliance",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">After this character takes DMG</b>: If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Cleansing of Filth: Heart of Khvarena's Brilliance",
@@ -8107,7 +8107,7 @@
                 "name": "Mamere",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">After you play a Food/Location/Companion/Item Action Card other than Mamere</b>: Randomly create 1 Food/Location/Companion/Item Action Card other than Mamere, and add it to your hand. (Once per Round).<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>",
                 "splash": {
                     "title": "Mamere",
@@ -8121,7 +8121,7 @@
                 "name": "Seed Dispensary",
                 "type": "Support",
                 "subType": "Item",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">When you play an Equipment or Support Card with an original cost of 1 Elemental Die</b>: Spend 1 less Elemental Die. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>",
                 "splash": {
                     "title": "Seed Dispensary",
@@ -8163,7 +8163,7 @@
                 "name": "The Boar Princess",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">Each time you discard an Equipment Card from one of your characters during this Round</b>: Gain 1 Omni Element. (Max 2)<br />(This effect can be triggered by the loss of an Equipment Card from a character falling or from having their Weapon or Artifact replaced.)",
                 "splash": {
                     "title": "The Boar Princess",
@@ -8191,7 +8191,7 @@
                 "name": "Flickering Four-Leaf Sigil",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Attach <span class=\"tooltip-four leaf sigil\">Four-Leaf Sigil</span> to target character: At the End Phase of Every Round, you will switch to this character.",
                 "keywords": [
                     {
@@ -8291,7 +8291,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Cryo Hypostasis",
-                "cost": "",
+                "cost": "0M",
                 "description": "Can only be played if your active character is <b class=\"tcg-bold\">Cryo Hypostasis</b>: Attach <span class=\"tooltip-cryocrystal core\">Cryocrystal Core</span> to them.<br />After Cryo Hypostasis, who has this card equipped, triggers <b class=\"tcg-bold\">Cryocrystal Core</b>: Attach <span class=\"tooltip-sheer cold\">Sheer Cold</span> to the opposing active character.<br />(Your deck must contain Cryo Hypostasis to add this card to your deck)",
                 "keywords": [
                     {
@@ -8318,7 +8318,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Millennial Pearl Seahorse",
-                "cost": "",
+                "cost": "0M",
                 "description": "Can only be played if your active character is <b class=\"tcg-bold\">Millennial Pearl Seahorse</b>: When entering play, Millennial Pearl Seahorse will have <span class=\"tooltip-fontemer pearl\">Fontemer Pearl</span> with 1 <span class=\"tooltip-usages\">Usage(s)</span> attached to them. If they already have <b class=\"tcg-bold\">Fontemer Pearl</b> attached, <span class=\"tooltip-usages\">Usage(s)</span> +1 instead.<br />When the <b class=\"tcg-bold\">Fontemer Pearl</b> attached to Millennial Pearl Seahorse negates DMG from Summons, change to <span class=\"tooltip-usages\">Usage(s)</span> not being consumed twice per Round.<br />(Your deck must contain Millennial Pearl Seahorse to add this card to your deck)",
                 "keywords": [
                     {
@@ -8396,7 +8396,7 @@
                 "name": "Machine Assembly Line",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">Each time after your character is targeted by and takes DMG or is healed</b>: Accumulate 1 point of Battle-Readiness (Max 2 points).<br /><b class=\"tcg-bold\">When you play a Weapon or Artifact with an original cost of fewer Dice than you have Battle-Readiness points</b>: Clear all Battle-Readiness points and play that card for free.",
                 "splash": {
                     "title": "Machine Assembly Line",
@@ -8410,7 +8410,7 @@
                 "name": "Sunyata Flower",
                 "type": "Event",
                 "subType": "",
-                "cost": "",
+                "cost": "0M",
                 "description": "Select a card from your Support Zone and discard it. After that, randomly generate 2 Support Cards in your hand.<br /><b class=\"tcg-bold\">During the Round, the next time you play a Support Card</b>: Spend 1 less Elemental Die.",
                 "splash": {
                     "title": "Sunyata Flower",
