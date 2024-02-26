@@ -7079,7 +7079,7 @@
                 "name": "Ancient Courtyard",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M 1L",
+                "cost": "0M L",
                 "description": "<b class=\"tcg-bold\">You must have a character who has already equipped a Weapon or Artifact:</b> The next time you play a Weapon or Artifact card in this Round: Spend 2 less Elemental Dice.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Ancient Courtyard",
@@ -7093,7 +7093,7 @@
                 "name": "Covenant of Rock",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M 1L",
+                "cost": "0M L",
                 "description": "<b class=\"tcg-bold\">Can only be played when you have 0 Elemental Dice left:</b> Generate 2 different basic Elemental Dice.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Covenant of Rock",
@@ -7244,7 +7244,7 @@
                 "name": "Joyous Celebration",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M 1L",
+                "cost": "0M L",
                 "description": "<b class=\"tcg-bold\">Your active character must be one of the following elemental types to play this card</b>: <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-dendro\">Dendro</b>.<br />The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Joyous Celebration",
@@ -7417,7 +7417,7 @@
                 "name": "Fresh Wind of Freedom",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M 1L",
+                "cost": "0M L",
                 "description": "<b class=\"tcg-bold\">In this Round, when an opposing character is defeated during your Action</b>, you can continue to act again when that Action ends.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b><br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Fresh Wind of Freedom",
@@ -7584,7 +7584,7 @@
                 "name": "In Every House a Stove",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M 1L",
+                "cost": "0M L",
                 "description": "Draw a number of cards equal to the current Round number minus 1. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "In Every House a Stove",
@@ -8149,7 +8149,7 @@
                 "name": "Passing of Judgment",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "1M 1L",
+                "cost": "1M L",
                 "description": "3 Event Cards played by your opponent in this Round will take no effect.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Passing of Judgment",
