@@ -4073,7 +4073,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />When played: For each party member from Liyue, grant <b class=\"tcg-bold\">1 Shield point</b> to the character to which this is attached. (Max 3 points)<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />When played: For each party member from Liyue, grant <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> to the character to which this is attached. (Max 3 points)<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Evil Shall Never Prevail: Lithic Spear",
                     "description": "These spears were forged from the rocks of the Guyun Stone Forest, and were favored by the Millelith of old. Their hardness knows no equal."
