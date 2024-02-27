@@ -2756,7 +2756,7 @@
                     },
                     "burst": {
                         "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
-                        "cost": "3E 2N",
+                        "cost": "3H 2N",
                         "energy": 2,
                         "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. The target character receives <span class=\"tooltip-lingering aeon\">Lingering Aeon."
                     }
