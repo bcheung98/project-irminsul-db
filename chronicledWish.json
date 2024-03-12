@@ -1,0 +1,73 @@
+[
+    {
+        "version": "4.5",
+        "phase1": {
+            "startDate": "March 13, 2024",
+            "endDate": "April 2, 2024",
+            "banner": {
+                "characters": {
+                    "5stars": [
+                        "Albedo",
+                        "Diluc",
+                        "Eula",
+                        "Jean",
+                        "Klee"
+                    ],
+                    "4stars": [
+                        "Amber",
+                        "Barbara",
+                        "Bennett",
+                        "Diona",
+                        "Fischl",
+                        "Kaeya",
+                        "Lisa",
+                        "Mika",
+                        "Noelle",
+                        "Razor",
+                        "Rosaria",
+                        "Sucrose"
+                    ]
+                },
+                "weapons": {
+                    "5stars": [
+                        "Aquila Favonia",
+                        "Beacon of the Reed Sea",
+                        "Hunter's Path",
+                        "Lost Prayer to the Sacred Winds",
+                        "Skyward Atlas",
+                        "Skyward Blade",
+                        "Skyward Harp",
+                        "Skyward Pride",
+                        "Skyward Spine",
+                        "Song of Broken Pines",
+                        "Wolf's Gravestone"
+                    ],
+                    "4stars": [
+                        "Alley Hunter",
+                        "Dragon's Bane",
+                        "Eye of Perception",
+                        "Favonius Codex",
+                        "Favonius Greatsword",
+                        "Favonius Lance",
+                        "Favonius Sword",
+                        "Favonius Warbow",
+                        "Lion's Roar",
+                        "Mitternachts Waltz",
+                        "Rainslasher",
+                        "Rust",
+                        "Sacrificial Bow",
+                        "Sacrificial Fragments",
+                        "Sacrificial Greatsword",
+                        "Sacrificial Sword",
+                        "The Alley Flash",
+                        "The Bell",
+                        "The Flute",
+                        "The Stringless",
+                        "The Widsith",
+                        "Wine and Song"
+                    ]
+                }
+            }
+        }
+    }
+]
