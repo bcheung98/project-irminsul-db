@@ -4282,5 +4282,53 @@
         "release": {
             "version": "4.4"
         }
+    },
+    {
+        "id": 179,
+        "name": "Uraku Misugiri",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-44b",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Brocade Bloom, Shrine Sword",
+                "description": "Normal Attack DMG is increased by <b class=\"text-refinement\">16%</b> and Elemental Skill DMG is increased by <b class=\"text-refinement\">24%</b>. After a nearby active character deals Geo DMG, the aforementioned effects increase by 100% for 15s. Additionally, the wielder's DEF is increased by <b class=\"text-refinement\">20%</b>.",
+                "scaling": [["16%", "20%", "24%", "28%", "32%"], ["24%", "30%", "36%", "42%", "48%"], ["20%", "25%", "30%", "35%", "40%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Sea Branch",
+            "eliteMat": "Sentinel Chaos Part",
+            "commonMat": "Handguard"
+        },
+        "description": "This famous blade was once created by the hand of Urakusai, the renowned literato. Legend has it that it has never cut any living creature in all these hundreds of years.",
+        "release": {
+            "version": "4.5"
+        }
+    },
+    {
+        "id": 180,
+        "name": "Dialogues of the Desert Sages",
+        "rarity": 4,
+        "type": "Polearm",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "HP",
+            "passive": {
+                "name": "Principle of Equilibrium",
+                "description": "When the wielder performs healing, restore <b class=\"text-refinement\">8</b> Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
+                "scaling": [["8", "10", "12", "14", "16"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Forest Dew",
+            "eliteMat": "Fin",
+            "commonMat": "Specter"
+        },
+        "description": "A caduceus symbolizing the glory of alchemy, made from special alloys to match its special status. It is exceedingly rigid and heavy, and would probably hurt pretty bad if used as a cudgel.",
+        "release": {
+            "version": "4.5"
+        }
     }
 ]

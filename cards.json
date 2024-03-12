@@ -3537,6 +3537,202 @@
                 "release": {
                     "version": "4.4"
                 }
+            },
+            {
+                "name": "Charlotte",
+                "element": "Cryo",
+                "weapon": "Catalyst",
+                "factions": [
+                    "Fontaine"
+                ],
+                "arkhe": "Pneuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Cool-Color Capture",
+                        "cost": "1C 2U",
+                        "description": "Deals 1 <span class=\"tooltip-cryo\">Cryo DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Framing: Freezing Point Composition",
+                        "cost": "3C",
+                        "description": "Deals 1 <span class=\"tooltip-cryo\">Cryo DMG</span>. Attach <span class=\"tooltip-snappy silhouette\">Snappy Silhouette</span> to the target."
+                    },
+                    "burst": {
+                        "name": "Still Photo: Comprehensive Confirmation",
+                        "cost": "3C 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <span class=\"tooltip-cryo\">Cryo DMG</span>, heals all your characters for 1 HP, summons 1 <span class=\"tooltip-newsflash field\">Newsflash Field</b>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "snappy silhouette",
+                        "name": "Snappy Silhouette",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-cryo\">Cryo DMG</span> to attached character(s). If you have only 1 <b class=\"tcg-bold\">Usage(s)</b> left, this instance of DMG +1.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    },
+                    {
+                        "tag": "newsflash field",
+                        "name": "Newsflash Field",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-cryo\">Cryo DMG</span>, heal your active character for 1 HP.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Lens of Verity\" Charlotte",
+                    "description": "\"Your credible source of the unbelievable truth!\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Neuvillette",
+                "element": "Hydro",
+                "weapon": "Catalyst",
+                "factions": [
+                    "Fontaine"
+                ],
+                "arkhe": "Pneuma",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "As Water Seeks Equilibrium",
+                        "cost": "1H 2U",
+                        "description": "Deals 1 <span class=\"tooltip-hydro\">Hydro DMG</span>."
+                    },
+                    "skill": {
+                        "name": "O Tears, I Shall Repay",
+                        "cost": "3H",
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 1 <span class=\"tooltip-sourcewater droplet\">Sourcewater Droplet</span>."
+                    },
+                    "burst": {
+                        "name": "O Tides, I Have Returned",
+                        "cost": "3H 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>, deals 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to all opposing characters and standby, then creates a <span class=\"tooltip-sourcewater droplet\">Sourcewater Droplet</span> with 2 Usages."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "sourcewater droplet",
+                        "name": "Sourcewater Droplet",
+                        "description": "<b class=\"tcg-bold\">After Neuvillette uses a Normal Attack</b>: Heals the character for 2 HP. After this, \"<span class=\"tooltip-prepare\">Prepare Skill</span>\": <span class=\"tooltip-equitable judgment\">Equitable Judgment</span><br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    },
+                    {
+                        "tag": "equitable judgment",
+                        "name": "Equitable Judgment",
+                        "description": "(Prepare for 1 turn)<br />Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. If this character has at least 6 HP, then deal 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to yourself and gain +1 DMG."
+                    }
+                ],
+                "splash": {
+                    "title": "\"Ordainer of Inexorable Judgment\" Neuvillette",
+                    "description": "He who looks down on all that are haughty."
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Kirara",
+                "element": "Dendro",
+                "weapon": "Sword",
+                "factions": [
+                    "Inazuma"
+                ],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Boxcutter",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Meow-teor Kick",
+                        "cost": "3D",
+                        "description": "Creates 1 <span class=\"tooltip-urgent neko parcel\">Urgent Neko Parcel</span> and <span class=\"tooltip-shield of safe transport\">Shield of Safe Transport</span>."
+                    },
+                    "burst": {
+                        "name": "Secret Art: Surprise Dispatch",
+                        "cost": "3D 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <span class=\"tooltip-dendro\">Dendro DMG</span>, creats 1 <span class=\"tooltip-cat grass cardamom\">Cat Grass Cardamom</span> on the opponent's side of the field."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "urgent neko parcel",
+                        "name": "Urgent Neko Parcel",
+                        "description": "<b class=\"tcg-bold\">When Kirara is your active character, after you switch characters</b>: Deal 1 <span class=\"tooltip-dendro\">Dendro DMG</span> and draw 1 card.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1 (Can stack. Max 2 stacks.)</b>"
+                    },
+                    {
+                        "tag": "shield of safe transport",
+                        "name": "Shield of Safe Transport",
+                        "description": "Grants <b class=\"tcg-bold\">2</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">points</b> to your active character."
+                    },
+                    {
+                        "tag": "cat grass cardamom",
+                        "name": "Cat Grass Cardamom",
+                        "description": "<b class=\"tcg-bold\">After the side of the field that this card is on has played 2 Action Cards</b>: Deal 1 <span class=\"tooltip-dendro\">Dendro DMG</span> to the active character on that side.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Cat Upon the Eaves\" Kirara",
+                    "description": "On tails twain and padded feet, to all doors shall she deliver."
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Fatui Electro Cicin Mage",
+                "element": "Electro",
+                "weapon": "Other Weapons",
+                "factions": [
+                    "Fatui"
+                ],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Hurtling Bolts",
+                        "cost": "1E 2U",
+                        "description": "Deals 1 <span class=\"tooltip-electro\">Electro DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Misty Call",
+                        "cost": "3E",
+                        "description": "Summons 1 <span class=\"tooltip-electrocicin\">Electro Cicin</span>."
+                    },
+                    "burst": {
+                        "name": "Thundering Shield",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <span class=\"tooltip-electro\">Electro DMG</span>, applies <span class=\"tooltip-electro application\">Electro Application</span> to this character, creates 1 <span class=\"tooltip-electrocicin shield\">Electro Cicin Shield</span> and prepares <span class=\"tooltip-surging thunder\">Surging Thunder</span>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "electrocicin",
+                        "name": "Electro Cicin",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-electro\">Electro DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2 (Can stack, max 3 stacks)</b><br /><br /><b class=\"tcg-bold\">After your opponent plays a total of 3 Action Cards</b>: This card gains 1 <b class=\"tcg-bold\">Usage(s)</b>. (Max 3 stacks)<br /><b class=\"tcg-bold\">After Fatui Electro Cicin Mage takes Elemental Reaction DMG</b>: This card loses 1 <b class=\"tcg-bold\">Usage(s)</b>."
+                    },
+                    {
+                        "tag": "electrocicin shield",
+                        "name": "Electro Cicin Shield",
+                        "description": "Provides <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> for your active character.<br /><b class=\"tcg-bold\">When created</b>: If you have <span class=\"tooltip-electrocicin\">Electro Cicin</span> on the field, additionally increase <b class=\"tcg-bold\">Shield</b> by the amount of <b class=\"tcg-bold\">Usage(s)</b> it has.<br />(Adds a maximum of 3 additional <b class=\"tcg-bold\">Shield</b>)"
+                    },
+                    {
+                        "tag": "surging thunder",
+                        "name": "Surging Thunder",
+                        "description": "(Prepare for 1 turn)<br />Deals 2 <span class=\"tooltip-electro\">Electro DMG</span>."
+                    }
+                ],
+                "splash": {
+                    "title": "Thunder in the Mist: Electro Cicin Mage",
+                    "description": "...Just as the scent of Mist Grass intoxicates the Electro Cicins, so too does the sadistic mage hanker after the pleasure of toying with her foe..."
+                },
+                "release": {
+                    "version": "4.5"
+                }
             }
         ]
     },
@@ -4967,7 +5163,7 @@
                 "type": "Support",
                 "subType": "Location",
                 "cost": "1M",
-                "description": "<b class=\"tcg-bold\">Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.",
+                "description": "<b class=\"tcg-bold\">Roll Phase</b>: 2 of the starting Elemental Dice you roll are always guaranteed to match the Elemental Type of your active character.<br /><b class=\"tcg-bold\">When Action Phase begins</b>: If you have no more than 3 cards in your Hand, discard this card and create 1 <span class=\"tooltip-omni element\">Omni Element</span>.",
                 "splash": {
                     "title": "Stargazing Amidst Clouds",
                     "description": "\"They say that it contains a thousand dazzling jewels.\""
@@ -4994,7 +5190,7 @@
                 "name": "Knights of Favonius Library",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "1M",
+                "cost": "0M",
                 "description": "<b class=\"tcg-bold\">When played</b>: Select any Elemental Dice to reroll.<br /><b class=\"tcg-bold\">Roll Phase</b>: Gain another chance to reroll.",
                 "splash": {
                     "title": "Athenaeum of the North",
@@ -8009,8 +8205,8 @@
                 "name": "Gilded Dreams",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "3U",
-                "description": "<b class=\"tcg-bold\">When played</b>: Generate 1 Die of the same Element as the attached character. If you have 3 different Elemental Types in your party, generate 1 <span class=\"tooltip-omni element\">Omni Element</span> in addition to this.<br /><b class=\"tcg-bold\">When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG</b>: Draw 1 card. (Up to twice per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "cost": "3M",
+                "description": "<b class=\"tcg-bold\">When played</b>: Generate 1 Die of the same Element as the attached character. If you have 3 different Elemental Types in your party, generate 2 such Dice instead.<br /><b class=\"tcg-bold\">When the character to which this card is attached is your active character, then when an opposing character takes Elemental Reaction DMG</b>: Draw 1 card. (Up to twice per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Golden Vision: Gilded Dreams",
                     "description": "\"Some time later, absurd decisions would be issued alongside illusory madness, using lovely expectations as bait to lead the people towards a bitter end.\""
@@ -8432,6 +8628,215 @@
                 },
                 "release": {
                     "version": "4.4"
+                }
+            },
+            {
+                "name": "A Summation of Interest",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Charlotte",
+                "cost": "3C",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Charlotte</b>, equip this card.<br />After Charlotte equips this card, immediately use <span class=\"tooltipHighlight-freezing point composition\">Framing: Freezing Point Composition</span> once.<br />When your Charlotte, who has this card equipped, is on the field, and after any of your characters uses a Normal Attack: If your opponent has a character on the field with <span class=\"tooltip-snappy silhouette\">Snappy Silhouette</span> attached, heal your active character for 2 HP. (Once per Round)<br />(You must have Charlotte in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "freezing point composition",
+                        "type": "Elemental Skill",
+                        "name": "Framing: Freezing Point Composition",
+                        "description": "Deals 1 <span class=\"tooltip-cryo\">Cryo DMG</span>. Attach <span class=\"tooltip-snappy silhouette\">Snappy Silhouette</span> to the target."
+                    },
+                    {
+                        "tag": "snappy silhouette",
+                        "name": "Snappy Silhouette",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-cryo\">Cryo DMG</span> to attached character(s). If you have only 1 <b class=\"tcg-bold\">Usage(s)</b> left, this instance of DMG +1.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Charlotte: A Summation of Interest",
+                    "description": "\"Breaking news!\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Heir to the Ancient Sea's Authority",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Neuvillette",
+                "cost": "1H 2U",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Neuvillette</b>, equip this card.<br />After Neuvillette equips this card, immediately use <span class=\"tooltipHighlight-as water seeks equilibrium\">As Water Seeks Equilibrium</span> once.<br />After your characters trigger <b class=\"text-hydro\">Hydro-Related Reactions</b>: Neuvillette, who has this card equipped, deals +1 DMG for the next 2 instances.<br />(You must have Neuvillette in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "as water seeks equilibrium",
+                        "type": "Normal Attack",
+                        "name": "As Water Seeks Equilibrium",
+                        "description": "Deals 1 <span class=\"tooltip-hydro\">Hydro DMG</span>."
+                    }
+                ],
+                "splash": {
+                    "title": "Neuvillette: Heir to the Ancient Sea's Authority",
+                    "description": "\"The tides beckon.\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Countless Sights to See",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Kirara",
+                "cost": "3D",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Kirara</b>, equip this card.<br />After Kirara equips this card, immediately use <span class=\"tooltipHighlight-meowteor kick\">Meow-teor Kick</span> once.<br />When your Kirara who has this card equipped is the active character, spend 1 less Elemental Die when switching characters (Once per Round).<br />(You must have Kirara in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "meowteor kick",
+                        "type": "Elemental Skill",
+                        "name": "Meow-teor Kick",
+                        "description": "Creates 1 <span class=\"tooltip-urgent neko parcel\">Urgent Neko Parcel</span> and <span class=\"tooltip-shield of safe transport\">Shield of Safe Transport</span>."
+                    },
+                    {
+                        "tag": "urgent neko parcel",
+                        "name": "Urgent Neko Parcel",
+                        "description": "<b class=\"tcg-bold\">When Kirara is your active character, after you switch characters</b>: Deal 1 <span class=\"tooltip-dendro\">Dendro DMG</span> and draw 1 card.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1 (Can stack. Max 2 stacks.)</b>"
+                    },
+                    {
+                        "tag": "shield of safe transport",
+                        "name": "Shield of Safe Transport",
+                        "description": "Grants <b class=\"tcg-bold\">2</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">points</b> to your active character."
+                    }
+                ],
+                "splash": {
+                    "title": "Kirara: Countless Sights to See",
+                    "description": "\"Service with a smile!\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Electro Cicin's Gleam",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Fatui Electro Cicin Mage",
+                "cost": "3E",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Fatui Electro Cicin Mage</b>, equip this card.<br />After Fatui Electro Cicin Mage equips this card, immediately use <span class=\"tooltipHighlight-misty call\">Misty Call</span> once.<br />If your Fatui Electro Cicin Mage who has this card equipped is on the field, before you choose an action: If <span class=\"tooltip-electrocicin\">Electro Cicin</span>'s <span class=\"tooltip-usages\">Usage(s)</span> is at least 3, then <b class=\"tcg-bold\">Electro Cicin</b> will immediately deal 1 <span class=\"tooltip-electro\">Electro DMG</span>. (<b class=\"tcg-bold\">Usage(s) will be consumed, once per Round</b>)<br />(You must have Fatui Electro Cicin Mage in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "misty call",
+                        "type": "Elemental Skill",
+                        "name": "Misty Call",
+                        "description": "Summons 1 <span class=\"tooltip-electrocicin\">Electro Cicin</span>."
+                    },
+                    {
+                        "tag": "electrocicin",
+                        "name": "Electro Cicin",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-electro\">Electro DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2 (Can stack, max 3 stacks)</b><br /><br /><b class=\"tcg-bold\">After your opponent plays a total of 3 Action Cards</b>: This card gains 1 <b class=\"tcg-bold\">Usage(s)</b>. (Max 3 stacks)<br /><b class=\"tcg-bold\">After Fatui Electro Cicin Mage takes Elemental Reaction DMG</b>: This card loses 1 <b class=\"tcg-bold\">Usage(s)</b>."
+                    }
+                ],
+                "splash": {
+                    "title": "Electro Cicin Mage: Electro Cicin's Gleam",
+                    "description": "\"Are you... here to play with me?\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Tome of the Eternal Flow",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "weaponType": "Catalyst",
+                "cost": "3M",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After this character takes DMG or is healed</b>: If this character has already been damaged or healed 2 times this Round, then this character's next attack this Round deals +2 additional DMG. (Once per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Aeon Wave: Tome of the Eternal Flow",
+                    "description": "\"...For if the harbinger of the apocalypse would indeed one day arrive, the flood would wash everything away.\"<br />\"The watchers would fight with both duty and joy in their our hearts, just as the goddess had found empathy for them in hers.\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Golden Troupe's Reward",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "0M",
+                "description": "<b class=\"tcg-bold\">When Played</b>: This card will have 1 \"Recompense\" point.<br /><b class=\"tcg-bold\">End Phase</b>: If the character to which this attached is on standby, this card gains 1 \"Recompense\" point. (Max 2 points)<br /><b class=\"tcg-bold\">When you play a Talent card or a Character uses an Elemental Skill</b>: For each \"Recompense\" point this card has, consume it to spend 1 less Elemental Die.<br />(A character can equip a maximum of 1 Artifact)",
+                "splash": {
+                    "title": "Song of Harmony: Golden Troupe's Reward",
+                    "description": "\"When the great golden symphony plays once more, the Golden Troupe will receive the rightful rewards owed to the true and loyal.\"<br />\"When the perfect order separates humanity into master and servant, prosperity and beauty shall make the kingdom glorious once more...\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Fortress of Meropide",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b class=\"tcg-bold\">When your active character takes DMG or is healed</b>: This card gains 1 \"Prohibition\" point. (Maximum 4 points)<br /><b class=\"tcg-bold\">When Action Phase begins</b>: If this card has accumulated 4 \"Prohibition\" points, then 4 points will be consumed and 1 <span class=\"tooltip-strictly prohibited\">Strictly Prohibited</span> will be created in your opponent's playing field.",
+                "keywords": [
+                    {
+                        "tag": "strictly prohibited",
+                        "name": "Strictly Prohibited",
+                        "description": "Event Cards played on this side of the field this Round will be invalid.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Fortress of Meropide",
+                    "description": "\"A fastness of bronze and iron will collapse one day, but a city of law and justice will never fall.\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Lumenstone Adjuvant",
+                "type": "Equipment",
+                "subType": "Item",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">After you play an Action Card</b>: If, while this card is on the field, you have already played 3 Action Cards this Round, draw 1 card and create 1 Omni Die. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>",
+                "splash": {
+                    "title": "Lumenstone Adjuvant",
+                    "description": "\"May it be as a sun in your palm, lighting the way through the lightless tunnels and bringing comfort where all is dark.\""
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Day of Resistance Moment of Shattered Dreams",
+                "displayName": "Day of Resistance: Moment of Shattered Dreams",
+                "type": "Event",
+                "subType": "Arcane Legend",
+                "cost": "0M L",
+                "description": "During this Round, your targeted character takes -1 DMG. (Max 4 times)<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
+                "splash": {
+                    "title": "Day of Resistance: Moment of Shattered Dreams",
+                    "description": "Victorious were we who fought to be free... Thus did the dream of eternal prosperity fall with this mighty capital..."
+                },
+                "release": {
+                    "version": "4.5"
+                }
+            },
+            {
+                "name": "Controlled Directional Blast",
+                "type": "Event",
+                "subType": "",
+                "cost": "1M",
+                "description": "<b class=\"tcg-bold\">Can only be played when there is a total of at least 4 cards in your opponent's Support Zone and Summons Zone</b>: All Summons on both sides lose 1 Usage.",
+                "splash": {
+                    "title": "Controlled Directional Blast",
+                    "description": "\"...haven't hidden anything. All the Arkhium has been handled appropriately. This explosion was always a 'controllable hazard removal directional blast.'\""
+                },
+                "release": {
+                    "version": "4.5"
                 }
             }
         ]

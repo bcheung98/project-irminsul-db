@@ -733,5 +733,19 @@
                 "Yaoyao"
             ]
         }
+    },
+    {
+        "version": "4.5",
+        "phase1": {
+            "startDate": "March 13, 2024",
+            "endDate": "April 2, 2024",
+            "banner": [
+                "Chiori",
+                "Itto",
+                "Dori",
+                "Gorou",
+                "Yun Jin"
+            ]
+        }
     }
 ]
