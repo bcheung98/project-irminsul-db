@@ -6,14 +6,14 @@
             "endDate": "April 2, 2024",
             "banner": {
                 "characters": {
-                    "5stars": [
+                    "fiveStars": [
                         "Albedo",
                         "Diluc",
                         "Eula",
                         "Jean",
                         "Klee"
                     ],
-                    "4stars": [
+                    "fourStars": [
                         "Amber",
                         "Barbara",
                         "Bennett",
@@ -29,7 +29,7 @@
                     ]
                 },
                 "weapons": {
-                    "5stars": [
+                    "fiveStars": [
                         "Aquila Favonia",
                         "Beacon of the Reed Sea",
                         "Hunter's Path",
@@ -42,7 +42,7 @@
                         "Song of Broken Pines",
                         "Wolf's Gravestone"
                     ],
-                    "4stars": [
+                    "fourStars": [
                         "Alley Hunter",
                         "Dragon's Bane",
                         "Eye of Perception",
