@@ -1952,7 +1952,7 @@
             },
             "skill": {
                 "name": "Guhua Sword: Fatal Rainscreen",
-                "description": "Xingqiu performs twin strikes with his sword, dealing <b class=\"text-hydro\">Hydro DMG</b>. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.<br />The Rain Swords have the following properties:<li>When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.</li><li>Increase the character's resistance to interruption.</li>20% of Xingqiu's <b class=\"text-hydro\">Hydro DMG</b> Bonus will be converted to additional DMG Reduction for the Rain Swords.<br /><br />The maximum amount of additional DMG Reduction that can be gained this way is 24%.<br />The initial maximum number of Rain Swords is 3.<br />Using this ability applies the <b class=\"text-hydro\">Wet</b> status onto the character.",
+                "description": "Xingqiu performs twin strikes with his sword, dealing <b class=\"text-hydro\">Hydro DMG</b>. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.<br />The Rain Swords have the following properties:<li>When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.</li><li>Increase the character's resistance to interruption.</li><br />20% of Xingqiu's <b class=\"text-hydro\">Hydro DMG</b> Bonus will be converted to additional DMG Reduction for the Rain Swords.<br /><br />The maximum amount of additional DMG Reduction that can be gained this way is 24%.<br />The initial maximum number of Rain Swords is 3.<br />Using this ability applies the <b class=\"text-hydro\">Wet</b> status onto the character.",
                 "scaling": [
                     ["Skill DMG", "168% + 191.2%", "180.6% + 205.54%", "193.2% + 219.88%", "210% + 239%", "222.6% + 253.34%", "235.2% + 267.68%", "252% + 286.8%", "268.8% + 305.92%", "285.6% + 325.04%", "302.4% + 344.16%", "319.2% + 363.28%", "336% + 382.4%", "357% + 406.3%", "378% + 430.2%", "399% + 454.1%"], ["Damage Reduction Ratio", "20%", "21%", "22%", "23%", "24%", "25%", "26%", "27%", "28%", "29%", "29%", "29%", "29%", "29%", "29%"], ["Duration", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["CD", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s", "21s"]
                 ],
@@ -1983,7 +1983,7 @@
             "name": "Fabulae Textile",
             "c1": {
                 "name": "The Scent Remained",
-                "description": "Increases the maximum number of Rain Swords by 1"
+                "description": "Increases the maximum number of Rain Swords by 1."
             },
             "c2": {
                 "name": "Rainbow Upon the Azure Sky",
