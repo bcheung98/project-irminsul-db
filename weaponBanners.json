@@ -883,6 +883,19 @@
                 "Favonius Codex",
                 "The Bell"
             ]
+        },
+        "phase2": {
+            "startDate": "April 2, 2024",
+            "endDate": "April 23, 2024",
+            "banner": [
+                "Tome of the Eternal Flow",
+                "Freedom-Sworn",
+                "Mitternachts Waltz",
+                "The Flute",
+                "Favonius Lance",
+                "Wine and Song",
+                "Favonius Greatsword"
+            ]
         }
     }
 ]

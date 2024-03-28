@@ -746,6 +746,17 @@
                 "Gorou",
                 "Yun Jin"
             ]
+        },
+        "phase2": {
+            "startDate": "April 2, 2024",
+            "endDate": "April 23, 2024",
+            "banner": [
+                "Neuvillette",
+                "Kazuha",
+                "Barbara",
+                "Xingqiu",
+                "Yanfei"
+            ]
         }
     }
 ]
