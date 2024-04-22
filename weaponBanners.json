@@ -897,5 +897,21 @@
                 "Favonius Greatsword"
             ]
         }
+    },
+    {
+        "version": "4.6",
+        "phase1": {
+            "startDate": "April 24, 2024",
+            "endDate": "May 14, 2024",
+            "banner": [
+                "Crimson Moon's Semblance",
+                "The First Great Magic",
+                "Favonius Warbow",
+                "The Dockhand's Assistant",
+                "Dragon's Bane",
+                "Eye of Perception",
+                "Portable Power Saw"
+            ]
+        }
     }
 ]

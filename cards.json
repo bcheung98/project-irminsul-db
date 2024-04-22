@@ -1633,7 +1633,7 @@
                     {
                         "tag": "fiery rebirth",
                         "name": "Fiery Rebirth",
-                        "description": "<b class=\"tcg-bold\">When the character to which this is attached would be defeated</b>: Remove this effect, ensure the character <span class=\"tooltip-immunity to defeat\">will not be defeated</span>, and heal them to 3 HP."
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached would be defeated</b>: Remove this effect, ensure the character <span class=\"tooltip-immunity to defeat\">will not be defeated</span>, and heal them to 4 HP. After this effect is triggered, this character deals +1 <span class=\"tooltip-pyro\">Pyro DMG</span>."
                     }
                 ],
                 "splash": {
@@ -3733,6 +3733,205 @@
                 "release": {
                     "version": "4.5"
                 }
+            },
+            {
+                "name": "Shinobu",
+                "fullname": "Kuki Shinobu",
+                "element": "Electro",
+                "weapon": "Sword",
+                "factions": [
+                    "Inazuma"
+                ],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Shinobu's Shadowsword",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Sanctifying Ring",
+                        "cost": "3E",
+                        "description": "Summons a <span class=\"tooltip-grass ring\">Grass Ring of Sanctification</span>. If this character has at least 6 HP, then she deals 2 <span class=\"tooltip-piercing\">Piercing DMG</span> to herself."
+                    },
+                    "burst": {
+                        "name": "Gyoei Narukami Kariyama Rite",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <span class=\"tooltip-electro\">Electro DMG</span>, heals this character for 2 HP."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "grass ring",
+                        "name": "Grass Ring of Sanctification",
+                        "description": "<b class=\"tcg-bold\">After you switch characters</b>: Deal 1 <span class=\"tooltip-electro\">Electro DMG</span>, heal the character on your team that has taken the most damage for 1 HP. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Mender of Tribulations\" Kuki Shinobu",
+                    "description": "Master of all trades, deputy of the oni."
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Faruzan",
+                "element": "Anemo",
+                "weapon": "Bow",
+                "factions": [
+                    "Sumeru"
+                ],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Parthian Shot",
+                        "cost": "1A 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Wind Realm of Nasamjnin",
+                        "cost": "3A",
+                        "description": "Deals 3 <span class=\"tooltip-anemo\">Anemo DMG</span>. This character gains <span class=\"tooltip-manifest gale\">Manifest Gale</span>"
+                    },
+                    "burst": {
+                        "name": "The Wind's Secret Ways",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, summons 1 <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span>"
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "manifest gale",
+                        "name": "Manifest Gale",
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached uses a <span class=\"tooltip-charged attack\">Charged Attack</span></b>: Spend 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>, <span class=\"tooltip-physical\">Physical DMG</span> dealt converted to <span class=\"tooltip-anemo\">Anemo DMG</span>, and attaches <span class=\"tooltip-pressurized collapse\">Pressurized Collapse</span> to the target character."
+                    },
+                    {
+                        "tag": "dazzling polyhedron",
+                        "name": "Dazzling Polyhedron",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-anemo\">Anemo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When this Summon is on the field</b>: Opposing character(s) take +1 <span class=\"tooltip-anemo\">Anemo DMG</span>."
+                    },
+                    {
+                        "tag": "pressurized collapse",
+                        "name": "Pressurized Collapse",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Switch the character to which this is attached to be the Active Character.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b><br />(Only 1 such effect can be on the same side of the playing field)"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Enigmatic Machinist\" Faruzan",
+                    "description": "Simple machines, mysterious world."
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Abyss Herald Wicked Torrents",
+                "displayName": "Abyss Herald: Wicked Torrents",
+                "element": "Hydro",
+                "weapon": "Other Weapons",
+                "factions": [
+                    "Monster"
+                ],
+                "hp": 6,
+                "talents": {
+                    "attack": {
+                        "name": "Rippling Splash",
+                        "cost": "1H 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Vortex Edge",
+                        "cost": "3H",
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>, then performs \"<span class=\"tooltip-prepare\">Prepare Skill</span>\" for <span class=\"tooltip-rippling blades\">Rippling Blades</span>."
+                    },
+                    "burst": {
+                        "name": "Torrential Shock",
+                        "cost": "3H 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <span class=\"tooltip-hydro\">Hydro DMG</span>. Creates 1 <span class=\"tooltip-curse of the undercurrent\">Curse of the Undercurrent</span> on the opponent's side of the field."
+                    },
+                    "passive": {
+                        "name": "Watery Rebirth",
+                        "description": "(Passive) When the battle begins, this character gains <span class=\"tooltip-watery rebirth\">Watery Rebirth</span>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "rippling blades",
+                        "name": "Rippling Blades",
+                        "description": "Deals 1 <span class=\"tooltip-hydro\">Hydro DMG</span>."
+                    },
+                    {
+                        "tag": "curse of the undercurrent",
+                        "name": "Curse of the Undercurrent",
+                        "description": "<b class=\"tcg-bold\">When character(s) on this side of the playing field use Elemental Skills or Elemental Bursts</b>: They must spend 1 extra Elemental Die.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    },
+                    {
+                        "tag": "watery rebirth",
+                        "name": "Watery Rebirth",
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached would be defeated</b>: Remove this effect, ensure the character <span class=\"tooltip-immunity to defeat\">will not be defeated</span>, and heal them to 4 HP. After this effect is triggered, <span class=\"tooltip-physical\">Physical DMG</span> this character deals is converted to <span class=\"tooltip-hydro\">Hydro DMG</span>, and <span class=\"tooltip-hydro\">Hydro DMG</span> +1."
+                    }
+                ],
+                "splash": {
+                    "title": "Abyss Herald: Wicked Torrents",
+                    "description": "The world shall be severed, and all shall be obliterated."
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Emperor of Fire and Iron",
+                "element": "Pyro",
+                "weapon": "Other Weapons",
+                "factions": [
+                    "Monster"
+                ],
+                "hp": 6,
+                "talents": {
+                    "attack": {
+                        "name": "Shatterclamp Strike",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Buster Blaze",
+                        "cost": "3P",
+                        "description": "Deals 1 <span class=\"tooltip-pyro\">Pyro DMG</span>. If this character has at least 7 <span class=\"tooltip-crab carapace\">Armored Crab Carapace</span> stacks, this DMG +1.<br />After that, this character gains 2 <span class=\"tooltip-crab carapace\">Armored Crab Carapace</span> stacks."
+                    },
+                    "burst": {
+                        "name": "Battle-Line Detonation",
+                        "cost": "3P 2N",
+                        "energy": 2,
+                        "description": "This character <span class=\"tooltip-prepare\">prepares</span>: <span class=\"tooltip-searing blast\">Searing Blast</span>."
+                    },
+                    "passive": {
+                        "name": "Imperial Panoply",
+                        "description": "(Passive) <b class=\"tcg-bold\">When combat begins</b>: Gain 5 initial <span class=\"tooltip-crab carapace\">Armored Crab Carapace</span> stacks.<br /><b class=\"tcg-bold\">After your side performs any action</b>: If your side has any <span class=\"tooltip-shield\">Shield</span> Status or <span class=\"tooltip-shield\">Shield</span> Combat Status other than <b class=\"tcg-bold\">Armored Crab Carapace</b>, these other effects will be canceled. For each effect canceled, this character gains 2 <b class=\"tcg-bold\">Armored Crab Carapace</b> stacks."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "crab carapace",
+                        "name": "Armored Crab Carapace",
+                        "description": "Each stack provides <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> to protect the equipped character."
+                    },
+                    {
+                        "tag": "searing blast",
+                        "name": "Searing Blast",
+                        "description": "(Prepare for 1 turn)<br />Deals 1 <span class=\"tooltip-pyro\">Pyro DMG</span>, deals 2 <span class=\"tooltip-piercing\">Piercing DMG</span> to all opposing standby characters. This skill deals +1 <span class=\"tooltip-pyro\">Pyro DMG</span> for every 2 <span class=\"tooltip-crab carapace\">Armored Crab Carapace</span> stacks this character has."
+                    }
+                ],
+                "splash": {
+                    "title": "Emperor of Fire and Iron",
+                    "description": "One of the two sovereigns who once stood at the apex of the aberrant species of the Fontemer. An Armored Crab that has avoided predation, and has constantly partook in hunting and eating. Its imperial title is made half in awe, and half in jest."
+                },
+                "release": {
+                    "version": "4.6"
+                }
             }
         ]
     },
@@ -5078,7 +5277,7 @@
                 "name": "Chang the Ninth",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">When either side uses a Skill</b>: If <span class=\"tooltip-physical\">Physical DMG</span> or <span class=\"tooltip-piercing\">Piercing DMG</span> was dealt, or an <b class=\"tcg-bold\">Elemental Reaction</b> was triggered, this card gains 1 <b class=\"tcg-bold\">Inspiration</b>.<br />When this card gains 3 <b class=\"tcg-bold\">Inspiration</b>, discard this card, then draw 2 cards.",
                 "splash": {
                     "title": "Chang the Ninth, Listless Literati",
@@ -5190,7 +5389,7 @@
                 "name": "Knights of Favonius Library",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">When played</b>: Select any Elemental Dice to reroll.<br /><b class=\"tcg-bold\">Roll Phase</b>: Gain another chance to reroll.",
                 "splash": {
                     "title": "Athenaeum of the North",
@@ -5204,7 +5403,7 @@
                 "name": "Liben",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">End Phase</b>: Collect your unused Elemental Dice (Max 1 of each Elemental Type).<br /><b class=\"tcg-bold\">When Action Phase begins</b>: If this card has collected 3 Elemental Dice, draw 2 cards and create <span class=\"tooltip-omni element\">Omni Element</span> ×2, then discard this card.",
                 "splash": {
                     "title": "\"Marvelous Merchandise\" Liben",
@@ -5302,7 +5501,7 @@
                 "name": "Timmie",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">Triggers automatically once per Round</b>: This card gains 1 <b class=\"tcg-bold\">Pigeon</b>.<br />When this card gains 3 <b class=\"tcg-bold\">Pigeons</b>, discard this card, then draw 1 card and create <span class=\"tooltip-omni element\">Omni Element</span> ×1.",
                 "splash": {
                     "title": "\"Pure Patience\" Timmie",
@@ -5393,7 +5592,7 @@
                 "name": "Blessing of the Divine Relic's Installation",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Shift 1 Artifact Equipment Card that has been equipped to one of your characters to another one of your characters, and reset the \"usages per Round\" limit on its effects.",
                 "splash": {
                     "title": "Divine Relic's Installation",
@@ -5421,7 +5620,7 @@
                 "name": "Changing Shifts",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">The next time you perform \"Switch Character\"</b>: Spend 1 less Elemental Die.",
                 "splash": {
                     "title": "Changing Shifts",
@@ -5558,7 +5757,7 @@
                 "displayName": "Elemental Resonance: Woven Flames",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-pyro\">Pyro Die</b>.<br />(You must have at least 2 <b class=\"text-pyro\">Pyro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Flames",
@@ -5573,7 +5772,7 @@
                 "displayName": "Elemental Resonance: Woven Ice",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-Cryo\">Cryo Die</b>.<br />(You must have at least 2 <b class=\"text-cryo\">Cryo</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Ice",
@@ -5588,7 +5787,7 @@
                 "displayName": "Elemental Resonance: Woven Stone",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-geo\">Geo Die</b>.<br />(You must have at least 2 <b class=\"text-geo\">Geo</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Stone",
@@ -5603,7 +5802,7 @@
                 "displayName": "Elemental Resonance: Woven Thunder",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-electro\">Electro Die</b>.<br />(You must have at least 2 <b class=\"text-electro\">Electro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Thunder",
@@ -5618,7 +5817,7 @@
                 "displayName": "Elemental Resonance: Woven Waters",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-hydro\">Hydro Die</b>.<br />(You must have at least 2 <b class=\"text-hydro\">Hydro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Waters",
@@ -5633,7 +5832,7 @@
                 "displayName": "Elemental Resonance: Weeds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-dendro\">Dendro Die</b>.<br />(You must have at least 2 <b class=\"text-dendro\">Dendro</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Weeds",
@@ -5648,7 +5847,7 @@
                 "displayName": "Elemental Resonance: Woven Winds",
                 "type": "Event",
                 "subType": "Elemental Resonance",
-                "cost": "0M",
+                "cost": "",
                 "description": "Create 1 <b class=\"text-anemo\">Anemo Die</b>.<br />(You must have at least 2 <b class=\"text-anemo\">Anemo</b> characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Elemental Resonance: Woven Winds",
@@ -5676,7 +5875,7 @@
                 "name": "I Haven't Lost Yet!",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">Only playable if one of your characters is defeated this Round</b>: Create <span class=\"tooltip-omni element\">Omni Element</span> ×1 and your current active character gains 1 <span class=\"tooltip-energy\">Energy</span>. (Only one copy of I Haven't Lost Yet! can be played each round.)",
                 "splash": {
                     "title": "I Haven't Lost Yet!",
@@ -5690,7 +5889,7 @@
                 "name": "Jueyun Guoba",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "0M",
+                "cost": "",
                 "description": "During this Round, the target character's next <b class=\"tcg-bold\">Normal Attack</b> deals +1 DMG.<br />(A character can consume at most 1 Food per Round.)",
                 "splash": {
                     "title": "Jueyun Guoba",
@@ -5704,7 +5903,7 @@
                 "name": "Leave It to Me!",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">The next time you perform \"Switch Character\"</b>: The switch will be considered a <span class=\"tooltip-fast action\">Fast Action</span> instead of a <span class=\"tooltip-combat action\">Combat Action</span>.",
                 "splash": {
                     "title": "Leave It to Me!",
@@ -5732,7 +5931,7 @@
                 "name": "Master of Weaponry",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Shift 1 Weapon Equipment Card that has been equipped to one of your characters to another one of your characters of the same Weapon Type, and reset the \"usages per Round\" limit on its effects.",
                 "splash": {
                     "title": "Master of Weaponry",
@@ -5788,7 +5987,7 @@
                 "name": "Northern Smoked Chicken",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "0M",
+                "cost": "",
                 "description": "During this Round, the target character's <b class=\"tcg-bold\">Normal Attacks</b> cost 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>.<br />(A character can consume at most 1 Food per Round.)",
                 "splash": {
                     "title": "Northern Smoked Chicken",
@@ -5858,7 +6057,7 @@
                 "name": "Sweet Madame",
                 "type": "Event",
                 "subType": "Food",
-                "cost": "0M",
+                "cost": "",
                 "description": "Heal target character for 1 HP.<br />(A character can consume at most 1 Food per Round.)",
                 "splash": {
                     "title": "Sweet Madame",
@@ -5886,7 +6085,7 @@
                 "name": "Toss-Up",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Select any Elemental Dice to <b class=\"tcg-bold\">reroll</b>. Can reroll 2 times.",
                 "splash": {
                     "title": "Toss-Up",
@@ -6543,12 +6742,12 @@
                     {
                         "tag": "aegis of abyssal flame",
                         "name": "Aegis of Abyssal Flame",
-                        "description": "Grant the character to which this attached <b class=\"tcg-bold\">3</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">points</b>.<br />Before this <span class=\"tooltip-shield\">Shield</span> is depleted, the character to which this attached will deal +1 <span class=\"tooltip-pyro\">Pyro DMG</span>."
+                        "description": "Grant the character to which this attached <b class=\"tcg-bold\">2</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">points</b>.<br /><b class=\"text-highlight\">After said Shield points are depleted</b>: Deal 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to all opposing characters."
                     },
                     {
                         "tag": "fiery rebirth",
                         "name": "Fiery Rebirth",
-                        "description": "<b class=\"tcg-bold\">When the character to which this is attached would be defeated</b>: Remove this effect, ensure the character <span class=\"tooltip-immunity to defeat\">will not be defeated</span>, and heal them to 3 HP."
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached would be defeated</b>: Remove this effect, ensure the character <span class=\"tooltip-immunity to defeat\">will not be defeated</span>, and heal them to 4 HP. After this effect is triggered, this character deals +1 <span class=\"tooltip-pyro\">Pyro DMG</span>."
                     }
                 ],
                 "splash": {
@@ -6846,7 +7045,7 @@
                 "name": "Vanarana",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">End Phase</b>: Collect up to 2 unused Elemental Dice.<br /><b class=\"tcg-bold\">When Action Phase begins</b>: Reclaim the dice you collected using this card.",
                 "splash": {
                     "title": "Abidance of the Forested Path",
@@ -6874,7 +7073,7 @@
                 "name": "Hanachirusato",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">When a Summon disappears</b>: This card gains 1 <b class=\"tcg-bold\">Cleansing Ritual</b> Progress. (Max 3)<br /><b class=\"tcg-bold\">When you play a Weapon or Artifact Card</b>: If you already have 3 <b class=\"tcg-bold\">Cleansing Ritual</b> Progress, discard this card and cause the card you play to cost 2 less Elemental Dice.",
                 "splash": {
                     "title": "Persistence of Pain: Hanachirusato",
@@ -6888,7 +7087,7 @@
                 "name": "Kid Kujirai",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">When the Action Phase begins</b>: Create 1 <span class=\"tooltip-omni element\">Omni Element</span>. Then if your opponent's Support Zone is not full, transfer this card to your opponent's Support Zone.",
                 "splash": {
                     "title": "Temari-Hiding Intentions: Kid Kujirai",
@@ -6972,7 +7171,7 @@
                 "name": "Wind and Freedom",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">During this turn, after one of your characters uses a Skill</b>: Switch your next character in to be the active character.<br />(You must have at least 2 Mondstadt characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Verse of Unchained Happenings",
@@ -7000,7 +7199,7 @@
                 "name": "Thunder and Eternity",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Convert all your Elemental Dice to the Type of the active character.<br />(You must have at least 2 Inazuman characters in your deck to add this card to your deck.)",
                 "splash": {
                     "title": "Dream of Evanescent Eternity",
@@ -7275,7 +7474,7 @@
                 "name": "Ancient Courtyard",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M L",
+                "cost": "L",
                 "description": "<b class=\"tcg-bold\">You must have a character who has already equipped a Weapon or Artifact:</b> The next time you play a Weapon or Artifact card in this Round: Spend 2 less Elemental Dice.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Ancient Courtyard",
@@ -7289,7 +7488,7 @@
                 "name": "Covenant of Rock",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M L",
+                "cost": "L",
                 "description": "<b class=\"tcg-bold\">Can only be played when you have 0 Elemental Dice left:</b> Generate 2 different basic Elemental Dice.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Covenant of Rock",
@@ -7303,7 +7502,7 @@
                 "name": "Rhythm of the Great Dream",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">The next time you play a Weapon or Artifact card:</b> Spend 1 less Elemental Die.",
                 "splash": {
                     "title": "Rhythm of the Great Dream",
@@ -7412,7 +7611,7 @@
                 "name": "Golden House",
                 "type": "Support",
                 "subType": "Location",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">When you play a Weapon card or an Artifact card with an original cost of at least 3</b>: Spend 1 less Elemental Die. (Once per Round)",
                 "splash": {
                     "title": "Golden House",
@@ -7440,7 +7639,7 @@
                 "name": "Joyous Celebration",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M L",
+                "cost": "L",
                 "description": "<b class=\"tcg-bold\">Your active character must be one of the following elemental types to play this card</b>: <b class=\"text-cryo\">Cryo</b>/<b class=\"text-hydro\">Hydro</b>/<b class=\"text-pyro\">Pyro</b>/<b class=\"text-electro\">Electro</b>/<b class=\"text-dendro\">Dendro</b>.<br />The element corresponding to your active character's Elemental Type will be applied to all your characters affected by elements.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Joyous Celebration",
@@ -7455,7 +7654,7 @@
                 "displayName": "Where Is the Unseen Razor?",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Return a Weapon card equipped by your character to your Hand.<br /><b class=\"tcg-bold\">During this Round, the next time you play a Weapon card</b>: Spend 2 less Elemental Dice.",
                 "splash": {
                     "title": "Where Is the Unseen Razor?",
@@ -7600,7 +7799,7 @@
                 "type": "Support",
                 "subType": "Companion",
                 "cost": "1M",
-                "description": "<b class=\"tcg-bold\">When playing an Artifact card</b>: Spend 1 less Elemental Die. On top of that, for each of your characters already equipped with an Artifact on the field, you spend 1 less Elemental Die (once per Round).",
+                "description": "<b class=\"tcg-bold\">When playing an Artifact card</b>: Spend 1 less Elemental Die. If two of your characters on the field already have an equipped Artifact, you additionally spend 1 less Elemental Die (once per Round).",
                 "splash": {
                     "title": "Art of Lacquerwater: Yayoi Nanatsuki",
                     "description": "\"If my skill can reach that apex, I am sure that my lacquerware will bear out the pattern of the truth...\""
@@ -7613,7 +7812,7 @@
                 "name": "Fresh Wind of Freedom",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M L",
+                "cost": "L",
                 "description": "<b class=\"tcg-bold\">In this Round, when an opposing character is defeated during your Action</b>, you can continue to act again when that Action ends.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b><br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Fresh Wind of Freedom",
@@ -7627,7 +7826,7 @@
                 "name": "Pankration!",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">Can only be played when you have at least 8 Elemental Dice remaining, and your opponent has not yet ended their Round</b>: After a player announces the end of their Round first, the other player, who has yet to announced the end of their Round, draws 2 cards.",
                 "splash": {
                     "title": "Pankration!",
@@ -7780,7 +7979,7 @@
                 "name": "In Every House a Stove",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M L",
+                "cost": "L",
                 "description": "Draw a number of cards equal to the current Round number minus 1. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "In Every House a Stove",
@@ -7794,7 +7993,7 @@
                 "name": "Lyresong",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Return an Artifact card equipped by your character to your Hand.<br />During this Round, the next time you play an Artifact card from your hand: Spend 2 less Elemental Dice.",
                 "splash": {
                     "title": "Lyresong",
@@ -8219,7 +8418,7 @@
                 "name": "Flowing Rings",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">After the character uses a Normal Attack</b>: Draw 1 card. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Enthralling Tales Passed On: Flowing Rings",
@@ -8247,7 +8446,7 @@
                 "name": "Heart of Khvarena's Brilliance",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">After this character takes DMG</b>: If the character to which this is attached is the active character, then draw 1 card. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
                 "splash": {
                     "title": "Cleansing of Filth: Heart of Khvarena's Brilliance",
@@ -8303,7 +8502,7 @@
                 "name": "Mamere",
                 "type": "Support",
                 "subType": "Companion",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">After you play a Food/Location/Companion/Item Action Card other than Mamere</b>: Randomly create 1 Food/Location/Companion/Item Action Card other than Mamere, and add it to your hand. (Once per Round).<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>",
                 "splash": {
                     "title": "Mamere",
@@ -8317,8 +8516,8 @@
                 "name": "Seed Dispensary",
                 "type": "Support",
                 "subType": "Item",
-                "cost": "0M",
-                "description": "<b class=\"tcg-bold\">When you play an Equipment or Support Card with an original cost of 1 Elemental Die</b>: Spend 1 less Elemental Die. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>",
+                "cost": "",
+                "description": "<b class=\"tcg-bold\">When you play a Support Card with an original cost of at least 2 Elemental Die</b>: Spend 1 less Elemental Die. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>",
                 "splash": {
                     "title": "Seed Dispensary",
                     "description": "A special container obtained from Madame Ping. According to her, this dispensary has the power to \"generate seeds\"..."
@@ -8359,7 +8558,7 @@
                 "name": "The Boar Princess",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">Each time you discard an Equipment Card from one of your characters during this Round</b>: Gain 1 Omni Element. (Max 2)<br />(This effect can be triggered by the loss of an Equipment Card from a character falling or from having their Weapon or Artifact replaced.)",
                 "splash": {
                     "title": "The Boar Princess",
@@ -8387,7 +8586,7 @@
                 "name": "Flickering Four-Leaf Sigil",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Attach <span class=\"tooltip-four leaf sigil\">Four-Leaf Sigil</span> to target character: At the End Phase of Every Round, you will switch to this character.",
                 "keywords": [
                     {
@@ -8487,7 +8686,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Cryo Hypostasis",
-                "cost": "0M",
+                "cost": "",
                 "description": "Can only be played if your active character is <b class=\"tcg-bold\">Cryo Hypostasis</b>: Attach <span class=\"tooltip-cryocrystal core\">Cryocrystal Core</span> to them.<br />After Cryo Hypostasis, who has this card equipped, triggers <b class=\"tcg-bold\">Cryocrystal Core</b>: Attach <span class=\"tooltip-sheer cold\">Sheer Cold</span> to the opposing active character.<br />(Your deck must contain Cryo Hypostasis to add this card to your deck)",
                 "keywords": [
                     {
@@ -8514,7 +8713,7 @@
                 "type": "Equipment",
                 "subType": "Talent",
                 "character": "Millennial Pearl Seahorse",
-                "cost": "0M",
+                "cost": "",
                 "description": "Can only be played if your active character is <b class=\"tcg-bold\">Millennial Pearl Seahorse</b>: When entering play, Millennial Pearl Seahorse will have <span class=\"tooltip-fontemer pearl\">Fontemer Pearl</span> with 1 <span class=\"tooltip-usages\">Usage(s)</span> attached to them. If they already have <b class=\"tcg-bold\">Fontemer Pearl</b> attached, <span class=\"tooltip-usages\">Usage(s)</span> +1 instead.<br />When the <b class=\"tcg-bold\">Fontemer Pearl</b> attached to Millennial Pearl Seahorse negates DMG from Summons, change to <span class=\"tooltip-usages\">Usage(s)</span> not being consumed twice per Round.<br />(Your deck must contain Millennial Pearl Seahorse to add this card to your deck)",
                 "keywords": [
                     {
@@ -8565,7 +8764,14 @@
                 "type": "Support",
                 "subType": "Companion",
                 "cost": "2M",
-                "description": "This card will record the number of cards discarded from your Support Zone during this match as Sophistication points. (Max 6 points)<br /><b class=\"tcg-bold\">After your characters use an Elemental Burst</b>: If this card has recorded at least 5 Sophistication points, discard this card and generate <span class=\"tooltip-omni element\">Omni Element</span> equal to the number of <b class=\"tcg-bold\">Sophistication points minus 2</b>.",
+                "description": "This card will record the number of cards discarded from your Support Zone during this match as Sophistication points. (Max 6 points)<br /><b class=\"tcg-bold\">After your characters use an Elemental Burst</b>: If this card has recorded at least 6 Sophistication points, discard this card and attach <span class=\"tooltip-sand and dreams\">Sand and Dreams</span> to your active character.",
+                "keywords": [
+                    {
+                        "tag": "sand and dreams",
+                        "name": "Sand and Dreams",
+                        "description": "<b class=\"tcg-bold\">When you play a Talent card or a Character uses a Skill</b>: Spend 3 less Elemental Dice.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    }
+                ],
                 "splash": {
                     "title": "Drifting Sand, Drifting Dreams: Jeht",
                     "description": "\"Here's a thousand hugs! We will meet again!\"<br />\"May we meet again under a lovelier sun.\""
@@ -8592,7 +8798,7 @@
                 "name": "Machine Assembly Line",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">Each time after your character is targeted by and takes DMG or is healed</b>: Accumulate 1 point of Battle-Readiness (Max 2 points).<br /><b class=\"tcg-bold\">When you play a Weapon or Artifact with an original cost of fewer Dice than you have Battle-Readiness points</b>: Clear all Battle-Readiness points and play that card for free.",
                 "splash": {
                     "title": "Machine Assembly Line",
@@ -8606,7 +8812,7 @@
                 "name": "Sunyata Flower",
                 "type": "Event",
                 "subType": "",
-                "cost": "0M",
+                "cost": "",
                 "description": "Select a card from your Support Zone and discard it. After that, randomly generate 2 Support Cards in your hand.<br /><b class=\"tcg-bold\">During the Round, the next time you play a Support Card</b>: Spend 1 less Elemental Die.",
                 "splash": {
                     "title": "Sunyata Flower",
@@ -8765,7 +8971,7 @@
                 "name": "Golden Troupe's Reward",
                 "type": "Equipment",
                 "subType": "Artifact",
-                "cost": "0M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">When Played</b>: This card will have 1 \"Recompense\" point.<br /><b class=\"tcg-bold\">End Phase</b>: If the character to which this attached is on standby, this card gains 1 \"Recompense\" point. (Max 2 points)<br /><b class=\"tcg-bold\">When you play a Talent card or a Character uses an Elemental Skill</b>: For each \"Recompense\" point this card has, consume it to spend 1 less Elemental Die.<br />(A character can equip a maximum of 1 Artifact)",
                 "splash": {
                     "title": "Song of Harmony: Golden Troupe's Reward",
@@ -8815,7 +9021,7 @@
                 "displayName": "Day of Resistance: Moment of Shattered Dreams",
                 "type": "Event",
                 "subType": "Arcane Legend",
-                "cost": "0M L",
+                "cost": "L",
                 "description": "During this Round, your targeted character takes -1 DMG. (Max 4 times)<br />(Only one \"Arcane Legend\" card can be played per match. This card will be in your starting hand.)",
                 "splash": {
                     "title": "Day of Resistance: Moment of Shattered Dreams",
@@ -8837,6 +9043,245 @@
                 },
                 "release": {
                     "version": "4.5"
+                }
+            },
+            {
+                "name": "To Ward Weakness",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Shinobu",
+                "cost": "3E 2N",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Shinobu</b>, equip this card.<br />After Shinobu equips this card, immediately use <span class=\"tooltipHighlight-gyoei narukami kariyama rite\">Gyoei Narukami Kariyama Rite</span> once.<br />When Shinobu, who has this card equipped, is defeated, she will not be defeated but will instead heal herself to 1 HP. (Once per Round)<br />If Shinobu, who has this card equipped, does not have more than 5 HP, deal +1 DMG.<br />(You must have Shinobu in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "gyoei narukami kariyama rite",
+                        "type": "Elemental Burst",
+                        "name": "Gyoei Narukami Kariyama Rite",
+                        "description": "Deals 4 <span class=\"tooltip-electro\">Electro DMG</span>, heals this character for 2 HP."
+                    }
+                ],
+                "splash": {
+                    "title": "Kuki Shinobu: To Ward Weakness",
+                    "description": "\"Lightning... purifies!\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "The Wondrous Path of Truth",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Faruzan",
+                "cost": "3A 2N",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Faruzan</b>, equip this card.<br />After Faruzan equips this card, immediately use <span class=\"tooltipHighlight-the winds secret ways\">The Wind's Secret Ways</span>.<br />When the <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span> created by Faruzan who has this card equipped enters play and when the Action Phase begins: Create 1 <span class=\"tooltip-anemo\">Anemo</span> Die.<br />(You must have Faruzan in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "the winds secret ways",
+                        "type": "Elemental Burst",
+                        "name": "The Wind's Secret Ways",
+                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, summons 1 <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span>"
+                    },
+                    {
+                        "tag": "dazzling polyhedron",
+                        "name": "Dazzling Polyhedron",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-anemo\">Anemo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When this Summon is on the field</b>: Opposing character(s) take +1 <span class=\"tooltip-anemo\">Anemo DMG</span>."
+                    }
+                ],
+                "splash": {
+                    "title": "Faruzan: The Wondrous Path of Truth",
+                    "description": "\"Truth repeats its course.\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Surging Undercurrent",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Abyss Herald Wicked Torrents",
+                "cost": "1H",
+                "description": "<b class=\"tcg-bold\">When played</b>: If <b class=\"tcg-bold\">Abyss Herald: Wicked Torrents</b>, who has this card equipped, has already triggered <span class=\"tooltip-watery rebirth\">Watery Rebirth</span>, then create 1 <span class=\"tooltip-curse of the undercurrent\">Curse of the Undercurrent</span> on the opposing playing field.<br />When Abyss Herald: Wicked Torrents, who has this card equipped, is defeated or triggers <b class=\"tcg-bold\">Watery Rebirth</b>: Create 1 <b class=\"tcg-bold\">Curse of the Undercurrent</b> on the opposing playing field.<br />(You must have Abyss Herald: Wicked Torrents in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "curse of the undercurrent",
+                        "name": "Curse of the Undercurrent",
+                        "description": "<b class=\"tcg-bold\">When character(s) on this side of the playing field use Elemental Skills or Elemental Bursts</b>: They must spend 1 extra Elemental Die.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    },
+                    {
+                        "tag": "watery rebirth",
+                        "name": "Watery Rebirth",
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached would be defeated</b>: Remove this effect, ensure the character <span class=\"tooltip-immunity to defeat\">will not be defeated</span>, and heal them to 4 HP. After this effect is triggered, <span class=\"tooltip-physical\">Physical DMG</span> this character deals is converted to <span class=\"tooltip-hydro\">Hydro DMG</span>, and <span class=\"tooltip-hydro\">Hydro DMG</span> +1."
+                    }
+                ],
+                "splash": {
+                    "title": "Abyss Herald: Surging Undercurrent",
+                    "description": "\"Destruction inexorable!\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Molten Mail",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Emperor of Fire and Iron",
+                "cost": "1P",
+                "description": "<b class=\"tcg-bold\">When played</b>: Apply <span class=\"tooltip-pyro application\">Pyro Application</span> to the <b class=\"tcg-bold\">Emperor of Fire and Iron</b> with this card equipped.<br />After your <span class=\"tooltip-shield\">Shield</span> Status other than <span class=\"tooltip-crab carapace\">Armored Crab Carapace</span> or <span class=\"tooltip-shield\">Shield</span> Combat Status is removed: The Emperor of Fire and Iron with this card equipped gains 2 stacks of <b class=\"tcg-bold\">Armored Crab Carapace</b>. (Once per Round)<br />(You must have Emperor of Fire and Iron in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "crab carapace",
+                        "name": "Armored Crab Carapace",
+                        "description": "Each stack provides <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> to protect the equipped character."
+                    }
+                ],
+                "splash": {
+                    "title": "Emperor of Fire and Iron: Molten Mail",
+                    "description": "\"Imagine this world: All of humanity has been purged from Teyvat, and the ever-growing Emperor of Fire and Iron eventually wears the Palais Mermonia upon its body like a luxurious coat of white stone.\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Rightful Reward",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "weaponType": "Polearm",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">Character's Elemental Burst deals +2 DMG.</b><br /><b class=\"tcg-bold\">After your active character takes DMG or is healed</b>: Gain 1 <b class=\"tcg-bold\">Principle of Justice</b> point. If this card has already accumulated 3 such points, consume 3 points and grant this character 1 <span class=\"tooltip-energy\">Energy</span>.<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Tip of the Spear: Rightful Reward",
+                    "description": "\"That is how the world ought to operate, and how righteousness should be.\"<br />\"But when it comes to \"how things ought to be,\" it is always fiendishly difficult to get ideal results.\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Amethyst Crown",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "1M",
+                "description": "<b class=\"tcg-bold\">After an opponent takes <span class=\"tooltip-dendro\">Dendro DMG</span> when the character to which this is attached is the active character</b>: Gain 1 <b class=\"tcg-bold\">Crowning Crystal</b>. If your <b class=\"tcg-bold\">Crowning Crystal</b> count is equal to or higher than the number of cards in your Hand, create 1 random basic Elemental Die.<br />(Max 2 per Round)<br />(A character can equip a maximum of 1 Artifact)",
+                "splash": {
+                    "title": "A Pact Deeply Felt: Amethyst Crown",
+                    "description": "\"In honor of the eternal oasis and the flourishing Padisarahs, the Lord of Flowers wore an amethyst crown.\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Seirai Island",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b class=\"tcg-bold\">After any character on either side is healed</b>: That character gains <span class=\"tooltip-distant storm\">Distant Storm</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>",
+                "keywords": [
+                    {
+                        "tag": "distant storm",
+                        "name": "Distant Storm",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 2 <span class=\"tooltip-piercing\">Piercing DMG</span> to the character to which this is attached.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Seirai Island",
+                    "description": "\"The great battle where the sea and sky changed color have become lost to time, but the vast storms that were called upon at this time still remain.\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Taroumaru",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2U",
+                "description": "When played: Create 4 <span class=\"tooltip-taroumarus savings\">Taroumaru's Savings</span> and distribute them evenly in your deck.<br />After <b class=\"tcg-bold\">you have played 2 Taroumaru's Savings cards</b>: Discard this card and summon 1 <span class=\"tooltip-taroumaru enraged\">Taroumaru Enraged</span>.",
+                "keywords": [
+                    {
+                        "tag": "taroumarus savings",
+                        "name": "Taroumaru's Savings",
+                        "cost": "0M",
+                        "description": "Create 1 <span class=\"tooltip-omni element\">Omni Die</span>."
+                    },
+                    {
+                        "tag": "taroumaru enraged",
+                        "name": "Taroumaru Enraged",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 2 <span class=\"tooltip-physical\">Physical DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Taroumaru",
+                    "description": "The boss of Komore Teahouse, with whom all staff members are said to have signed a \"contract\"...<br />Few people know that back in the day, Taroumaru would accompany powerful ninja of the Shuumatsuban, striving in service of the Yashiro Commission..."
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "The White Glove and the Fisherman",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "",
+                "description": "<b class=\"tcg-bold\">End Phase</b>: Create 1 <span class=\"tooltip-called in for cleanup\">\"Called In For Cleanup\"</span> and place it randomly amongst the 5 cards at the top of your deck. If this card has only 1 <b class=\"tcg-bold\">Usage(s)</b> remaining, draw 1 card.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>",
+                "keywords": [
+                    {
+                        "tag": "called in for cleanup",
+                        "name": "\"Called In For Cleanup\"",
+                        "cost": "0M",
+                        "description": "Your active character will deal +1 DMG the next time they deal DMG. (Can stack. Max +2)"
+                    }
+                ],
+                "splash": {
+                    "title": "The White Glove and the Fisherman",
+                    "description": "\"Amongst us, there is our own justice.\""
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Underwater Treasure Hunt",
+                "type": "Event",
+                "subType": "",
+                "cost": "1M",
+                "description": "Create 6 <span class=\"tooltip-undersea treasure\">Undersea Treasure</span> and place them into your deck at random.",
+                "keywords": [
+                    {
+                        "tag": "undersea treasure",
+                        "name": "Undersea Treasure",
+                        "cost": "",
+                        "description": "Heals your active character for 1 HP and creates 1 basic Elemental Die."
+                    }
+                ],
+                "splash": {
+                    "title": "Underwater Treasure Hunt",
+                    "description": "Beryl Conches, Lumitoiles, and the occasional treasure chest hidden within a shell..."
+                },
+                "release": {
+                    "version": "4.6"
+                }
+            },
+            {
+                "name": "Rainbow Macrons",
+                "type": "Event",
+                "subType": "Food",
+                "cost": "2U",
+                "description": "Heal the target character for 1 HP. The next 3 times this character takes DMG, they will also heal 1 HP afterward.<br />(A character can consume at most 1 Food per Round)",
+                "splash": {
+                    "title": "Rainbow Macarons",
+                    "description": "Small, multicolored little pastries. Their crispy outer shell packages a sweet, soft center, each refined to perfection.<br />There is a saying in Fontaine that \"a dessert spread without macarons is like having the many waters bereft of their source.\""
+                },
+                "release": {
+                    "version": "4.6"
                 }
             }
         ]
