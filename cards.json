@@ -3330,7 +3330,7 @@
                     {
                         "tag": "exquisite throw",
                         "name": "Exquisite Throw",
-                        "description": "<b class=\"tcg-bold\">Breakthrough</b>After your character uses a Normal Attack</b>: Deal 2 <span class=\"tooltip-hydro\">Hydro DMG</span>.<br/ ><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                        "description": "<b class=\"tcg-bold\">After your character uses a Normal Attack</b>: Deal 2 <span class=\"tooltip-hydro\">Hydro DMG</span>.<br/ ><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
                     }
                 ],
                 "splash": {
