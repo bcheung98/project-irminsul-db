@@ -3621,7 +3621,7 @@
                     {
                         "tag": "equitable judgment",
                         "name": "Equitable Judgment",
-                        "description": "(Prepare for 1 turn)<br />Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. If this character has at least 6 HP, then deal 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to yourself and gain +1 DMG."
+                        "description": "(Prepare for 1 turn)<br />Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. If this character has at least 6 HP, then this DMG is increased by 1 and this character deals 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to himself."
                     }
                 ],
                 "splash": {
