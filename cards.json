@@ -3314,7 +3314,7 @@
                         "name": "Depth-Clarion Dice",
                         "cost": "3H 3N",
                         "energy": 3,
-                        "description": "Deals 1 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 3 <span class=\"tooltip-exquisite throw\">Exquisite Throw</span>."
+                        "description": "Deals 3 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 1 <span class=\"tooltip-exquisite throw\">Exquisite Throw</span>."
                     },
                     "passive": {
                         "name": "Breakthrough",
