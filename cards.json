@@ -3314,7 +3314,7 @@
                         "name": "Depth-Clarion Dice",
                         "cost": "3H 3N",
                         "energy": 3,
-                        "description": "Deals 1 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 1 <span class=\"tooltip-exquisite throw\">Exquisite Throw</span>."
+                        "description": "Deals 1 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 3 <span class=\"tooltip-exquisite throw\">Exquisite Throw</span>."
                     },
                     "passive": {
                         "name": "Breakthrough",
@@ -3330,7 +3330,7 @@
                     {
                         "tag": "exquisite throw",
                         "name": "Exquisite Throw",
-                        "description": "<b class=\"tcg-bold\">After your character uses a Normal Attack</b>: Deal 2 <span class=\"tooltip-hydro\">Hydro DMG</span>.<br/ ><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                        "description": "<b class=\"tcg-bold\">After your character uses a Normal Attack</b>: Deal 1 <span class=\"tooltip-hydro\">Hydro DMG</span>.<br/ ><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
                     }
                 ],
                 "splash": {
@@ -9252,7 +9252,7 @@
                 "name": "Underwater Treasure Hunt",
                 "type": "Event",
                 "subType": "",
-                "cost": "1M",
+                "cost": "2M",
                 "description": "Create 6 <span class=\"tooltip-undersea treasure\">Undersea Treasure</span> and place them into your deck at random.",
                 "keywords": [
                     {
