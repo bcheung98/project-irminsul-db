@@ -912,6 +912,19 @@
                 "Eye of Perception",
                 "Portable Power Saw"
             ]
+        },
+        "phase2": {
+            "startDate": "May 14, 2024",
+            "endDate": "June 4, 2024",
+            "banner": [
+                "Tulaytullah's Remembrance",
+                "Jadefall's Splendor",
+                "Range Gauge",
+                "Favonius Sword",
+                "Prospector's Drill",
+                "Sacrificial Fragments",
+                "Rainslasher"
+            ]
         }
     }
 ]
