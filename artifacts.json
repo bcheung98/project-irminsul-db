@@ -1,0 +1,1856 @@
+[
+    {
+        "name": "Adventurer",
+        "rarity": 3,
+        "setEffect": {
+            "twoPiece": "Max HP increased by 1000.",
+            "fourPiece": "Opening a chest regenerates 30% Max HP over 5s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Adventurer's Flower",
+                "description": "A resilient flower that survived the harsh environment of an ancient city. It is now proudly worn like a medal."
+            },
+            {
+                "type": "feather",
+                "name": "Adventurer's Tail Feather",
+                "description": "The feather of an exotic bird rarely seen on this continent."
+            },
+            {
+                "type": "sands",
+                "name": "Adventurer's Pocket Watch",
+                "description": "It's easy to lose track of time when you're adventuring where the sun doesn't shine, whether that's the depths of the abyss or the ruins of a lost city."
+            },
+            {
+                "type": "goblet",
+                "name": "Adventurer's Golden Goblet",
+                "description": "The spoils of one of an adventurer's many expeditions. Though a little damaged, it is still an excellent find."
+            },
+            {
+                "type": "circlet",
+                "name": "Adventurer's Bandana",
+                "description": "A cloth garment worn at the forehead. Though soaked in sweat and covered in dust, it still beams with an adventurer's pride."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Lucky Dog",
+        "rarity": 3,
+        "setEffect": {
+            "twoPiece": "DEF increased by 100.",
+            "fourPiece": "Picking up Mora restores 300 HP."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Lucky Dog's Clover",
+                "description": "A four-leaf clover that grows in the wild. It was picked because it is said to bring good luck."
+            },
+            {
+                "type": "feather",
+                "name": "Lucky Dog's Eagle Feather",
+                "description": "A monster once cornered an adventurer, but was then picked off by a hunting eagle... That eagle dropped this feather, which now carries some of the adventurer's good luck."
+            },
+            {
+                "type": "sands",
+                "name": "Lucky Dog's Hourglass",
+                "description": "A broken hourglass from which all the sand has escaped. But it's fine, because the passage of time means nothing to someone without a single worry in the whole world."
+            },
+            {
+                "type": "goblet",
+                "name": "Lucky Dog's Goblet",
+                "description": "An exquisite metallic vessel that was once used to knock out a thief."
+            },
+            {
+                "type": "circlet",
+                "name": "Lucky Dog's Silver Circlet",
+                "description": "Its former owner once fell into a cave and found the treasure trove of an exiled royal. This is a souvenir from that incident."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Traveling Doctor",
+        "rarity": 3,
+        "setEffect": {
+            "twoPiece": "Increases incoming healing by 20%.",
+            "fourPiece": "Using Elemental Burst restores 20% HP."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Traveling Doctor's Silver Lotus",
+                "description": "A precious medicinal ingredient that has lost all medicinal value after years in storage."
+            },
+            {
+                "type": "feather",
+                "name": "Traveling Doctor's Owl Feather",
+                "description": "The durable feather of an owl. Emblematic of nocturnal supremacy, it gave some encouragement to the Traveling Doctor when venturing out to visit patients late at night."
+            },
+            {
+                "type": "sands",
+                "name": "Traveling Doctor's Pocket Watch",
+                "description": "A precise instrument used for keeping time. For a doctor, every second counts."
+            },
+            {
+                "type": "goblet",
+                "name": "Traveling Doctor's Medicine Pot",
+                "description": "This pot used to carry concentrated and extremely potent concoctions. It is now empty, but still gives off a strong smell of medicine."
+            },
+            {
+                "type": "circlet",
+                "name": "Traveling Doctor's Handkerchief",
+                "description": "Used to tie back the doctor's hair when treating patients. Can also be used as a sling for sprains and broken arms in emergencies."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Berserker",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "CRIT Rate +12%.",
+            "fourPiece": "When HP is below 70%, CRIT Rate increases by an additional 24%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Berserker's Rose",
+                "description": "An exquisite flower that has been dyed red. It represents the qualities of the Berserker."
+            },
+            {
+                "type": "feather",
+                "name": "Berserker's Indigo Feather",
+                "description": "An indigo feather from a legendary raven, part of which has been dyed crimson red."
+            },
+            {
+                "type": "sands",
+                "name": "Berserker's Timepiece",
+                "description": "An instrument with an eternal flow that continues mercilessly within, reminding the Berserker of the limited time he has left — both on the battlefield as well as in the world."
+            },
+            {
+                "type": "goblet",
+                "name": "Berserker's Bone Goblet",
+                "description": "A goblet made from the bone of an unknown beast. It was taken as a trophy after some deadly encounter."
+            },
+            {
+                "type": "circlet",
+                "name": "Berserker's Battle Mask",
+                "description": "A hideous iron mask that has been left half-shattered from vicious battles."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Brave Heart",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "Increases DMG by 30% against opponents with more than 50% HP."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Medal of the Brave",
+                "description": "A simple flower brooch that is a keepsake from someone's first adventure."
+            },
+            {
+                "type": "feather",
+                "name": "Prospect of the Brave",
+                "description": "A shimmering feather from a songbird that brings a nudge of courage to its wearer."
+            },
+            {
+                "type": "sands",
+                "name": "Fortitude of the Brave",
+                "description": "A dated miniature hourglass that serves no practical purpose. It seems as elusive as time itself."
+            },
+            {
+                "type": "goblet",
+                "name": "Outset of the Brave",
+                "description": "A crude wooden vessel filled only with memories."
+            },
+            {
+                "type": "circlet",
+                "name": "Crown of the Brave",
+                "description": "A rough-and-ready laurel wreath that seems as precious as a king's golden crown."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Defender's Will",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "DEF +30%.",
+            "fourPiece": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Guardian's Flower",
+                "description": "An iris that was cherished by the guardian. Unfortunately, the chance never came for it to be given to whom the guardian loved."
+            },
+            {
+                "type": "feather",
+                "name": "Guardian's Sigil",
+                "description": "A feather-shaped brooch that symbolizes someone's yearning to defend others like a shield."
+            },
+            {
+                "type": "sands",
+                "name": "Guardian's Clock",
+                "description": "A small timekeeping gadget. On moonless nights, it was the only way its former owner could know the time."
+            },
+            {
+                "type": "goblet",
+                "name": "Guardian's Vessel",
+                "description": "A metal vessel that can be filled with a drink to dispel the loneliness of the long watch."
+            },
+            {
+                "type": "circlet",
+                "name": "Guardian's Band",
+                "description": "A fabric band dyed indigo by the darkness of night. Can also double as a bandage in the event of an emergency."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Gambler",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "Increases Elemental Skill DMG by 20%.",
+            "fourPiece": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Gambler's Brooch",
+                "description": "A big, luxurious flower that can hide loaded dice."
+            },
+            {
+                "type": "feather",
+                "name": "Gambler's Feather Accessory",
+                "description": "The tail feather of a large bird. Perfect for discretely concealing a trump card."
+            },
+            {
+                "type": "sands",
+                "name": "Gambler's Pocket Watch",
+                "description": "A shattered pocket watch that once took a lethal hit for its owner."
+            },
+            {
+                "type": "goblet",
+                "name": "Gambler's Dice Cup",
+                "description": "This vessel was specially made for a single purpose. It has absolutely no secret compartments built into it."
+            },
+            {
+                "type": "circlet",
+                "name": "Gambler's Earrings",
+                "description": "A pair of blue earrings that, when worn, calm the mind and encourage a rational assessment of risks."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Instructor",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "Increases Elemental Mastery by 80.",
+            "fourPiece": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Instructor's Brooch",
+                "description": "Whenever the instructor wore this brooch, it meant there would be no training sessions that day."
+            },
+            {
+                "type": "feather",
+                "name": "Instructor's Feather Accessory",
+                "description": "Any instructor who has mastered the art of de-escalation knows to keep this accessory firmly in their grasp at all times."
+            },
+            {
+                "type": "sands",
+                "name": "Instructor's Pocket Watch",
+                "description": "A stopwatch used not for general timekeeping but to measure the duration of a training session."
+            },
+            {
+                "type": "goblet",
+                "name": "Instructor's Tea Cup",
+                "description": "It may seem like an ordinary tea cup to most. But to students, it is the symbol of the instructor's authority."
+            },
+            {
+                "type": "circlet",
+                "name": "Instructor's Cap",
+                "description": "A standard-issue honorary instructor's cap, only granted to those who turn down a promotion."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Martial Artist",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "Normal and Charged Attack DMG +15%.",
+            "fourPiece": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Martial Artist's Red Flower",
+                "description": "This particular kind of red flower was the only thing that could alleviate the Martial Artist's pain."
+            },
+            {
+                "type": "feather",
+                "name": "Martial Artist's Feather Accessory",
+                "description": "A common bird feather. Experts use it to practice strength control, while rookies use it to make fans."
+            },
+            {
+                "type": "sands",
+                "name": "Martial Artist's Water Hourglass",
+                "description": "A tool to keep track of time in endurance training. It is more accurate and reliable than a regular hourglass."
+            },
+            {
+                "type": "goblet",
+                "name": "Martial Artist's Wine Cup",
+                "description": "A rather exquisite wine cup used in pre-combat rituals."
+            },
+            {
+                "type": "circlet",
+                "name": "Martial Artist's Bandana",
+                "description": "The first lesson as an apprentice: Vigor, Strength, Will. These words are written on the bandana so you'll never forget them."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Prayers for Destiny",
+        "rarity": 4,
+        "setEffect": {
+            "onePiece": "Affected by Hydro for 40% less time."
+        },
+        "pieces": [
+            {
+                "type": "circlet",
+                "name": "Tiara of Torrents",
+                "description": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it was submerged in water year in and year out, it possesses remarkable resistance."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Prayers for Illumination",
+        "rarity": 4,
+        "setEffect": {
+            "onePiece": "Affected by Pyro for 40% less time."
+        },
+        "pieces": [
+            {
+                "type": "circlet",
+                "name": "Tiara of Flame",
+                "description": "A tiara worn by those tasked with offering sacrifices in ancient times. After being subjected to the dancing sacrificial flames year in and year out, it possesses remarkable resistance."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Prayers for Wisdom",
+        "rarity": 4,
+        "setEffect": {
+            "onePiece": "Affected by Electro for 40% less time."
+        },
+        "pieces": [
+            {
+                "type": "circlet",
+                "name": "Tiara of Thunder",
+                "description": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it harkened to the call of thunder year in and year out, it possesses remarkable resistance."
+            }
+        ],
+        "release": {
+            "version": ""
+        }
+    },
+    {
+        "name": "Prayers to Springtime",
+        "rarity": 4,
+        "setEffect": {
+            "onePiece": "Affected by Cryo for 40% less time."
+        },
+        "pieces": [
+            {
+                "type": "circlet",
+                "name": "Tiara of Frost",
+                "description": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it once weathered years of the icy cold, it possesses remarkable resistance."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Resolution of Sojourner",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "Increases Charged Attack CRIT Rate by 30%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Heart of Comradeship",
+                "description": "A small cerulean flower with somebody's ribbon pinned to the stem."
+            },
+            {
+                "type": "feather",
+                "name": "Feather of Homecoming",
+                "description": "A blue arrow fletching imbued with the sentiment of travelers that had once faded into the horizon."
+            },
+            {
+                "type": "sands",
+                "name": "Sundial of the Sojourner",
+                "description": "A sundial that has survived the ages, always silently recording the cycles of the sun and moon as they pass through the sky."
+            },
+            {
+                "type": "goblet",
+                "name": "Goblet of the Sojourner",
+                "description": "A plain porcelain goblet that was once brimming with joyous brews."
+            },
+            {
+                "type": "circlet",
+                "name": "Crown of Parting",
+                "description": "A reed coronet that emanates the spring breeze."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Scholar",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "Energy Recharge +20%.",
+            "fourPiece": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Scholar's Bookmark",
+                "description": "A dried flower used as a bookmark. It has absorbed the scent from the pages."
+            },
+            {
+                "type": "feather",
+                "name": "Scholar's Quill Pen",
+                "description": "A bird's feather that serves as a quill pen. The tip has long been stained black."
+            },
+            {
+                "type": "sands",
+                "name": "Scholar's Clock",
+                "description": "A small desktop clock, whose former owner was a scholar sat in a windowless room buried in books. This was probably the only reference they had to the time of day."
+            },
+            {
+                "type": "goblet",
+                "name": "Scholar's Ink Cup",
+                "description": "Originally designed to hold drinking water, this cup was stained black after a scholar used it to wash their paint brushes."
+            },
+            {
+                "type": "circlet",
+                "name": "Scholar's Lens",
+                "description": "This corrective lens helped restore the vision of one whose eyes were damaged from intensive studying."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "The Exile",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "Energy Recharge +20%.",
+            "fourPiece": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Exile's Flower",
+                "description": "A withered flower worn on the shirt. Its former owner insisted on wearing it even in exile, so it must mean something."
+            },
+            {
+                "type": "feather",
+                "name": "Exile's Feather",
+                "description": "Not an actual accessory per se. Just a random bird feather that was found somewhere in the wilderness by the exile."
+            },
+            {
+                "type": "sands",
+                "name": "Exile's Pocket Watch",
+                "description": "Even after the crystal watch face was shattered and the hands lost, its former owner kept it until the end."
+            },
+            {
+                "type": "goblet",
+                "name": "Exile's Goblet",
+                "description": "A dull goblet made of a heavy metal. It was once inlaid with gemstones, but they have since been stripped off."
+            },
+            {
+                "type": "circlet",
+                "name": "Exile's Circlet",
+                "description": "A prestigious circlet. However, the royal insignia has been scratched out, and it is no longer the symbol of distinguished status that it once was."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Tiny Miracle",
+        "rarity": 4,
+        "setEffect": {
+            "twoPiece": "All Elemental RES increased by 20%.",
+            "fourPiece": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Tiny Miracle's Flower",
+                "description": "A flower that grew from a rock, breaking through the stone as it strove to reach the light."
+            },
+            {
+                "type": "feather",
+                "name": "Tiny Miracle's Feather",
+                "description": "A feather from a bird of prey that flies almost too fast for the human eye to detect."
+            },
+            {
+                "type": "sands",
+                "name": "Tiny Miracle's Hourglass",
+                "description": "Just an ordinary, everyday hourglass. Turn it upside down and sure enough, the dry sand starts trickling down like water."
+            },
+            {
+                "type": "goblet",
+                "name": "Tiny Miracle's Goblet",
+                "description": "A cup commonly used for fortune-telling. It can also hold water, of course."
+            },
+            {
+                "type": "circlet",
+                "name": "Tiny Miracle's Earrings",
+                "description": "A cheap accessory that is actually made from ancient meteoric ore."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Archaic Petra",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Gain a 15% Geo DMG Bonus.",
+            "fourPiece": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Flower of Creviced Cliff",
+                "description": "A flower born of the minerals and rocks of cliffside cracks. The way its petals blow in the wind makes it seem alive."
+            },
+            {
+                "type": "feather",
+                "name": "Feather of Jagged Peaks",
+                "description": "A hard feather from a large seacliff hawk. The basalt tip of the feather sometimes glistens with a cool dew."
+            },
+            {
+                "type": "sands",
+                "name": "Sundial of Enduring Jade",
+                "description": "A sundial carved from a single, large piece of jade. Its lined with a pattern that silently records the passage of time."
+            },
+            {
+                "type": "goblet",
+                "name": "Goblet of Chiseled Crag",
+                "description": "A resplendent yet dignified wine goblet, once filled to the brim in an era long gone."
+            },
+            {
+                "type": "circlet",
+                "name": "Mask of Solitude Basalt",
+                "description": "A solemn mask exquisitely carved from basalt. Its hollow eyes stare ahead expressionless and cold."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Bloodstained Chivalry",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Physical DMG +25%.",
+            "fourPiece": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Bloodstained Flower of Iron",
+                "description": "A dried flower stained black with blood and now as hard as steel. Probably some sort of a memento for its former master."
+            },
+            {
+                "type": "feather",
+                "name": "Bloodstained Black Plume",
+                "description": "A raven feather pinned to a knight's cape. Countless bloodstains have dyed it pitch black."
+            },
+            {
+                "type": "sands",
+                "name": "Bloodstained Final Hour",
+                "description": "A timepiece once used by a knight. The liquid inside has dried up, rendering it useless."
+            },
+            {
+                "type": "goblet",
+                "name": "Bloodstained Chevalier's Goblet",
+                "description": "The dark metallic vessel owned by the Bloodstained Knight. Its exterior has been stained as black as the night by smoke and coagulated blood."
+            },
+            {
+                "type": "circlet",
+                "name": "Bloodstained Iron Mask",
+                "description": "The iron mask the knight used to conceal their identity. Many have speculated about the face behind the mask."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Crimson Witch of Flames",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Pyro DMG Bonus +15%.",
+            "fourPiece": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Witch's Flower of Blaze",
+                "description": "A flower touched by the witch who once dreamt of burning away all the demons in the world. The anonymous flames affectionately caress the hands of those who touch it."
+            },
+            {
+                "type": "feather",
+                "name": "Witch's Ever-Burning Plume",
+                "description": "A bird feather touched by the witch who once dreamt of burning away all the demons in the world. Its eternal flame burns hot."
+            },
+            {
+                "type": "sands",
+                "name": "Witch's End Time",
+                "description": "A timepiece worn by the witch who dreamt of burning away all the demons in the world. The years the witch dedicated to the flames flow within."
+            },
+            {
+                "type": "goblet",
+                "name": "Witch's Heart Flames",
+                "description": "A flame-spitting urn left behind by the Crimson Witch of Flames, who once dreamt of burning away all the demons in the world. The fire in the urn burns eternally, as did its former master."
+            },
+            {
+                "type": "circlet",
+                "name": "Witch's Scorching Hat",
+                "description": "A hat once worn by the witch who dreamt of burning away all of the demons in the world. The large brim blocked her sight."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Gladiator's Finale",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Gladiator's Nostalgia",
+                "description": "No one knows why the legendary gladiator wore this flower on his chest. It was the brutal warrior's only weakness."
+            },
+            {
+                "type": "feather",
+                "name": "Gladiator's Destiny",
+                "description": "A feather of dreams that soars free like an eagle. At the end of the gladiator's legendary life, this parting gift was left upon his chest by a bird that knew true freedom."
+            },
+            {
+                "type": "sands",
+                "name": "Gladiator's Longing",
+                "description": "A timepiece that recorded the gladiator's days in the bloodstained Colosseum. To him, it counted down the days on his long road to freedom."
+            },
+            {
+                "type": "goblet",
+                "name": "Gladiator's Intoxication",
+                "description": "The golden cup a champion gladiator drank from in ancient times. It brimmed with his glory for years until the fateful day of his fall."
+            },
+            {
+                "type": "circlet",
+                "name": "Gladiator's Triumphus",
+                "description": "The helmet of a legendary gladiator from ancient times, who would proudly stretch out his bloodied arms to welcome the thunderous applause of his audience."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Lavawalker",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Pyro RES increased by 40%.",
+            "fourPiece": "Increases DMG against opponents affected by Pyro by 35%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Lavawalker's Resolution",
+                "description": "A flower that blooms amidst burning flames. It is said that long ago, a sage once wore it as he walked into a sea of fire."
+            },
+            {
+                "type": "feather",
+                "name": "Lavawalker's Salvation",
+                "description": "The feather of a proud phoenix. You can almost hear the sound of its wings flapping in the scorching flames."
+            },
+            {
+                "type": "sands",
+                "name": "Lavawalker's Torment",
+                "description": "Burning sand flows within this hourglass. Despite the intense heat, the sand leave no mark upon the vessel that houses it."
+            },
+            {
+                "type": "goblet",
+                "name": "Lavawalker's Epiphany",
+                "description": "A legendary goblet that can withstand extremely high temperatures. It still retains a degree of warmth even though it is now empty."
+            },
+            {
+                "type": "circlet",
+                "name": "Lavawalker's Wisdom",
+                "description": "The circlet of a sage who traversed a sea of fire. It once shone brightly from their ancient silhouette as they stood strong amidst the flames."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Maiden Beloved",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Character Healing Effectiveness +15%.",
+            "fourPiece": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Maiden's Distant Love",
+                "description": "A fragrant flower that will bloom for all eternity and never wither."
+            },
+            {
+                "type": "feather",
+                "name": "Maiden's Heart-stricken Infatuation",
+                "description": "A feathered accessory that carries the longing for a certain someone, like a migratory bird on the wind."
+            },
+            {
+                "type": "sands",
+                "name": "Maiden's Passing Youth",
+                "description": "The hands of time will never come to an end, but the same cannot not be said for those cherished years of the young maiden's life when she was doted upon."
+            },
+            {
+                "type": "goblet",
+                "name": "Maiden's Fleeting Leisure",
+                "description": "A vessel made with sweet black tea in mind rather than bitter liquor."
+            },
+            {
+                "type": "circlet",
+                "name": "Maiden's Fading Beauty",
+                "description": "A meticulously well-maintained woman's hat that keeps wrinkles safely out of sight."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Noblesse Oblige",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Elemental Burst DMG +20%.",
+            "fourPiece": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Royal Flora",
+                "description": "A satin flower with a glossy finish, fit for an elegant gathering. It still looks as distinguished as it did on the day it was cast aside."
+            },
+            {
+                "type": "feather",
+                "name": "Royal Plume",
+                "description": "A feathered hat accessory worn by the old aristocrats of Mondstadt on hunts. It still stands proudly as if no time has passed."
+            },
+            {
+                "type": "sands",
+                "name": "Royal Pocket Watch",
+                "description": "A pocket watch that once belonged to the old aristocrats of Mondstadt. Passed down from generation to generation, it has witnessed many years of history."
+            },
+            {
+                "type": "goblet",
+                "name": "Royal Silver Urn",
+                "description": "An ornamental urn that once belonged to the old aristocrats of Mondstadt. Mournful winds seem to echo within its empty interior."
+            },
+            {
+                "type": "circlet",
+                "name": "Royal Masque",
+                "description": "A masquerade mask worn by the old aristocrats of Mondstadt. Its hollow eyes are fixated on the golden days of the past."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Retracing Bolide",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Increases Shield Strength by 35%.",
+            "fourPiece": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Summer Night's Bloom",
+                "description": "A man-made flower in eternal bloom. Who knows if there truly is life in there?"
+            },
+            {
+                "type": "feather",
+                "name": "Summer Night's Finale",
+                "description": "A well-crafted wooden dart. It will only stop once it has reached its destination."
+            },
+            {
+                "type": "sands",
+                "name": "Summer Night's Moment",
+                "description": "A pocketwatch that has stopped at a certain point in time."
+            },
+            {
+                "type": "goblet",
+                "name": "Summer Night's Waterballoon",
+                "description": "Water balloons can be seen everywhere during the summer festival, but none are as finely-wrought as this one."
+            },
+            {
+                "type": "circlet",
+                "name": "Summer Night's Mask",
+                "description": "A popular mask cast in the image of a deity, as described in the legends."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Thundering Fury",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Electro DMG Bonus +15%.",
+            "fourPiece": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Thunderbird's Mercy",
+                "description": "A lightning-infused flower, somehow spared the fate of being trodden underfoot or reduced to ash by the furious purple fire, making it the sole survivor on the day of disaster."
+            },
+            {
+                "type": "feather",
+                "name": "Survivor of Catastrophe",
+                "description": "A lightning-charged feather that still flickers with the wrath of the Thunderbird's cruel retribution."
+            },
+            {
+                "type": "sands",
+                "name": "Hourglass of Thunder",
+                "description": "The hourglass used to foretell the coming of the Thunderbird by the tribe that worshiped it. It has fallen into eternal silence now that the tribe is no more."
+            },
+            {
+                "type": "goblet",
+                "name": "Omen of Thunderstorm",
+                "description": "A ceremonial cup that holds the blood of the innocent. It is brimming with the thundering fury of the prayers that echo within."
+            },
+            {
+                "type": "circlet",
+                "name": "Thunder Summoner's Crown",
+                "description": "A crown once worn by an ancient shaman who worshiped the Thunderbird. The capricious beast remained unmoved by the shaman's devotion."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Thundersoother",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Electro RES increased by 40%.",
+            "fourPiece": "Increases DMG against opponents affected by Electro by 35%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Thundersoother's Heart",
+                "description": "A flower that blooms even amidst ferocious thunder and lightning. To this day, it still grants courage to travelers in thunderstorms."
+            },
+            {
+                "type": "feather",
+                "name": "Thundersoother's Plume",
+                "description": "The feather of a predatory bird that soars through lightning storms. It was said to have been adopted as an insignia by the legendary hero who pacified thunder and lightning."
+            },
+            {
+                "type": "sands",
+                "name": "Hour of Soothing Thunder",
+                "description": "A timepiece kept by the hero who conquered thunder and lightning. The tiny shards of Electro crystal within flow back and forth with the passing of time."
+            },
+            {
+                "type": "goblet",
+                "name": "Thundersoother's Goblet",
+                "description": "The wine goblet from which the Thundersoother, who defeated the Beast of Thunder, once drank violet lightning."
+            },
+            {
+                "type": "circlet",
+                "name": "Thundersoother's Diadem",
+                "description": "The crown given to the Thundersoother for defeating the Beast of Thunder that had been wreaking havoc upon the land."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Viridescent Venerer",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Anemo DMG Bonus +15%.",
+            "fourPiece": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "In Remembrance of Viridescent Fields",
+                "description": "A wild flower that was once a ubiquitous sight in its homeland. It was picked by a hunter who wore it on their chest."
+            },
+            {
+                "type": "feather",
+                "name": "Viridescent Arrow Feather",
+                "description": "The fletching of an arrow that once pierced right through its prey, but somehow still remains spotless."
+            },
+            {
+                "type": "sands",
+                "name": "Viridescent Venerer's Determination",
+                "description": "A wondrous instrument that a hunter once wore. It forever points towards their prey."
+            },
+            {
+                "type": "goblet",
+                "name": "Viridescent Venerer's Vessel",
+                "description": "A water pouch used by the Viridescent Venerer. Its capacity is much greater than one would expect."
+            },
+            {
+                "type": "circlet",
+                "name": "Viridescent Venerer's Diadem",
+                "description": "A proud crown that once belonged to the Viridescent Venerer. It is as lush and green as the breezes of the wild."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Wanderer's Troupe",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Increases Elemental Mastery by 80.",
+            "fourPiece": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Troupe's Dawnlight",
+                "description": "A small flower-shaped insignia. If you listen carefully, you can almost hear a flute playing and voices singing."
+            },
+            {
+                "type": "feather",
+                "name": "Bard's Arrow Feather",
+                "description": "An azure arrow fletching that has neither faded nor splintered with the passage of time. The sound of running water seems to linger around it."
+            },
+            {
+                "type": "sands",
+                "name": "Concert's Final Hour",
+                "description": "An hourglass used to keep time during a band performance. It once made a crisp sound, but their performance has since ended."
+            },
+            {
+                "type": "goblet",
+                "name": "Wanderer's String-Kettle",
+                "description": "An ancient, strangely-shaped canteen. The interior is fitted with harp strings, which play a wondrous tune as the water flows out."
+            },
+            {
+                "type": "circlet",
+                "name": "Conductor's Top Hat",
+                "description": "A top hat that has managed to retain its radiance despite braving the elements for time untold. An ancient tune still resonates within."
+            }
+        ],
+        "release": {
+            "version": "1.0"
+        }
+    },
+    {
+        "name": "Blizzard Strayer",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Cryo DMG Bonus +15%.",
+            "fourPiece": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Snowswept Memory",
+                "description": "A long-extinct flower, covered in beads of frost, that once grew on the glaciers. There was a time when even the proudest and most arrogant warriors bowed before it."
+            },
+            {
+                "type": "feather",
+                "name": "Icebreaker's Resolve",
+                "description": "A feather that exudes a chilly aura. One can almost feel the turbulent winds that brought it here, wailing over snow-covered plains and between frosty peaks."
+            },
+            {
+                "type": "sands",
+                "name": "Frozen Homeland's Demise",
+                "description": "A timepiece from a nation of old that waited for their warriors' return. What flows inside is not sand, but bits of ice that never melt."
+            },
+            {
+                "type": "goblet",
+                "name": "Frost-Weaved Dignity",
+                "description": "A cup carved out of ice that is as chilly and biting as winter. Its former master would drink an unfreezable liquor from it."
+            },
+            {
+                "type": "circlet",
+                "name": "Broken Rime's Echo",
+                "description": "The crown of an ancient hero who dreamt of conquering the cold. It is proof of its former master's bravery in facing the bone-chilling cold of winter."
+            }
+        ],
+        "release": {
+            "version": "1.2"
+        }
+    },
+    {
+        "name": "Heart of Depth",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Hydro DMG Bonus +15%.",
+            "fourPiece": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Gilded Corsage",
+                "description": "A mantle brooch that has lost its luster. The gold plating that once adorned it was ground away by the wind and the waves long ago."
+            },
+            {
+                "type": "feather",
+                "name": "Gust of Nostalgia",
+                "description": "A feather carried over by whimpering sea winds and crimson waves. The passage of time has changed its shape and color."
+            },
+            {
+                "type": "sands",
+                "name": "Copper Compass",
+                "description": "An ancient bronze compass. Its needle points towards some ever-distant shore, to a non-existent harbor."
+            },
+            {
+                "type": "goblet",
+                "name": "Goblet of Thundering Deep",
+                "description": "A faded wine cup that was unintentionally dredged up from the sea. Its dull exterior tells of the days it has spent beneath the waves."
+            },
+            {
+                "type": "circlet",
+                "name": "Wine-Stained Tricorne",
+                "description": "An ancient, wine-stained sea hat that still reeks of alcohol even now."
+            }
+        ],
+        "release": {
+            "version": "1.2"
+        }
+    },
+    {
+        "name": "Pale Flame",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Physical DMG is increased by 25%.",
+            "fourPiece": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Stainless Bloom",
+                "description": "A hard, blue artificial flower. Its petals shall never wither, nor shall its colors fade."
+            },
+            {
+                "type": "feather",
+                "name": "Wise Doctor's Pinion",
+                "description": "An ominous pinion with edges of unsurpassed keenness. Perhaps it represents an unnaturally uninhibited nature."
+            },
+            {
+                "type": "sands",
+                "name": "Moment of Cessation",
+                "description": "A pocket watch with a cover that cannot be opened. Yet it ticks and tocks away, following the inexorable flow of time."
+            },
+            {
+                "type": "goblet",
+                "name": "Surpassing Cup",
+                "description": "An intricately-made cup. Its appearance betrays nothing of its age to an observer."
+            },
+            {
+                "type": "circlet",
+                "name": "Mocking Mask",
+                "description": "A mask that covers the face, hiding one's expression from others."
+            }
+        ],
+        "release": {
+            "version": "1.5"
+        }
+    },
+    {
+        "name": "Tenacity of the Millelith",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "HP +20%.",
+            "fourPiece": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Flower of Accolades",
+                "description": "A flower made from gold leaf. It represents the glories and honors attained by its wearer."
+            },
+            {
+                "type": "feather",
+                "name": "Ceremonial War-Plume",
+                "description": "A falcon feather worn on ceremonial occasions. It displays the dignity and resolve of Liyue Harbor to the outside world."
+            },
+            {
+                "type": "sands",
+                "name": "Orichalceous Time-Dial",
+                "description": "A simple device for telling time. This was once standard-issue for the Millelith during times of war."
+            },
+            {
+                "type": "goblet",
+                "name": "Noble's Pledging Vessel",
+                "description": "A golden cup used by the Millelith to take their oaths. Still bears the lovely scent of wine."
+            },
+            {
+                "type": "circlet",
+                "name": "General's Ancient Helm",
+                "description": "A splendorous helmet from ages past. Clean the dust away and it will look brand-new once more."
+            }
+        ],
+        "release": {
+            "version": "1.5"
+        }
+    },
+    {
+        "name": "Emblem of Severed Fate",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Energy Recharge +20%.",
+            "fourPiece": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Magnificent Tsuba",
+                "description": "Legends hold that this ornate hand guard was once fitted upon a sword gifted to the oni who betrayed the Shogun."
+            },
+            {
+                "type": "feather",
+                "name": "Sundered Feather",
+                "description": "This was once the black feather of a certain tengu warrior, and was the treasured souvenir of an ancient swordsman."
+            },
+            {
+                "type": "sands",
+                "name": "Storm Cage",
+                "description": "An exquisite seal cage patterned with pansies painted upon a black backdrop, decorated with shining inlaid seashells and intricate gold-work."
+            },
+            {
+                "type": "goblet",
+                "name": "Scarlet Vessel",
+                "description": "An intricately-designed wine vessel that a world-famous martial artist once drank from."
+            },
+            {
+                "type": "circlet",
+                "name": "Ornate Kabuto",
+                "description": "A sturdy and hard helmet worn as armor by a noble samurai."
+            }
+        ],
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "name": "Shimenawa's Reminiscence",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Entangling Bloom",
+                "description": "A lovely amulet made from twisted paper cord. It is said to hold the power to make wishes come true."
+            },
+            {
+                "type": "feather",
+                "name": "Shaft of Remembrance",
+                "description": "A demon-slaying arrow of a rather ancient make. It seems to have been preserved with great care by someone, even until the present day."
+            },
+            {
+                "type": "sands",
+                "name": "Morning Dew's Moment",
+                "description": "A bronze pocket watch adorned with twisted paper cord and a bell. Its hands are forever frozen at the dawn of a certain autumn day."
+            },
+            {
+                "type": "goblet",
+                "name": "Hopeful Heart",
+                "description": "A special fortune-telling cylindrical object. The mechanism at the bottom allows one to easily remove all unwanted wish sticks."
+            },
+            {
+                "type": "circlet",
+                "name": "Capricious Visage",
+                "description": "A well-preserved ceremonial fox mask. A small, enigmatic smile ever graces its lips."
+            }
+        ],
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "name": "Husk of Opulent Dreams",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "DEF +30%.",
+            "fourPiece": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Bloom Times",
+                "description": "A small golden ornament with six petals that shall never wilt. It symbolizes the transience of mortal glories."
+            },
+            {
+                "type": "feather",
+                "name": "Plume of Luxury",
+                "description": "A feather-shaped token that was brought forth from a secluded hall. The compassion of its creator led to it being left within that mansion along with a certain slumbering form."
+            },
+            {
+                "type": "sands",
+                "name": "Song of Life",
+                "description": "As far as Inazuma is concerned, this is some small object from overseas. The heart of this mechanism has been removed, and its hands no longer turn."
+            },
+            {
+                "type": "goblet",
+                "name": "Calabash of Awakening",
+                "description": "A gourd that has been adorned with powdered gold and black paint. Its original color can no longer be discerned, but its main use seems to be as a performance prop."
+            },
+            {
+                "type": "circlet",
+                "name": "Skeletal Hat",
+                "description": "A hat that once shielded a wanderer from sun and rain. It eventually became a convenient tool with which faces might be hidden and expressions obscured."
+            }
+        ],
+        "release": {
+            "version": "2.3"
+        }
+    },
+    {
+        "name": "Ocean-Hued Clam",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Healing Bonus +15%.",
+            "fourPiece": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Sea-Dyed Blossom",
+                "description": "A soft flower that has taken on the many shades of the capricious ocean. It shines with wondrous colors under the moon's silver light."
+            },
+            {
+                "type": "feather",
+                "name": "Deep Palace's Plume",
+                "description": "A down feather with the same hue as coral, said to come from a shrine maiden's ceremonial garment."
+            },
+            {
+                "type": "sands",
+                "name": "Cowry of Parting",
+                "description": "A clean, flawless seashell that comes from the bottomless ocean."
+            },
+            {
+                "type": "goblet",
+                "name": "Pearl Cage",
+                "description": "The shining pearls that the shrine maidens of Watatsumi Island offer up shine eternally and never dim."
+            },
+            {
+                "type": "circlet",
+                "name": "Crown of Watatsumi",
+                "description": "An ancient, intricate crown that was once used by a forgotten clergy member. Today, this relic has been enshrined with great ceremony by the people of Watatsumi."
+            }
+        ],
+        "release": {
+            "version": "2.3"
+        }
+    },
+    {
+        "name": "Echoes of an Offering",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Soulscent Bloom",
+                "description": "A jade carved into the shape of a flower. A phantom scent, here one instant and gone the next, swirls around it."
+            },
+            {
+                "type": "feather",
+                "name": "Jade Leaf",
+                "description": "A jade ornament shaped like a leaf. It seems to have once had deep meaning between specific friends."
+            },
+            {
+                "type": "sands",
+                "name": "Symbol of Felicitation",
+                "description": "A circular jade ornament. Legend has it that it was once used somewhere as a symbol for rituals to begin."
+            },
+            {
+                "type": "goblet",
+                "name": "Chalice of the Font",
+                "description": "This teacup forever overflows with fresh water. Perhaps it was a gift from an adeptus, one of their relics, or just something they left behind."
+            },
+            {
+                "type": "circlet",
+                "name": "Flowing Rings",
+                "description": "A pair of earrings made from a single piece of jade. It has a most gentle texture."
+            }
+        ],
+        "release": {
+            "version": "2.6"
+        }
+    },
+    {
+        "name": "Vermillion Hereafter",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Flowering Life",
+                "description": "An ancient memento. It still looks as alive as the being that preserved it several centuries ago."
+            },
+            {
+                "type": "feather",
+                "name": "Feather of Nascent Light",
+                "description": "A dimly lustrous pinion steeped in strong memories."
+            },
+            {
+                "type": "sands",
+                "name": "Solar Relic",
+                "description": "An ancient timepiece with a mighty solid look. Its luster is produced by sand crystal."
+            },
+            {
+                "type": "goblet",
+                "name": "Moment of the Pact",
+                "description": "An old cup made of sand crystal. Its luster is somehow undimmed by age."
+            },
+            {
+                "type": "circlet",
+                "name": "Thundering Poise",
+                "description": "This mask is said to have been made by the mountain people for a Yaksha. It is of simple make, but its surface still shines brightly nonetheless."
+            }
+        ],
+        "release": {
+            "version": "2.6"
+        }
+    },
+    {
+        "name": "Deepwood Memories",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Dendro DMG Bonus +15%.",
+            "fourPiece": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Labyrinth Wayfarer",
+                "description": "This lovely gold-plated flower was plucked from the crown of the ruler of the forest."
+            },
+            {
+                "type": "feather",
+                "name": "Scholar of Vines",
+                "description": "An emerald leaf as fluffy as a feather. Plucked from the raiment of a forest scholar."
+            },
+            {
+                "type": "sands",
+                "name": "A Time of Insight",
+                "description": "Such timepieces are used by those who dedicate themselves to the way of the wise. These timepieces do not contain lifeless sand, but instead play host to tiny mustard seeds."
+            },
+            {
+                "type": "goblet",
+                "name": "Lamp of the Lost",
+                "description": "This was originally an oil lamp in the style of the desert realm, but has since sprouted fluorescent green leaves."
+            },
+            {
+                "type": "circlet",
+                "name": "Laurel Coronet",
+                "description": "This crown was bestowed by the deity with dominion over plants and trees. It was an heirloom of the royal house of the labyrinth. It was, at last, made the inheritance of the king's attendant."
+            }
+        ],
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "name": "Gilded Dreams",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Increases Elemental Mastery by 80.",
+            "fourPiece": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Dreaming Steelbloom",
+                "description": "A flower bud made of hammered dark gold. Its crimson core is wrapped by petals that shall never open."
+            },
+            {
+                "type": "feather",
+                "name": "Feather of Judgment",
+                "description": "This special feather was once used to weigh the hearts of the guilty, but it has since lost its original function."
+            },
+            {
+                "type": "sands",
+                "name": "The Sunken Years",
+                "description": "This dark-golden sundial seems to tell the ancient tale of the desert."
+            },
+            {
+                "type": "goblet",
+                "name": "Honeyed Final Feast",
+                "description": "A wine cup that was once used at a grand and ancient feast. It has now lost much of that luster."
+            },
+            {
+                "type": "circlet",
+                "name": "Shadow of the Sand King",
+                "description": "This gold-inlaid headband was once used by desert priests in the days of old. They were made in imitation of one worn by a legendary ruler of the desert peoples."
+            }
+        ],
+        "release": {
+            "version": "2.0"
+        }
+    },
+    {
+        "name": "Desert Pavilion Chronicle",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Anemo DMG Bonus +15%.",
+            "fourPiece": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "The First Days of the City of Kings",
+                "description": "An artificial flower that shimmers with a strange light. If you incline your ear to it, you can vaguely hear charming laughter issuing from within."
+            },
+            {
+                "type": "feather",
+                "name": "End of the Golden Realm",
+                "description": "A crystal-clear artificial feather that is one of the legacies of an ancient human realm. The cries of soaring eagles are also sealed within."
+            },
+            {
+                "type": "sands",
+                "name": "Timepiece of the Lost Path",
+                "description": "An ancient mechanical clock. The Jinni fragments continue to emit light at its center and vibrate ever so slightly, as if to say something..."
+            },
+            {
+                "type": "goblet",
+                "name": "Defender of the Enchanting Dream",
+                "description": "An ancient golden cup that is both marvelously and luxuriously wrought. Murmurings can be heard within its empty innards."
+            },
+            {
+                "type": "circlet",
+                "name": "Legacy of the Desert High-Born",
+                "description": "Earrings made from amber gold that shines with a strange light."
+            }
+        ],
+        "release": {
+            "version": "3.3"
+        }
+    },
+    {
+        "name": "Flower of Paradise Lost",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Increases Elemental Mastery by 80.",
+            "fourPiece": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Ay-Khanoum's Myriad",
+                "description": "An amethyst bloom that has been beautifully sculpted in the image of an ancient, extinct flower."
+            },
+            {
+                "type": "feather",
+                "name": "Wilting Feast",
+                "description": "A feather left behind by a long-extinct bird species. It was inlaid with gold and gems by the ancient adherents of the Goddess of Flowers."
+            },
+            {
+                "type": "sands",
+                "name": "A Moment Congealed",
+                "description": "These sands no longer move no matter how you tilt the hourglass, now and forever defying the drift of time itself."
+            },
+            {
+                "type": "goblet",
+                "name": "Secret-Keeper's Magic Bottle",
+                "description": "A small bottle made of purple crystal. An emerald cap keeps it tightly sealed."
+            },
+            {
+                "type": "circlet",
+                "name": "Amethyst Crown",
+                "description": "A crown inlaid with amethyst and emerald. It seems to have been the headgear worn by ancient priests of the Goddess of Flowers."
+            }
+        ],
+        "release": {
+            "version": "3.3"
+        }
+    },
+    {
+        "name": "Nymph's Dream",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Hydro DMG Bonus +15%.",
+            "fourPiece": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3 or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG Bonus will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Odyssean Flower",
+                "description": "The story must end, and even fresh flowers will wither. But the flower within one's dreams will always remain in full and fragrant bloom."
+            },
+            {
+                "type": "feather",
+                "name": "Wicked Mage's Plumule",
+                "description": "This was once a decorative feather in someone's hat. Being dark green, it is quite eye-catching indeed."
+            },
+            {
+                "type": "sands",
+                "name": "Nymph's Constancy",
+                "description": "A pocket watch that has long stopped working. It seems to have borne witness to many a passing year as its hands spun in vain."
+            },
+            {
+                "type": "goblet",
+                "name": "Heroes' Tea Party",
+                "description": "A lovely teacup. Perhaps it was once used by people enjoying a leisurely afternoon together."
+            },
+            {
+                "type": "circlet",
+                "name": "Fell Dragon's Monocle",
+                "description": "An exquisitely-made monocle. Ancient anecdotes say that one might be able to see the future through it."
+            }
+        ],
+        "release": {
+            "version": "3.6"
+        }
+    },
+    {
+        "name": "Vourukasha's Glow",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "HP +20%.",
+            "fourPiece": "Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Stamen of Khvarena's Origin",
+                "description": "An insignia in the shape of a lovely little flower that was once worn by pilgrims in times long bygone."
+            },
+            {
+                "type": "feather",
+                "name": "Vibrant Pinion",
+                "description": "An exquisite feather-shaped decoration on which the vivid hues of verdant leaves and fragrant flowers shimmer."
+            },
+            {
+                "type": "sands",
+                "name": "Ancient Abscission",
+                "description": "An ancient timepiece upon which the light of Khvarena gleams. It is filled with a pure liquid that appears alive."
+            },
+            {
+                "type": "goblet",
+                "name": "Feast of Boundless Joy",
+                "description": "An opulent wine goblet that was once filled with nectar and honeydew, but is empty today."
+            },
+            {
+                "type": "circlet",
+                "name": "Heart of Khvarena's Brilliance",
+                "description": "Intricate and vibrant earrings upon which the luster of a hundred flowers seems to flow."
+            }
+        ],
+        "release": {
+            "version": "3.6"
+        }
+    },
+    {
+        "name": "Golden Troupe",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Increases Elemental Skill DMG by 20%.",
+            "fourPiece": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Golden Song's Variation",
+                "description": "A flower constructed out of clam, mother-of-pearl, and gold leaf. It blooms proudly."
+            },
+            {
+                "type": "feather",
+                "name": "Golden Bird's Shedding",
+                "description": "A gold feather made using silver and gold filigree. A crystal-clear sapphire is mounted atop it."
+            },
+            {
+                "type": "sands",
+                "name": "Golden Era's Prelude",
+                "description": "This lovely sundial is inlaid with silver and gold. It seems that time has stopped flowing atop its dial plate."
+            },
+            {
+                "type": "goblet",
+                "name": "Golden Night's Bustle",
+                "description": "An ancient silver urn that was once filled with fine wine as red as rubies. Now, it contains nothing but bitter seawater."
+            },
+            {
+                "type": "circlet",
+                "name": "Golden Troupe's Reward",
+                "description": "An ancient crown that resembles a stage prop more than it does some suzerain's headgear."
+            }
+        ],
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "name": "Marechaussee Hunter",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Normal and Charged Attack DMG +15%.",
+            "fourPiece": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Hunter's Brooch",
+                "description": "An ancient emblem that was once awarded to those who had made exceptional contributions in battle."
+            },
+            {
+                "type": "feather",
+                "name": "Masterpiece's Overture",
+                "description": "A portable tool used to adjust the torque on some old-school clockwork machine. It has since lost its practical value."
+            },
+            {
+                "type": "sands",
+                "name": "Moment of Judgment",
+                "description": "A standard pocket watch. Its accuracy is not particularly high."
+            },
+            {
+                "type": "goblet",
+                "name": "Forgotten Vessel",
+                "description": "A portable metal vessel containing strong wine. Can be stuffed into the pocket of an outer coat for ease of access and use."
+            },
+            {
+                "type": "circlet",
+                "name": "Veteran's Visage",
+                "description": "An old mask that can, to some extent, stand in for a face marred by wounds. Its design can vary based on the wounded areas and the user's gender."
+            }
+        ],
+        "release": {
+            "version": "4.0"
+        }
+    },
+    {
+        "name": "Nighttime Whispers in the Echoing Woods",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Selfless Floral Accessory",
+                "description": "A brooch that the witch in the tale wore. As with the other ornaments she loved, this was characterized by butterfly-like shapes."
+            },
+            {
+                "type": "feather",
+                "name": "Honest Quill",
+                "description": "The witch in the tale used this dip pen. Among its various advantages, its silky-smooth writing is the least worthy of mention."
+            },
+            {
+                "type": "sands",
+                "name": "Faithful Hourglass",
+                "description": "A sand timepiece that the witch relied on in the story. Legend has it that if you recite the wrong incantation over it, time will suddenly flow exceptionally quickly."
+            },
+            {
+                "type": "goblet",
+                "name": "Magnanimous Ink Bottle",
+                "description": "An ink bottle utilized by the witch in the story. It possesses a strange enchantment no less powerful than the one cast upon the dip pen."
+            },
+            {
+                "type": "circlet",
+                "name": "Compassionate Ladies' Hat",
+                "description": "The lady's hat favored by the witch in the story. She loved this piece of headwear for how it weaves together solemnity and playfulness."
+            }
+        ],
+        "release": {
+            "version": "4.3"
+        }
+    },
+    {
+        "name": "Song of Days Past",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "Healing Bonus +15%.",
+            "fourPiece": "When the equipping character heals a party member, the Yearning effect will be created for 6s, which records the total amount of healing provided (including overflow healing). When the duration expires, the Yearning effect will be transformed into the \"Waves of Days Past\" effect: When your active party member hits an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the DMG dealt will be increased by 8% of the total healing amount recorded by the Yearning effect. The \"Waves of Days Past\" effect is removed after it has taken effect 5 times or after 10s. A single instance of the Yearning effect can record up to 15,000 healing, and only a single instance can exist at once, but it can record the healing from multiple equipping characters. Equipping characters on standby can still trigger this effect."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Forgotten Oath of Days Past",
+                "description": "An ever-blooming flower shaped from larimar and shimmering silver. They say that this is still viewed as a symbol of resistance."
+            },
+            {
+                "type": "feather",
+                "name": "Recollection of Days Past",
+                "description": "A butterfly-shaped feather accessory made from silver and azure crystals. It is said to, in the distant past, have symbolized an oath to never be parted."
+            },
+            {
+                "type": "sands",
+                "name": "Echoing Sound From Days Past",
+                "description": "An oddly shaped hourglass made from lazurite and aqua jade. It was reportedly inspired by the bell tower in Petrichor."
+            },
+            {
+                "type": "goblet",
+                "name": "Promised Dream of Days Past",
+                "description": "An opulent vessel made based on the form of the legendary \"Pure Grail.\" It is said to be able to fulfill the wishes of the purest of people."
+            },
+            {
+                "type": "circlet",
+                "name": "Poetry of Days Past",
+                "description": "A formal hat that was once in vogue amongst creators of opera in Fontaine. Word has it that its feathered adornment was based on the legendary helms of the Lochknights."
+            }
+        ],
+        "release": {
+            "version": "4.3"
+        }
+    },
+    {
+        "name": "Fragment of Harmonic Whimsy",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Harmonious Symphony Prelude",
+                "description": "An honorary medal in the shape of a blooming flower. Adorned with blue stone and gold, it was once bestowed upon immortals."
+            },
+            {
+                "type": "feather",
+                "name": "Ancient Sea's Nocturnal Musing",
+                "description": "A feather accessory carved in the shape of the wings of the golden bees of legend. They seem to flutter with the slightest breeze."
+            },
+            {
+                "type": "sands",
+                "name": "The Grand Jape of the Turning of Fate",
+                "description": "A timepiece made in imitation of the wheel of fate. It ceased turning long ago."
+            },
+            {
+                "type": "goblet",
+                "name": "Ichor Shower Rhapsody",
+                "description": "A rhyton fired with copper as the base, that was once filled with fine wine from paradise."
+            },
+            {
+                "type": "circlet",
+                "name": "Whimsical Dance of the Withered",
+                "description": "A mask once covered in gold leaf. Perhaps it is a relic from some ancient officer of the legions."
+            }
+        ],
+        "release": {
+            "version": "4.6"
+        }
+    },
+    {
+        "name": "Unfinished Reverie",
+        "rarity": 5,
+        "setEffect": {
+            "twoPiece": "ATK +18%.",
+            "fourPiece": "After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field."
+        },
+        "pieces": [
+            {
+                "type": "flower",
+                "name": "Dark Fruit of Bright Flowers",
+                "description": "A flower carved from grey stone covered with gold foil. Legends say that during a war, it was used to differentiate friend from foe."
+            },
+            {
+                "type": "feather",
+                "name": "Faded Emerald Tail",
+                "description": "A tail feather ornament whose luster has long faded. The patterns on it are said to have been etched by the hand of a skilled artisan from long ago."
+            },
+            {
+                "type": "sands",
+                "name": "Moment of Attainment",
+                "description": "A sundial used by an ancient kingdom to tell time. Tiny marks have been left at a certain scale that can only be seen through careful observation."
+            },
+            {
+                "type": "goblet",
+                "name": "The Wine-Flask Over Which the Plan Was Hatched",
+                "description": "A three-legged cup. Once, many heroes were gathered around the bonfire, raising their cups high in toast and drinking their fill while discussing their wishes and ambitions."
+            },
+            {
+                "type": "circlet",
+                "name": "Crownless Crown",
+                "description": "A golden crown decorated with turquoise and emerald feathers, it has never been used in a coronation, living alone atop a velvet cushion."
+            }
+        ],
+        "release": {
+            "version": "4.6"
+        }
+    }
+]
