@@ -4,10 +4,12 @@
 
 [Weapon DB](https://bcheung98.github.io/project-irminsul-db/weapons.json)
 
-[TCG Cards DB](https://bcheung98.github.io/project-irminsul-db/cards.json)
+[Artifact DB](https://bcheung98.github.io/project-irminsul-db/artifacts.json)
 
 [Character Banners DB](https://bcheung98.github.io/project-irminsul-db/characterBanners.json)
 
 [Weapon Banners DB](https://bcheung98.github.io/project-irminsul-db/weaponBanners.json)
 
 [Chronicled Wish DB](https://bcheung98.github.io/project-irminsul-db/chronicledWish.json)
+
+[TCG DB](https://bcheung98.github.io/project-irminsul-db/cards.json)
