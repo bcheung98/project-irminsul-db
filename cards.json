@@ -1189,7 +1189,7 @@
                     {
                         "tag": "niwabi enshou",
                         "name": "Niwabi Enshou",
-                        "description": "The character to which this attached has their <b class=\"tcg-bold\">Normal Attacks</b> deal +1 DMG, and their <span class=\"tooltip-physical\">Physical DMG</span> dealt converted to <span class=\"tooltip-pyro\">Pyro DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                        "description": "The character to which this attached has their <b class=\"tcg-bold\">Normal Attacks</b> deal +1 DMG, and their <span class=\"tooltip-physical\">Physical DMG</span> dealt converted to <span class=\"tooltip-pyro\">Pyro DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>"
                     },
                     {
                         "tag": "aurous blaze",
@@ -2490,7 +2490,7 @@
                     {
                         "tag": "herald of frost",
                         "name": "Herald of Frost",
-                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-cryo\">Cryo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When this Summon is on the field, after Qiqi uses Normal Attack</b>: Heals your character that took the most DMG for 1 HP."
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-cryo\">Cryo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When this Summon is on the field, after Qiqi uses Normal Attack</b>: Heals your character that took the most DMG for 1 HP. Once each Round, additionally heal your active character for 1 HP."
                     },
                     {
                         "tag": "fortune preserving talisman",
@@ -3932,6 +3932,445 @@
                 "release": {
                     "version": "4.6"
                 }
+            },
+            {
+                "name": "Wriothesley",
+                "element": "Cryo",
+                "weapon": "Catalyst",
+                "factions": ["Fontaine"],
+                "arkhe": "Ousia",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Forceful Fists of Frost",
+                        "cost": "1C 2U",
+                        "description": "Deals 1 <span class=\"tooltip-cryo\">Cryo DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Icefang Rush",
+                        "cost": "3C",
+                        "description": "Deals 2 <span class=\"tooltip-cryo\">Cryo DMG</span>. This character gains <span class=\"tooltip-chilling penalty\">Chilling Penalty</span>."
+                    },
+                    "burst": {
+                        "name": "Darkgold Wolfbite",
+                        "cost": "3C 3N",
+                        "energy": 3,
+                        "description": "Deals 2 <span class=\"tooltip-cryo\">Cryo DMG</span>, creates 1 <span class=\"tooltip-lingering icicles\">Lingering Icicles</span>.<br /><b class=\"tcg-bold\">When this character takes DMG or is healed 2 times in total this Round:</b> This Skill costs 1 less Elemental Die (Cost can be reduced by up to 2)."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "chilling penalty",
+                        "name": "Chilling Penalty",
+                        "description": "<b class=\"tcg-bold\">When the character uses a Normal Attack</b>: If this character has at least 6 HP remaining, this Skill costs 1 less <b class=\"text-cryo\">Cryo</b> Die, deals +1 DMG, and deals 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to themselves."
+                    },
+                    {
+                        "tag": "lingering icicles",
+                        "name": "Lingering Icicles",
+                        "description": "<b class=\"tcg-bold\">Before you choose your action</b>: Deal 2 <span class=\"tooltip-cryo\">Cryo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Emissary of Solitary Iniquity\" Wriothesley",
+                    "description": "Guilty waters run deep."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Furina",
+                "element": "Hydro",
+                "weapon": "Sword",
+                "factions": ["Fontaine"],
+                "arkhe": "Ousia",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Soloist's Solicitation",
+                        "cost": "1H 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>.<br /><b class=\"tcg-bold\">Once per Round:</b> If you do not have <b class=\"tcg-bold\">Seats Sacred and Secular</b> in your Hand, create 1 <span class=\"tooltip-seats sacred and secular\">Seats Sacred and Secular</span> card in your Hand."
+                    },
+                    "skill": {
+                        "name": "Salon Solitaire",
+                        "cost": "3H",
+                        "description": "If <b class=\"tcg-bold\">Furina</b> is in the Arkhe: Ousia state, she will summon <span class=\"tooltip-salon members\">Salon Members</span>.<br />If <b class=\"tcg-bold\">Furina</b> is in the Arkhe: Pneuma state, she will summon <span class=\"tooltip-singer of many waters\">Singer of Many Waters</span>."
+                    },
+                    "burst": {
+                        "name": "Let the People Rejoice",
+                        "cost": "4H 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 1 <span class=\"tooltip-universal revelry\">Universal Revelry</span>"
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "seats sacred and secular",
+                        "name": "Seats Sacred and Secular",
+                        "description": "When in Arkhe: Pneuma or Arkhe: Ousia states, switch Furina's state.<br />If you have <span class=\"tooltip-salon members\">Salon Members</span> or <span class=\"tooltip-singer of many waters\">Singer of Many Waters</span> on the field, change their state as well."
+                    },
+                    {
+                        "tag": "salon members",
+                        "name": "Salon Members",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-hydro\">Hydro DMG</span>. If your side has characters with at least 6 HP, deal 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to your character who has taken the least DMG, and deal another 1 <span class=\"tooltip-hydro\">Hydro DMG</span><br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b> (Can stack. Max 4 stacks)"
+                    },
+                    {
+                        "tag": "singer of many waters",
+                        "name": "Singer of Many Waters",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Heal all your characters for 1 HP. If your side has characters with no more than 5 HP, heal the most injured character for an additional 1 HP.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b> (Can stack. Max 4 stacks)"
+                    },
+                    {
+                        "tag": "universal revelry",
+                        "name": "Universal Revelry",
+                        "description": "<b class=\"tcg-bold\">After your active character takes DMG or is healed</b>: Add 1 stack of <span class=\"tooltip-revelry\">Revelry</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                    },
+                    {
+                        "tag": "revelry",
+                        "name": "Revelry",
+                        "description": "Your side deals +1 DMG. (Including Swirl DMG triggered by Characters)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. No stack limit)"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Endless Solo of Solitude\" Furina",
+                    "description": "Perpetual muse of chansons and rondeaux."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Xinyan",
+                "element": "Pyro",
+                "weapon": "Claymore",
+                "factions": ["Liyue"],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Dance on Fire",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Sweeping Fervor",
+                        "cost": "3P",
+                        "description": "Deals 2 <span class=\"tooltip-pyro\">Pyro DMG</span>, randomly <span class=\"tooltip-discard\">Discard</span> 1 card with the highest original Elemental Dice Cost in your Hand, and creates 1 <span class=\"tooltip-shield of passion\">Shield of Passion</span>."
+                    },
+                    "burst": {
+                        "name": "Riff Revolution",
+                        "cost": "3P 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <span class=\"tooltip-physical\">Physical DMG</span>, deals 2 <span class=\"tooltip-piercing\">Piercing DMG</span> to all opposing characters on standby; <span class=\"tooltip-discard\">Discard</span> all cards in your Hand, creates 1 <span class=\"tooltip-festive fires\">Festive Fires</span>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "shield of passion",
+                        "name": "Shield of Passion",
+                        "description": "Grants <b class=\"tcg-bold\">2</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">points</b> to your active character."
+                    },
+                    {
+                        "tag": "festive fires",
+                        "name": "Festive Fires",
+                        "description": "<b class=\"tcg-bold\"When you declare the end of your Round</b>: If your Hand has no more than 1 card, deal 1 <span class=\"tooltip-pyro\">Pyro DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Blazing Riff\" Xinyan",
+                    "description": "Time to rock!"
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Yun Jin",
+                "element": "Geo",
+                "weapon": "Polearm",
+                "factions": ["Liyue"],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Cloud-Grazing Strike",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Opening Flourish",
+                        "cost": "3G",
+                        "description": "Creates 1 <span class=\"tooltip-flying cloud flag formation\">Flying Cloud Flag Formation</span>, attaches <span class=\"tooltip-shield of swirling clouds\">Shield of Swirling Clouds</span> to this character and <span class=\"tooltip-prepare\">prepares</span>: <span class=\"tooltip-spear flourish\">Spear Flourish</span>."
+                    },
+                    "burst": {
+                        "name": "Cliffbreaker's Banner",
+                        "cost": "3G 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <span class=\"tooltip-geo\">Geo DMG</span>, creates 3 stacks of <span class=\"tooltip-flying cloud flag formation\">Flying Cloud Flag Formation</span>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "flying cloud flag formation",
+                        "name": "Flying Cloud Flag Formation",
+                        "description": "<b class=\"tcg-bold\">When your character uses a Normal Attack</b>: Deal +1 DMG.<br />If you have no more than 1 card in your Hand, this Skill costs 1 less Elemental Die.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 4 stacks)"
+                    },
+                    {
+                        "tag": "shield of swirling clouds",
+                        "name": "Shield of Swirling Clouds",
+                        "description": "While preparing this Skill: Grant <b class=\"tcg-bold\">2</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">points</b> to the character to which this is attached."
+                    },
+                    {
+                        "tag": "spear flourish",
+                        "name": "Spear Flourish",
+                        "description": "Deals 2 <span class=\"tooltip-geo\">Geo DMG</span>. If you have <span class=\"tooltip-discard\">Discarded</span> or used at least 1 card for <span class=\"tooltip-tune\">Tune</span> this Round, this deals +1 DMG."
+                    }
+                ],
+                "splash": {
+                    "title": "\"Stage Lucida\" Yun Jin",
+                    "description": "Elegance on the stage, in decorous harmony."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Kaveh",
+                "element": "Dendro",
+                "weapon": "Claymore",
+                "factions": ["Sumeru"],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Schematic Setup",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Artistic Ingenuity",
+                        "cost": "3D",
+                        "description": "Deals 2 <span class=\"tooltip-dendro\">Dendro DMG</span>, creates 1 <span class=\"tooltip-burst scan\">Burst Scan</span>."
+                    },
+                    "burst": {
+                        "name": "Painted Dome",
+                        "cost": "3D 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <span class=\"tooltip-dendro\">Dendro DMG</span>. This character gains <span class=\"tooltip-mehraks assistance\">Mehrak's Assistance</span>, creating 2 stacks of <span class=\"tooltip-burst scan\">Burst Scan</span>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "burst scan",
+                        "name": "Burst Scan",
+                        "description": "<b class=\"tcg-bold\">Before either side chooses their action</b>: If your side has Dendro Core or Bountiful Core, -1 to their <b class=\"tcg-bold\">Usage(s)</b>, and <span class=\"tooltip-discard\">Discard</span> the card at the top of your deck. After this, deal <span class=\"tooltip-dendro\">Dendro DMG</span> equal to the original Elemental Dice Cost of the card you Discard +1.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 3 stacks)"
+                    },
+                    {
+                        "tag": "mehraks assistance",
+                        "name": "Mehrak's Assistance",
+                        "description": "The character's Normal Attacks deal +1 DMG, and the <span class=\"tooltip-physical\">Physical DMG</span> they deal is converted to <span class=\"tooltip-dendro\">Dendro DMG</span>.<br /><b class=\"tcg-bold\">After the character uses a Normal Attack</b>: Create a <span class=\"tooltip-burst scan\">Burst Scan</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "\"Empyrean Reflection\" Kaveh",
+                    "description": "Knowledge of comprehension, benevolence, and aesthetics."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "All-Devouring Narwhal",
+                "element": "Hydro",
+                "weapon": "Other Weapons",
+                "factions": ["Monster"],
+                "hp": 5,
+                "talents": {
+                    "attack": {
+                        "name": "Shattering Waves",
+                        "cost": "1H 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Starfall Shower",
+                        "cost": "3H",
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. This character deals +1 DMG for every 3 extra max HP provided by <b class=\"tcg-bold\">Insatiable Appetite</b> (Max +5.) After this, <span class=\"tooltip-discard\">Discard</span> 1 card with the highest original Elemental Dice Cost in your Hand."
+                    },
+                    "burst": {
+                        "name": "Ravaging Devourer",
+                        "cost": "3H 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <span class=\"tooltip-hydro\">Hydro DMG</span>, deals 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to all opposing characters on standby. Summons 1 <span class=\"tooltip-dark shadow\">Dark Shadow</span>."
+                    },
+                    "passive": {
+                        "name": "Insatiable Appetite",
+                        "description": "(Passive) When battle begins, create 1 <span class=\"tooltip-deep devourers domain\">Deep Devourer's Domain</span>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "deep devourers domain",
+                        "name": "Deep Devourer's Domain",
+                        "description": "Cards you have <span class=\"tooltip-discard\">Discarded</span> or used for <span class=\"tooltip-tune\">Tune</span> will be consumed.<br />For every 3 cards consumed, the All-Devouring Narwhal gains 1 extra Max HP. If there are at least 2 Cards amongst these that have the same original Elemental Dice Cost, gain another 1 extra Max HP. If all 3 Cards have the same original Elemental Dice Cost, gain yet another 1 extra Max HP."
+                    },
+                    {
+                        "tag": "dark shadow",
+                        "name": "Dark Shadow",
+                        "description": "<b class=\"tcg-bold\">When played</b>: Gain \"Attack Power\" equal to the Elemental Dice Cost of the devoured card with the highest Cost, and gain <span class=\"tooltip-usages\">Usage(s)</span> based on the number of devoured Cards with said Cost.<br /><b class=\"tcg-bold\">End Phase and when you declare the end of your Round</b>: Deals <span class=\"tooltip-electro\">Electro DMG</span> equal to \"Attack Power\".<br /><b class=\"tcg-bold\">When your active character takes DMG</b>: Reduce DMG taken by 1, then this card's <b class=\"tcg-bold\">Usage(s)</b> -2."
+                    }
+                ],
+                "splash": {
+                    "title": "Cryptic Creature: All-Devouring Narwhal",
+                    "description": "In the most fantastical of fables, or perhaps in the most rabid of ravings, the true stars in the depths of cosmos are just as full of life as on Teyvat, while the universe itself is akin to an ocean.<br />Perhaps the universe's infiltration of Teyvat has never ceased, and perhaps the drawing of borders around this world was the work of a higher will, meant to protect it."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Consecrated Scorpion",
+                "element": "Electro",
+                "weapon": "Other Weapons",
+                "factions": ["Monster", "Consecrated Beast"],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Scorpion Strike",
+                        "cost": "1E 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Stinging Spine",
+                        "cost": "3E",
+                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>.<br />Create 1 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> card and randomly place it within the top 2 cards of your deck."
+                    },
+                    "burst": {
+                        "name": "Thunderbore Blast",
+                        "cost": "3E 2N",
+                        "energy": 2,
+                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>. <span class=\"tooltip-discard\">Discard</span> up to 3 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> cards from your Hand, and create 1 <span class=\"tooltip-thunderbore trap\">Thunderbore Trap</span> on the opposing side of the field."
+                    },
+                    "passive": {
+                        "name": "Immortal Remnants: Electro",
+                        "description": "(Passive) When the Round ends, create 2 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> cards and randomly place them within the top 10 cards of your deck."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "bonecrunchers energy block",
+                        "name": "Bonecruncher's Energy Block",
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                    },
+                    {
+                        "tag": "thunderbore trap",
+                        "name": "Thunderbore Trap",
+                        "description": "<b class=\"tcg-bold\">After a character on this side of the field uses a Skill</b>: Deals 2 <span class=\"tooltip-electro\">Electro DMG</span> to their team's active character.<br /><span class=\"tooltip-usages\">Usage(s)</span>: Initial amount equal to the number of <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> discarded when created. (Max 3 stacks)"
+                    }
+                ],
+                "splash": {
+                    "title": "Remnant Venom: Consecrated Scorpion",
+                    "description": "A poisonous scorpion that became twisted and warped by eating some great being. It now commands perilous lightning."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Consecrated Flying Serpent",
+                "element": "Anemo",
+                "weapon": "Other Weapons",
+                "factions": ["Monster", "Consecrated Beast"],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Whirling Tail",
+                        "cost": "1A 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Swirling Squall",
+                        "cost": "3A",
+                        "description": "Deal 2 <span class=\"tooltip-anemo\">Anemo DMG</span> and draw 1 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> card. Draw 1 card for each <b class=\"tcg-bold\">Bonecruncher's Energy Block</b> card in your Hand (Up to 2 cards per Round)."
+                    },
+                    "burst": {
+                        "name": "Scattershot Vortex",
+                        "cost": "3A 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <span class=\"tooltip-anemo\">Anemo DMG</span>. <span class=\"tooltip-discard\">Discard</span> all <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> cards in your Hand. Double the DMG dealt once for every 2 cards you <b class=\"tcg-bold\">Discard</b>."
+                    },
+                    "passive": {
+                        "name": "Immortal Remnants: Anemo",
+                        "description": "(Passive) When battle begins, create 6 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> and place them evenly into your deck."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "bonecrunchers energy block",
+                        "name": "Bonecruncher's Energy Block",
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                    }
+                ],
+                "splash": {
+                    "title": "Remnant Squall: Consecrated Flying Serpent",
+                    "description": "A flying serpent that became twisted and warped by eating some great being. Now, it commands the fearsome winds."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Guardian of Apep's Oasis",
+                "element": "Dendro",
+                "weapon": "Other Weapons",
+                "factions": ["Monster"],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Strike of the Dispossessed",
+                        "cost": "1D 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Life Stream",
+                        "cost": "3D",
+                        "description": "Deals 2 <span class=\"tooltip-dendro\">Dendro DMG</span>, draw 1 <span class=\"tooltip-awaken my kindred\">Awaken, My Kindred</span> card and create 1 stack of <span class=\"tooltip-oasis nourishment\">Oasis Nourishment</span>."
+                    },
+                    "burst": {
+                        "name": "The End Falls",
+                        "cost": "3D 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <span class=\"tooltip-dendro\">Dendro DMG</span>, draw 1 <span class=\"tooltip-awaken my kindred\">Awaken, My Kindred</span> card and create 2 stacks of <span class=\"tooltip-oasis nourishment\">Oasis Nourishment</span>."
+                    },
+                    "passive": {
+                        "name": "Invokation of Propagation",
+                        "description": "(Passive) When battle begins, create 6 <span class=\"tooltip-awaken my kindred\">Awaken, My Kindred</span> and place them randomly into your deck. After you summon 4 <span class=\"tooltip-proliferated organism\">Proliferated Organism</span>, this character gains <span class=\"tooltip-reignited heart of oasis\">Reignited Heart of Oasis</span> and obtains <b class=\"tcg-bold\">2</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">points</b>."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "awaken my kindred",
+                        "name": "Awaken, My Kindred",
+                        "description": "<b class=\"tcg-bold\">When you play this card or Discard this card</b>: Summon 1 independent <span class=\"tooltip-proliferated organism\">Proliferated Organism</span>."
+                    },
+                    {
+                        "tag": "oasis nourishment",
+                        "name": "Oasis Nourishment",
+                        "description": "<b class=\"tcg-bold\">When you play Awaken, My Kindred</b>: Spend 1 less Elemental Die.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Up to 3 stacks)"
+                    },
+                    {
+                        "tag": "proliferated organism",
+                        "name": "Proliferated Organism",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-dendro\">Dendro DMG</span><br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    },
+                    {
+                        "tag": "reignited heart of oasis",
+                        "name": "Reignited Heart of Oasis",
+                        "description": "The character to which this is attached deals +3 DMG.<br /><b class=\"tcg-bold\">After the character to which this is attached uses a Skill</b>: Remove the <span class=\"tooltip-oasis nourishment\">Oasis Nourishment</span> on your side. Each stack removed heals the attached character for 1 HP."
+                    }
+                ],
+                "splash": {
+                    "title": "Wisdom's End: Guardian of Apep's Oasis",
+                    "description": "Apep found itself swallowed alone amidst the scenery of the catastrophe. All the people, gods, dragons, beasts, birds, and fish. All memories, wisdom, words, and hatred were ground into colorless dust, and the last of the moonlight burned away into a rain of pale fire, falling on the barren land.<br />...<br />Apep once deemed the bottom of the sea of sand to be its grave, not the palace of a dispossessed king. The poison of \"wisdom\" would soon free Apep from the hatred and anger festering within it over countless moons. Apep had grown weary of the colorless apocalypse. Then, finally, the young god and the golden Traveler let it recall once again, even though the verdant land it once ruled had been reduced to this gilded wasteland, even though Apep and its many offspring had grown twisted and wretched to secure their continued survival therein, Apep still treasured the sight and scenes of the oasis sparkling in its heart."
+                },
+                "release": {
+                    "version": "4.7"
+                }
             }
         ]
     },
@@ -4217,7 +4656,7 @@
                 "combatAction": true,
                 "character": "Diluc",
                 "cost": "3P",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Diluc</b>, equip this card.<br />After Diluc equips this card, immediately use <span class=\"tooltipHighlight-searing onslaught\">Searing Onslaught</span> once.<br />When your Diluc, who has this card equipped, uses <b class=\"tcg-bold\">Searing Onslaught</b> for the second time in one Round, spend 1 less <b class=\"text-pyro\">Pyro Die</b>. (Once per Round)<br />(You must have Diluc in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Diluc</b>, equip this card.<br />After Diluc equips this card, immediately use <span class=\"tooltipHighlight-searing onslaught\">Searing Onslaught</span> once.<br />When your Diluc, who has this card equipped, uses <b class=\"tcg-bold\">Searing Onslaught</b> for the second and third time in each Round, spend 1 less <b class=\"text-pyro\">Pyro</b> Die. (Once per Round)<br />(You must have Diluc in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "searing onslaught",
@@ -4555,8 +4994,8 @@
                 "subType": "Talent",
                 "combatAction": true,
                 "character": "Yoimiya",
-                "cost": "2P",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Yoimiya</b>, equip this card.<br />After Yoimiya equips this card, immediately use <span class=\"tooltipHighlight-niwabi fire dance\">Niwabi Fire-Dance</span> once.<br />The <span class=\"tooltip-niwabi enshou\">Niwabi Enshou</span> generated by your Yoimiya, who has the card equipped, gains +1 initial <span class=\"tooltip-usages\">Usage(s)</span>.<br />(You must have Yoimiya in your deck to add this card to your deck.)",
+                "cost": "1P",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Yoimiya</b>, equip this card.<br />After Yoimiya equips this card, immediately use <span class=\"tooltipHighlight-niwabi fire dance\">Niwabi Fire-Dance</span> once.<br />After the <span class=\"tooltip-niwabi enshou\">Niwabi Enshou</span> created by your Yoimiya, who has the card equipped, triggers: Deal 1 additional <span class=\"tooltip-pyro\">Pyro DMG</span>.<br />(You must have Yoimiya in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "niwabi fire dance",
@@ -4567,7 +5006,7 @@
                     {
                         "tag": "niwabi enshou",
                         "name": "Niwabi Enshou",
-                        "description": "The character to which this attached has their <b class=\"tcg-bold\">Normal Attacks</b> deal +1 DMG, and their <span class=\"tooltip-physical\">Physical DMG</span> dealt converted to <span class=\"tooltip-pyro\">Pyro DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                        "description": "The character to which this attached has their <b class=\"tcg-bold\">Normal Attacks</b> deal +1 DMG, and their <span class=\"tooltip-physical\">Physical DMG</span> dealt converted to <span class=\"tooltip-pyro\">Pyro DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>"
                     }
                 ],
                 "splash": {
@@ -6288,7 +6727,7 @@
                 "combatAction": true,
                 "character": "Ayato",
                 "cost": "3H",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Ayato</b>, equip this card.<br />After Ayato equips this card, immediately use <span class=\"tooltipHighlight-kyouka\">Kamisato Art: Kyouka</span> once.<br />When your Ayato, who has this card equipped, triggers the effects of <span class=\"tooltip-takimeguri kanka\">Takimeguri Kanka</span>, deal +1 additional DMG if the target's remaining HP is equal to or less than 6.<br />(You must have Ayato in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Ayato</b>, equip this card.<br />After Ayato equips this card, immediately use <span class=\"tooltipHighlight-kyouka\">Kamisato Art: Kyouka</span> once.<br />When your Ayato, who has this card equipped, triggers the effects of <span class=\"tooltip-takimeguri kanka\">Takimeguri Kanka</span>, deal +2 additional DMG if the target's remaining HP is equal to or less than 6.<br />(You must have Ayato in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "kyouka",
@@ -7569,7 +8008,7 @@
                 "subType": "Talent",
                 "combatAction": true,
                 "character": "Qiqi",
-                "cost": "5C 3N",
+                "cost": "4C 3N",
                 "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Qiqi</b>, equip this card.<br />After Qiqi equips this card, immediately use <span class=\"tooltipHighlight-adeptus art preserver of fortune\">Adeptus Art: Preserver of Fortune</span> once.<br />After your Qiqi, who has this card equipped, uses <b class=\"tcg-bold\">Adeptus Art: Preserver of Fortune</b>, she revives all your fallen characters and heals them for 2 HP. (Can happen 2 times per match).<br />(You must have Qiqi in your deck to add this card to your deck.)",
                 "keywords": [
                     {
@@ -7980,7 +8419,7 @@
                 "type": "Event",
                 "subType": "Arcane Legend",
                 "cost": "L",
-                "description": "Draw a number of cards equal to the current Round number minus 1. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+                "description": "<b class=\"tcg-bold\">When this card is played in the first Round</b>: If your deck initially contains at least 2 different Talent cards, draw 1 Talent Card.<br /><b class=\"tcg-bold\">When this card is played in the second Round or later</b>: Draw a number of cards equal to the current Round number minus 1. (Up to 4 cards can be drawn in this way)<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
                 "splash": {
                     "title": "In Every House a Stove",
                     "description": "\"The Stove God cared for the people, turning himself into minions who went into every home, fostering food and solidarity alike.\""
@@ -9076,7 +9515,7 @@
                 "combatAction": true,
                 "character": "Faruzan",
                 "cost": "3A 2N",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Faruzan</b>, equip this card.<br />After Faruzan equips this card, immediately use <span class=\"tooltipHighlight-the winds secret ways\">The Wind's Secret Ways</span>.<br />When the <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span> created by Faruzan who has this card equipped enters play and when the Action Phase begins: Create 1 <span class=\"tooltip-anemo\">Anemo</span> Die.<br />(You must have Faruzan in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Faruzan</b>, equip this card.<br />After Faruzan equips this card, immediately use <span class=\"tooltipHighlight-the winds secret ways\">The Wind's Secret Ways</span>.<br />When the <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span> created by Faruzan who has this card equipped enters play and when the Action Phase begins: Create 1 <b class=\"text-anemo\">Anemo</b> Die.<br />(You must have Faruzan in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "the winds secret ways",
@@ -9282,6 +9721,463 @@
                 },
                 "release": {
                     "version": "4.6"
+                }
+            },
+            {
+                "name": "Terror for the Evildoers",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Wriothesley",
+                "cost": "1C 2U",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When <b class=\"tcg-bold\">Wriothesley</b> is your active character, equip this card.<br />After Wriothesley equips this card, immediately use <span class=\"tooltipHighlight-forceful fists of frost\">Forceful Fists of Frost</span> once.<br />When Wriothesley, who has this card equipped, takes DMG or is healed, accumulate 1 <b class=\"tcg-bold\">\"Penalty\"</b> point.<br />When Wriothesley, with this card equipped, uses a Skill: If there are 3 <b class=\"tcg-bold\">\"Penalty\"</b> points, consume 3 points to cause this Skill to deal +1 DMG.<br />(You must have Wriothesley in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "forceful fists of frost",
+                        "name": "Forceful Fists of Frost",
+                        "type": "Normal Attack",
+                        "description": "Deals 1 <span class=\"tooltip-cryo\">Cryo DMG</span>."
+                    }
+                ],
+                "splash": {
+                    "title": "Wriothesley: Terror for the Evildoers",
+                    "description": "\"Stay cool and face your guilt!\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Hear Me — Let Us Raise the Chalice of Love!",
+                "displayName": "\"Hear Me — Let Us Raise the Chalice of Love!\"",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Furina",
+                "cost": "3H",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Furina</b>, equip this card.<br />After Furina equips this card, immediately use <span class=\"tooltipHighlight-salon solitaire\">Salon Solitaire</span> once.<br />When Furina, who has this card equipped, uses Salon Solitaire, she will apply <span class=\"tooltip-center of attention\">Center of Attention</span> to herself. (Normal Attack will trigger different effects depending on state)<br />(You must have Furina in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "salon solitaire",
+                        "name": "Salon Solitaire",
+                        "type": "Elemental Skill",
+                        "description": "If <b class=\"tcg-bold\">Furina</b> is in the Arkhe: Ousia state, she will summon <span class=\"tooltip-salon members\">Salon Members</span>.<br />If <b class=\"tcg-bold\">Furina</b> is in the Arkhe: Pneuma state, she will summon <span class=\"tooltip-singer of many waters\">Singer of Many Waters</span>."
+                    },
+                    {
+                        "tag": "salon members",
+                        "name": "Salon Members",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-hydro\">Hydro DMG</span>. If your side has characters with at least 6 HP, deal 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to your character who has taken the least DMG, and deal another 1 <span class=\"tooltip-hydro\">Hydro DMG</span><br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b> (Can stack. Max 4 stacks)"
+                    },
+                    {
+                        "tag": "singer of many waters",
+                        "name": "Singer of Many Waters",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Heal all your characters for 1 HP. If your side has characters with no more than 5 HP, heal the most injured character for an additional 1 HP.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b> (Can stack. Max 4 stacks)"
+                    },
+                    {
+                        "tag": "center of attention",
+                        "name": "Center of Attention",
+                        "description": "<b class=\"tcg-bold\">When the character uses a Normal Attack</b>: <span class=\"tooltip-physical\">Physical DMG</span> dealt by the character is converted to <span class=\"tooltip-hydro\">Hydro DMG</span>. If the character is in the Ousia state, heal all of your characters on standby for 1 HP. If the character is in the Pneuma state, deal +2 DMG for this instance, but deal 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to your character who has taken the least DMG.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Furina: Hear Me — Let Us Raise the Chalice of Love!",
+                    "description": "\"Let the world come alive, hehe!\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Rockin' in a Flaming World",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Xinyan",
+                "cost": "1P 2U",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Xinyan</b>, equip this card.<br />After Xinyan equips this card, immediately use <span class=\"tooltipHighlight-dance on fire\">Dance on Fire</span>.<br />When Xinyan, who has this card equipped, uses a Skill: If you have no more than 1 card in your Hand, deal +2 DMG. (Once per Round)<br />(You must have Xinyan in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "dance on fire",
+                        "name": "Dance on Fire",
+                        "type": "Normal Attack",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    }
+                ],
+                "splash": {
+                    "title": "Xinyan: Rockin' in a Flaming World",
+                    "description": "\"Amp it up!\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Decorous Harmony",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Yun Jin",
+                "cost": "3G 2N",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Yun Jin</b>, equip this card.<br />After Yun Jin equips this card, immediately use <span class=\"tooltipHighlight-cliffbreakers banner\">Cliffbreaker's Banner</span>.<br />When Yun Jin, who has this card equipped, is on the field, and if you have no cards in your Hand, Flying Cloud Flag Formation will cause your Normal Attack to deal +2 additional DMG.<br />(You must have Yun Jin in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "cliffbreakers banner",
+                        "name": "Cliffbreaker's Banner",
+                        "type": "Elemental Burst",
+                        "description": "Deals 2 <span class=\"tooltip-geo\">Geo DMG</span>, creates 3 stacks of <span class=\"tooltip-flying cloud flag formation\">Flying Cloud Flag Formation</span>."
+                    },
+                    {
+                        "tag": "flying cloud flag formation",
+                        "name": "Flying Cloud Flag Formation",
+                        "description": "<b class=\"tcg-bold\">When your character uses a Normal Attack</b>: Deal +1 DMG.<br />If you have no more than 1 card in your Hand, this Skill costs 1 less Elemental Die.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 4 stacks)"
+                    }
+                ],
+                "splash": {
+                    "title": "Yun Jin: Decorous Harmony",
+                    "description": "\"Strike as one!\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "The Art of Budgeting",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Kaveh",
+                "cost": "3D",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Kaveh</b>, equip this card.<br />After Kaveh equips this card, immediately use <span class=\"tooltipHighlight-artistic ingenuity\">Artistic Ingenuity</span> once.<br />When Kaveh, who has this card equipped, is on the field, and after you trigger <span class=\"tooltip-burst scan\">Burst Scan</span>'s effects: Add 1 copy of the <span class=\"tooltip-discard\">Discarded</span> card into your Hand. If this card is a Location Card, then the next Location Card you play this Round will cost 2 less Elemental Dice. (Once per Round)<br />(You must have Kaveh in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "artistic ingenuity",
+                        "name": "Artistic Ingenuity",
+                        "type": "Elemental Skill",
+                        "description": "Deals 2 <span class=\"tooltip-dendro\">Dendro DMG</span>, creates 1 <span class=\"tooltip-burst scan\">Burst Scan</span>."
+                    },
+                    {
+                        "tag": "burst scan",
+                        "name": "Burst Scan",
+                        "description": "<b class=\"tcg-bold\">Before either side chooses their action</b>: If your side has Dendro Core or Bountiful Core, -1 to their <b class=\"tcg-bold\">Usage(s)</b>, and <span class=\"tooltip-discard\">Discard</span> the card at the top of your deck. After this, deal <span class=\"tooltip-dendro\">Dendro DMG</span> equal to the original Elemental Dice Cost of the card you Discard +1.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 3 stacks)"
+                    }
+                ],
+                "splash": {
+                    "title": "Kaveh: The Art of Budgeting",
+                    "description": "\"Feast your eyes!\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Lightless Feeding",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "All-Devouring Narwhal",
+                "cost": "4H",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">All-Devouring Narwhal</b>, equip this card.<br />After All-Devouring Narwhal equips this card, immediately use <span class=\"tooltipHighlight-starfall shower\">Starfall Shower</span> once.<br />After your All-Devouring Narwhal, who has this card equipped, uses <b class=\"tcg-bold\">Starfall Shower</b> to Discard 1 card: Heal this character for that card's Elemental Dice Cost (Once per Round)<br />(You must have All-Devouring Narwhal in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "starfall shower",
+                        "name": "Starfall Shower",
+                        "type": "Elemental Skill",
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. This character deals +1 DMG for every 3 extra max HP provided by <span class=\"tooltip-insatiable appetite\">Insatiable Appetite</span> (Max +5.) After this, <span class=\"tooltip-discard\">Discard</span> 1 card with the highest original Elemental Dice Cost in your Hand."
+                    },
+                    {
+                        "tag": "insatiable appetite",
+                        "name": "Insatiable Appetite",
+                        "type": "Passive",
+                        "description": "(Passive) When battle begins, create 1 <span class=\"tooltip-deep devourers domain\">Deep Devourer's Domain</span>."
+                    },
+                    {
+                        "tag": "deep devourers domain",
+                        "name": "Deep Devourer's Domain",
+                        "description": "Cards you have <span class=\"tooltip-discard\">Discarded</span> or used for <span class=\"tooltip-tune\">Tune</span> will be consumed.<br />For every 3 cards consumed, the All-Devouring Narwhal gains 1 extra Max HP. If there are at least 2 Cards amongst these that have the same original Elemental Dice Cost, gain another 1 extra Max HP. If all 3 Cards have the same original Elemental Dice Cost, gain yet another 1 extra Max HP."
+                    }
+                ],
+                "splash": {
+                    "title": "All-Devouring Narwhal: Lightless Feeding",
+                    "description": "Phosphorescent creatures float all about the dark, moonless seas of dreams — perhaps they are as food for some titanic leviathan."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Fatal Fulmination",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Consecrated Scorpion",
+                "cost": "1E",
+                "description": "<b class=\"tcg-bold\">When played</b>: Create 1 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> and place it into your Hand.<br />When your <b class=\"tcg-bold\">Consecrated Scorpion</b>, who has this card equipped, is on the field and after you play <b class=\"tcg-bold\">Bonecruncher's Energy Block</b>: Draw 1 card, then create 1 <b class=\"tcg-bold\">Bonecruncher's Energy Block</b> and randomly place it into your deck.<br />(You must have Consecrated Scorpion in your deck to add this card to your deck)",
+                "keywords": [
+                    {
+                        "tag": "bonecrunchers energy block",
+                        "name": "Bonecruncher's Energy Block",
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                    }
+                ],
+                "splash": {
+                    "title": "Consecrated Scorpion: Fatal Fulmination",
+                    "description": "Lifeforms are governed by the laws of evolution, Consecrated Beasts exploited these rules by being fortunate enough to discover a long-dead carcass of a greater being before any of their competition ever did."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Deathly Cyclone",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Consecrated Flying Serpent",
+                "cost": "1A",
+                "description": "<b class=\"tcg-bold\">When played</b>: Create 1 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> and place it into your Hand.<br />When your <b class=\"tcg-bold\">Consecrated Flying Serpent</b>, who has this card equipped, is on the field and after you play <b class=\"tcg-bold\">Bonecruncher's Energy Block</b>: The next time you switch characters this Round, create 1 Elemental Die of your active character's Elemental Type.<br />(You must have Consecrated Flying Serpent in your deck to add this card to your deck)",
+                "keywords": [
+                    {
+                        "tag": "bonecrunchers energy block",
+                        "name": "Bonecruncher's Energy Block",
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                    }
+                ],
+                "splash": {
+                    "title": "Consecrated Flying Serpent: Deathly Cyclone",
+                    "description": "Though now imbued with the power of elemental manipulation, the Consecrated Beasts themselves still cannot fully digest the pieces of flesh they devoured from immortal carcasses. Instead, the pieces slowly fused with the beasts themselves, changing them..."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "A Thousand Young",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Guardian of Apep's Oasis",
+                "cost": "2D",
+                "description": "<b class=\"tcg-bold\">When played</b>: Create 4 <span class=\"tooltip-awaken my kindred\">Awaken, My Kindred</span> cards and randomly place them in your deck.<br />When your Guardian of Apep's Oasis, who has this card equipped, is on the field: Your <span class=\"tooltip-proliferated organism\">Proliferated Organism</span> deals +1 DMG.<br />(You must have Guardian of Apep's Oasis in your deck to add this card to your deck)",
+                "keywords": [
+                    {
+                        "tag": "awaken my kindred",
+                        "name": "Awaken, My Kindred",
+                        "description": "<b class=\"tcg-bold\">When you play this card or Discard this card</b>: Summon 1 independent <span class=\"tooltip-proliferated organism\">Proliferated Organism</span>."
+                    },
+                    {
+                        "tag": "proliferated organism",
+                        "name": "Proliferated Organism",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-dendro\">Dendro DMG</span><br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Guardian of Apep's Oasis: A Thousand Young",
+                    "description": "Apep once walked through an ocean of fragrant grass, gigantic trees, and unimaginably long vines like a fish with its many offspring swimming through the sea. Finally, the grass, trees, and vines withered and turned to dust, while countless beings as minute as grains of gravel built a fragile kingdom upon Apep's land.<br />Apep and its offspring made the sea of sand rage like boiling water and swept houses down as if they were falling leaves. Until the day when the new Lord of Sand reconciled with the king who lost their homeland, the dunes under the sun belonged to humanity, while the dragon's oasis remained in the hearts of the dragons.<br />Apep shared the knowledge of evolution with its many offspring, because spreading knowledge ensures dissemination while the stagnation of hoarded wisdom courted only decay. Till the day the promise between it and the Lord of Sand was finally attained, with ultimate wisdom claimed. Henceforth, it reaped only sights of oblivion, of an endless calamity..."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Cashflow Supervision",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">After this character takes DMG or is healed</b>: This character's next <b class=\"tcg-bold\">Normal Attack</b> costs 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span> and deals +1 DMG. (Max 2 times per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Golden Blood-Tide: Cashflow Supervision",
+                    "description": "\"The overseer made of precision machinery rumbles as it observes the monetary flow of the tiny nation,<br />Tirelessly recording the movement of every amount of money, the savings and spending of all,<br />The changes in value, and the number of times each piece of currency is circulated over a specific period.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "End of the Line",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">After you play an Action Card and no cards of the same name were in your initial deck</b>: This card gains 1 <b class=\"tcg-bold\">Catch</b> point. (Max 2 stacks, up to 2 stacks gained per Round)<br /><b class=\"tcg-bold\">When a character uses a Skill</b>: If there are <b class=\"tcg-bold\">Catch</b> points already, consume all points for this Skill to deal +1 DMG, then draw 1 card for each point consumed.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Net Snapper: End of the Line",
+                    "description": "\"...The fish that once shot forth like an arrow across a huge lake on the plateau,<br />That would stretch out as straight as a spear, cruising back and forth between the sacred sites,<br />Would see its stream seep into the sand, its lake shrink into a puddle,<br />Till at last, it wound up curled in a little plash, at the mercy of passing pilgrims.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Forest Regalia",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "3U",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type.<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Forest Sanctuary: Forest Regalia",
+                    "description": "\"...Then the current changed and the moon's reflection was scattered. Much has changed, and yet, much will now remain unchanged forevermore.<br />But even if you, like me, have never met a king, you would still get the impression that Tiger was a noble and powerful king of the forest.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Splendor of Tranquil Waters",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">After your characters take DMG or are healed</b>: This card gains 1 <b class=\"tcg-bold\">Lakelight</b> point.<br /><b class=\"tcg-bold\">When this character uses a Normal Attack</b>: If you have already accumulated 12 <b class=\"tcg-bold\">Lakelight</b> points, consume 12 points, and this Skill costs 2 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>, deals +1 DMG, and heals the equipping character for 1 HP (once per Round).<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Dawn and Dusk by the Lake: Splendor of Tranquil Waters",
+                    "description": "\"...On a morning clear as the light reflected on the lake, the Mistress of Many Waters was moved by that pained plea.<br />And so the kindly goddess granted her wish and gave her blessing to the journey ahead.<br />For the Mistress of Many Waters knew that a fair judgment was the greatest leniency one could give a selfless soul.<br />And perhaps that is why that noble verdict dyed fate in its colors.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Marechaussee Hunter",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "3U",
+                "description": "<b class=\"tcg-bold\">After the character takes DMG or is healed</b>: Based on the number of times this effect has been triggered this Round, the effects will be different.<br /><b class=\"tcg-bold\">First Trigger</b>: Create 1 Elemental Die of this character's Elemental Type.<br /><b class=\"tcg-bold\">Second Trigger</b>: Draw 1 card.<br /><b class=\"tcg-bold\">Fourth Trigger</b>: Create 1 Elemental Die of this character's Elemental Type.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Glorious Hunter: Marechaussee Hunter",
+                    "description": "\"'Pursue the phantoms in the dark, expel them all, and hunt them down.'<br />Such is the origin of the name 'Marechaussee Hunter,'<br />Credited to one Cassiodor, who would be elevated to the revered title of 'Golden Hunter,'<br />But who saw the name as a humiliation.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Golden Troupe",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">End Phase</b>: If the character to which this is attached is on standby, this card gains 2 <b class=\"tcg-bold\">\"Recompense\"</b> point. (Max 4 points)<br /><b class=\"tcg-bold\">When you play a Talent card or a Character uses an Elemental Skill</b>: For each <b class=\"tcg-bold\">\"Recompense\"</b> point this card has, consume it to spend 1 less Elemental Die.<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Surpassing the Ancient Dream: Golden Troupe",
+                    "description": "\"Abide until that day... Abide until that day...<br />When every member of the Golden Troupe shall win the whole future as their prize.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Flower of Paradise Lost",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">After an opponent takes DMG when the character to which this is attached is the active character</b>: If this DMG is <span class=\"tooltip-dendro\">Dendro DMG</span> or triggers <span class=\"tooltip-dendro reaction\">Dendro-Related Reactions</span>, Gain 2 <b class=\"tcg-bold\">Crowning Crystals</b>. If your <b class=\"tcg-bold\">Crowning Crystal</b> count is equal to or higher than the number of cards in your Hand, create 1 <span class=\"tooltip-omni element\">Omni Element</span>.<br />(Max 2 per Round)<br />(A character can equip a maximum of 1 Artifact)",
+                "splash": {
+                    "title": "Withered Dreamscape: Flower of Paradise Lost",
+                    "description": "\"But 'eternity' is ultimately a lie. Intoxication and love could only grind memories down to broken dreams.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "The Mausoleum of King Deshret",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b class=\"tcg-bold\">After your opponent draws 4 cards cumulatively</b>: Discard this card and create 2 <span class=\"tooltip-forbidden knowledge\">Forbidden Knowledge</span> at the top of your opponent's deck. After that, until this Round ends, for every 1 card your opponent draws, 1 <b class=\"tcg-bold\">Forbidden Knowledge</b> will be created immediately and randomly placed within their deck.",
+                "keywords": [
+                    {
+                        "tag": "forbidden knowledge",
+                        "name": "Forbidden Knowledge",
+                        "cost": "0M",
+                        "description": "Cannot use this card in Elemental Tuning, and only one copy of \"Forbidden Knowledge\" can be played each round.<br />Deal 1 Piercing DMG to your active character and draw 1 card."
+                    }
+                ],
+                "splash": {
+                    "title": "The Mausoleum of King Deshret",
+                    "description": "\"The huge cone is like a supporting pillar between the high sky and the yellow sands that has stood in the middle of the desert since time immemorial. Standing in front of it, be you a commoner, a wealthy man, or a well-informed researcher, you shall feel that you are but a few grains of sand all the same.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Central Laboratory Ruins",
+                "type": "Support",
+                "subType": "Location",
+                "cost": "1M",
+                "description": "<b class=\"tcg-bold\">After you Discard or use 1 card for Tune</b>: This card gains 1 <b class=\"tcg-bold\">Experimental Progress</b> point. When you reach 3, 6, and 9 points, you will gain 1 Omni Die. After that, if <b class=\"tcg-bold\">Experimental Progress</b> is at least 9, discard this card.",
+                "splash": {
+                    "title": "Fontaine Research Institute: Central Laboratory Ruins",
+                    "description": "...When excess intelligence and passion came together, research brought about results in a manner that surpassed everyone's expectations. Now, however, there remains no one to applaud that achievement.<br />When an ideal is destroyed, its most important responsibility is to hold its peace..."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Sir Arthur",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "",
+                "description": "<b class=\"tcg-bold\">After you Discard or use 1 card for Tune</b>: This card gains 1 <b class=\"tcg-bold\">News Lead</b> point. (Max 2 points)<br /><b class=\"tcg-bold\">End Phase</b>: If this card already has 2 <b class=\"tcg-bold\">News Lead</b> points, deduct 2 points, then copy 1 card at the top of your opponent's deck and add it to your Hand.",
+                "splash": {
+                    "title": "Sir Arthur",
+                    "description": "\"Hello! Hello!\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Kusava",
+                "type": "Support",
+                "subType": "Item",
+                "cost": "",
+                "description": "<b class=\"tcg-bold\">When Action Phase begins</b>: <span class=\"tooltip-discard\">Discard</span> a maximum of 2 cards with the highest Elemental Dice Cost in your Hand. For each card you <b class=\"tcg-bold\">Discard</b>, this card accumulates 1 <b class=\"tcg-bold\">Memories and Dreams</b> point (maximum of 2).<br /><b class=\"tcg-bold\">When your character uses a Skill</b>: If you haven't played an Action Card this round, consume 1 <b class=\"tcg-bold\">Memories and Dreams</b> point, and this Skill costs 1 less Elemental Die.",
+                "splash": {
+                    "title": "Kusava",
+                    "description": "Kusava, Kusava~♪<br />Memories and dreams are full of power.<br />It is the fruit of flowering plants, and also the seed of new life.<br />They are the temporary dwelling place of Aranara memories, and they give Aranara strength."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Vicious Ancient Battle",
+                "type": "Event",
+                "subType": "Arcane Legend",
+                "cost": "L",
+                "description": "The opposing active character loses 1 <span class=\"tooltip-energy\">Energy</span>.<br />(Only one \"Arcane Legend\" card can be played for the entire game. This card will be in your starting hand.)",
+                "splash": {
+                    "title": "Vicious Ancient Battle",
+                    "description": "The god whom the people of Watatsumi Island once trusted fought a bitter battle against the ruler of Narukami...\nMusoujin Gorge, that yawning chasm in Yashiori Island, is the lasting scar of that conflict..."
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Water and Justice",
+                "type": "Event",
+                "subType": "",
+                "cost": "2U",
+                "description": "Distributes the HP of all your undefeated characters equally, and then heals all of them for 1 HP.<br />(You must have at least 2 Fontaine characters in your deck to add this card to your deck.)",
+                "splash": {
+                    "title": "Dance of Justice",
+                    "description": "\"'Existence' was Egeria's justice... and to me, justice is the 'continuation' of that existence.\""
+                },
+                "release": {
+                    "version": "4.7"
+                }
+            },
+            {
+                "name": "Countdown to the Show 3",
+                "displayName": "Countdown to the Show: 3",
+                "type": "Event",
+                "subType": "",
+                "cost": "3M",
+                "description": "Convert all your Elemental Dice to <span class=\"tooltip-omni element\">Omni Element</span> and draw 4 cards.<br /><b class=\"tcg-bold\">After you Discard this card from your Hand or deck</b>: Place 1 \"Countdown to the Show\" card that costs 1 less Elemental Die than this one on the top of your deck.",
+                "splash": {
+                    "title": "Countdown to the Show",
+                    "description": "\"Would you like to see a magic trick? Now then, count down with me — three... two... one!\""
+                },
+                "release": {
+                    "version": "4.7"
                 }
             }
         ]

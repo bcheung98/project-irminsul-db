@@ -8476,5 +8476,319 @@
             "date": "April 24, 2024",
             "version": "4.6" 
         }
+    },
+    {
+        "id": 80,
+        "name": "Clorinde",
+        "title": "Candlebearer, Shadowhunter",
+        "rarity": 5,
+        "element": "Electro",
+        "arkhe": "Ousia",
+        "weapon": "Sword",
+        "talents": {
+            "attack": {
+                "name": "Oath of Hunting Shadows",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 5 rapid strikes.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Consumes a certain amount of Stamina and fires Suppressing Shots in a fan pattern with her pistolet.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+                "scaling": [
+                    ["1-Hit DMG", "54.06%", "58.46%", "62.86%", "69.15%", "73.55%", "78.58%", "85.49%", "92.4%", "99.32%", "106.86%", "114.41%", "121.95%", "129.49%", "137.03%", "144.58%"], ["2-Hit DMG", "51.63%", "55.83%", "60.03%", "66.04%", "70.24%", "75.04%", "81.64%", "88.25%", "94.85%", "102.06%", "109.26%", "116.46%", "123.67%", "130.87%", "138.08%"], ["3-Hit DMG", "34.19% + 34.19%", "36.97% + 36.97%", "39.75% + 39.75%", "43.73% + 43.73%", "46.51% + 46.51%", "49.69% + 49.69%", "54.06% + 54.06%", "58.43% + 58.43%", "62.81% + 62.81%", "67.58% + 67.58%", "72.35% + 72.35%", "77.12% + 77.12%", "81.89% + 81.89%", "86.66% + 86.66%", "91.43% + 91.43%"], ["4-Hit DMG", "23.13% + 23.13% + 23.13%", "25.02% + 25.02% + 25.02%", "26.9% + 26.9% + 26.9%", "29.59% + 29.59% + 29.59%", "31.47% + 31.47% + 31.47%", "33.63% + 33.63% + 33.63%", "36.58% + 36.58% + 36.58%", "39.54% + 39.54% + 39.54%", "42.5% + 42.5% + 42.5%", "45.73% + 45.73% + 45.73%", "48.96% + 48.96% + 48.96%", "52.19% + 52.19% + 52.19%", "55.41% + 55.41% + 55.41%", "58.64% + 58.64% + 58.64%", "61.87% + 61.87% + 61.87%"], ["5-Hit DMG", "90.01%", "97.34%", "104.66%", "115.13%", "122.46%", "130.83%", "142.34%", "153.85%", "165.37%", "177.93%", "190.49%", "203.05%", "215.61%", "228.17%", "240.72%"], ["Charged Attack DMG", "128.14%", "138.57%", "149%", "163.9%", "174.33%", "186.25%", "202.64%", "219.03%", "235.42%", "253.3%", "271.18%", "289.06%", "306.94%", "324.82%", "342.7%"], ["Charged Attack Stamina Cost", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20", "20"], ["Plunge DMG", "63.93%", "69.14%", "74.34%", "81.77%", "86.98%", "92.93%", "101.1%", "109.28%", "117.46%", "126.38%", "135.3%", "144.22%", "153.14%", "162.06%", "170.98%"], ["Low/High Plunge DMG", "127.84% / 159.68%", "138.24% / 172.67%", "148.65% / 185.67%", "163.51% / 204.24%", "173.92% / 217.23%", "185.81% / 232.09%", "202.16% / 252.51%", "218.51% / 272.93%", "234.86% / 293.36%", "252.7% / 315.64%", "270.54% / 337.92%", "288.38% / 360.2%", "306.22% / 382.48%", "324.05% / 404.76%", "341.89% / 427.04%"]
+                ]
+            },
+            "skill": {
+                "name": "Hunter's Vigil",
+                "description": "Preparing her pistolet, she enters the \"Night Vigil\" state, using steel and shot together. In this state, Clorinde's Normal Attacks will be transformed into \"Swift Hunt\" pistolet attacks, and the DMG dealt is converted into <b class=\"text-electro\">Electro DMG</b> that cannot be overridden by infusions, and she will be unable to use Charged Attacks. Using her Elemental Skill will transform it into \"Impale the Night\": Perform a lunging attack, dealing <b class=\"text-electro\">Electro DMG</b>. The DMG done through the aforementioned method is considered Normal Attack DMG.<br /><br /><b class=\"text-highlight\">Swift Hunt</b><br /><li>When her Bond of Life is equal to or greater than 100% of her max HP: Performs a pistolet shot.</li><li>When her Bond of Life is less than 100%, firing her pistolet will grant her Bond of Life, with the amount gained based on her max HP. The shots she fires can pierce opponents, and DMG dealt to opponents in their path is increased.</li><br /><b class=\"text-highlight\">Impale the Night</b><br />The current percentage value of Clorinde's Bond of Life determines its effect:<li>When the Bond of Life value is 0%, perform a normal lunging strike;</li><li>When the Bond of Life value is less than 100% of her max HP, Clorinde is healed based on the Bond of Life value, and the AoE of the lunging attack and the DMG dealt is increased;</li><li>When the value of the Bond of Life is equal to or greater than 100% of her max HP, use Impale the Night: Pact. The healing multiplier is increased, and the AoE and DMG dealt by the lunge is increased even further.</li><br />In addition, when Clorinde is in the Night Vigil state, healing effects other than Impale the Night will not take effect and will instead be converted into a Bond of Life that is a percentage of the healing that would have been received.<br /><br />Clorinde will exit the \"Night Vigil\" state when she leaves the field.<br /><br /><b class=\"text-highlight\">Arke: Ousia</b><br />Periodically, when Clorinde's Swift Hunt shots strike opponents, she will summon a Surging Blade at the position hit that deals Ousia-aligned <b class=\"text-electro\">Electro DMG</b>.",
+                "scaling": [
+                    ["Swift Hunt DMG", "26.76% / 38.79%", "28.94% / 41.94%", "31.12% / 45.1%", "34.23% / 49.61%", "36.41% / 52.77%", "38.9% / 56.38%", "42.32% / 61.34%", "45.75% / 66.3%", "49.17% / 71.26%", "52.9% / 76.67%", "56.64% / 82.08%", "60.37% / 87.49%", "64.11% / 92.91%", "67.84% / 98.32%", "71.58% / 103.73%"], ["Swift Hunt Bond of Life Gain", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP", "35% Max HP"], ["Impale the Night DMG", "32.97% / 43.96% / 25.11%×3", "35.66% / 47.54% / 27.16%×3", "38.34% / 51.12% / 29.2%×3", "42.17% / 56.23% / 32.12%×3", "44.86% / 59.81% / 34.16%×3", "47.93% / 63.9% / 36.5%×3", "52.14% / 69.52% / 39.71%×3", "56.36% / 75.15% / 42.92%×3", "60.58% / 80.77% / 46.14%×3", "65.18% / 86.9% / 49.64%×3", "69.78% / 93.04% / 53.14%×3", "74.38% / 99.17% / 56.65%×3", "78.98% / 105.31% / 60.15%×3", "83.58% / 111.44% / 63.66%×3", "88.18% / 117.58% / 67.16%×3"], ["Impale the Night Healing", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life", "0% / 104% / 110% Bond of Life"], ["Bond of Life Conversion", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing", "80% Healing"], ["Surging Blade DMG", "43.2%", "46.44%", "49.68%", "54%", "57.24%", "60.48%", "64.8%", "69.12%", "73.44%", "77.76%", "82.08%", "86.4%", "91.8%", "97.2%", "102.6%"], ["Surging Blade Interval", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["Night Vigil Duration", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s", "7.5s"], ["CD", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s", "16s"]
+                ],
+                "splash": "Though the evil that lurked in the shadows of the night had been purged across thousands of years, a shadow that the light could not reach clouded human hearts.<br />Even now, the warning left by the Golden Hunter is etched into her memory: Those of the Night Vigil, carrying aloft lit candles against the blackness, have greater need still to remain vigilant. Be not corrupted by the cold dark."
+            },
+            "burst": {
+                "name": "Last Lightfall",
+                "description": "Grants herself a Bond of Life based upon her own max HP before swiftly evading and striking with saber and sidearm as one, dealing <b class=\"text-electro\">AoE Electro DMG</b>   .",
+                "scaling": [
+                    ["Skill DMG", "126.88%×5", "136.4%×5", "145.91%×5", "158.6%×5", "168.12%×5", "177.63%×5", "190.32%×5", "203.01%×5", "215.7%×5", "228.38%×5", "241.07%×5", "253.76%×5", "269.62%×5", "285.48%×5", "301.34%×5"], ["Bond of Life Gain", "66% Max HP", "72% Max HP", "78% Max HP", "84% Max HP", "90% Max HP", "96% Max HP", "102% Max HP", "108% Max HP", "114% Max HP", "120% Max HP", "126% Max HP", "132% Max HP", "138% Max HP", "144% Max HP", "150% Max HP"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "It is said the legacy of the ancient art of resisting non-human beings with but a mortal body can be traced back to the Lochknights who resisted the Remurian Empire.<br />Be that as it may, so long as one can find a way to control the level of force used, it's not as if it cannot be used in duels against ordinary opponents."
+            },
+            "a1passive": {
+                "name": "Dark-Shattering Flame",
+                "description": "After a nearby party member triggers an <b class=\"text-electro\">Electro-related reaction</b> against an opponent, <b class=\"text-electro\">Electro DMG</b> dealt by Clorinde's Normal Attacks and <b class=\"text-highlight\">Last Lightfall</b> will be increased by 20% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. The Maximum DMG increase achievable this way for the above attacks is 1,800."
+            },
+            "a4passive": {
+                "name": "Lawful Remuneration",
+                "description": "If Clorinde's Bond of Life is equal to or greater than 100% of her Max HP, her CRIT Rate will increase by 10% for 15s whenever her Bond of Life value increases or decreases. Max 2 stacks. Each stack is counted independently.<br />Additionally, <b class=\"text-highlight\">Hunter's Vigil</b>'s Night Vigil state is buffed: While it is active, the percent of healing converted to Bond of Life increases to 100%."
+            },
+            "utilpassive": {
+                "name": "Night Vigil's Harvest",
+                "description": "Displays the location of nearby <b class=\"text-highlight\">resources unique to Fontaine</b> on the mini-map."
+            }
+        },
+        "constellation": {
+            "name": "Rapperia",
+            "c1": {
+                "name": "\"From This Day, I Pass the Candle's Shadow-Veil\"",
+                "description": "While <b class=\"text-highlight\">Hunter's Vigil</b>'s Night Vigil state is active, when <b class=\"text-electro\">Electro DMG</b> from Clorinde's Normal Attacks hit opponents, they will trigger 2 coordinated attacks from a Nightvigil Shade summoned near the hit opponent, each dealing 30% of Clorinde's ATK as <b class=\"text-electro\">Electro DMG</b>.<br />This effect can occur once every 1.2s. DMG dealt this way is considered Normal Attack DMG."
+            },
+            "c2": {
+                "name": "\"Now, As We Face the Perils of the Long Night\"",
+                "description": "Enhance the Passive Talent \"Dark-Shattering Flame\": After a nearby party member triggers an <b class=\"text-electro\">Electro-related reaction</b> against an opponent, <b class=\"text-electro\">Electro DMG</b> dealt by Clorinde's Normal Attacks and <b class=\"text-highlight\">Last Lightfall</b> will be increased by 30% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde's interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700.<br />You must first unlock the Passive Talent \"Dark-Shattering Flame.\""
+            },
+            "c3": {
+                "name": "\"I Pledge to Remember the Oath of Daylight\"",
+                "description": "Increases the Level of <b class=\"text-highlight\">Hunter's Vigil</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "\"To Enshrine Tears, Life, and Love\"",
+                "description": "When <b class=\"text-highlight\">Last Lightfall</b> deals DMG to opponent(s), DMG dealt is increased based on Clorinde's Bond of Life percentage. Every 1% of her current Bond of Life will increase <b class=\"text-highlight\">Last Lightfall</b> DMG by 2%. The maximum <b class=\"text-highlight\">Last Lightfall</b> DMG increase achievable this way is 200%."
+            },
+            "c5": {
+                "name": "\"Holding Dawn's Coming as My Votive\"",
+                "description": "Increases the Level of <b class=\"text-highlight\">Last Lightfall</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "\"And So Shall I Never Despair\"",
+                "description": "For 12s after <b class=\"text-highlight\">Hunter's Vigil</b> is used, Clorinde's CRIT Rate will be increased by 10%, and her CRIT DMG by 70%.<br />Additionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, executing an attack that deals 200% of Clorinde's ATK as <b class=\"text-electro\">Electro DMG</b>. DMG dealt this way is considered Normal Attack DMG.<br />The Glimbright Shade will appear under the following circumstances:<li>When Clorinde is about to be hit by an attack.</li><li>When Clorinde uses Impale the Night: Pact.</li>1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration.<br />In addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades."
+            }
+        },
+        "stats": {
+            "ascensionStat": "CRIT Rate",
+            "hp": [1009, 2616, 3481, 5209, 5823, 6700, 7519, 8405, 9019, 9913, 10527, 11431, 12045, 12956],
+            "atk": [26, 68, 91, 136, 152, 174, 196, 219, 235, 258, 274, 298, 314, 337],
+            "def": [61, 158, 211, 315, 352, 405, 455, 509, 546, 600, 637, 692, 729, 784]
+        },
+        "materials": {
+            "talentBook": "Justice",
+            "bossMat": "Fontemer Horn",
+            "localMat": "Lumitoile",
+            "commonMat": "Aberrant",
+            "weeklyBossMat": "Everamber"
+        },
+        "description": "An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.",
+        "birthday": "September 20",
+        "gender": "Female",
+        "nation": "Fontaine",
+        "outfits": [
+            {
+                "name": "Sword of Honor",
+                "rarity": 4,
+                "description": "Clorinde's outfit. Without the strength to enforce their authority, the dignity of the law and the order of justice start to seem fragile indeed. And Clorinde in her work uniform is the ultimate guarantor."
+            }
+        ],
+        "voiceActors": {
+            "en": "Crystal Lee",
+            "jp": "Yui Ishikawa (石川 由依)"
+        },
+        "release": {
+            "date": "June 5, 2024",
+            "version": "4.7" 
+        }
+    },
+    {
+        "id": 81,
+        "name": "Sethos",
+        "title": "Wisdom's Measure",
+        "rarity": 4,
+        "element": "Electro",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Royal Reed Archery",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 3 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, the power of Electro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:<li>Charge Level 1: Fires off an arrow carrying the power of lightning that deals <b class=\"text-electro\">Electro DMG</b>.</li><li>Charge Level 2: Fires off a <b class=\"text-highlight\">Shadowpiercing Shot</b> which can pierce enemies, dealing <b class=\"text-electro\">Electro DMG</b> to enemies along its path. After the Shadowpiercing Shot is fully charged, Sethos cannot move around.</li><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.",
+                "scaling": [
+                    ["1-Hit DMG", "52.61%", "56.9%", "61.18%", "67.3%", "71.58%", "76.47%", "83.2%", "89.93%", "96.66%", "104%", "111.35%", "118.69%", "126.03%", "133.37%", "140.71%"], ["2-Hit DMG", "23.8% + 26.61%", "25.73% + 28.77%", "27.67% + 30.94%", "30.44% + 34.03%", "32.37% + 36.2%", "34.59% + 38.68%", "37.63% + 42.08%", "40.67% + 45.48%", "43.72% + 48.89%", "47.04% + 52.6%", "50.36% + 56.31%", "53.68% + 60.02%", "57% + 63.74%", "60.32% + 67.45%", "63.64% + 71.16%"], ["3-Hit DMG", "73.99%", "80.01%", "86.03%", "94.63%", "100.66%", "107.54%", "117%", "126.47%", "135.93%", "146.25%", "156.58%", "166.9%", "177.22%", "187.55%", "197.87%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Aimed Shot Charge Level 1", "124%", "133.3%", "142.6%", "155%", "164.3%", "173.6%", "186%", "198.4%", "210.8%", "223.2%", "235.6%", "248%", "263.5%", "279%", "294.5%"], ["Shadowpiercing Shot DMG", "140% ATK + 134.56% Elemental Mastery", "150.5% ATK + 144.65% Elemental Mastery", "161% ATK + 154.74% Elemental Mastery", "175% ATK + 168.2% Elemental Mastery", "185.5% ATK + 178.29% Elemental Mastery", "196% ATK + 188.38% Elemental Mastery", "210% ATK + 201.84% Elemental Mastery", "224% ATK + 215.3% Elemental Mastery", "238% ATK + 228.75% Elemental Mastery", "252% ATK + 242.21% Elemental Mastery", "266% ATK + 255.66% Elemental Mastery", "280% ATK + 269.12% Elemental Mastery", "297.5% ATK + 285.94% Elemental Mastery", "315% ATK + 302.76% Elemental Mastery", "332.5% ATK + 319.58% Elemental Mastery"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Ancient Rite: The Thundering Sands",
+                "description": "Gathers the might of thunder, dealing <b class=\"text-electro\">AoE Electro DMG</b> and quickly retreating. If this attack triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reactions, Sethos recovers a certain amount of Elemental Energy.",
+                "scaling": [
+                    ["Skill DMG", "115.6%", "124.27%", "132.94%", "144.5%", "153.17%", "161.84%", "173.4%", "184.96%", "196.52%", "208.08%", "219.64%", "231.2%", "245.65%", "260.1%", "274.55%"], ["Energy Regeneration", "12", "12", "12", "12", "12", "12", "12", "12", "12", "12", "12", "12", "12", "12", "12"], ["CD", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s"]
+                ],
+                "splash": "\"The God indwelt Priest, the Magi who turned pits to springs, the singers of the sea of sand still spread their stories... But I know those are not legends, for they are our ancestors.\""
+            },
+            "burst": {
+                "name": "Secret Rite: Twilight Shadowpiercer",
+                "description": "Perform a secret rite, entering the \"Twilight Meditation\" state, during which Sethos's Normal Attacks will be converted into enemy-piercing Dusk Bolts: Deal <b class=\"text-electro\">Electro DMG</b> to opponents in its path, with DMG increased based on Sethos's Elemental Mastery.<br />Sethos cannot perform Aimed Shots while in this state.<br />DMG dealt by Dusk Bolts is considered Charged Attack DMG.<br />This effect will be canceled when Sethos leaves the field.",
+                "scaling": [
+                    ["Dusk Bolt DMG Increase", "196.16% Elemental Mastery", "210.87% Elemental Mastery", "225.58% Elemental Mastery", "245.2% Elemental Mastery", "259.91% Elemental Mastery", "274.62% Elemental Mastery", "294.24% Elemental Mastery", "313.86% Elemental Mastery", "333.47% Elemental Mastery", "353.09% Elemental Mastery", "372.7% Elemental Mastery", "392.32% Elemental Mastery", "416.84% Elemental Mastery", "441.36% Elemental Mastery", "465.88% Elemental Mastery"], ["Twilight Meditation Duration", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s", "8s"], ["CD", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s", "15s"], ["Energy Cost", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60", "60"]
+                ],
+                "splash": "The archives of the Temple of Silence preserve many tomes left behind by Akhtamun, from the era of King Deshret. Many secret rituals of great power are recorded within, but even among the Temple of Silence, very few could master them."
+            },
+            "a1passive": {
+                "name": "Black Kite's Enigma",
+                "description": "When Aiming, the charging time is decreased by 0.285s based on each point of Sethos's current Elemental Energy. Charging time can be reduced to a minimum of 0.3s through this method and a maximum of 20 Energy can be tallied. If a <b class=\"text-highlight\">Shadowpiercing Shot</b> is fired, consume the tallied amount of Elemental Energy; if it is a Charge Level 1 shot, then consume 50% of the tallied amount of Elemental Energy."
+            },
+            "a4passive": {
+                "name": "The Sand King's Boon",
+                "description": "Sethos gains the \"Scorching Sandshade\" effect, increasing the DMG dealt by <b class=\"text-highlight\">Shadowpiercing Shots</b> by 700% of Sethos's Elemental Mastery.<br />The Scorching Sandshade effect will be canceled when any of the following conditions are met:<li>5s after a Shadowpiercing Shot first hits an opponent.</li><li>After 4 Shadowpiercing Shots strike opponents.</li><br />When a Shadowpiercing Shot affected by Scorching Sandshade first hits an opponent, Sethos will regain Scorching Sandshade after 15s."
+            },
+            "utilpassive": {
+                "name": "Thoth's Revelation",
+                "description": "Displays the location of nearby <b class=\"text-highlight\">resources unique to Sumeru</b> on the mini-map."
+            }
+        },
+        "constellation": {
+            "name": "Basileos Delta",
+            "c1": {
+                "name": "Sealed Shrine's Spiritsong",
+                "description": "The CRIT Rate of <b class=\"text-highlight\">Shadowpiercing Shot</b> is increased by 15%."
+            },
+            "c2": {
+                "name": "Papyrus Scripture of Silent Secrets",
+                "description": "When any of the following conditions are met, Sethos gains a 15% <b class=\"text-electro\">Electro DMG Bonus</b> for 10s that may stack twice, with each stack duration counted independently:<li>Consuming Elemental Energy through Aimed Shots; you must first unlock the Passive Talent \"Black Kite's Enigma\" to trigger this condition.<li>Regaining Elemental Energy by triggering Elemental Reactions using <b class=\"text-highlight\">Ancient Rite: The Thundering Sands</b>.</li><li>Using <b class=\"text-highlight\">Secret Rite: Twilight Shadowpiercer</b>.</li>"
+            },
+            "c3": {
+                "name": "Ode to the Moonrise Sage",
+                "description": "Increases the Level of <b class=\"text-highlight\">Royal Reed Archery</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "Beneficent Plumage",
+                "description": "When a <b class=\"text-highlight\">Shadowpiercing Shot</b> or <b class=\"text-highlight\">Dusk Bolt</b> strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s."
+            },
+            "c5": {
+                "name": "Record of the Desolate God's Burning Sands",
+                "description": "Increases the Level of <b class=\"text-highlight\">Secret Rite: Twilight Shadowpiercer</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "Pylon of the Sojourning Sun Temple",
+                "description": "After <b class=\"text-highlight\">Shadowpiercing Shot</b> strikes an opponent, the Elemental Energy consumed by the Passive Talent \"Black Kite's Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent \"Black Kite's Enigma.\""
+            }
+        },
+        "stats": {
+            "ascensionStat": "Elemental Mastery",
+            "hp": [821, 2108, 2721, 4076, 4512, 5189, 5770, 6448, 6884, 7561, 7996, 8674, 9110, 9787],
+            "atk": [19, 49, 63, 95, 105, 120, 134, 150, 160, 176, 186, 201, 212, 227],
+            "def": [47, 121, 156, 233, 258, 297, 330, 369, 394, 432, 457, 496, 521, 560]
+        },
+        "materials": {
+            "talentBook": "Praxis",
+            "bossMat": "Cloudseam Scale",
+            "localMat": "Trishiraite",
+            "commonMat": "Headband",
+            "weeklyBossMat": "Daka's Bell"
+        },
+        "description": "The Temple of Silence's heir. Burdened with secrets, he comes from the sands.",
+        "birthday": "May 31",
+        "gender": "Male",
+        "nation": "Sumeru",
+        "outfits": [
+            {
+                "name": "Golden Sandstrider",
+                "rarity": 4,
+                "description": "Sethos's outfit. The lapel is the shade of golden sand, embodying the vast desert that raised him, as well as his faith."
+            }
+        ],
+        "voiceActors": {
+            "en": "Zeno Robinson",
+            "jp": "Shōya Chiba (千葉 翔也)"
+        },
+        "release": {
+            "date": "June 5, 2024",
+            "version": "4.7" 
+        }
+    },
+    {
+        "id": 82,
+        "name": "Sigewinne",
+        "title": "Wondrous Dragonheir",
+        "rarity": 5,
+        "element": "Hydro",
+        "arkhe": "Ousia",
+        "weapon": "Bow",
+        "talents": {
+            "attack": {
+                "name": "Targeted Treatment",
+                "description": "<b class=\"text-highlight\">Normal Attack</b><br />Perform up to 3 consecutive shots with a bow.<br /><br /><b class=\"text-highlight\">Charged Attack</b><br />Perform a more precise <b class=\"text-highlight\">Aimed Shot</b> with increased DMG.<br />While aiming, the power of Hydro will continually accumulate on the arrow. After fully charging, Sigewinne will periodically fire slow-moving Mini-Stration Bubbles toward the target, dealing <b class=\"text-hydro\">Hydro DMG</b>. When released, an arrow imbued with torrential energy will deal <b class=\"text-hydro\">Hydro DMG</b> to the opponent hit.<br /><br /><b class=\"text-highlight\">Plunging Attack</b><br />Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG on impact.",
+                "scaling": [
+                    ["1-Hit DMG", "52.61%", "56.9%", "61.18%", "67.3%", "71.58%", "76.47%", "83.2%", "89.93%", "96.66%", "104%", "111.35%", "118.69%", "126.03%", "133.37%", "140.71%"], ["2-Hit DMG", "51.07%", "55.23%", "59.39%", "65.32%", "69.48%", "74.23%", "80.76%", "87.3%", "93.83%", "100.95%", "108.08%", "115.21%", "122.33%", "129.46%", "136.59%"], ["3-Hit DMG", "78.29%", "84.66%", "91.04%", "100.14%", "106.51%", "113.8%", "123.81%", "133.82%", "143.84%", "154.76%", "165.69%", "176.61%", "187.53%", "198.46%", "209.38%"], ["Aimed Shot", "43.86%", "47.43%", "51%", "56.1%", "59.67%", "63.75%", "69.36%", "74.97%", "80.58%", "86.7%", "92.82%", "98.94%", "105.06%", "111.18%", "117.3%"], ["Fully-Charged Aimed Shot", "114.08%", "122.64%", "142.6%", "155%", "151.16%", "159.71%", "171.12%", "182.53%", "193.94%", "205.34%", "216.75%", "228.16%", "242.42%", "256.68%", "270.94%"], ["Mini-Stration Bubble DMG", "22.82%", "24.53%", "28.52%", "31%", "30.23%", "31.94%", "34.22%", "36.51%", "38.79%", "41.07%", "43.35%", "45.63%", "48.48%", "51.34%", "54.19%"], ["Plunge DMG", "56.83%", "61.45%", "66.08%", "72.69%", "77.31%", "82.6%", "89.87%", "97.14%", "104.41%", "112.34%", "120.27%", "128.2%", "136.12%", "144.05%", "151.98%"], ["Low/High Plunge DMG", "113.63% / 141.93%", "122.88% / 153.49%", "132.13% / 165.04%", "145.35% / 181.54%", "154.59% / 193.1%", "165.17% / 206.3%", "179.7% / 224.45%", "194.23% / 242.61%", "208.77% / 260.76%", "224.62% / 280.57%", "240.48% / 300.37%", "256.34% / 320.18%", "272.19% / 339.98%", "288.05% / 359.79%", "303.9% / 379.59%"]
+                ]
+            },
+            "skill": {
+                "name": "Rebound Hydrotherapy",
+                "description": "Blows a <b class=\"text-highlight\">Bolstering Bubblebalm</b> that can stimulate blood flow and help patients drift off to sleep using a bubblegun specially made in the Fortress of Meropide.<br />Bolstering Bubblebalms will bounce between nearby opponents, dealing <b class=\"text-hydro\">Hydro DMG</b> based on Sigewinne's max HP to opponents it hits. When it bounces, it will restore HP to all nearby party members except Sigewinne herself. The amount healed is based on Sigewinne's max HP.<br />After bouncing 5 times, the Bolstering Bubblebalm will disappear and restore HP to Sigewinne based on her max HP value.<br />When no opponents are present, the Bolstering Bubblebalm will bounce nearby. Only one Bolstering Bubblebalm created by a Sigewinne may exist at once.<br />When Held, the Bolstering Bubblebalm can be boosted to an even bigger size.<br /><br /><b class=\"text-highlight\">Hold</b><br />Enter Aiming Mode to begin blowing an even bigger, even more breathtaking Bolstering Bubblebalm!<br />The Bolstering Bubblebalm will grow bigger the longer the skill is Held, until it grows up to two tiers in size. Each tier it grows increases its DMG by 5% and healing by 5%. When a Bolstering Bubblebalm bounces, it will drop down a tier in size, until it returns to being a normal Bolstering Bubblebalm.<br />After weaker opponents are hit by big Bolstering Bubblebalms, they will be imprisoned and will be unable to move.<br /><br />In addition, 2 Sourcewater Droplets will be created near Sigewinne when she uses this Skill. Each Sourcewater Droplet Sigewinne collects will grant her a Bond of Life worth 10% of her Max HP.<br />When Sigewinne's Bond of Life is cleared, she regains 1 Elemental Energy for every 2,000 HP worth of the Bond of Life that was cleared. Sigewinne can regain up to 5 Elemental Energy in this way.<br /><br /><b class=\"text-highlight\">Arkhe: Ousia</b><br />Bolstering Bubblebalms periodically call down a Surging Blade on the position they hit, dealing Ousia-aligned <b class=\"text-hydro\">Hydro DMG</b> based on Sigewinne's max HP.",
+                "scaling": [
+                    ["Bolstering Bubblebalm DMG", "2.28% Max HP", "2.45% Max HP", "2.62% Max HP", "2.85% Max HP", "3.02% Max HP", "3.19% Max HP", "3.42% Max HP", "3.65% Max HP", "3.88% Max HP", "4.1% Max HP", "4.33% Max HP", "4.56% Max HP", "4.85% Max HP", "5.13% Max HP", "5.42% Max HP"], ["Bolstering Bubblebalm Healing", "2.8% Max HP + 269.63", "3.01% Max HP + 296.6", "3.22% Max HP + 325.81", "3.5% Max HP + 357.27", "3.71% Max HP + 390.98", "3.92% Max HP + 426.94", "4.2% Max HP + 465.14", "4.48% Max HP + 505.59", "4.76% Max HP + 548.29", "5.04% Max HP + 593.23", "5.32% Max HP + 640.43", "5.6% Max HP + 689.87", "5.95% Max HP + 741.55", "6.3% Max HP + 795.49", "6.65% Max HP + 851.67"], ["Final Bounce Healing", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP", "50% Max HP"], ["Surging Blade DMG", "0.68% Max HP", "0.74% Max HP", "0.79% Max HP", "0.86% Max HP", "0.91% Max HP", "0.96% Max HP", "1.03% Max HP", "1.09% Max HP", "1.16% Max HP", "1.23% Max HP", "1.3% Max HP", "1.37% Max HP", "1.45% Max HP", "1.54% Max HP", "1.62% Max HP"], ["Surging Blade Interval", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s", "10s"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"]
+                ],
+                "splash": "\"What do you think? Not only can this kind of hydrotherapy stimulate the circulatory system, but it can also cheer patients up, ooh, and that's not all, it can even help patients who ought to get some rest have a nice nap...\""
+            },
+            "burst": {
+                "name": "Super Saturated Syringing",
+                "description": "Take out a special Fortress of Meropide-made syringe and assault the area in front with waves of kindness and medicine, dealing <b class=\"text-hydro\">AoE Hydro DMG</b> based on Sigewinne's max HP.<br />In addition, Sigewinne absorbs up to 2 nearby Sourcewater Droplets within a certain range right before using the skill.",
+                "scaling": [
+                    ["Skill DMG", "11.77% Max HP", "12.65% Max HP", "13.54% Max HP", "14.71% Max HP", "15.6% Max HP", "16.48% Max HP", "17.66% Max HP", "18.83% Max HP", "20.01% Max HP", "21.19% Max HP", "22.36% Max HP", "23.54% Max HP", "25.01% Max HP", "26.48% Max HP", "27.96% Max HP"], ["Duration", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s", "2.5s"], ["CD", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s", "18s"], ["Energy Cost", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70", "70"]
+                ],
+                "splash": "\"Hey, overdosing on medicine is no different from poison, you know, it's real dangerous! But patients need care and concern, and nobody can overdose on that!\""
+            },
+            "a1passive": {
+                "name": "Requires Appropriate Rest",
+                "description": "Sigewinne grants herself the \"Semi-Strict Bedrest\" effect for 18s after using <b class=\"text-highlight\">Rebound Hydrotherapy</b>: Sigewinne gains an 8% <b class=\"text-hydro\">Hydro DMG Bonus</b> and 10 stacks of Convalescence. When the Elemental Skills of your nearby off-field party members other than Sigewinne deal DMG, consume 1 stack of Convalescence, and increase the DMG dealt by this instance of Elemental Skill DMG. Every 1,000 Max HP Sigewinne has above 30,000 increases the DMG by 80. The maximum DMG increase for Elemental Skills that can be gained in this way is 2,800."
+            },
+            "a4passive": {
+                "name": "Detailed Diagnosis, Thorough Treatment",
+                "description": "When Sigewinne performs healing, the amount healed for this instance is increased based on the total current value of the Bonds of Life on all party members: For each 1,000 HP worth of Bonds of Life, the outgoing healing is increased by 3%. The amount of healing provided can be increased by up to 30% in this way."
+            },
+            "utilpassive": {
+                "name": "Emergency Dose",
+                "description": "While underwater, heal your active character over 2.5s when their HP falls under 50%. The amount healed is equal to 50% of their Max HP, and their All Elemental and Physical RES will be decreased by 10% for 10s. This effect can be triggered up to once every 20s."
+            }
+        },
+        "constellation": {
+            "name": "Nereides",
+            "c1": {
+                "name": "\"Can the Happiest of Spirits Understand Anxiety?\"",
+                "description": "<b class=\"text-highlight\">Rebound Hydrotherapy</b>'s Bolstering Bubblebalm can bounce 3 extra times, and the first 3 bounces will not cause big Bubblebalms to become smaller.<br />The Passive Talent \"Requires Appropriate Rest\" is enhanced: Each Bubblebalm bounce adds 1 stack to her Convalescence tally, and the values for the Convalescence stacks' DMG bonus will be modified to: Every 1,000 max HP Sigewinne has above 30,000 increases the DMG by 100. The maximum DMG increase for Elemental Skills that can be gained in this way is 3,500. You must first unlock the Passive Talent \"Requires Appropriate Rest.\""
+            },
+            "c2": {
+                "name": "\"Can the Most Merciful of Spirits Defeat Its Foes?\"",
+                "description": "When using <b class=\"text-highlight\">Rebound Hydrotherapy</b> and <b class=\"text-highlight\">Super Saturated Syringing</b>, Sigewinne can create a Bubbly Shield worth 30% of her Max HP that absorbs <b class=\"text-hydro\">Hydro DMG</b> with 250% efficiency. The Bubbly Shield will persist until Sigewinne finishes using relevant skills.<br />Additionally, after Rebound Hydrotherapy's Bolstering Bubblebalm or Super Saturated Syringing hits an opponent, that opponent's <b class=\"text-hydro\">Hydro RES</b> will be decreased by 35% for 8s."
+            },
+            "c3": {
+                "name": "\"Can the Healthiest of Spirits Cure Fevers?\"",
+                "description": "Increases the Level of <b class=\"text-highlight\">Rebound Hydrotherapy</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c4": {
+                "name": "\"Can the Loveliest of Spirits Keep Decay at Bay?\"",
+                "description": "The duration of <b class=\"text-highlight\">Super Saturated Syringing</b> is extended by 3s."
+            },
+            "c5": {
+                "name": "\"Can the Most Joyful of Spirits Alleviate Agony?\"",
+                "description": "Increases the Level of <b class=\"text-highlight\">Super Saturated Syringing</b> by 3.<br />Maximum upgrade level is 15."
+            },
+            "c6": {
+                "name": "\"Can the Most Radiant of Spirits Pray For Me?\"",
+                "description": "When Sigewinne performs healing, she will increase the CRIT Rate and CRIT DMG of her <b class=\"text-highlight\">Super Saturated Syringing</b> based on her Max HP. Every 1,000 Max HP she has will increase CRIT Rate by 0.4% and CRIT DMG by 2.2% for 15s. The maximum increase achievable this way is 20% CRIT Rate and 110% CRIT DMG."
+            }
+        },
+        "stats": {
+            "ascensionStat": "HP",
+            "hp": [1039, 2695, 3586, 5366, 5999, 6902, 7747, 8659, 9292, 10213, 10846, 11777, 12410, 13348],
+            "atk": [15, 39, 52, 77, 87, 100, 112, 125, 134, 147, 156, 170, 179, 193],
+            "def": [39, 101, 134, 201, 225, 258, 290, 324, 348, 382, 406, 441, 464, 500]
+        },
+        "materials": {
+            "talentBook": "Equity",
+            "bossMat": "Water That Failed To Transcend",
+            "localMat": "Romaritime Flower",
+            "commonMat": "Aberrant",
+            "weeklyBossMat": "Lightless Eye of the Maelstrom"
+        },
+        "description": "A Melusine and the Fortress of Meropide's head nurse. She cares equally for every convict locked in the undersea prison.",
+        "birthday": "March 30",
+        "gender": "Female",
+        "nation": "Fontaine",
+        "outfits": [
+            {
+                "name": "Sweetness of the Sea",
+                "rarity": 4,
+                "description": "Sigewinne's outfit. Its brilliant colors epitomize Head Nurse Sigewinne herself — a welcome ray of sunshine brightening life down in the gloomy depths."
+            }
+        ],
+        "voiceActors": {
+            "en": "Sarah Williams",
+            "jp": "Hina Kino (木野 日菜)"
+        },
+        "release": {
+            "date": "June 25, 2024",
+            "version": "4.7" 
+        }
     }
 ]

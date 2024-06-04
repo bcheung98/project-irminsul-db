@@ -4354,5 +4354,77 @@
         "release": {
             "version": "4.6"
         }
+    },
+    {
+        "id": 182,
+        "name": "Absolution",
+        "rarity": 5,
+        "type": "Sword",
+        "stats": {
+            "atk": "t-48",
+            "subStat": "CRIT DMG",
+            "passive": {
+                "name": "Deathly Pact",
+                "description": "CRIT DMG increased by <b class=\"text-refinement\">20%</b>. Increasing the value of a Bond of Life increases the DMG the equipping character deals by <b class=\"text-refinement\">16%</b> for 6s. Max 3 stacks.",
+                "scaling": [["20%", "25%", "30%", "35%", "40%"], ["16%", "20%", "24%", "28%", "32%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Chord",
+            "eliteMat": "Watch",
+            "commonMat": "Gear"
+        },
+        "description": "A rapier once wielded by a deceiver who had forsaken everything. In the past, it was primarily used as a tool when he had to disguise his identity.",
+        "release": {
+            "version": "4.7"
+        }
+    },
+    {
+        "id": 183,
+        "name": "Silvershower Heartstrings",
+        "rarity": 5,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-44b",
+            "subStat": "HP",
+            "passive": {
+                "name": "Dryas's Nocturne",
+                "description": "The equipping character can gain the Remedy effect. When they possess 1/2/3 Remedy stacks, Max HP will increase by <b class=\"text-refinement\">12%/24%/40%</b>. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an Elemental Skill; 1 stack for 25s when the value of a Bond of Life value increases; 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by <b class=\"text-refinement\">28%</b>. This effect will be canceled 4s after falling under 3 stacks.",
+                "scaling": [["12%/24%/40%", "15%/30%/50%", "18%/36%/60%", "21%/42%/70%", "24%/48%/80%"], ["28%", "35%", "42%", "49%", "56%"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Dewdrop",
+            "eliteMat": "Fin",
+            "commonMat": "Aberrant"
+        },
+        "description": "Legendary bow of the fairies. Whether on the stage or the battlefield, it can easily touch the hearts of the listener.",
+        "release": {
+            "version": "4.7"
+        }
+    },
+    {
+        "id": 184,
+        "name": "Cloudforged",
+        "rarity": 4,
+        "type": "Bow",
+        "stats": {
+            "atk": "t-42",
+            "subStat": "Elemental Mastery",
+            "passive": {
+                "name": "Crag-Chiseled Forge",
+                "description": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by <b class=\"text-refinement\">40</b> for 18s. Max 2 stacks.",
+                "scaling": [["40", "50", "60", "70", "80"]]
+            }
+        },
+        "materials": {
+            "ascensionMat": "Aerosiderite",
+            "eliteMat": "Hilt",
+            "commonMat": "Fatui Insignia"
+        },
+        "description": "A prototype for a standard-issue weapon the Yuheng commissioned from Blackcliff Forge after having analyzed the ancient mechanisms that protected the adeptal abode upon Tianheng.",
+        "release": {
+            "version": "4.7"
+        }
     }
 ]

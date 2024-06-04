@@ -926,5 +926,21 @@
                 "Rainslasher"
             ]
         }
+    },
+    {
+        "version": "4.7",
+        "phase1": {
+            "startDate": "June 5, 2024",
+            "endDate": "June 25, 2024",
+            "banner": [
+                "Absolution",
+                "Light of Foliar Incision",
+                "The Stringless",
+                "Sacrificial Sword",
+                "Lithic Spear",
+                "The Widsith",
+                "Sacrificial Greatsword"
+            ]
+        }
     }
 ]
