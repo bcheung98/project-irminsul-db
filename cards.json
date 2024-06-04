@@ -1279,7 +1279,7 @@
                         "name": "Sparks 'n' Splash",
                         "cost": "3P 3N",
                         "energy": 3,
-                        "description": "Deals 3 <span class=\"tooltip-pyro\">Pyro DMG</span>, creats 1 <span class=\"tooltip-sparks n splash\">Sparks 'n' Splash</span> at the opponent's play area."
+                        "description": "Deals 3 <span class=\"tooltip-pyro\">Pyro DMG</span>, creates 1 <span class=\"tooltip-sparks n splash\">Sparks 'n' Splash</span> at the opponent's play area."
                     }
                 },
                 "keywords": [
@@ -3655,7 +3655,7 @@
                         "name": "Secret Art: Surprise Dispatch",
                         "cost": "3D 2N",
                         "energy": 2,
-                        "description": "Deals 4 <span class=\"tooltip-dendro\">Dendro DMG</span>, creats 1 <span class=\"tooltip-cat grass cardamom\">Cat Grass Cardamom</span> on the opponent's side of the field."
+                        "description": "Deals 4 <span class=\"tooltip-dendro\">Dendro DMG</span>, creates 1 <span class=\"tooltip-cat grass cardamom\">Cat Grass Cardamom</span> on the opponent's side of the field."
                     }
                 },
                 "keywords": [
