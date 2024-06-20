@@ -941,6 +941,19 @@
                 "The Widsith",
                 "Sacrificial Greatsword"
             ]
+        },
+        "phase2": {
+            "startDate": "June 25, 2024",
+            "endDate": "July 16, 2024",
+            "banner": [
+                "Silvershower Heartstrings",
+                "Splendor of Tranquil Waters",
+                "Sacrificial Bow",
+                "Lion's Roar",
+                "Favonius Lance",
+                "Favonius Codex",
+                "Lithic Blade"
+            ]
         }
     }
 ]
