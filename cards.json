@@ -234,7 +234,7 @@
                     "skill": {
                         "name": "Secret Rite: Chasmic Soulfarer",
                         "cost": "3E",
-                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>."
+                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>.<br /><span class=\"tooltip-pactsworn pathclearer\">Pactsworn Pathclearer</span>'s Indwelling Level +1."
                     },
                     "burst": {
                         "name": "Sacred Rite: Wolf's Swiftness",
@@ -251,7 +251,7 @@
                     {
                         "tag": "pactsworn pathclearer",
                         "name": "Pactsworn Pathclearer",
-                        "description": "<b class=\"tcg-bold\">End Phase</b>: Gain 1 level of Indwelling.<br /><b class=\"tcg-bold\">Create the following effects based on the Indwelling Level</b>:<br />If equal to or greater than 2: <span class=\"tooltip-physical\">Physical DMG</span> dealt is converted to <span class=\"tooltip-electro\">Electro DMG</span>;<br />If equal to or greater than 4: DMG dealt +2;<br />If equal to or greater than 6: Indwelling Level -4."
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Gain 1 level of Indwelling. If Indwelling level is at least 8, decrease the Indwelling level by 6.<br /><b class=\"tcg-bold\">Indwelling grants the following effects based on its level</b>:<br />If equal to or greater than 2: <span class=\"tooltip-physical\">Physical DMG</span> dealt is converted to <span class=\"tooltip-electro\">Electro DMG</span>;<br />If equal to or greater than 4: DMG dealt +2."
                     }
                 ],
                 "splash": {
@@ -740,7 +740,7 @@
                     {
                         "tag": "refraction",
                         "name": "Refraction",
-                        "description": "The character to which this is attched takes +1 <span class=\"tooltip-hydro\">Hydro DMG</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b><br />(Only one such status can be applied on the same side at a time)"
+                        "description": "<b class=\"tcg-bold\">When the character to which this card is attached switches to another character</b class=\"tcg-bold\">: Elemental Dice Cost +1.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b><br />(Only one such status can be applied on the same side at a time)"
                     }
                 ],
                 "splash": {
@@ -905,7 +905,7 @@
                     "skill": {
                         "name": "Claw and Thunder",
                         "cost": "3E",
-                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>"
+                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>."
                     },
                     "burst": {
                         "name": "Lightning Fang",
@@ -2344,20 +2344,20 @@
                     "skill": {
                         "name": "Chihayaburu",
                         "cost": "3A",
-                        "description": "Deals 3 <span class=\"tooltip-anemo\">Anemo DMG</span>, attaches <span class=\"tooltip-midare ranzan\">Midare Ranzan</span> to this character.<br/ >If this skill triggers Swirl, <b class=\"tcg-bold\">Midare Ranzan</b> is converted to the Swirled Element.<br /><b class=\"tcg-bold\">After the Skill DMG is finalized</b>: Your team switches to the next character."
+                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, attaches <span class=\"tooltip-midare ranzan\">Midare Ranzan</span> to this character.<br/ >If this skill triggers Swirl, <b class=\"tcg-bold\">Midare Ranzan</b> is converted to the Swirled Element.<br /><b class=\"tcg-bold\">After the Skill DMG is finalized</b>: Your team switches to the next character."
                     },
                     "burst": {
                         "name": "Kazuha Slash",
                         "cost": "3A 2N",
                         "energy": 2,
-                        "description": "Deals 3 <span class=\"tooltip-anemo\">Anemo DMG</span> and summons <span class=\"tooltip-autumn whirlwind\">Autumn Whirlwind</span>."
+                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span> and summons <span class=\"tooltip-autumn whirlwind\">Autumn Whirlwind</span>."
                     }
                 },
                 "keywords": [
                     {
                         "tag": "midare ranzan",
                         "name": "Midare Ranzan",
-                        "description": "<b class=\"tcg-bold\">When the attached character uses a <span class=\"tooltip-plunging attack\">Plunging Attack</span></b>: <span class=\"tooltip-physical\">Physical DMG</span> dealt becomes <span class=\"tooltip-anemo\">Anemo DMG</span>, and deals +1 DMG.<br /><b class=\"tcg-bold\">After the character uses a skill</b>: This effect is removed."
+                        "description": "<b class=\"tcg-bold\">The next time you use Switch Character to switch to the character to which this is attached</b>: This switch is considered a <span class=\"tooltip-fast action\">Fast Action</span> rather than a <span class=\"tooltip-combat action\">Combat Action</span>.<br /><b class=\"tcg-bold\">Before you choose an action</b>: If the character to which this is attached is your active character, they immediately use a Normal Attack. The <span class=\"tooltip-physical\">Physical DMG</span> this Normal Attack would deal is converted to <span class=\"tooltip-anemo\">Anemo DMG</span>. Once finalized, this effect is removed."
                     },
                     {
                         "tag": "autumn whirlwind",
@@ -2403,7 +2403,7 @@
                     {
                         "tag": "solar isotoma",
                         "name": "Solar Isotoma",
-                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-geo\">Geo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When this Summon is on the field</b>: Your character's <span class=\"tooltip-plunging attack\">Plunging Attack</span> spends 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>. (Once per Round)"
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-geo\">Geo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When you perform \"Switch Character\" and this Summon is on the field</b>: This switch is considered a <span class=\"tooltip-fast action\">Fast Action</span> rather than a <span class=\"tooltip-combat action\">Combat Action</span>. (Once per Round)"
                     }
                 ],
                 "splash": {
@@ -2437,7 +2437,7 @@
                         "name": "Lightning Rose",
                         "cost": "3E 2N",
                         "energy": 2,
-                        "description": "Deals 2 <span class=\"tooltip-electro\">Electro DMG</span>, summons <span class=\"tooltip-lightning rose\">Lightning Rose</span>."
+                        "description": "Deals 2 <span class=\"tooltip-electro\">Electro DMG</span>, summons <span class=\"tooltip-lightning rose\">Lightning Rose</span>. The opponent's active character gains <span class=\"tooltip-conductive\">Conductive</span>."
                     }
                 },
                 "keywords": [
@@ -2530,7 +2530,7 @@
                         "name": "Leonine Bite",
                         "cost": "4P 2N",
                         "energy": 2,
-                        "description": "Deals 3 <span class=\"tooltip-pyro\">Pyro DMG</span>, then peforms \"<span class=\"tooltip-prepare\">Prepare Skill</span>\" for <span class=\"tooltip-incineration drive\">Incineration Drive</span>"
+                        "description": "Deals 3 <span class=\"tooltip-pyro\">Pyro DMG</span>, then peforms \"<span class=\"tooltip-prepare\">Prepare Skill</span>\" for <span class=\"tooltip-incineration drive\">Incineration Drive</span>."
                     }
                 },
                 "keywords": [
@@ -3793,13 +3793,13 @@
                     "skill": {
                         "name": "Wind Realm of Nasamjnin",
                         "cost": "3A",
-                        "description": "Deals 3 <span class=\"tooltip-anemo\">Anemo DMG</span>. This character gains <span class=\"tooltip-manifest gale\">Manifest Gale</span>"
+                        "description": "Deals 3 <span class=\"tooltip-anemo\">Anemo DMG</span>. This character gains <span class=\"tooltip-manifest gale\">Manifest Gale</span>."
                     },
                     "burst": {
                         "name": "The Wind's Secret Ways",
                         "cost": "3E 2N",
                         "energy": 2,
-                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, summons 1 <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span>"
+                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, summons 1 <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span>."
                     }
                 },
                 "keywords": [
@@ -3937,7 +3937,9 @@
                 "name": "Wriothesley",
                 "element": "Cryo",
                 "weapon": "Catalyst",
-                "factions": ["Fontaine"],
+                "factions": [
+                    "Fontaine"
+                ],
                 "arkhe": "Ousia",
                 "hp": 10,
                 "talents": {
@@ -3982,7 +3984,9 @@
                 "name": "Furina",
                 "element": "Hydro",
                 "weapon": "Sword",
-                "factions": ["Fontaine"],
+                "factions": [
+                    "Fontaine"
+                ],
                 "arkhe": "Ousia",
                 "hp": 10,
                 "talents": {
@@ -4000,7 +4004,7 @@
                         "name": "Let the People Rejoice",
                         "cost": "4H 2N",
                         "energy": 2,
-                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 1 <span class=\"tooltip-universal revelry\">Universal Revelry</span>"
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>, creates 1 <span class=\"tooltip-universal revelry\">Universal Revelry</span>."
                     }
                 },
                 "keywords": [
@@ -4042,7 +4046,9 @@
                 "name": "Xinyan",
                 "element": "Pyro",
                 "weapon": "Claymore",
-                "factions": ["Liyue"],
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -4086,7 +4092,9 @@
                 "name": "Yun Jin",
                 "element": "Geo",
                 "weapon": "Polearm",
-                "factions": ["Liyue"],
+                "factions": [
+                    "Liyue"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -4110,7 +4118,7 @@
                     {
                         "tag": "flying cloud flag formation",
                         "name": "Flying Cloud Flag Formation",
-                        "description": "<b class=\"tcg-bold\">When your character uses a Normal Attack</b>: Deal +1 DMG.<br />If you have no more than 1 card in your Hand, this Skill costs 1 less Elemental Die.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 4 stacks)"
+                        "description": "<b class=\"tcg-bold\">When your character uses a Normal Attack</b>: If you have no more than 1 card in your Hand, this Skill costs 1 less Elemental Die.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 4 stacks)"
                     },
                     {
                         "tag": "shield of swirling clouds",
@@ -4135,7 +4143,9 @@
                 "name": "Kaveh",
                 "element": "Dendro",
                 "weapon": "Claymore",
-                "factions": ["Sumeru"],
+                "factions": [
+                    "Sumeru"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -4159,7 +4169,7 @@
                     {
                         "tag": "burst scan",
                         "name": "Burst Scan",
-                        "description": "<b class=\"tcg-bold\">Before either side chooses their action</b>: If your side has Dendro Core or Bountiful Core, -1 to their <b class=\"tcg-bold\">Usage(s)</b>, and <span class=\"tooltip-discard\">Discard</span> the card at the top of your deck. After this, deal <span class=\"tooltip-dendro\">Dendro DMG</span> equal to the original Elemental Dice Cost of the card you Discard +1.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 3 stacks)"
+                        "description": "<b class=\"tcg-bold\">Before either side chooses their action</b>: If your side has Dendro Core or Bountiful Core, -1 to their <b class=\"tcg-bold\">Usage(s)</b>, and <span class=\"tooltip-discard\">Discard</span> the card at the top of your deck. After this, deal <span class=\"tooltip-dendro\">Dendro DMG</span> equal to the original Elemental Dice Cost of the card you <b class=\"tcg-bold\">Discarded</b>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 3 stacks)"
                     },
                     {
                         "tag": "mehraks assistance",
@@ -4179,7 +4189,9 @@
                 "name": "All-Devouring Narwhal",
                 "element": "Hydro",
                 "weapon": "Other Weapons",
-                "factions": ["Monster"],
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 5,
                 "talents": {
                     "attack": {
@@ -4190,7 +4202,7 @@
                     "skill": {
                         "name": "Starfall Shower",
                         "cost": "3H",
-                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. This character deals +1 DMG for every 3 extra max HP provided by <b class=\"tcg-bold\">Insatiable Appetite</b> (Max +5.) After this, <span class=\"tooltip-discard\">Discard</span> 1 card with the highest original Elemental Dice Cost in your Hand."
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. This character deals +1 DMG for every 3 additional max HP provided by <b class=\"tcg-bold\">Insatiable Appetite</b> (Max +4.) After this, <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand with the highest original Elemental Dice Cost."
                     },
                     "burst": {
                         "name": "Ravaging Devourer",
@@ -4227,7 +4239,10 @@
                 "name": "Consecrated Scorpion",
                 "element": "Electro",
                 "weapon": "Other Weapons",
-                "factions": ["Monster", "Consecrated Beast"],
+                "factions": [
+                    "Monster",
+                    "Consecrated Beast"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -4255,7 +4270,7 @@
                     {
                         "tag": "bonecrunchers energy block",
                         "name": "Bonecruncher's Energy Block",
-                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand with the highest original Cost and create 1 Elemental Die of your active character's Element. (Only 1 such card can be played per Round)"
                     },
                     {
                         "tag": "thunderbore trap",
@@ -4275,7 +4290,10 @@
                 "name": "Consecrated Flying Serpent",
                 "element": "Anemo",
                 "weapon": "Other Weapons",
-                "factions": ["Monster", "Consecrated Beast"],
+                "factions": [
+                    "Monster",
+                    "Consecrated Beast"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -4286,7 +4304,7 @@
                     "skill": {
                         "name": "Swirling Squall",
                         "cost": "3A",
-                        "description": "Deal 2 <span class=\"tooltip-anemo\">Anemo DMG</span> and draw 1 <span class=\"tooltip-bonecrunchers energy block\">Bonecruncher's Energy Block</span> card. Draw 1 card for each <b class=\"tcg-bold\">Bonecruncher's Energy Block</b> card in your Hand (Up to 2 cards per Round)."
+                        "description": "Deal 3 <span class=\"tooltip-anemo\">Anemo DMG</span> and draw 1 card."
                     },
                     "burst": {
                         "name": "Scattershot Vortex",
@@ -4303,7 +4321,7 @@
                     {
                         "tag": "bonecrunchers energy block",
                         "name": "Bonecruncher's Energy Block",
-                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand with the highest original Cost and create 1 Elemental Die of your active character's Element. (Only 1 such card can be played per Round)"
                     }
                 ],
                 "splash": {
@@ -4318,7 +4336,9 @@
                 "name": "Guardian of Apep's Oasis",
                 "element": "Dendro",
                 "weapon": "Other Weapons",
-                "factions": ["Monster"],
+                "factions": [
+                    "Monster"
+                ],
                 "hp": 10,
                 "talents": {
                     "attack": {
@@ -4371,6 +4391,163 @@
                 "release": {
                     "version": "4.7"
                 }
+            },
+            {
+                "name": "Chevreuse",
+                "element": "Pyro",
+                "weapon": "Polearm",
+                "factions": [
+                    "Fontaine"
+                ],
+                "arkhe": "Ousia",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Line Bayonet Thrust EX",
+                        "cost": "1P 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Short-Range Rapid Interdiction Fire",
+                        "cost": "3P",
+                        "description": "Deals 2 <span class=\"tooltip-pyro\">Pyro DMG</span>.<br /><b class=\"tcg-bold\">After the Skill finalizes</b>: If your Hand has <span class=\"tooltip-overcharged ball\">Overcharged Ball</span>: <span class=\"tooltip-discard\">Discard</span> 1 of them and heal the character on your team that has taken the most damage for 1 HP."
+                    },
+                    "burst": {
+                        "name": "Ring of Bursting Grenades",
+                        "cost": "3P 2N",
+                        "energy": 2,
+                        "description": "Deals 2 <span class=\"tooltip-pyro\">Pyro DMG</span>, creates 1 <span class=\"tooltip-secondary explosive shells\">Secondary Explosive Shells</span> on the opponent's side of the field."
+                    },
+                    "passive": {
+                        "name": "Vertical Force Coordination",
+                        "description": "(Passive) <b class=\"tcg-bold\">After an opponent's character takes Overloaded reaction DMG</b>: Create 1 <span class=\"tooltip-overcharged ball\">Overcharged Ball</span> card in your Hand (Once per Round)"
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "overcharged ball",
+                        "name": "Overcharged Ball",
+                        "description": "<span class=\"tooltip-combat action\">Combat Action</span>: Deal 1 <span class=\"tooltip-pyro\">Pyro DMG</span> to the opponent's active character.<br /><b class=\"tcg-bold\">When this card is Discarded</b>: Deal 1 <span class=\"tooltip-pyro\">Pyro DMG</span> to the opponent's active character."
+                    },
+                    {
+                        "tag": "secondary explosive shells",
+                        "name": "Secondary Explosive Shells",
+                        "description": "<b class=\"tcg-bold\">After a character switch takes place on this side of the field</b>: Deal 1 <span class=\"tooltip-pyro\">Pyro DMG</span> to the character switched to.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Executor of Justice: Chevreuse",
+                    "description": "Righteous Enforcer of the Law."
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Navia",
+                "element": "Geo",
+                "weapon": "Claymore",
+                "factions": [
+                    "Fontaine"
+                ],
+                "arkhe": "Ousia",
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Blunt Refusal",
+                        "cost": "1G 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Ceremonial Crystalshot",
+                        "cost": "3G",
+                        "description": "Deals 3 <span class=\"tooltip-geo\">Geo DMG</span>, attaches <span class=\"tooltip-geo infusion\">Geo Infusion</span> to this character. <span class=\"tooltip-discard\">Discard</span> up to 5 <span class=\"tooltip-crystal shrapnel\">Crystal Shrapnel</span> from your Hand. Each card you <b class=\"tcg-bold\">Discard</b> causes this to deal +1 DMG, and you draw 1 card."
+                    },
+                    "burst": {
+                        "name": "As the Sunlit Sky's Singing Salute",
+                        "cost": "3G 2N",
+                        "energy": 2,
+                        "description": "Deals 1 <span class=\"tooltip-geo\">Geo DMG</span>, deals 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to all opposing characters on standby. Summons 1 <span class=\"tooltip-rosula dorata salute\">Rosula Dorata Salute</span> and creates 1 <span class=\"tooltip-crystal shrapnel\">Crystal Shrapnel</span> card before adding it to your Hand."
+                    },
+                    "passive": {
+                        "name": "Mutual Assistance Network",
+                        "description": "(Passive) <b class=\"tcg-bold\">After an opponent's character takes Crystallize reaction DMG</b>: Create 3 <span class=\"tooltip-crystal shrapnel\">Crystal Shrapnel</span> and randomly place them into your deck."
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "crystal shrapnel",
+                        "name": "Crystal Shrapnel",
+                        "description": "Deal 1 <span class=\"tooltip-physical\">Physical DMG</span> to the opponent's active character and draw 1 card."
+                    },
+                    {
+                        "tag": "rosula dorata salute",
+                        "name": "Rosula Dorata Salute",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-geo\">Geo DMG</span>, draw 1 <span class=\"tooltip-crystal shrapnel\">Crystal Shrapnel</span> card.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">2</b>"
+                    },
+                    {
+                        "tag": "geo infusion",
+                        "name": "Geo Infusion",
+                        "description": "The character to which this is attached has their <span class=\"tooltip-physical\">Physical DMG</span> dealt converted into <span class=\"tooltip-geo\">Geo DMG</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Helm of the Radiant Rose: Navia",
+                    "description": "\"The Soaring Yellow Rose.\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Frost Operative",
+                "element": "Cryo",
+                "weapon": "Other Weapons",
+                "factions": [
+                    "Fatui"
+                ],
+                "hp": 10,
+                "talents": {
+                    "attack": {
+                        "name": "Swift Point",
+                        "cost": "1C 2U",
+                        "description": "Deals 2 <span class=\"tooltip-physical\">Physical DMG</span>."
+                    },
+                    "skill": {
+                        "name": "Frosty Interjection",
+                        "cost": "3C",
+                        "description": "Deals 3 <span class=\"tooltip-cryo\">Cryo DMG</span>."
+                    },
+                    "burst": {
+                        "name": "Thorny Onslaught",
+                        "cost": "3C 2N",
+                        "energy": 2,
+                        "description": "Deals 4 <span class=\"tooltip-cryo\">Cryo DMG</span>. Attaches <span class=\"tooltip-onslaught stance\">Onslaught Stance</span> to this character."
+                    },
+                    "passive": {
+                        "name": "Blood-Bonded Shadow",
+                        "description": "(Passive) <b class=\"tcg-bold\">After this character uses a Skill</b>: Attach <span class=\"tooltip-bond of life\">Bond of Life</span> to the opponent's active character with <b class=\"tcg-bold\">Usage(s)</b> equal to (this Skill's finalized DMG total -2). (Max 5 stacks)"
+                    }
+                },
+                "keywords": [
+                    {
+                        "tag": "onslaught stance",
+                        "name": "Onslaught Stance",
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deals 1 <span class=\"tooltip-piercing\">Piercing DMG</span> to all opposing characters affected by <span class=\"tooltip-bond of life\">Bond of Life</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                    },
+                    {
+                        "tag": "bond of life",
+                        "name": "Bond of Life",
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached is healed</b>: This effect will be consumed once for every Usage(s) it has to negate 1 HP of healing received. (Cannot negate revivals, increases in Max HP, and healing caused by redistribution of HP)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack, no stack limit)."
+                    }
+                ],
+                "splash": {
+                    "title": "Filtered in Liquidation: Frost Operative",
+                    "description": "Selected while still children, they can only become an \"Operative\" after many long years of training and teaching, after countless rounds have winnowed the field."
+                },
+                "release": {
+                    "version": "4.8"
+                }
             }
         ]
     },
@@ -4397,7 +4574,7 @@
                 "subType": "Weapon",
                 "weaponType": "Sword",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the opposing character uses a Skill</b>: If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the opposing character uses a Skill</b>: If the character with this attached is the active character, heal this character for 1 HP. (Max twice per Round)<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Let the Wind Lead: Aquila Favonia",
                     "description": "This sword was ever at the hip of the warrior from another land, and it bore witness to her achievement in spreading justice and freedom across Mondstadt."
@@ -4433,7 +4610,7 @@
                         "tag": "claw and thunder",
                         "type": "Elemental Skill",
                         "name": "Claw and Thunder",
-                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>"
+                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>."
                     }
                 ],
                 "splash": {
@@ -4603,18 +4780,18 @@
                 "combatAction": true,
                 "character": "Cyno",
                 "cost": "3E",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Cyno</b>, equip this card.<br />After Cyno equips this card, immediately use <span class=\"tooltipHighlight-chasmic soulfarer\">Secret Rite: Chasmic Soulfarer</span> once.<br />When your Cyno, who has this card equipped, uses <b class=\"tcg-bold\">Secret Rite: Chasmic Soulfarer</b> while having an even number of levels of <span class=\"tooltip-pactsworn pathclearer\">Pactsworn Pathclearer</span>'s Indwelling effect, deal +1 DMG.<br />(You must have Cyno in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Cyno</b>, equip this card.<br />After Cyno equips this card, immediately use <span class=\"tooltipHighlight-chasmic soulfarer\">Secret Rite: Chasmic Soulfarer</span> once.<br />When your Cyno, who has this card equipped, uses <b class=\"tcg-bold\">Secret Rite: Chasmic Soulfarer</b> while having at least 2 levels of <span class=\"tooltip-pactsworn pathclearer\">Pactsworn Pathclearer</span>'s Indwelling effect, deal +2 DMG. (Once per Round)<br />(You must have Cyno in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "chasmic soulfarer",
                         "type": "Elemental Skill",
                         "name": "Secret Rite: Chasmic Soulfarer",
-                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>"
+                        "description": "Deals 3 <span class=\"tooltip-electro\">Electro DMG</span>.<br /><span class=\"tooltip-pactsworn pathclearer\">Pactsworn Pathclearer</span>'s Indwelling Level +1."
                     },
                     {
                         "tag": "pactsworn pathclearer",
                         "name": "Pactsworn Pathclearer",
-                        "description": "<b class=\"tcg-bold\">End Phase</b>: Gain 1 level of Indwelling.<br /><b class=\"tcg-bold\">Create the following effects based on the Indwelling Level</b>:<br />If equal to or greater than 2: <span class=\"tooltip-physical\">Physical DMG</span> dealt is converted to <span class=\"tooltip-electro\">Electro DMG</span>;<br />If equal to or greater than 4: DMG dealt +2;<br />If equal to or greater than 6: Indwelling Level -4."
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Gain 1 level of Indwelling. If Indwelling level is at least 8, decrease the Indwelling level by 6.<br /><b class=\"tcg-bold\">Indwelling grants the following effects based on its level</b>:<br />If equal to or greater than 2: <span class=\"tooltip-physical\">Physical DMG</span> dealt is converted to <span class=\"tooltip-electro\">Electro DMG</span>;<br />If equal to or greater than 4: DMG dealt +2."
                     }
                 ],
                 "splash": {
@@ -4907,7 +5084,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />When played: For each party member from Liyue, grant <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> to the character to which this is attached. (Max 3 points)<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />When played: For each party member from Liyue, grant <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> to the character to which this is attached. (Max 3 points)<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Evil Shall Never Prevail: Lithic Spear",
                     "description": "These spears were forged from the rocks of the Guyun Stone Forest, and were favored by the Millelith of old. Their hardness knows no equal."
@@ -4936,7 +5113,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Bane of Storm and Tide: Magic Guide",
                     "description": "The 12th edition of the Magic Guide.<br />It contains a great detail of errors, but nonetheless remains the most authoritative guide to magic in existence."
@@ -4966,18 +5143,18 @@
                 "combatAction": true,
                 "character": "Mirror Maiden",
                 "cost": "3H",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Mirror Maiden</b>, equip this card.<br />After Mirror Maiden equips this card, immediately use <span class=\"tooltipHighlight-influx blast\">Influx Blast</span> once.<br />When your Mirror Maiden, who has this card equipped, creates a <span class=\"tooltip-refraction\">Refraction</span>, it will have the following effects: Starting <span class=\"tooltip-duration\">Duration (Rounds)</span> +1, will increase the Elemental Dice Cost of switching from a character to which this is attched to another character by 1.<br />(You must have Mirror Maiden in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Mirror Maiden</b>, equip this card.<br />After Mirror Maiden equips this card, immediately use <span class=\"tooltipHighlight-influx blast\">Influx Blast</span> once.<br />When your Mirror Maiden, who has this card equipped, creates a <span class=\"tooltip-refraction\">Refraction</span>, it will have +1 starting <span class=\"tooltip-duration\">Duration (Rounds)</span>. It will also increase the <span class=\"tooltip-hydro\">Hydro DMG</span> the character to which this is attached takes by 1.<br />(You must have Mirror Maiden in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "influx blast",
                         "type": "Elemental Skill",
                         "name": "Influx Blast",
-                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. The target character receives <span class=\"tooltip-refraction\">Refraction</span>"
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. The target character receives <span class=\"tooltip-refraction\">Refraction</span>."
                     },
                     {
                         "tag": "refraction",
                         "name": "Refraction",
-                        "description": "The character to which this is attched takes +1 <span class=\"tooltip-hydro\">Hydro DMG</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b><br />(Only one such status can be applied on the same side at a time)"
+                        "description": "<b class=\"tcg-bold\">When the character to which this card is attached switches to another character</b class=\"tcg-bold\">: Elemental Dice Cost +1.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b><br />(Only one such status can be applied on the same side at a time)"
                     }
                 ],
                 "splash": {
@@ -5139,7 +5316,7 @@
                 "subType": "Weapon",
                 "weaponType": "Bow",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(Only <b class=\"tcg-bold\">Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Bane of Flame and Water: Raven Bow",
                     "description": "Ravens are known to be the ferrymen of the dead. As such, hunters would decorate their bows' limbs with feathers which forebode the imminent death of their targets."
@@ -5154,7 +5331,7 @@
                 "subType": "Weapon",
                 "weaponType": "Bow",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(Only <b class=\"tcg-bold\">Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Composed: Sacrificial Bow",
                     "description": "A ceremonial hunting bow that has seen the passage of many years. The trinkets on it are still visible."
@@ -5169,7 +5346,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Composed: Sacrificial Fragments",
                     "description": "A weathered musical score, the content of which is no longer legible."
@@ -5184,7 +5361,7 @@
                 "subType": "Weapon",
                 "weaponType": "Claymore",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Composed: Sacrificial Greatsword",
                     "description": "This greatsword has seen the passage of many years, and was once owned by a clan of brave and gifted warriors who fought hard and died young."
@@ -5199,7 +5376,7 @@
                 "subType": "Weapon",
                 "weaponType": "Sword",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: Create 1 Elemental Die of the same Elemental Type as this character (Once per Round)<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Composed: Sacrificial Sword",
                     "description": "This blade was just a prop before its blade was sharpened by the passage of time."
@@ -5243,7 +5420,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Cloud Atlas: Skyward Atlas",
                     "description": "Its full name is the \"An atlas of the winds and clouds.\"<br />This text records the winds and clouds of the northern lands' skies in poetic and archival forms."
@@ -5258,7 +5435,7 @@
                 "subType": "Weapon",
                 "weaponType": "Bow",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(Only <b class=\"tcg-bold\">Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Echoing Ballad: Skyward Harp",
                     "description": "The sound of this sky-piercing lyre firing is music to the Anemo Archon's ears."
@@ -5273,7 +5450,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's Normal Attacks deal +1 additional DMG.<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Carving Black Wings: Skyward Spine",
                     "description": "A spear that can hold up the skies. It was this unshakable resolve that sustained the wind dragon through its mortal battle against its vile nemesis."
@@ -5564,7 +5741,7 @@
                 "subType": "Weapon",
                 "weaponType": "Sword",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Traveler's Companion: Traveler's Handy Sword",
                     "description": "A handy steel sword that contains all manner of useful items in its sheath."
@@ -5645,7 +5822,7 @@
                 "subType": "Weapon",
                 "weaponType": "Claymore",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Mourning Silver Snow: White Iron Greatsword",
                     "description": "A lightweight greatsword made of white iron with a silver sheen."
@@ -5660,7 +5837,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Ardent Argent: White Tassel",
                     "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon."
@@ -5703,7 +5880,7 @@
                 "subType": "Weapon",
                 "weaponType": "Claymore",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />Deal +2 additional DMG if the target's remaining HP is equal or less than 6.<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />Deal +2 additional DMG if the target's remaining HP is equal or less than 6.<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Mountain Trail: Wolf's Gravestone",
                     "description": "A longsword said to have been used by the knight of the north wind. It became endowed with legendary power owing to his friendship with the wolves."
@@ -5745,7 +5922,7 @@
                 "type": "Support",
                 "subType": "Location",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">When you perform \"Switch Character\"</b>: Spend 1 less Elemental Die. (Once per Round)",
+                "description": "<b class=\"tcg-bold\">When you perform \"Switch Character\"</b>: Spend 1 less Elemental Die. (Twice per Round)",
                 "splash": {
                     "title": "Manor of Daybreak",
                     "description": "\"The best wine will always be brewed next year.\""
@@ -6789,7 +6966,7 @@
                 "subType": "Weapon",
                 "weaponType": "Sword",
                 "cost": "3M",
-                "description": "The character deals +1 DMG</br>.<br /><b class=\"tcg-bold\">After the  character uses an Elemental Skill</b>: The character gains 1 additional <span class=\"tooltip-energy\">Energy</span>. (Once per Round)<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "The character deals +1 DMG</br>.<br /><b class=\"tcg-bold\">After the  character uses an Elemental Skill</b>: The character gains 1 additional <span class=\"tooltip-energy\">Energy</span>. (Once per Round)<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Windfall: Favonius Sword",
                     "description": "\"Legend has it that the knight that bore the title of Wolf Pup could cleave even raindrops with his blade, and the gales spurred by his blows were strong enough to snap roses.<br />Though none could match the heights of the Wolf Pup's prowess, the knights bear his oath of protection yet, his legacy lasting even to the present.\""
@@ -6860,7 +7037,7 @@
                     {
                         "tag": "riptide",
                         "name": "Riptide",
-                        "description": "<b class=\"tcg-bold\">When the character to which this is attached is defeated</b>: Apply Riptide to active character.<br />(When Tartaglia is in <b class=\"tcg-bold\">Melee Stance</b>, he will deal additional DMG when attacking the character to which this is attached.)<br />"
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached is defeated</b>: Apply Riptide to active character.<br />(When Tartaglia is in <b class=\"tcg-bold\">Melee Stance</b>, he will deal additional DMG when attacking the character to which this is attached.)"
                     },
                     {
                         "tag": "ranged stance",
@@ -7080,7 +7257,7 @@
                 "combatAction": true,
                 "character": "Zhongli",
                 "cost": "5G",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Zhongli</b>, equip this card.<br />After Zhongli equips this card, immediately use <span class=\"tooltipHighlight-striking stone\">Dominus Lapidis: Striking Stone</span> once.<br />When your active character is protected by a <span class=\"tooltip-shield\">Shield</span> Character Status or a <span class=\"tooltip-shield\">Shield</span> Combat Status, your Summons deal +1 <span class=\"tooltip-geo\">Geo DMG</span>.<br />(You must have Zhongli in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Zhongli</b>, equip this card.<br />After Zhongli equips this card, immediately use <span class=\"tooltipHighlight-striking stone\">Dominus Lapidis: Striking Stone</span> once.<br />When your Zhongli, who has this card equipped, has at least 7 HP, the DMG dealt by Zhongli and the <span class=\"tooltip-geo\">Geo DMG</span> from your Summons +1.<br />(You must have Zhongli in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "striking stone",
@@ -7226,7 +7403,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When your character triggers an Elemental Reaction</b>: Deal +1 DMG. (Max twice per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When your character triggers an Elemental Reaction</b>: Deal +1 DMG. (Max twice per Round)<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "A Thousand Nights' Dawnsong: A Thousand Floating Dreams",
                     "description": "\"There is an appointed time for all things to live and die, just like the ceaseless cycles of night and dawn.\"<br />\"May the stories within this lamp grant you dreams worth looking forward to.\""
@@ -7241,7 +7418,7 @@
                 "subType": "Weapon",
                 "weaponType": "Bow",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When the character uses a Skill that costs at least a total of 5 Elemental Dice and Energy</b>: +2 additional DMG. (Once per Round)<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When the character uses a Skill that costs at least a total of 5 Elemental Dice and Energy</b>: +2 additional DMG. (Once per Round)<br />(Only <b class=\"tcg-bold\">Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Strong-willed: Amos' Bow",
                     "description": "\"I dreamt of ocean waves and sand, of lush forests and land.\"<br />\"I dreamt of boars playing in berry bushes, of a towering spire.\""
@@ -7256,7 +7433,7 @@
                 "subType": "Weapon",
                 "weaponType": "Bow",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Burst</b>: Create <span class=\"tooltip-farewell song\">Millennial Movement: Farewell Song</span>.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Burst</b>: Create <span class=\"tooltip-farewell song\">Millennial Movement: Farewell Song</span>.<br />(Only <b class=\"tcg-bold\">Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "keywords": [
                     {
                         "tag": "farewell song",
@@ -7278,7 +7455,7 @@
                 "subType": "Weapon",
                 "weaponType": "Claymore",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's <b class=\"tcg-bold\">Normal Attacks</b> deal +1 additional DMG. (Once per Round)<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's <b class=\"tcg-bold\">Normal Attacks</b> deal +1 additional DMG. (Once per Round)<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Sky-rippin: Skyward Pride",
                     "description": "This is a tale of sky-shaking valor. Bearing the will to defend all, let the wind dragon bestow wrath upon its vile nemesis."
@@ -7293,7 +7470,7 @@
                 "subType": "Weapon",
                 "weaponType": "Claymore",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses a skill</b>: Gives <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> to your active character. (Once per Round, stacks up to 2 points)<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses a skill</b>: Gives <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> to your active character. (Once per Round, stacks up to 2 points)<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Rebellious Guardian: The Bell",
                     "description": "There once was a traitor who brandished a blade against his fallen clan.<br />Though this individual was eventually cast out from his clan, rumor has that his organization continued their chosen duties.<br />Legend claims that even the Wolf Pup Rostam might have been involved..."
@@ -7308,7 +7485,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />When your active character is protected by a <span class=\"tooltip-shield\">Shield</span> Combat Status, you deal +1 DMG.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: If you have a Combat Status that grants a <span class=\"tooltip-shield\">Shield</span> on your side, add <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> to that Combat Status. (Once per Round)<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br />When your active character is protected by a <span class=\"tooltip-shield\">Shield</span> Combat Status, you deal +1 DMG.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: If you have a Combat Status that grants a <span class=\"tooltip-shield\">Shield</span> on your side, add <b class=\"tcg-bold\">1</b> <span class=\"tooltip-shield\">Shield</span> <b class=\"tcg-bold\">point</b> to that Combat Status. (Once per Round)<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Golden Majesty: Vortex Vanquisher",
                     "description": "Folklore spoke of a vast shadow entrenched in the depths of the ocean capable of swallowing passing warships...<br />At tale's end, they believe that Rex Lapis once wielded a spear that pierced the rainbow, pinning the churning vortex that had once terrorized the oceans in the center of the deep sea."
@@ -7323,7 +7500,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Triggers automatically once per Round</b>: If the character to which this attached does not have <span class=\"tooltip-energy\">Energy</span>, they will gain 1 <span class=\"tooltip-energy\">Energy</span>.<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Triggers automatically once per Round</b>: If the character to which this attached does not have <span class=\"tooltip-energy\">Energy</span>, they will gain 1 <span class=\"tooltip-energy\">Energy</span>.<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Timeless Dream: Engulfing Lightning",
                     "description": "The naginata was a lethal weapon by which scattered dross might be cut away.<br />And the one who wielded that naginata was one who guarded the path to eternity."
@@ -7338,7 +7515,7 @@
                 "subType": "Weapon",
                 "weaponType": "Sword",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's <b class=\"tcg-bold\">Normal Attacks</b> deal +1 additional DMG. (Once per Round)<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">Once per Round</b>: This character's <b class=\"tcg-bold\">Normal Attacks</b> deal +1 additional DMG. (Once per Round)<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Sky-piercing: Skyward Blade",
                     "description": "The sky-piercing fang. With nemesis vanquished, the wind dragon fell into a deep slumber.<br />Centuries passed, and Dvalin's sacrifice was all but forgotten by Mondstadt.<br />A prayer, this sword is. May Dvalin's name be restored."
@@ -7864,12 +8041,12 @@
                         "tag": "chihayaburu",
                         "type": "Elemental Skill",
                         "name": "Chihayaburu",
-                        "description": "Deals 3 <span class=\"tooltip-anemo\">Anemo DMG</span>, attaches <span class=\"tooltip-midare ranzan\">Midare Ranzan</span> to this character.<br/ >If this skill triggers Swirl, <b class=\"tcg-bold\">Midare Ranzan</b> is converted to the Swirled Element.<br /><b class=\"tcg-bold\">After the Skill DMG is finalized</b>: Your team switches to the next character."
+                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, attaches <span class=\"tooltip-midare ranzan\">Midare Ranzan</span> to this character.<br/ >If this skill triggers Swirl, <b class=\"tcg-bold\">Midare Ranzan</b> is converted to the Swirled Element.<br /><b class=\"tcg-bold\">After the Skill DMG is finalized</b>: Your team switches to the next character."
                     },
                     {
                         "tag": "midare ranzan",
                         "name": "Midare Ranzan",
-                        "description": "<b class=\"tcg-bold\">When the attached character uses a <span class=\"tooltip-plunging attack\">Plunging Attack</span></b>: <span class=\"tooltip-physical\">Physical DMG</span> dealt becomes <span class=\"tooltip-anemo\">Anemo DMG</span>, and deals +1 DMG.<br /><b class=\"tcg-bold\">After the character uses a skill</b>: This effect is removed."
+                        "description": "<b class=\"tcg-bold\">The next time you use Switch Character to switch to the character to which this is attached</b>: This switch is considered a <span class=\"tooltip-fast action\">Fast Action</span> rather than a <span class=\"tooltip-combat action\">Combat Action</span>.<br /><b class=\"tcg-bold\">Before you choose an action</b>: If the character to which this is attached is your active character, they immediately use a Normal Attack. The <span class=\"tooltip-physical\">Physical DMG</span> this Normal Attack would deal is converted to <span class=\"tooltip-anemo\">Anemo DMG</span>. Once finalized, this effect is removed."
                     }
                 ],
                 "splash": {
@@ -7886,7 +8063,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "3U",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: Draw 2 cards. (Once per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: Draw 2 cards. (Once per Round)<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Moon's Fullness: Fruit of Fulfillment",
                     "description": "\"Even the most bitter of stories contain courage and strength... The story of the good Golden Nara's adventures with us will help good Nara defend the forest.\""
@@ -7958,7 +8135,7 @@
                 "combatAction": true,
                 "character": "Albedo",
                 "cost": "3G",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Albedo</b>, equip this card.<br />After Albedo equips this card, immediately use <span class=\"tooltipHighlight-abiogenesis\">Abiogenesis: Solar Isotoma</span>.<br />When there is an Albedo on the field who has this card equipped, if your side of the field has <span class=\"tooltip-solar isotoma\">Solar Isotoma</span>, then your characters' <span class=\"tooltip-plunging attack\">Plunging Attack</span> deals +1 DMG.<br />(You must have Albedo in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Albedo</b>, equip this card.<br />After Albedo equips this card, immediately use <span class=\"tooltipHighlight-abiogenesis\">Abiogenesis: Solar Isotoma</span>.<br />When there is an Albedo on the field who has this card equipped, if your side of the field has <span class=\"tooltip-solar isotoma\">Solar Isotoma</span>, then your characters' <span class=\"tooltip-plunging attack\">Plunging Attack</span> costs 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span> and deals +1 DMG.<br />(You must have Albedo in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "abiogenesis",
@@ -7969,7 +8146,7 @@
                     {
                         "tag": "solar isotoma",
                         "name": "Solar Isotoma",
-                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-geo\">Geo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When this Summon is on the field</b>: Your character's <span class=\"tooltip-plunging attack\">Plunging Attack</span> spends 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>. (Once per Round)"
+                        "description": "<b class=\"tcg-bold\">End Phase</b>: Deal 1 <span class=\"tooltip-geo\">Geo DMG</span>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b><br /><b class=\"tcg-bold\">When you perform \"Switch Character\" and this Summon is on the field</b>: This switch is considered a <span class=\"tooltip-fast action\">Fast Action</span> rather than a <span class=\"tooltip-combat action\">Combat Action</span>. (Once per Round)"
                     }
                 ],
                 "splash": {
@@ -8037,7 +8214,7 @@
                 "subType": "Weapon",
                 "weaponType": "Bow",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: The character to which this is attached will spend 2 less Elemental Dice next time they use an Elemental Skill or equip a Talent card.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: The character to which this is attached will spend 2 less Elemental Dice next time they use an Elemental Skill or equip a Talent card.<br />(Only <b class=\"tcg-bold\">Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Teachings of the Forest: King's Squire",
                     "description": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow.<br />\"Remember, this whole world is but a dream of the forest... Please pass on the forest's language and the responsibility of protecting the King's land to future successors.\""
@@ -8196,7 +8373,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: When played: The character to which this is attached will spend 2 less Elemental Dice the next time they use an Elemental Skill or equip a Talent card.<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: When played: The character to which this is attached will spend 2 less Elemental Dice the next time they use an Elemental Skill or equip a Talent card.<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Stillwood Moonshadow: Moonpiercer",
                     "description": "\"Children fascinated by the moon will weep when they gaze upon it, for the moon has turned into fine sand and entered their eyes. In many stories, no tears are shed in vain.\""
@@ -8433,7 +8610,7 @@
                 "type": "Event",
                 "subType": "",
                 "cost": "",
-                "description": "Return an Artifact card equipped by your character to your Hand.<br />During this Round, the next time you play an Artifact card from your hand: Spend 2 less Elemental Dice.",
+                "description": "Return an Artifact card equipped by your character to your Hand.<br />During this Round, the next time you play an Artifact card from your hand: Spend 1 less Elemental Die. If you have not played any other Action Cards before playing this card, spend 2 less Elemental Dice.",
                 "splash": {
                     "title": "Lyresong",
                     "description": "\"The traditions of song and poetry, flowing onward in clear, moving melodies.\""
@@ -8770,7 +8947,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "3M",
-                "description": "For each point of \"Bonus DMG\" this card has, character deals +1 DMG.<br /><b class=\"tcg-bold\">End Phase</b>: This card gains 1 point of \"Bonus DMG.\" (Max 2 points)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "For each point of \"Bonus DMG\" this card has, character deals +1 DMG.<br /><b class=\"tcg-bold\">End Phase</b>: This card gains 1 point of \"Bonus DMG.\" (Max 2 points)<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Boundless Blessing: Lost Prayer to the Sacred Winds",
                     "description": "\"When flowers bloom, when leaves sway, that is me who sings the songs of freedom, of the winds.\""
@@ -8785,7 +8962,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When the character uses a <span class=\"tooltip-charged attack\">Charged Attack</span></b>: Spend 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>. (Can be triggered up to twice per Round)</b>: Deal +1 DMG. (Once per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When the character uses a <span class=\"tooltip-charged attack\">Charged Attack</span></b>: Spend 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>. (Can be triggered up to twice per Round)</b>: Deal +1 DMG. (Once per Round)<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Bygone Azure Teardrop: Tulaytullah's Remembrance",
                     "description": "\"In the end, all people, good or evil, will find themselves ground beneath the wheels of fate, and the sapphire city would fade, dissipating like tears beneath the scorching sun.\""
@@ -8800,7 +8977,7 @@
                 "subType": "Weapon",
                 "weaponType": "Claymore",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br /><b class=\"tcg-bold\">After this character takes DMG</b>: +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses an Elemental Skill</b>: +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br /><b class=\"tcg-bold\">After this character takes DMG</b>: +1 additional DMG dealt by character this Round the next time they deal DMG. (Once per Round)<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Desert Watch: Beacon of the Reed Sea",
                     "description": "\"On top of the ruins of the pool where the regalia of past executions of offenders was excavated, those who had lost the dream of the desert, yet were unwilling to give up their vast sea of sand gathered.<br />In the name of the Reed Sea that never existed, they connected with the dream that was promised to them...\""
@@ -8815,7 +8992,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After this character uses a Skill</b>: Until the end of this Round, +1 additional DMG provided by this card. (Up to +2 DMG total)<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After this character uses a Skill</b>: Until the end of this Round, +1 additional DMG provided by this card. (Up to +2 DMG total)<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Eagle Spear of Justice: Primordial Jade Winged-Spear",
                     "description": "\"The stone bird took to the unbound skies once forged. Into the heart of the ocean it dove, into the battlefield with the behemoth and the whale. Into the depths of the sea the behemoth sank, there to stay forever. Released from its thundering roars were the people of Liyue.\""
@@ -8830,7 +9007,7 @@
                 "subType": "Weapon",
                 "weaponType": "Sword",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses a Normal Attack</b>: Create 1 random basic Elemental Die. (Can be triggered up to twice per Round)<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After the character uses a Normal Attack</b>: Create 1 random basic Elemental Die. (Can be triggered up to twice per Round)<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Whitemoon Bristle: Light of Foliar Incision",
                     "description": "\"If you believe that he yet has the potential to reclaim his honor in the maze, then guide him to break off the pale branch...<br />Only then can the bright moon and the newborn stars grant him pure wisdom and help him shed his bitter memories and desires.\""
@@ -9011,7 +9188,7 @@
                 "name": "Falls and Fortune",
                 "type": "Event",
                 "subType": "",
-                "cost": "1M",
+                "cost": "",
                 "description": "<b class=\"tcg-bold\">Can only be played when you have at least 8 Elemental Dice remaining and your opponent has not ended their Round</b>: In this Round, both sides must spend 1 extra Elemental Die when switching characters.",
                 "splash": {
                     "title": "Falls and Fortune",
@@ -9175,7 +9352,7 @@
                 "subType": "Weapon",
                 "weaponType": "Sword",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When entering play</b>: When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type. (Once per Round)<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When entering play</b>: When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type. (Once per Round)<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Forest Sanctuary: Sapwood Blade",
                     "description": "\"...Even so, your stories and mine will leave their traces in the depths of the desert, like the footprints of the Forest Kind.\"<br />\"So shall past friendships peacefully sleep, like an Aranara transformed into a seed.\""
@@ -9397,7 +9574,7 @@
                 "subType": "Weapon",
                 "weaponType": "Catalyst",
                 "cost": "3M",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After this character takes DMG or is healed</b>: If this character has already been damaged or healed 2 times this Round, then this character's next attack this Round deals +2 additional DMG. (Once per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">After this character takes DMG or is healed</b>: If this character has already been damaged or healed 2 times this Round, then this character's next attack this Round deals +2 additional DMG. (Once per Round)<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Aeon Wave: Tome of the Eternal Flow",
                     "description": "\"...For if the harbinger of the apocalypse would indeed one day arrive, the flood would wash everything away.\"<br />\"The watchers would fight with both duty and joy in their our hearts, just as the goddess had found empathy for them in hers.\""
@@ -9445,7 +9622,7 @@
                 "name": "Lumenstone Adjuvant",
                 "type": "Equipment",
                 "subType": "Item",
-                "cost": "2M",
+                "cost": "3M",
                 "description": "<b class=\"tcg-bold\">After you play an Action Card</b>: If, while this card is on the field, you have already played 3 Action Cards this Round, draw 1 card and create 1 Omni Die. (Once per Round)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>",
                 "splash": {
                     "title": "Lumenstone Adjuvant",
@@ -9521,7 +9698,7 @@
                         "tag": "the winds secret ways",
                         "type": "Elemental Burst",
                         "name": "The Wind's Secret Ways",
-                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, summons 1 <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span>"
+                        "description": "Deals 1 <span class=\"tooltip-anemo\">Anemo DMG</span>, summons 1 <span class=\"tooltip-dazzling polyhedron\">Dazzling Polyhedron</span>."
                     },
                     {
                         "tag": "dazzling polyhedron",
@@ -9594,7 +9771,7 @@
                 "subType": "Weapon",
                 "weaponType": "Polearm",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">Character's Elemental Burst deals +2 DMG.</b><br /><b class=\"tcg-bold\">After your active character takes DMG or is healed</b>: Gain 1 <b class=\"tcg-bold\">Principle of Justice</b> point. If this card has already accumulated 3 such points, consume 3 points and grant this character 1 <span class=\"tooltip-energy\">Energy</span>.<br />(<b class=\"tcg-bold\">Only Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">Character's Elemental Burst deals +2 DMG.</b><br /><b class=\"tcg-bold\">After your active character takes DMG or is healed</b>: Gain 1 <b class=\"tcg-bold\">Principle of Justice</b> point. If this card has already accumulated 3 such points, consume 3 points and grant this character 1 <span class=\"tooltip-energy\">Energy</span>.<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Tip of the Spear: Rightful Reward",
                     "description": "\"That is how the world ought to operate, and how righteousness should be.\"<br />\"But when it comes to \"how things ought to be,\" it is always fiendishly difficult to get ideal results.\""
@@ -9698,7 +9875,7 @@
                         "tag": "undersea treasure",
                         "name": "Undersea Treasure",
                         "cost": "",
-                        "description": "Heals your active character for 1 HP and creates 1 basic Elemental Die."
+                        "description": "Create 1 random Basic Elemental Die and heal your active character for 1 HP. (Each character can receive healing from this effect once per Round)"
                     }
                 ],
                 "splash": {
@@ -9818,7 +9995,7 @@
                 "combatAction": true,
                 "character": "Yun Jin",
                 "cost": "3G 2N",
-                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Yun Jin</b>, equip this card.<br />After Yun Jin equips this card, immediately use <span class=\"tooltipHighlight-cliffbreakers banner\">Cliffbreaker's Banner</span>.<br />When Yun Jin, who has this card equipped, is on the field, and if you have no cards in your Hand, Flying Cloud Flag Formation will cause your Normal Attack to deal +2 additional DMG.<br />(You must have Yun Jin in your deck to add this card to your deck.)",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Yun Jin</b>, equip this card.<br />After Yun Jin equips this card, immediately use <span class=\"tooltipHighlight-cliffbreakers banner\">Cliffbreaker's Banner</span>.<br />When Yun Jin, who has this card equipped, is on the field, and you trigger <span class=\"tooltip-flying cloud flag formation\">Flying Cloud Flag Formation</span>: If you have no cards in your Hand, this skill deals +2 additional DMG.<br />(You must have Yun Jin in your deck to add this card to your deck.)",
                 "keywords": [
                     {
                         "tag": "cliffbreakers banner",
@@ -9858,7 +10035,7 @@
                     {
                         "tag": "burst scan",
                         "name": "Burst Scan",
-                        "description": "<b class=\"tcg-bold\">Before either side chooses their action</b>: If your side has Dendro Core or Bountiful Core, -1 to their <b class=\"tcg-bold\">Usage(s)</b>, and <span class=\"tooltip-discard\">Discard</span> the card at the top of your deck. After this, deal <span class=\"tooltip-dendro\">Dendro DMG</span> equal to the original Elemental Dice Cost of the card you Discard +1.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 3 stacks)"
+                        "description": "<b class=\"tcg-bold\">Before either side chooses their action</b>: If your side has Dendro Core or Bountiful Core, -1 to their <b class=\"tcg-bold\">Usage(s)</b>, and <span class=\"tooltip-discard\">Discard</span> the card at the top of your deck. After this, deal <span class=\"tooltip-dendro\">Dendro DMG</span> equal to the original Elemental Dice Cost of the card you <b class=\"tcg-bold\">Discarded</b>.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack. Max 3 stacks)"
                     }
                 ],
                 "splash": {
@@ -9882,7 +10059,7 @@
                         "tag": "starfall shower",
                         "name": "Starfall Shower",
                         "type": "Elemental Skill",
-                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. This character deals +1 DMG for every 3 extra max HP provided by <span class=\"tooltip-insatiable appetite\">Insatiable Appetite</span> (Max +5.) After this, <span class=\"tooltip-discard\">Discard</span> 1 card with the highest original Elemental Dice Cost in your Hand."
+                        "description": "Deals 2 <span class=\"tooltip-hydro\">Hydro DMG</span>. This character deals +1 DMG for every 3 additional max HP provided by <b class=\"tcg-bold\">Insatiable Appetite</b> (Max +4.) After this, <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand with the highest original Elemental Dice Cost."
                     },
                     {
                         "tag": "insatiable appetite",
@@ -9915,7 +10092,7 @@
                     {
                         "tag": "bonecrunchers energy block",
                         "name": "Bonecruncher's Energy Block",
-                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand with the highest original Cost and create 1 Elemental Die of your active character's Element. (Only 1 such card can be played per Round)"
                     }
                 ],
                 "splash": {
@@ -9937,7 +10114,7 @@
                     {
                         "tag": "bonecrunchers energy block",
                         "name": "Bonecruncher's Energy Block",
-                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand whose original Elemental Dice Cost is the highest and create 1 Elemental Die of the same Type as your active character. If your active character is a Consecrated Beast, then they gain 1 <span class=\"tooltip-energy\">Energy</span>. (Can play 1 such card per Round)"
+                        "description": "Randomly <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand with the highest original Cost and create 1 Elemental Die of your active character's Element. (Only 1 such card can be played per Round)"
                     }
                 ],
                 "splash": {
@@ -9980,7 +10157,7 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">After this character takes DMG or is healed</b>: This character's next <b class=\"tcg-bold\">Normal Attack</b> costs 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span> and deals +1 DMG. (Max 2 times per Round)<br />(<b class=\"tcg-bold\">Only Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">After this character takes DMG or is healed</b>: This character's next <b class=\"tcg-bold\">Normal Attack</b> costs 1 less <span class=\"tooltip-unaligned element\">Unaligned Element</span> and deals +1 DMG. (Max 2 times per Round)<br />(Only <b class=\"tcg-bold\">Catalyst Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Golden Blood-Tide: Cashflow Supervision",
                     "description": "\"The overseer made of precision machinery rumbles as it observes the monetary flow of the tiny nation,<br />Tirelessly recording the movement of every amount of money, the savings and spending of all,<br />The changes in value, and the number of times each piece of currency is circulated over a specific period.\""
@@ -9994,7 +10171,7 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">After you play an Action Card and no cards of the same name were in your initial deck</b>: This card gains 1 <b class=\"tcg-bold\">Catch</b> point. (Max 2 stacks, up to 2 stacks gained per Round)<br /><b class=\"tcg-bold\">When a character uses a Skill</b>: If there are <b class=\"tcg-bold\">Catch</b> points already, consume all points for this Skill to deal +1 DMG, then draw 1 card for each point consumed.<br />(<b class=\"tcg-bold\">Only Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">After you play an Action Card and no cards of the same name were in your initial deck</b>: This card gains 1 <b class=\"tcg-bold\">Catch</b> point. (Max 2 stacks, up to 2 stacks gained per Round)<br /><b class=\"tcg-bold\">When a character uses a Skill</b>: If there are <b class=\"tcg-bold\">Catch</b> points already, consume all points for this Skill to deal +1 DMG, then draw 1 card for each point consumed.<br />(Only <b class=\"tcg-bold\">Bow Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Net Snapper: End of the Line",
                     "description": "\"...The fish that once shot forth like an arrow across a huge lake on the plateau,<br />That would stretch out as straight as a spear, cruising back and forth between the sacred sites,<br />Would see its stream seep into the sand, its lake shrink into a puddle,<br />Till at last, it wound up curled in a little plash, at the mercy of passing pilgrims.\""
@@ -10008,7 +10185,7 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "3U",
-                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type.<br />(<b class=\"tcg-bold\">Only Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">The character deals +1 DMG</b>.<br /><b class=\"tcg-bold\">When played</b>: When the character to which this is attached next uses a Normal Attack during this Round: Create 2 Elemental Dice of this character's Elemental Type.<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Forest Sanctuary: Forest Regalia",
                     "description": "\"...Then the current changed and the moon's reflection was scattered. Much has changed, and yet, much will now remain unchanged forevermore.<br />But even if you, like me, have never met a king, you would still get the impression that Tiger was a noble and powerful king of the forest.\""
@@ -10022,7 +10199,7 @@
                 "type": "Equipment",
                 "subType": "Weapon",
                 "cost": "2M",
-                "description": "<b class=\"tcg-bold\">After your characters take DMG or are healed</b>: This card gains 1 <b class=\"tcg-bold\">Lakelight</b> point.<br /><b class=\"tcg-bold\">When this character uses a Normal Attack</b>: If you have already accumulated 12 <b class=\"tcg-bold\">Lakelight</b> points, consume 12 points, and this Skill costs 2 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>, deals +1 DMG, and heals the equipping character for 1 HP (once per Round).<br />(<b class=\"tcg-bold\">Only Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "description": "<b class=\"tcg-bold\">After your characters take DMG or are healed</b>: This card gains 1 <b class=\"tcg-bold\">Lakelight</b> point.<br /><b class=\"tcg-bold\">When this character uses a Normal Attack</b>: If you have already accumulated 12 <b class=\"tcg-bold\">Lakelight</b> points, consume 12 points, and this Skill costs 2 less <span class=\"tooltip-unaligned element\">Unaligned Element</span>, deals +1 DMG, and heals the equipping character for 1 HP (once per Round).<br />(Only <b class=\"tcg-bold\">Sword Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
                 "splash": {
                     "title": "Dawn and Dusk by the Lake: Splendor of Tranquil Waters",
                     "description": "\"...On a morning clear as the light reflected on the lake, the Mistress of Many Waters was moved by that pained plea.<br />And so the kindly goddess granted her wish and gave her blessing to the journey ahead.<br />For the Mistress of Many Waters knew that a fair judgment was the greatest leniency one could give a selfless soul.<br />And perhaps that is why that noble verdict dyed fate in its colors.\""
@@ -10127,7 +10304,7 @@
                 "name": "Kusava",
                 "type": "Support",
                 "subType": "Item",
-                "cost": "",
+                "cost": "1M",
                 "description": "<b class=\"tcg-bold\">When Action Phase begins</b>: <span class=\"tooltip-discard\">Discard</span> a maximum of 2 cards with the highest Elemental Dice Cost in your Hand. For each card you <b class=\"tcg-bold\">Discard</b>, this card accumulates 1 <b class=\"tcg-bold\">Memories and Dreams</b> point (maximum of 2).<br /><b class=\"tcg-bold\">When your character uses a Skill</b>: If you haven't played an Action Card this round, consume 1 <b class=\"tcg-bold\">Memories and Dreams</b> point, and this Skill costs 1 less Elemental Die.",
                 "splash": {
                     "title": "Kusava",
@@ -10178,6 +10355,183 @@
                 },
                 "release": {
                     "version": "4.7"
+                }
+            },
+            {
+                "name": "Vanguard's Coordinated Tactics",
+                "type": "Equipment",
+                "subType": "Talent",
+                "character": "Chevreuse",
+                "cost": "2P",
+                "description": "<b class=\"tcg-bold\">You can only play this card if your party consists of only <b class=\"text-pyro\">Pyro</b> and <b class=\"text-electro\">Electro</b> characters</b>: Equip this card to <b class=\"tcg-bold\">Chevreuse</b>.<br />When <b class=\"tcg-bold\">Chevreuse</b>, who has this card equipped, is in play, and after opposing characters take Overloaded reaction DMG: Your next 2 instances of <span class=\"tooltip-pyro\">Pyro DMG</span> DMG or <span class=\"tooltip-electro\">Electro DMG</span> DMG dealt +1. (Including <span class=\"tooltip-pyro\">Pyro DMG</span> DMG or <span class=\"tooltip-electro\">Electro DMG</span> DMG dealt through Swirl reactions)<br />(You must have Chevreuse in your deck to add this card to your deck)",
+                "splash": {
+                    "title": "Chevreuse: Vanguard's Coordinated Tactics",
+                    "description": "The Special Security and Surveillance Patrol deals with a whole host of heinous crimes and dangerous criminals. As such, the methods we employ to enforce the law can be a bit on the... harsher side.\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Undisclosed Distribution Channels",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Navia",
+                "cost": "3G",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: When your active character is <b class=\"tcg-bold\">Navia</b>, equip this card.<br />After Navia equips this card, immediately use <span class=\"tooltipHighlight-ceremonial crystalshot\">Ceremonial Crystalshot</span> once.<br />When your Navia, who has this card equipped, uses a Skill: Draw 2 <span class=\"tooltip-crystal shrapnel\">Crystal Shrapnel</span> cards. (Once per Round)<br />(You must have Navia in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "ceremonial crystalshot",
+                        "type": "Elemental Skill",
+                        "name": "Ceremonial Crystalshot",
+                        "description": "Deals 3 <span class=\"tooltip-geo\">Geo DMG</span>, attaches <span class=\"tooltip-geo infusion\">Geo Infusion</span> to this character. <span class=\"tooltip-discard\">Discard</span> up to 5 <span class=\"tooltip-crystal shrapnel\">Crystal Shrapnel</span> from your Hand. Each card you <b class=\"tcg-bold\">Discard</b> causes this to deal +1 DMG, and you draw 1 card."
+                    },
+                    {
+                        "tag": "crystal shrapnel",
+                        "name": "Crystal Shrapnel",
+                        "description": "Deal 1 <span class=\"tooltip-physical\">Physical DMG</span> to the opponent's active character and draw 1 card."
+                    },
+                    {
+                        "tag": "geo infusion",
+                        "name": "Geo Infusion",
+                        "description": "The character to which this is attached has their <span class=\"tooltip-physical\">Physical DMG</span> dealt converted into <span class=\"tooltip-geo\">Geo DMG</span>.<br /><span class=\"tooltip-duration\">Duration (Rounds)</span>: <b class=\"tcg-bold\">2</b>"
+                    }
+                ],
+                "splash": {
+                    "title": "Navia: Undisclosed Distribution Channels",
+                    "description": "\"Where'd that come from!?\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Rimeflow Rapier",
+                "type": "Equipment",
+                "subType": "Talent",
+                "combatAction": true,
+                "character": "Frost Operative",
+                "cost": "3C",
+                "description": "<span class=\"tooltip-combat action\">Combat Action</span>: Equip this card when your active character is <b class=\"tcg-bold\">Frost Operative</b>.<br />After equipping this card, immediately use <span class=\"tooltipHighlight-frosty interjection\">Frosty Interjection</span> once.<br />After your <b class=\"tcg-bold\">Frost Operative</b>, who has this card equipped, triggers <span class=\"tooltip-blood bonded shadow\">Blood-Bonded Shadow</span>: Causes the <span class=\"tooltip-bond of life\">Bond of Life</span> stacks the opponent's active character has to double.<br />(You must have Frost Operative in your deck to add this card to your deck.)",
+                "keywords": [
+                    {
+                        "tag": "frosty interjection",
+                        "type": "Elemental Skill",
+                        "name": "Frosty Interjection",
+                        "description": "Deals 3 <span class=\"tooltip-cryo\">Cryo DMG</span>."
+                    },
+                    {
+                        "tag": "blood bonded shadow",
+                        "type": "Passive",
+                        "name": "Blood-Bonded Shadow",
+                        "description": "(Passive) <b class=\"tcg-bold\">After this character uses a Skill</b>: Attach <span class=\"tooltip-bond of life\">Bond of Life</span> to the opponent's active character with <b class=\"tcg-bold\">Usage(s)</b> equal to (this Skill's finalized DMG total -2). (Max 5 stacks)"
+                    },
+                    {
+                        "tag": "bond of life",
+                        "name": "Bond of Life",
+                        "description": "<b class=\"tcg-bold\">When the character to which this is attached is healed</b>: This effect will be consumed once for every Usage(s) it has to negate 1 HP of healing received. (Cannot negate revivals, increases in Max HP, and healing caused by redistribution of HP)<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">1</b> (Can stack, no stack limit)."
+                    }
+                ],
+                "splash": {
+                    "title": "Frost Operative: Rimeflow Rapier",
+                    "description": "\"Forgive my prior inconsideration.\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Ultimate Overlord's Mega Magic Sword",
+                "displayName": "\"Ultimate Overlord's Mega Magic Sword\"",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "This card will record the number of Action Cards with different names you have played in this match whose names are not in your original deck for said match, with each type granting 1 <b class=\"tcg-bold\">Support</b>.<br />If this card's <b class=\"tcg-bold\">Support</b> value is at least 2/4/8, then the <b class=\"tcg-bold\">Character will deal +1/2/3 DMG</b>.<br />(Only <b class=\"tcg-bold\">Claymore Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Melussistance! \"Ultimate Overlord's Mega Magic Sword\"",
+                    "description": "\"... Uh, what? A cheap cardboard claymore? No, no, no, this is... Well, it's... the Ultimate Overlord's Mega Magic Sword, once used to triumph over the Crab Emperor!\"<br />After some discussion, the Melusines reached a consensus. This, the mightiest sword in Merusea Village, that had shone so illustriously in the shadowed mists of the past, should be given to an unparalleled hero, as a memorial to their friendship."
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Prospector's Drill",
+                "type": "Equipment",
+                "subType": "Weapon",
+                "cost": "2M",
+                "description": "<b class=\"tcg-bold\">When the character to which this is attached takes DMG</b>: If possible, <span class=\"tooltip-discard\">Discard</span> 1 card from your Hand with the highest original Elemental Dice cost to negate 1 damage, and then gain 1 <b class=\"tcg-bold\">Solidarity</b> point. (Max twice per Round)<br /><b class=\"tcg-bold\">When a character uses a Skill</b>: If there are <b class=\"tcg-bold\">Solidarity</b> points already, consume all points for this Skill to deal +1 DMG, then draw 1 card for each point consumed.<br />(Only <b class=\"tcg-bold\">Polearm Characters</b> can equip this. A character can equip a maximum of 1 Weapon.)",
+                "splash": {
+                    "title": "Masons' Ditty: Prospector's Drill",
+                    "description": "\"The tool's piercing and cutting power were unmatched.<br />Since it could pierce through even rocks like a hot knife through butter,\nIt made quick work out of penetrating through even softer materials.\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Gladiator's Triumphus",
+                "type": "Equipment",
+                "subType": "Artifact",
+                "cost": "",
+                "description": "<b class=\"tcg-bold\">When the character uses a Normal Attack</b>: Spend 1 less Elemental Die if you have no more than 2 cards in your Hand. (Once per Round)<br />(A character can equip a maximum of 1 Artifact.)",
+                "splash": {
+                    "title": "Unbeaten: Gladiator's Triumphus",
+                    "description": "\"Only in moments of victory could the slave have a taste of what it felt like to be a master. But the cost of this vain aspiration was for the faint glow of freedom to be shrouded by darkness.<br />On the day of his triumph, the gladiator finally caught a glimpse of the world outside his cell. He was a step closer to freedom.\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Serene",
+                "type": "Support",
+                "subType": "Companion",
+                "cost": "2U",
+                "description": "<b class=\"tcg-bold\">Triggers automatically once per Round</b>: 1 random <span class=\"tooltip-melusine support\">Melusine Support</span> is added to your Hand.<br /><span class=\"tooltip-usages\">Usage(s)</span>: <b class=\"tcg-bold\">3</b>",
+                "keywords": [
+                    {
+                        "tag": "melusine support",
+                        "name": "Melusine Support",
+                        "description": "A super sticker with random effects that embody the goodwill of all Melusine-kind."
+                    }
+                ],
+                "splash": {
+                    "title": "Serene",
+                    "description": "\"We're going to solve everyone's troubles today, too!\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "I'd Rather Lose Money Myself...",
+                "displayName": "\"I'd Rather Lose Money Myself...\"",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "Each time your opponent gains 2 Elemental Dice during this Round, you gain 1 <span class=\"tooltip-omni element\">Omni Element</span>. (Elemental Die provided by this effect are excluded)",
+                "splash": {
+                    "title": "\"I'd Rather Lose Money Myself...\"",
+                    "description": "\"...than see that rascal make some!\""
+                },
+                "release": {
+                    "version": "4.8"
+                }
+            },
+            {
+                "name": "Tada!",
+                "type": "Event",
+                "subType": "",
+                "cost": "",
+                "description": "Deal 1 <span class=\"tooltip-physical\">Physical DMG</span> to your active character. Draw 1 card during the End Phase of this Round.",
+                "splash": {
+                    "title": "Tada!",
+                    "description": "\"Surprise.\""
+                },
+                "release": {
+                    "version": "4.8"
                 }
             }
         ]

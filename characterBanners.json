@@ -808,5 +808,19 @@
                 "Rosaria"
             ]
         }
+    },
+    {
+        "version": "4.8",
+        "phase1": {
+            "startDate": "July 17, 2024",
+            "endDate": "August 6, 2024",
+            "banner": [
+                "Navia",
+                "Nilou",
+                "Kaveh",
+                "Kirara",
+                "Ningguang"
+            ]
+        }
     }
 ]
