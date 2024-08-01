@@ -970,6 +970,19 @@
                 "Eye of Perception",
                 "The Bell"
             ]
+        },
+        "phase2": {
+            "startDate": "August 6, 2024",
+            "endDate": "August 27, 2024",
+            "banner": [
+                "Lumidouce Elegy",
+                "Elegy for the End",
+                "Favonius Warbow",
+                "The Flute",
+                "Favonius Lance",
+                "Wandering Evenstar",
+                "Makhaira Aquamarine"
+            ]
         }
     }
 ]

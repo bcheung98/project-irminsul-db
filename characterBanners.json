@@ -821,6 +821,17 @@
                 "Kirara",
                 "Ningguang"
             ]
+        },
+        "phase2": {
+            "startDate": "August 6, 2024",
+            "endDate": "August 27, 2024",
+            "banner": [
+                "Emilie",
+                "Yelan",
+                "Razor",
+                "Xiangling",
+                "Yanfei"
+            ]
         }
     }
 ]
